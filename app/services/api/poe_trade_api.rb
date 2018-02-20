@@ -1,5 +1,6 @@
 class PoeTradeApi
   # Constants
+  RATE_LIMIT_STATUS = 429.freeze
   POE_TRADE_BASE_URL = 'https://www.pathofexile.com'.freeze
   POE_TRADE_QUERY_URL = '/api/trade/search'.freeze
   POE_TRADE_FETCH_URL = '/api/trade/fetch'.freeze
@@ -20,7 +21,9 @@ class PoeTradeApi
       req.body = {query: query, sort: DEFAULT_QUERY_SORT}.to_json
     end
 
-    JSON.parse(response.body)
+    handle_response_or_retry(response) do
+      query(query)
+    end
   end
 
   def fetch_items(item_ids, query)
@@ -30,10 +33,25 @@ class PoeTradeApi
       req.headers['X-Real-IP'] = @origin_ip if @origin_ip.present?
     end
 
-    JSON.parse(response.body)
+    handle_response_or_retry(response) do
+      fetch_items(item_ids, query)
+    end
   end
 
   private
+
+  def handle_response_or_retry(response)
+    return JSON.parse(response.body) unless response.status == RATE_LIMIT_STATUS
+
+    limit_duration = [
+      response.headers['X-Rate-Limit-Ip-State'].split(':').last.to_i,
+      response.headers['X-Rate-Limit-Account-State'] ? response.headers['X-Rate-Limit-Account-State'].split(':').last.to_i : 0
+    ].max
+
+    sleep(limit_duration + 1)
+
+    yield
+  end
 
   def hydrated_fetch_url(item_ids, query)
     item_ids = item_ids.join(',') if item_ids.is_a? Array
