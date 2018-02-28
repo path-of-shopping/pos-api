@@ -17,9 +17,7 @@ ActiveRecord::Schema.define(version: 20180219170140) do
 
   create_table "searches", force: :cascade do |t|
     t.string "key"
-    t.string "poe_id"
     t.string "query_json"
-    t.string "league"
     t.datetime "saw_at"
     t.datetime "created_at"
     t.index ["key"], name: "index_searches_on_key"

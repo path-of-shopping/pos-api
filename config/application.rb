@@ -14,6 +14,7 @@ module PathOfShoppingWebApi
     # Additional autoloaded paths
     config.autoload_paths += %W(
       #{config.root}/app/services/api
+      #{config.root}/app/services/extractors
     )
   end
 end
