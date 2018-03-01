@@ -23,7 +23,7 @@ class ItemExtractor
             accountName: item['account']['name'],
             characterName: item['account']['lastCharacterName'],
         },
-        item: parse_item(item['item'])
+        data: parse_item(item['item'])
     }
   end
 

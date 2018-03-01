@@ -13,8 +13,6 @@ class PoeTradeApi
   end
 
   def query(query)
-    puts query
-    puts convert_query(query)
     response = @faraday.post do |req|
       req.url "#{POE_TRADE_QUERY_URL}/#{query['league']}"
       req.headers['Content-Type'] = 'application/json'
