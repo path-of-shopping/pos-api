@@ -28,7 +28,7 @@ module OfficialPoeTrade
       end
 
       parsed_response = JSON.parse(response.body)
-      return parsed_response['results'], parsed_response['total']
+      return parsed_response['result'], parsed_response['total']
     end
 
     def fetch_items(item_ids, query)

@@ -27,21 +27,21 @@ module OfficialPoeTrade
       if @query['weapon'].present?
         poe_query['filters']['weapon_filters'] = {}
         poe_query['filters']['weapon_filters']['filters'] = {}
-        poe_query['filters']['weapon_filters']['filters']['damage'] = convert_min_max(query['weapon']['damage']) if @query['weapon']['damage'].present?
-        poe_query['filters']['weapon_filters']['filters']['crit'] = convert_min_max(query['weapon']['critical']) if @query['weapon']['critical'].present?
-        poe_query['filters']['weapon_filters']['filters']['pdps'] = convert_min_max(query['weapon']['pdps']) if @query['weapon']['pdps'].present?
-        poe_query['filters']['weapon_filters']['filters']['aps'] = convert_min_max(query['weapon']['aps']) if @query['weapon']['aps'].present?
-        poe_query['filters']['weapon_filters']['filters']['dps'] = convert_min_max(query['weapon']['dps']) if @query['weapon']['dps'].present?
-        poe_query['filters']['weapon_filters']['filters']['edps'] = convert_min_max(query['weapon']['edps']) if @query['weapon']['edps'].present?
+        poe_query['filters']['weapon_filters']['filters']['damage'] = convert_min_max(@query['weapon']['damage']) if @query['weapon']['damage'].present?
+        poe_query['filters']['weapon_filters']['filters']['crit'] = convert_min_max(@query['weapon']['critical']) if @query['weapon']['critical'].present?
+        poe_query['filters']['weapon_filters']['filters']['pdps'] = convert_min_max(@query['weapon']['pdps']) if @query['weapon']['pdps'].present?
+        poe_query['filters']['weapon_filters']['filters']['aps'] = convert_min_max(@query['weapon']['aps']) if @query['weapon']['aps'].present?
+        poe_query['filters']['weapon_filters']['filters']['dps'] = convert_min_max(@query['weapon']['dps']) if @query['weapon']['dps'].present?
+        poe_query['filters']['weapon_filters']['filters']['edps'] = convert_min_max(@query['weapon']['edps']) if @query['weapon']['edps'].present?
       end
 
       if @query['armour'].present?
         poe_query['filters']['armour_filters'] = {}
         poe_query['filters']['armour_filters']['filters'] = {}
-        poe_query['filters']['armour_filters']['filters']['ar'] = convert_min_max(query['armour']['armour']) if @query['armour']['armour'].present?
-        poe_query['filters']['armour_filters']['filters']['es'] = convert_min_max(query['armour']['energy']) if @query['armour']['energy'].present?
-        poe_query['filters']['armour_filters']['filters']['ev'] = convert_min_max(query['armour']['evasion']) if @query['armour']['evasion'].present?
-        poe_query['filters']['armour_filters']['filters']['block'] = convert_min_max(query['armour']['block']) if @query['armour']['block'].present?
+        poe_query['filters']['armour_filters']['filters']['ar'] = convert_min_max(@query['armour']['armour']) if @query['armour']['armour'].present?
+        poe_query['filters']['armour_filters']['filters']['es'] = convert_min_max(@query['armour']['energy']) if @query['armour']['energy'].present?
+        poe_query['filters']['armour_filters']['filters']['ev'] = convert_min_max(@query['armour']['evasion']) if @query['armour']['evasion'].present?
+        poe_query['filters']['armour_filters']['filters']['block'] = convert_min_max(@query['armour']['block']) if @query['armour']['block'].present?
       end
 
       if @query['socket'].present? && @query['socket']['sockets'].present?
@@ -67,19 +67,19 @@ module OfficialPoeTrade
       if @query['requirement'].present?
         poe_query['filters']['req_filters'] = {}
         poe_query['filters']['req_filters']['filters'] = {}
-        poe_query['filters']['req_filters']['filters']['lvl'] = convert_min_max(query['requirement']['level']) if @query['requirement']['level'].present?
-        poe_query['filters']['req_filters']['filters']['str'] = convert_min_max(query['requirement']['strength']) if @query['requirement']['strength'].present?
-        poe_query['filters']['req_filters']['filters']['dex'] = convert_min_max(query['requirement']['dexterity']) if @query['requirement']['dexterity'].present?
-        poe_query['filters']['req_filters']['filters']['int'] = convert_min_max(query['requirement']['intelligence']) if @query['requirement']['intelligence'].present?
+        poe_query['filters']['req_filters']['filters']['lvl'] = convert_min_max(@query['requirement']['level']) if @query['requirement']['level'].present?
+        poe_query['filters']['req_filters']['filters']['str'] = convert_min_max(@query['requirement']['strength']) if @query['requirement']['strength'].present?
+        poe_query['filters']['req_filters']['filters']['dex'] = convert_min_max(@query['requirement']['dexterity']) if @query['requirement']['dexterity'].present?
+        poe_query['filters']['req_filters']['filters']['int'] = convert_min_max(@query['requirement']['intelligence']) if @query['requirement']['intelligence'].present?
       end
 
       if @query['map'].present?
         poe_query['filters']['map_filters'] = {}
         poe_query['filters']['map_filters']['filters'] = {}
-        poe_query['filters']['map_filters']['filters']['map_tier'] = convert_min_max(query['map']['tier']) if @query['map']['tier'].present?
-        poe_query['filters']['map_filters']['filters']['map_packsize'] = convert_min_max(query['map']['packSize']) if @query['map']['packSize'].present?
-        poe_query['filters']['map_filters']['filters']['map_iiq'] = convert_min_max(query['map']['iiq']) if @query['map']['iiq'].present?
-        poe_query['filters']['map_filters']['filters']['map_iir'] = convert_min_max(query['map']['iir']) if @query['map']['iir'].present?
+        poe_query['filters']['map_filters']['filters']['map_tier'] = convert_min_max(@query['map']['tier']) if @query['map']['tier'].present?
+        poe_query['filters']['map_filters']['filters']['map_packsize'] = convert_min_max(@query['map']['packSize']) if @query['map']['packSize'].present?
+        poe_query['filters']['map_filters']['filters']['map_iiq'] = convert_min_max(@query['map']['iiq']) if @query['map']['iiq'].present?
+        poe_query['filters']['map_filters']['filters']['map_iir'] = convert_min_max(@query['map']['iir']) if @query['map']['iir'].present?
         poe_query['filters']['map_filters']['filters']['map_series'] = {option: @query['map']['series']} if @query['map']['series'].present?
         poe_query['filters']['map_filters']['filters']['map_shaped'] = {option: @query['map']['shaped'] == '1' ? 'true' : 'false'} if @query['map']['shaped'].present?
       end
@@ -87,10 +87,10 @@ module OfficialPoeTrade
       if @query['miscellaneous'].present?
         poe_query['filters']['misc_filters'] = {}
         poe_query['filters']['misc_filters']['filters'] = {}
-        poe_query['filters']['misc_filters']['filters']['quality'] = convert_min_max(query['miscellaneous']['quality']) if @query['miscellaneous']['quality'].present?
-        poe_query['filters']['misc_filters']['filters']['ilvl'] = convert_min_max(query['miscellaneous']['itemLevel']) if @query['miscellaneous']['itemLevel'].present?
-        poe_query['filters']['misc_filters']['filters']['gem_level'] = convert_min_max(query['miscellaneous']['gemLevel']) if @query['miscellaneous']['gemLevel'].present?
-        poe_query['filters']['misc_filters']['filters']['talisman_tier'] = convert_min_max(query['miscellaneous']['talismanTier']) if @query['miscellaneous']['talismanTier'].present?
+        poe_query['filters']['misc_filters']['filters']['quality'] = convert_min_max(@query['miscellaneous']['quality']) if @query['miscellaneous']['quality'].present?
+        poe_query['filters']['misc_filters']['filters']['ilvl'] = convert_min_max(@query['miscellaneous']['itemLevel']) if @query['miscellaneous']['itemLevel'].present?
+        poe_query['filters']['misc_filters']['filters']['gem_level'] = convert_min_max(@query['miscellaneous']['gemLevel']) if @query['miscellaneous']['gemLevel'].present?
+        poe_query['filters']['misc_filters']['filters']['talisman_tier'] = convert_min_max(@query['miscellaneous']['talismanTier']) if @query['miscellaneous']['talismanTier'].present?
         poe_query['filters']['misc_filters']['filters']['shaper_item'] = {option: @query['miscellaneous']['shaperItem'] == '1' ? 'true' : 'false'} if @query['miscellaneous']['shaperItem'].present?
         poe_query['filters']['misc_filters']['filters']['elder_item'] = {option: @query['miscellaneous']['elderItem'] == '1' ? 'true' : 'false'} if @query['miscellaneous']['elderItem'].present?
         poe_query['filters']['misc_filters']['filters']['alternate_item'] = {option: @query['miscellaneous']['alternateArt'] == '1' ? 'true' : 'false'} if @query['miscellaneous']['alternateArt'].present?

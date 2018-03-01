@@ -53,6 +53,6 @@ private
   end
 
   def initialize_poe_trade_api
-    @poe_trade = OfficialPoeTrade.TradeApi.new(request.remote_ip)
+    @poe_trade = OfficialPoeTrade::TradeApi.new(request.remote_ip)
   end
 end
