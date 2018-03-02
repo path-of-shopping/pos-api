@@ -13,7 +13,7 @@ module OfficialPoeTrade
         req.url CURRENCIES_JSON_URI
       end
 
-      JSON.parse(response.body)['result']['currency']
+      JSON.parse(response.body)['result']['currency'].map { |raw_currency| {id: raw_currency['id'], name: raw_currency['text'], image: raw_currency['image']} }
     end
   end
 end
