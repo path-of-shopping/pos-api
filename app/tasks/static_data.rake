@@ -11,6 +11,9 @@ namespace :static_data do
     puts 'Updating currencies...'
     File.open('./app/constants/currencies.yml', 'w') { |file| file.write(OfficialPoeTrade::CurrenciesFetcher.new.fetch.to_yaml) }
 
+    puts 'Updating items...'
+    File.open('./app/constants/items.yml', 'w') { |file| file.write(OfficialPoeTrade::ItemsFetcher.new.fetch.to_yaml) }
+
     puts 'Done !'
   end
 end

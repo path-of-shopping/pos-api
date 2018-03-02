@@ -1,0 +1,9016 @@
+---
+- :name: Abberath's Horn
+  :type: Goat's Horn
+  :isUnique: true
+- :name: Advancing Fortress
+  :type: Gut Ripper
+  :isUnique: true
+- :name: Agnerod
+  :type: Imperial Staff
+  :isUnique: true
+- :name: Agnerod East
+  :type: Imperial Staff
+  :isUnique: true
+- :name: Agnerod North
+  :type: Imperial Staff
+  :isUnique: true
+- :name: Agnerod South
+  :type: Imperial Staff
+  :isUnique: true
+- :name: Agnerod West
+  :type: Imperial Staff
+  :isUnique: true
+- :name: 
+  :type: Vaal Sceptre
+  :isUnique: false
+- :name: Ahn's Might
+  :type: Midnight Blade
+  :isUnique: true
+- :name: Al Dhih
+  :type: Timeworn Claw
+  :isUnique: true
+- :name: Allure
+  :type: Vaal Claw
+  :isUnique: true
+- :name: Amplification Rod
+  :type: Spiraled Wand
+  :isUnique: true
+- :name: Apep's Rage
+  :type: Opal Wand
+  :isUnique: true
+- :name: 
+  :type: Meatgrinder
+  :isUnique: false
+- :name: Arakaali's Fang
+  :type: Fiend Dagger
+  :isUnique: true
+- :name: Arborix
+  :type: Assassin Bow
+  :isUnique: true
+- :name: 
+  :type: Short Bow
+  :isUnique: false
+- :name: 
+  :type: Gladius
+  :isUnique: false
+- :name: Ashcaller
+  :type: Quartz Wand
+  :isUnique: true
+- :name: Atziri's Disfavour
+  :type: Vaal Axe
+  :isUnique: true
+- :name: Augyre
+  :type: Void Sceptre
+  :isUnique: true
+- :name: Aurumvorax
+  :type: Basket Rapier
+  :isUnique: true
+- :name: Axiom Perpetuum
+  :type: Bronze Sceptre
+  :isUnique: true
+- :name: Balefire
+  :type: Opal Sceptre
+  :isUnique: true
+- :name: 
+  :type: Infernal Sword
+  :isUnique: false
+- :name: Beltimber Blade
+  :type: Eternal Sword
+  :isUnique: true
+- :name: Bino's Kitchen Knife
+  :type: Slaughter Knife
+  :isUnique: true
+- :name: Bitterdream
+  :type: Shadow Sceptre
+  :isUnique: true
+- :name: Bloodplay
+  :type: Stiletto
+  :isUnique: true
+- :name: Bloodseeker
+  :type: Hellion's Paw
+  :isUnique: true
+- :name: Brain Rattler
+  :type: Meatgrinder
+  :isUnique: true
+- :name: Breath of the Council
+  :type: Carnal Sceptre
+  :isUnique: true
+- :name: 
+  :type: Ranger Bow
+  :isUnique: false
+- :name: Brightbeak
+  :type: War Hammer
+  :isUnique: true
+- :name: Brutus' Lead Sprinkler
+  :type: Ritual Sceptre
+  :isUnique: true
+- :name: Callinellus Malleus
+  :type: Auric Mace
+  :isUnique: true
+- :name: Cameria's Maul
+  :type: Gavel
+  :isUnique: true
+- :name: Cane of Unravelling
+  :type: Ezomyte Staff
+  :isUnique: true
+- :name: Chin Sol
+  :type: Assassin Bow
+  :isUnique: true
+- :name: Chitus' Needle
+  :type: Elegant Foil
+  :isUnique: true
+- :name: Chober Chaber
+  :type: Great Mallet
+  :isUnique: true
+- :name: Clayshaper
+  :type: Rock Breaker
+  :isUnique: true
+- :name: Cospri's Malice
+  :type: Jewelled Foil
+  :isUnique: true
+- :name: Cybil's Paw
+  :type: Thresher Claw
+  :isUnique: true
+- :name: Daresso's Passion
+  :type: Estoc
+  :isUnique: true
+- :name: Darkscorn
+  :type: Assassin Bow
+  :isUnique: true
+- :name: Death's Hand
+  :type: Karui Sceptre
+  :isUnique: true
+- :name: Death's Harp
+  :type: Death Bow
+  :isUnique: true
+- :name: Death's Opus
+  :type: Death Bow
+  :isUnique: true
+- :name: Debeon's Dirge
+  :type: Despot Axe
+  :isUnique: true
+- :name: Divinarius
+  :type: Imperial Skean
+  :isUnique: true
+- :name: Doomfletch
+  :type: Royal Bow
+  :isUnique: true
+- :name: Doomfletch's Prism
+  :type: Royal Bow
+  :isUnique: true
+- :name: Doomsower
+  :type: Lion Sword
+  :isUnique: true
+- :name: Doon Cuebiyari
+  :type: Vaal Sceptre
+  :isUnique: true
+- :name: Doryani's Catalyst
+  :type: Vaal Sceptre
+  :isUnique: true
+- :name: Dreadarc
+  :type: Cleaver
+  :isUnique: true
+- :name: Dreamfeather
+  :type: Eternal Sword
+  :isUnique: true
+- :name: Duskdawn
+  :type: Maelström Staff
+  :isUnique: true
+- :name: Dyadus
+  :type: Infernal Axe
+  :isUnique: true
+- :name: Dying Breath
+  :type: Iron Staff
+  :isUnique: true
+- :name: Dying Breath
+  :type: Coiled Staff
+  :isUnique: true
+- :name: Eclipse Solaris
+  :type: Crystal Wand
+  :isUnique: true
+- :name: 
+  :type: Imperial Claw
+  :isUnique: false
+- :name: Edge of Madness
+  :type: Etched Greatsword
+  :isUnique: true
+- :name: Ephemeral Edge
+  :type: Dusk Blade
+  :isUnique: true
+- :name: Essentia Sanguis
+  :type: Eye Gouger
+  :isUnique: true
+- :name: Essentia Sanguis
+  :type: Vaal Claw
+  :isUnique: true
+- :name: Ewar's Mirage
+  :type: Antique Rapier
+  :isUnique: true
+- :name: Femurs of the Saints
+  :type: Primordial Staff
+  :isUnique: true
+- :name: Fencoil
+  :type: Gnarled Branch
+  :isUnique: true
+- :name: Fidelitas' Spike
+  :type: Jagged Foil
+  :isUnique: true
+- :name: Flesh-Eater
+  :type: Dream Mace
+  :isUnique: true
+- :name: Frostbreath
+  :type: Ornate Mace
+  :isUnique: true
+- :name: Geofri's Baptism
+  :type: Brass Maul
+  :isUnique: true
+- :name: Gorebreaker
+  :type: Spiked Club
+  :isUnique: true
+- :name: Goredrill
+  :type: Skinning Knife
+  :isUnique: true
+- :name: Grelwood Shank
+  :type: Eternal Sword
+  :isUnique: true
+- :name: Hand of Thought and Motion
+  :type: Blinder
+  :isUnique: true
+- :name: Hand of Wisdom and Action
+  :type: Imperial Claw
+  :isUnique: true
+- :name: Heartbreaker
+  :type: Royal Skean
+  :isUnique: true
+- :name: Hegemony's Era
+  :type: Judgement Staff
+  :isUnique: true
+- :name: Hezmana's Bloodlust
+  :type: Vaal Axe
+  :isUnique: true
+- :name: Hiltless
+  :type: Reaver Sword
+  :isUnique: true
+- :name: Hopeshredder
+  :type: Ranger Bow
+  :isUnique: true
+- :name: Hrimnor's Dirge
+  :type: Sledgehammer
+  :isUnique: true
+- :name: Hrimnor's Hymn
+  :type: Sledgehammer
+  :isUnique: true
+- :name: 
+  :type: Charan's Sword
+  :isUnique: false
+- :name: Hyaon's Fury
+  :type: Legion Sword
+  :isUnique: true
+- :name: Ichimonji
+  :type: Corsair Sword
+  :isUnique: true
+- :name: Infractem
+  :type: Decimation Bow
+  :isUnique: true
+- :name: Innsbury Edge
+  :type: Elder Sword
+  :isUnique: true
+- :name: Iron Commander
+  :type: Death Bow
+  :isUnique: true
+- :name: Izaro's Dilemma
+  :type: Imperial Claw
+  :isUnique: true
+- :name: Jack, the Axe
+  :type: Vaal Hatchet
+  :isUnique: true
+- :name: Jorrhast's Blacksteel
+  :type: Steelhead
+  :isUnique: true
+- :name: Kaom's Primacy
+  :type: Karui Chopper
+  :isUnique: true
+- :name: Kingmaker
+  :type: Despot Axe
+  :isUnique: true
+- :name: Kitava's Feast
+  :type: Void Axe
+  :isUnique: true
+- :name: Kondo's Pride
+  :type: Ezomyte Blade
+  :isUnique: true
+- :name: Kongor's Undying Rage
+  :type: Terror Maul
+  :isUnique: true
+- :name: Lakishu's Blade
+  :type: Elegant Sword
+  :isUnique: true
+- :name: Last Resort
+  :type: Nailed Fist
+  :isUnique: true
+- :name: Lavianga's Wisdom
+  :type: War Hammer
+  :isUnique: true
+- :name: Lifesprig
+  :type: Driftwood Wand
+  :isUnique: true
+- :name: Limbsplit
+  :type: Woodsplitter
+  :isUnique: true
+- :name: Lioneye's Glare
+  :type: Imperial Bow
+  :isUnique: true
+- :name: Mark of the Doubting Knight
+  :type: Platinum Kris
+  :isUnique: true
+- :name: Marohi Erqi
+  :type: Karui Maul
+  :isUnique: true
+- :name: Martyr of Innocence
+  :type: Highborn Staff
+  :isUnique: true
+- :name: Midnight Bargain
+  :type: Engraved Wand
+  :isUnique: true
+- :name: Mightflay
+  :type: Flaying Knife
+  :isUnique: true
+- :name: Mjölner
+  :type: Gavel
+  :isUnique: true
+- :name: Mon'tregul's Grasp
+  :type: Void Sceptre
+  :isUnique: true
+- :name: Moonbender's Wing
+  :type: Tomahawk
+  :isUnique: true
+- :name: Moonsorrow
+  :type: Imbued Wand
+  :isUnique: true
+- :name: Mortem Morsu
+  :type: Fright Claw
+  :isUnique: true
+- :name: Nebuloch
+  :type: Nightmare Mace
+  :isUnique: true
+- :name: Ngamahu's Flame
+  :type: Abyssal Axe
+  :isUnique: true
+- :name: Null's Inclination
+  :type: Ranger Bow
+  :isUnique: true
+- :name: Nuro's Harp
+  :type: Harbinger Bow
+  :isUnique: true
+- :name: Nycta's Lantern
+  :type: Crystal Sceptre
+  :isUnique: true
+- :name: Obliteration
+  :type: Demon's Horn
+  :isUnique: true
+- :name: Oni-Goroshi
+  :type: Charan's Sword
+  :isUnique: true
+- :name: Ornament of the East
+  :type: Gut Ripper
+  :isUnique: true
+- :name: Oro's Sacrifice
+  :type: Infernal Sword
+  :isUnique: true
+- :name: Pillar of the Caged God
+  :type: Long Staff
+  :isUnique: true
+- :name: Piscator's Vigil
+  :type: Tornado Wand
+  :isUnique: true
+- :name: Pledge of Hands
+  :type: Judgement Staff
+  :isUnique: true
+- :name: Prismatic Eclipse
+  :type: Twilight Blade
+  :isUnique: true
+- :name: Quecholli
+  :type: Jagged Maul
+  :isUnique: true
+- :name: Queen's Decree
+  :type: Ornate Sword
+  :isUnique: true
+- :name: Queen's Escape
+  :type: Ornate Sword
+  :isUnique: true
+- :name: Quill Rain
+  :type: Short Bow
+  :isUnique: true
+- :name: Razor of the Seventh Sun
+  :type: Midnight Blade
+  :isUnique: true
+- :name: Reach of the Council
+  :type: Spine Bow
+  :isUnique: true
+- :name: Realm Ender
+  :type: Iron Staff
+  :isUnique: true
+- :name: Realmshaper
+  :type: Iron Staff
+  :isUnique: true
+- :name: Reaper's Pursuit
+  :type: Shadow Axe
+  :isUnique: true
+- :name: Rebuke of the Vaal
+  :type: Vaal Blade
+  :isUnique: true
+- :name: Redbeak
+  :type: Rusted Sword
+  :isUnique: true
+- :name: Reefbane
+  :type: Fishing Rod
+  :isUnique: true
+- :name: Relentless Fury
+  :type: Decorative Axe
+  :isUnique: true
+- :name: Reverberation Rod
+  :type: Spiraled Wand
+  :isUnique: true
+- :name: Rigwald's Charge
+  :type: Highland Blade
+  :isUnique: true
+- :name: Rigwald's Command
+  :type: Midnight Blade
+  :isUnique: true
+- :name: Rigwald's Savagery
+  :type: Royal Axe
+  :isUnique: true
+- :name: Rive
+  :type: Terror Claw
+  :isUnique: true
+- :name: Roth's Reach
+  :type: Recurve Bow
+  :isUnique: true
+- :name: Scaeva
+  :type: Gladius
+  :isUnique: true
+- :name: 
+  :type: Gut Ripper
+  :isUnique: false
+- :name: Severed in Sleep
+  :type: Cutlass
+  :isUnique: true
+- :name: Shade of Solaris
+  :type: Sage Wand
+  :isUnique: true
+- :name: Shimmeron
+  :type: Tornado Wand
+  :isUnique: true
+- :name: Shiversting
+  :type: Bastard Sword
+  :isUnique: true
+- :name: Silverbough
+  :type: Crude Bow
+  :isUnique: true
+- :name: Silverbranch
+  :type: Crude Bow
+  :isUnique: true
+- :name: Singularity
+  :type: Platinum Sceptre
+  :isUnique: true
+- :name: Sire of Shards
+  :type: Serpentine Staff
+  :isUnique: true
+- :name: Slivertongue
+  :type: Harbinger Bow
+  :isUnique: true
+- :name: Song of the Sirens
+  :type: Fishing Rod
+  :isUnique: true
+- :name: Soul Taker
+  :type: Siege Axe
+  :isUnique: true
+- :name: Spine of the First Claimant
+  :type: Iron Sceptre
+  :isUnique: true
+- :name: Starforge
+  :type: Infernal Sword
+  :isUnique: true
+- :name: Storm Cloud
+  :type: Long Bow
+  :isUnique: true
+- :name: Storm Prison
+  :type: Carved Wand
+  :isUnique: true
+- :name: Taproot
+  :type: Ambusher
+  :isUnique: true
+- :name: Taryn's Shiver
+  :type: Maelström Staff
+  :isUnique: true
+- :name: Terminus Est
+  :type: Tiger Sword
+  :isUnique: true
+- :name: The Blood Reaper
+  :type: Headsman Axe
+  :isUnique: true
+- :name: The Blood Thorn
+  :type: Gnarled Branch
+  :isUnique: true
+- :name: The Cauteriser
+  :type: Woodsplitter
+  :isUnique: true
+- :name: The Consuming Dark
+  :type: Fiend Dagger
+  :isUnique: true
+- :name: The Dancing Dervish
+  :type: Reaver Sword
+  :isUnique: true
+- :name: The Dark Seer
+  :type: Shadow Sceptre
+  :isUnique: true
+- :name: The Enmity Divine
+  :type: Imperial Staff
+  :isUnique: true
+- :name: The Goddess Bound
+  :type: Whalebone Rapier
+  :isUnique: true
+- :name: The Goddess Scorned
+  :type: Elegant Sword
+  :isUnique: true
+- :name: The Goddess Unleashed
+  :type: Eternal Sword
+  :isUnique: true
+- :name: The Gryphon
+  :type: Jade Hatchet
+  :isUnique: true
+- :name: The Harvest
+  :type: Jasper Chopper
+  :isUnique: true
+- :name: The Poet's Pen
+  :type: Carved Wand
+  :isUnique: true
+- :name: The Princess
+  :type: Sabre
+  :isUnique: true
+- :name: The Rippling Thoughts
+  :type: Legion Sword
+  :isUnique: true
+- :name: The Scourge
+  :type: Terror Claw
+  :isUnique: true
+- :name: The Screaming Eagle
+  :type: Jade Hatchet
+  :isUnique: true
+- :name: The Searing Touch
+  :type: Lathi
+  :isUnique: true
+- :name: The Searing Touch
+  :type: Long Staff
+  :isUnique: true
+- :name: The Stormheart
+  :type: Royal Staff
+  :isUnique: true
+- :name: The Supreme Truth
+  :type: Crystal Sceptre
+  :isUnique: true
+- :name: The Tempest
+  :type: Long Bow
+  :isUnique: true
+- :name: The Tempestuous Steel
+  :type: War Sword
+  :isUnique: true
+- :name: The Wasp Nest
+  :type: Throat Stabber
+  :isUnique: true
+- :name: The Whispering Ice
+  :type: Vile Staff
+  :isUnique: true
+- :name: Tidebreaker
+  :type: Imperial Maul
+  :isUnique: true
+- :name: Tipua Kaikohuru
+  :type: Whalebone Rapier
+  :isUnique: true
+- :name: Touch of Anguish
+  :type: Imperial Claw
+  :isUnique: true
+- :name: Tremor Rod
+  :type: Military Staff
+  :isUnique: true
+- :name: Trypanon
+  :type: Great Mallet
+  :isUnique: true
+- :name: Tulborn
+  :type: Spiraled Wand
+  :isUnique: true
+- :name: Tulfall
+  :type: Tornado Wand
+  :isUnique: true
+- :name: Twyzel
+  :type: Sage Wand
+  :isUnique: true
+- :name: Ungil's Gauche
+  :type: Boot Knife
+  :isUnique: true
+- :name: United in Dream
+  :type: Cutlass
+  :isUnique: true
+- :name: Uul-Netol's Embrace
+  :type: Vaal Axe
+  :isUnique: true
+- :name: Uul-Netol's Kiss
+  :type: Labrys
+  :isUnique: true
+- :name: Varunastra
+  :type: Vaal Blade
+  :isUnique: true
+- :name: Void Battery
+  :type: Prophecy Wand
+  :isUnique: true
+- :name: Voidhome
+  :type: Dread Maul
+  :isUnique: true
+- :name: Voltaxic Rift
+  :type: Spine Bow
+  :isUnique: true
+- :name: Vulconus
+  :type: Demon Dagger
+  :isUnique: true
+- :name: White Wind
+  :type: Imperial Skean
+  :isUnique: true
+- :name: Wideswing
+  :type: Poleaxe
+  :isUnique: true
+- :name: Widowmaker
+  :type: Boot Blade
+  :isUnique: true
+- :name: Wildslash
+  :type: Awl
+  :isUnique: true
+- :name: Windripper
+  :type: Imperial Bow
+  :isUnique: true
+- :name: Wings of Entropy
+  :type: Sundering Axe
+  :isUnique: true
+- :name: Xirgil's Crank
+  :type: Coiled Staff
+  :isUnique: true
+- :name: Xoph's Inception
+  :type: Bone Bow
+  :isUnique: true
+- :name: Xoph's Nurture
+  :type: Citadel Bow
+  :isUnique: true
+- :name: 
+  :type: Nailed Fist
+  :isUnique: false
+- :name: 
+  :type: Gouger
+  :isUnique: false
+- :name: 
+  :type: Tiger's Paw
+  :isUnique: false
+- :name: 
+  :type: Prehistoric Claw
+  :isUnique: false
+- :name: 
+  :type: Noble Claw
+  :isUnique: false
+- :name: 
+  :type: Eagle Claw
+  :isUnique: false
+- :name: 
+  :type: Great White Claw
+  :isUnique: false
+- :name: 
+  :type: Throat Stabber
+  :isUnique: false
+- :name: 
+  :type: Hellion's Paw
+  :isUnique: false
+- :name: 
+  :type: Eye Gouger
+  :isUnique: false
+- :name: 
+  :type: Sharktooth Claw
+  :isUnique: false
+- :name: 
+  :type: Vaal Claw
+  :isUnique: false
+- :name: 
+  :type: Terror Claw
+  :isUnique: false
+- :name: 
+  :type: Awl
+  :isUnique: false
+- :name: 
+  :type: Cat's Paw
+  :isUnique: false
+- :name: 
+  :type: Blinder
+  :isUnique: false
+- :name: 
+  :type: Timeworn Claw
+  :isUnique: false
+- :name: 
+  :type: Sparkling Claw
+  :isUnique: false
+- :name: 
+  :type: Fright Claw
+  :isUnique: false
+- :name: 
+  :type: Thresher Claw
+  :isUnique: false
+- :name: 
+  :type: Double Claw
+  :isUnique: false
+- :name: 
+  :type: Twin Claw
+  :isUnique: false
+- :name: 
+  :type: Gemini Claw
+  :isUnique: false
+- :name: 
+  :type: Glass Shank
+  :isUnique: false
+- :name: 
+  :type: Butcher Knife
+  :isUnique: false
+- :name: 
+  :type: Poignard
+  :isUnique: false
+- :name: 
+  :type: Boot Blade
+  :isUnique: false
+- :name: 
+  :type: Golden Kris
+  :isUnique: false
+- :name: 
+  :type: Royal Skean
+  :isUnique: false
+- :name: 
+  :type: Fiend Dagger
+  :isUnique: false
+- :name: 
+  :type: Gutting Knife
+  :isUnique: false
+- :name: 
+  :type: Slaughter Knife
+  :isUnique: false
+- :name: 
+  :type: Ambusher
+  :isUnique: false
+- :name: 
+  :type: Ezomyte Dagger
+  :isUnique: false
+- :name: 
+  :type: Skinning Knife
+  :isUnique: false
+- :name: 
+  :type: Platinum Kris
+  :isUnique: false
+- :name: 
+  :type: Imperial Skean
+  :isUnique: false
+- :name: 
+  :type: Demon Dagger
+  :isUnique: false
+- :name: 
+  :type: Carving Knife
+  :isUnique: false
+- :name: 
+  :type: Stiletto
+  :isUnique: false
+- :name: 
+  :type: Boot Knife
+  :isUnique: false
+- :name: 
+  :type: Copper Kris
+  :isUnique: false
+- :name: 
+  :type: Skean
+  :isUnique: false
+- :name: 
+  :type: Imp Dagger
+  :isUnique: false
+- :name: 
+  :type: Flaying Knife
+  :isUnique: false
+- :name: 
+  :type: Prong Dagger
+  :isUnique: false
+- :name: 
+  :type: Trisula
+  :isUnique: false
+- :name: 
+  :type: Sai
+  :isUnique: false
+- :name: 
+  :type: Rusted Hatchet
+  :isUnique: false
+- :name: 
+  :type: Tomahawk
+  :isUnique: false
+- :name: 
+  :type: Wrist Chopper
+  :isUnique: false
+- :name: 
+  :type: War Axe
+  :isUnique: false
+- :name: 
+  :type: Chest Splitter
+  :isUnique: false
+- :name: 
+  :type: Ceremonial Axe
+  :isUnique: false
+- :name: 
+  :type: Wraith Axe
+  :isUnique: false
+- :name: 
+  :type: Karui Axe
+  :isUnique: false
+- :name: 
+  :type: Siege Axe
+  :isUnique: false
+- :name: 
+  :type: Reaver Axe
+  :isUnique: false
+- :name: 
+  :type: Butcher Axe
+  :isUnique: false
+- :name: 
+  :type: Jade Hatchet
+  :isUnique: false
+- :name: 
+  :type: Vaal Hatchet
+  :isUnique: false
+- :name: 
+  :type: Royal Axe
+  :isUnique: false
+- :name: 
+  :type: Infernal Axe
+  :isUnique: false
+- :name: 
+  :type: Boarding Axe
+  :isUnique: false
+- :name: 
+  :type: Cleaver
+  :isUnique: false
+- :name: 
+  :type: Broad Axe
+  :isUnique: false
+- :name: 
+  :type: Arming Axe
+  :isUnique: false
+- :name: 
+  :type: Decorative Axe
+  :isUnique: false
+- :name: 
+  :type: Spectral Axe
+  :isUnique: false
+- :name: 
+  :type: Jasper Axe
+  :isUnique: false
+- :name: 
+  :type: Etched Hatchet
+  :isUnique: false
+- :name: 
+  :type: Engraved Hatchet
+  :isUnique: false
+- :name: 
+  :type: Runic Hatchet
+  :isUnique: false
+- :name: 
+  :type: Driftwood Club
+  :isUnique: false
+- :name: 
+  :type: Barbed Club
+  :isUnique: false
+- :name: 
+  :type: Rock Breaker
+  :isUnique: false
+- :name: 
+  :type: Battle Hammer
+  :isUnique: false
+- :name: 
+  :type: Flanged Mace
+  :isUnique: false
+- :name: 
+  :type: Ornate Mace
+  :isUnique: false
+- :name: 
+  :type: Phantom Mace
+  :isUnique: false
+- :name: 
+  :type: Ancestral Club
+  :isUnique: false
+- :name: 
+  :type: Tenderizer
+  :isUnique: false
+- :name: 
+  :type: Gavel
+  :isUnique: false
+- :name: 
+  :type: Legion Hammer
+  :isUnique: false
+- :name: 
+  :type: Tribal Club
+  :isUnique: false
+- :name: 
+  :type: Pernarch
+  :isUnique: false
+- :name: 
+  :type: Auric Mace
+  :isUnique: false
+- :name: 
+  :type: Nightmare Mace
+  :isUnique: false
+- :name: 
+  :type: Spiked Club
+  :isUnique: false
+- :name: 
+  :type: Stone Hammer
+  :isUnique: false
+- :name: 
+  :type: War Hammer
+  :isUnique: false
+- :name: 
+  :type: Bladed Mace
+  :isUnique: false
+- :name: 
+  :type: Ceremonial Mace
+  :isUnique: false
+- :name: 
+  :type: Dream Mace
+  :isUnique: false
+- :name: 
+  :type: Petrified Club
+  :isUnique: false
+- :name: 
+  :type: Wyrm Mace
+  :isUnique: false
+- :name: 
+  :type: Dragon Mace
+  :isUnique: false
+- :name: 
+  :type: Behemoth Mace
+  :isUnique: false
+- :name: 
+  :type: Driftwood Sceptre
+  :isUnique: false
+- :name: 
+  :type: Sekhem
+  :isUnique: false
+- :name: 
+  :type: Crystal Sceptre
+  :isUnique: false
+- :name: 
+  :type: Lead Sceptre
+  :isUnique: false
+- :name: 
+  :type: Blood Sceptre
+  :isUnique: false
+- :name: 
+  :type: Royal Sceptre
+  :isUnique: false
+- :name: 
+  :type: Abyssal Sceptre
+  :isUnique: false
+- :name: 
+  :type: Karui Sceptre
+  :isUnique: false
+- :name: 
+  :type: Tyrant's Sekhem
+  :isUnique: false
+- :name: 
+  :type: Opal Sceptre
+  :isUnique: false
+- :name: 
+  :type: Platinum Sceptre
+  :isUnique: false
+- :name: 
+  :type: Darkwood Sceptre
+  :isUnique: false
+- :name: 
+  :type: Carnal Sceptre
+  :isUnique: false
+- :name: 
+  :type: Void Sceptre
+  :isUnique: false
+- :name: 
+  :type: Bronze Sceptre
+  :isUnique: false
+- :name: 
+  :type: Quartz Sceptre
+  :isUnique: false
+- :name: 
+  :type: Iron Sceptre
+  :isUnique: false
+- :name: 
+  :type: Ochre Sceptre
+  :isUnique: false
+- :name: 
+  :type: Ritual Sceptre
+  :isUnique: false
+- :name: 
+  :type: Shadow Sceptre
+  :isUnique: false
+- :name: 
+  :type: Grinning Fetish
+  :isUnique: false
+- :name: 
+  :type: Horned Sceptre
+  :isUnique: false
+- :name: 
+  :type: Stag Sceptre
+  :isUnique: false
+- :name: 
+  :type: Sambar Sceptre
+  :isUnique: false
+- :name: 
+  :type: Rusted Sword
+  :isUnique: false
+- :name: 
+  :type: Cutlass
+  :isUnique: false
+- :name: 
+  :type: Baselard
+  :isUnique: false
+- :name: 
+  :type: Battle Sword
+  :isUnique: false
+- :name: 
+  :type: Elder Sword
+  :isUnique: false
+- :name: 
+  :type: Graceful Sword
+  :isUnique: false
+- :name: 
+  :type: Twilight Blade
+  :isUnique: false
+- :name: 
+  :type: Gemstone Sword
+  :isUnique: false
+- :name: 
+  :type: Corsair Sword
+  :isUnique: false
+- :name: 
+  :type: Legion Sword
+  :isUnique: false
+- :name: 
+  :type: Copper Sword
+  :isUnique: false
+- :name: 
+  :type: Vaal Blade
+  :isUnique: false
+- :name: 
+  :type: Eternal Sword
+  :isUnique: false
+- :name: 
+  :type: Midnight Blade
+  :isUnique: false
+- :name: 
+  :type: Sabre
+  :isUnique: false
+- :name: 
+  :type: Broad Sword
+  :isUnique: false
+- :name: 
+  :type: War Sword
+  :isUnique: false
+- :name: 
+  :type: Ancient Sword
+  :isUnique: false
+- :name: 
+  :type: Elegant Sword
+  :isUnique: false
+- :name: 
+  :type: Dusk Blade
+  :isUnique: false
+- :name: 
+  :type: Variscite Blade
+  :isUnique: false
+- :name: 
+  :type: Hook Sword
+  :isUnique: false
+- :name: 
+  :type: Grappler
+  :isUnique: false
+- :name: 
+  :type: Tiger Hook
+  :isUnique: false
+- :name: 
+  :type: Rusted Spike
+  :isUnique: false
+- :name: 
+  :type: Burnished Foil
+  :isUnique: false
+- :name: 
+  :type: Estoc
+  :isUnique: false
+- :name: 
+  :type: Serrated Foil
+  :isUnique: false
+- :name: 
+  :type: Primeval Rapier
+  :isUnique: false
+- :name: 
+  :type: Fancy Foil
+  :isUnique: false
+- :name: 
+  :type: Apex Rapier
+  :isUnique: false
+- :name: 
+  :type: Dragonbone Rapier
+  :isUnique: false
+- :name: 
+  :type: Tempered Foil
+  :isUnique: false
+- :name: 
+  :type: Pecoraro
+  :isUnique: false
+- :name: 
+  :type: Spiraled Foil
+  :isUnique: false
+- :name: 
+  :type: Whalebone Rapier
+  :isUnique: false
+- :name: 
+  :type: Vaal Rapier
+  :isUnique: false
+- :name: 
+  :type: Jewelled Foil
+  :isUnique: false
+- :name: 
+  :type: Harpy Rapier
+  :isUnique: false
+- :name: 
+  :type: Battered Foil
+  :isUnique: false
+- :name: 
+  :type: Basket Rapier
+  :isUnique: false
+- :name: 
+  :type: Jagged Foil
+  :isUnique: false
+- :name: 
+  :type: Antique Rapier
+  :isUnique: false
+- :name: 
+  :type: Elegant Foil
+  :isUnique: false
+- :name: 
+  :type: Thorn Rapier
+  :isUnique: false
+- :name: 
+  :type: Wyrmbone Rapier
+  :isUnique: false
+- :name: 
+  :type: Smallsword
+  :isUnique: false
+- :name: 
+  :type: Courtesan Sword
+  :isUnique: false
+- :name: 
+  :type: Dragoon Sword
+  :isUnique: false
+- :name: 
+  :type: Driftwood Wand
+  :isUnique: false
+- :name: 
+  :type: Serpent Wand
+  :isUnique: false
+- :name: 
+  :type: Omen Wand
+  :isUnique: false
+- :name: 
+  :type: Demon's Horn
+  :isUnique: false
+- :name: 
+  :type: Imbued Wand
+  :isUnique: false
+- :name: 
+  :type: Opal Wand
+  :isUnique: false
+- :name: 
+  :type: Tornado Wand
+  :isUnique: false
+- :name: 
+  :type: Prophecy Wand
+  :isUnique: false
+- :name: 
+  :type: Goat's Horn
+  :isUnique: false
+- :name: 
+  :type: Carved Wand
+  :isUnique: false
+- :name: 
+  :type: Quartz Wand
+  :isUnique: false
+- :name: 
+  :type: Spiraled Wand
+  :isUnique: false
+- :name: 
+  :type: Sage Wand
+  :isUnique: false
+- :name: 
+  :type: Faun's Horn
+  :isUnique: false
+- :name: 
+  :type: Engraved Wand
+  :isUnique: false
+- :name: 
+  :type: Crystal Wand
+  :isUnique: false
+- :name: 
+  :type: Pagan Wand
+  :isUnique: false
+- :name: 
+  :type: Heathen Wand
+  :isUnique: false
+- :name: 
+  :type: Profane Wand
+  :isUnique: false
+- :name: 
+  :type: Fishing Rod
+  :isUnique: false
+- :name: 
+  :type: Crude Bow
+  :isUnique: false
+- :name: 
+  :type: Decurve Bow
+  :isUnique: false
+- :name: 
+  :type: Compound Bow
+  :isUnique: false
+- :name: 
+  :type: Sniper Bow
+  :isUnique: false
+- :name: 
+  :type: Ivory Bow
+  :isUnique: false
+- :name: 
+  :type: Highborn Bow
+  :isUnique: false
+- :name: 
+  :type: Decimation Bow
+  :isUnique: false
+- :name: 
+  :type: Thicket Bow
+  :isUnique: false
+- :name: 
+  :type: Citadel Bow
+  :isUnique: false
+- :name: 
+  :type: Assassin Bow
+  :isUnique: false
+- :name: 
+  :type: Spine Bow
+  :isUnique: false
+- :name: 
+  :type: Imperial Bow
+  :isUnique: false
+- :name: 
+  :type: Harbinger Bow
+  :isUnique: false
+- :name: 
+  :type: Long Bow
+  :isUnique: false
+- :name: 
+  :type: Composite Bow
+  :isUnique: false
+- :name: 
+  :type: Recurve Bow
+  :isUnique: false
+- :name: 
+  :type: Bone Bow
+  :isUnique: false
+- :name: 
+  :type: Royal Bow
+  :isUnique: false
+- :name: 
+  :type: Death Bow
+  :isUnique: false
+- :name: 
+  :type: Grove Bow
+  :isUnique: false
+- :name: 
+  :type: Reflex Bow
+  :isUnique: false
+- :name: 
+  :type: Steelwood Bow
+  :isUnique: false
+- :name: 
+  :type: Maraketh Bow
+  :isUnique: false
+- :name: 
+  :type: Gnarled Branch
+  :isUnique: false
+- :name: 
+  :type: Military Staff
+  :isUnique: false
+- :name: 
+  :type: Serpentine Staff
+  :isUnique: false
+- :name: 
+  :type: Highborn Staff
+  :isUnique: false
+- :name: 
+  :type: Foul Staff
+  :isUnique: false
+- :name: 
+  :type: Primordial Staff
+  :isUnique: false
+- :name: 
+  :type: Lathi
+  :isUnique: false
+- :name: 
+  :type: Ezomyte Staff
+  :isUnique: false
+- :name: 
+  :type: Maelström Staff
+  :isUnique: false
+- :name: 
+  :type: Imperial Staff
+  :isUnique: false
+- :name: 
+  :type: Judgement Staff
+  :isUnique: false
+- :name: 
+  :type: Primitive Staff
+  :isUnique: false
+- :name: 
+  :type: Long Staff
+  :isUnique: false
+- :name: 
+  :type: Iron Staff
+  :isUnique: false
+- :name: 
+  :type: Coiled Staff
+  :isUnique: false
+- :name: 
+  :type: Royal Staff
+  :isUnique: false
+- :name: 
+  :type: Vile Staff
+  :isUnique: false
+- :name: 
+  :type: Woodful Staff
+  :isUnique: false
+- :name: 
+  :type: Quarterstaff
+  :isUnique: false
+- :name: 
+  :type: Crescent Staff
+  :isUnique: false
+- :name: 
+  :type: Moon Staff
+  :isUnique: false
+- :name: 
+  :type: Eclipse Staff
+  :isUnique: false
+- :name: 
+  :type: Stone Axe
+  :isUnique: false
+- :name: 
+  :type: Headsman Axe
+  :isUnique: false
+- :name: 
+  :type: Labrys
+  :isUnique: false
+- :name: 
+  :type: Noble Axe
+  :isUnique: false
+- :name: 
+  :type: Abyssal Axe
+  :isUnique: false
+- :name: 
+  :type: Karui Chopper
+  :isUnique: false
+- :name: 
+  :type: Sundering Axe
+  :isUnique: false
+- :name: 
+  :type: Ezomyte Axe
+  :isUnique: false
+- :name: 
+  :type: Vaal Axe
+  :isUnique: false
+- :name: 
+  :type: Despot Axe
+  :isUnique: false
+- :name: 
+  :type: Void Axe
+  :isUnique: false
+- :name: 
+  :type: Jade Chopper
+  :isUnique: false
+- :name: 
+  :type: Woodsplitter
+  :isUnique: false
+- :name: 
+  :type: Poleaxe
+  :isUnique: false
+- :name: 
+  :type: Double Axe
+  :isUnique: false
+- :name: 
+  :type: Gilded Axe
+  :isUnique: false
+- :name: 
+  :type: Shadow Axe
+  :isUnique: false
+- :name: 
+  :type: Jasper Chopper
+  :isUnique: false
+- :name: 
+  :type: Timber Axe
+  :isUnique: false
+- :name: 
+  :type: Dagger Axe
+  :isUnique: false
+- :name: 
+  :type: Talon Axe
+  :isUnique: false
+- :name: 
+  :type: Fleshripper
+  :isUnique: false
+- :name: 
+  :type: Driftwood Maul
+  :isUnique: false
+- :name: 
+  :type: Steelhead
+  :isUnique: false
+- :name: 
+  :type: Spiny Maul
+  :isUnique: false
+- :name: 
+  :type: Plated Maul
+  :isUnique: false
+- :name: 
+  :type: Dread Maul
+  :isUnique: false
+- :name: 
+  :type: Karui Maul
+  :isUnique: false
+- :name: 
+  :type: Colossus Mallet
+  :isUnique: false
+- :name: 
+  :type: Piledriver
+  :isUnique: false
+- :name: 
+  :type: Imperial Maul
+  :isUnique: false
+- :name: 
+  :type: Terror Maul
+  :isUnique: false
+- :name: 
+  :type: Tribal Maul
+  :isUnique: false
+- :name: 
+  :type: Mallet
+  :isUnique: false
+- :name: 
+  :type: Sledgehammer
+  :isUnique: false
+- :name: 
+  :type: Jagged Maul
+  :isUnique: false
+- :name: 
+  :type: Brass Maul
+  :isUnique: false
+- :name: 
+  :type: Fright Maul
+  :isUnique: false
+- :name: 
+  :type: Totemic Maul
+  :isUnique: false
+- :name: 
+  :type: Great Mallet
+  :isUnique: false
+- :name: 
+  :type: Morning Star
+  :isUnique: false
+- :name: 
+  :type: Solar Maul
+  :isUnique: false
+- :name: 
+  :type: Coronal Maul
+  :isUnique: false
+- :name: 
+  :type: Corroded Blade
+  :isUnique: false
+- :name: 
+  :type: Highland Blade
+  :isUnique: false
+- :name: 
+  :type: Engraved Greatsword
+  :isUnique: false
+- :name: 
+  :type: Tiger Sword
+  :isUnique: false
+- :name: 
+  :type: Wraith Sword
+  :isUnique: false
+- :name: 
+  :type: Headman's Sword
+  :isUnique: false
+- :name: 
+  :type: Reaver Sword
+  :isUnique: false
+- :name: 
+  :type: Ezomyte Blade
+  :isUnique: false
+- :name: 
+  :type: Vaal Greatsword
+  :isUnique: false
+- :name: 
+  :type: Lion Sword
+  :isUnique: false
+- :name: 
+  :type: Longsword
+  :isUnique: false
+- :name: 
+  :type: Bastard Sword
+  :isUnique: false
+- :name: 
+  :type: Two-Handed Sword
+  :isUnique: false
+- :name: 
+  :type: Etched Greatsword
+  :isUnique: false
+- :name: 
+  :type: Ornate Sword
+  :isUnique: false
+- :name: 
+  :type: Spectral Sword
+  :isUnique: false
+- :name: 
+  :type: Butcher Sword
+  :isUnique: false
+- :name: 
+  :type: Footman Sword
+  :isUnique: false
+- :name: 
+  :type: Curved Blade
+  :isUnique: false
+- :name: 
+  :type: Lithe Blade
+  :isUnique: false
+- :name: 
+  :type: Exquisite Blade
+  :isUnique: false
+- :name: Abberath's Hooves
+  :type: Goathide Boots
+  :isUnique: true
+- :name: Abyssus
+  :type: Ezomyte Burgonet
+  :isUnique: true
+- :name: Aegis Aurora
+  :type: Champion Kite Shield
+  :isUnique: true
+- :name: Ahn's Contempt
+  :type: Praetor Crown
+  :isUnique: true
+- :name: Ahn's Heritage
+  :type: Colossal Tower Shield
+  :isUnique: true
+- :name: Alberon's Warpath
+  :type: Soldier Boots
+  :isUnique: true
+- :name: Allelopathy
+  :type: Sorcerer Gloves
+  :isUnique: true
+- :name: Alpha's Howl
+  :type: Sinner Tricorne
+  :isUnique: true
+- :name: Ambu's Charge
+  :type: Crusader Chainmail
+  :isUnique: true
+- :name: 
+  :type: Dragonscale Boots
+  :isUnique: false
+- :name: 
+  :type: Murder Boots
+  :isUnique: false
+- :name: 
+  :type: Crusader Gloves
+  :isUnique: false
+- :name: Asenath's Gentle Touch
+  :type: Silk Gloves
+  :isUnique: true
+- :name: Asenath's Mark
+  :type: Iron Circlet
+  :isUnique: true
+- :name: Ashrend
+  :type: Buckskin Tunic
+  :isUnique: true
+- :name: Asphyxia's Wrath
+  :type: Two-Point Arrow Quiver
+  :isUnique: true
+- :name: Atziri's Acuity
+  :type: Vaal Gauntlets
+  :isUnique: true
+- :name: Atziri's Mirror
+  :type: Golden Buckler
+  :isUnique: true
+- :name: Atziri's Splendour
+  :type: Sacrificial Garb
+  :isUnique: true
+- :name: Atziri's Step
+  :type: Slink Boots
+  :isUnique: true
+- :name: Aurseize
+  :type: Steelscale Gauntlets
+  :isUnique: true
+- :name: 
+  :type: Mosaic Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Nightmare Bascinet
+  :isUnique: false
+- :name: Belly of the Beast
+  :type: Full Wyrmscale
+  :isUnique: true
+- :name: 
+  :type: Sharktooth Arrow Quiver
+  :isUnique: false
+- :name: Blackgleam
+  :type: Fire Arrow Quiver
+  :isUnique: true
+- :name: Black Sun Crest
+  :type: Lacquered Helmet
+  :isUnique: true
+- :name: Blasphemer's Grasp
+  :type: Assassin's Mitts
+  :isUnique: true
+- :name: 
+  :type: Sadist Garb
+  :isUnique: false
+- :name: Bloodbond
+  :type: Bone Armour
+  :isUnique: true
+- :name: 
+  :type: Two-Point Arrow Quiver
+  :isUnique: false
+- :name: Bones of Ullr
+  :type: Silk Slippers
+  :isUnique: true
+- :name: Bramblejack
+  :type: Plate Vest
+  :isUnique: true
+- :name: Brinerot Flag
+  :type: Tarnished Spirit Shield
+  :isUnique: true
+- :name: Brinerot Whalers
+  :type: Trapper Boots
+  :isUnique: true
+- :name: Briskwrap
+  :type: Strapped Leather
+  :isUnique: true
+- :name: Broadstroke
+  :type: Heavy Quiver
+  :isUnique: true
+- :name: Broken Faith
+  :type: Archon Kite Shield
+  :isUnique: true
+- :name: Bronn's Lithe
+  :type: Cutthroat's Garb
+  :isUnique: true
+- :name: Bubonic Trail
+  :type: Murder Boots
+  :isUnique: true
+- :name: Carcass Jack
+  :type: Varnished Coat
+  :isUnique: true
+- :name: Chalice of Horrors
+  :type: War Buckler
+  :isUnique: true
+- :name: Chernobog's Pillar
+  :type: Ebony Tower Shield
+  :isUnique: true
+- :name: Cherrubim's Maleficence
+  :type: Triumphant Lamellar
+  :isUnique: true
+- :name: Chitus' Apex
+  :type: Necromancer Circlet
+  :isUnique: true
+- :name: Cloak of Defiance
+  :type: Lacquered Garb
+  :isUnique: true
+- :name: Cloak of Flame
+  :type: Scholar's Robe
+  :isUnique: true
+- :name: Cloak of Tawm'r Isley
+  :type: Savant's Robe
+  :isUnique: true
+- :name: 
+  :type: Brass Spirit Shield
+  :isUnique: false
+- :name: Cospri's Will
+  :type: Assassin's Garb
+  :isUnique: true
+- :name: Cragfall
+  :type: Serrated Arrow Quiver
+  :isUnique: true
+- :name: Craghead
+  :type: Serrated Arrow Quiver
+  :isUnique: true
+- :name: Crest of Perandus
+  :type: Pine Buckler
+  :isUnique: true
+- :name: Crown of Eyes
+  :type: Hubris Circlet
+  :isUnique: true
+- :name: Crown of the Pale King
+  :type: Regicide Mask
+  :isUnique: true
+- :name: Crown of Thorns
+  :type: Vine Circlet
+  :isUnique: true
+- :name: Daresso's Courage
+  :type: Baroque Round Shield
+  :isUnique: true
+- :name: Daresso's Defiance
+  :type: Full Dragonscale
+  :isUnique: true
+- :name: Darkray Vectors
+  :type: Dragonscale Boots
+  :isUnique: true
+- :name: Death's Door
+  :type: Crusader Boots
+  :isUnique: true
+- :name: Death's Oath
+  :type: Astral Plate
+  :isUnique: true
+- :name: Deerstalker
+  :type: Deerskin Boots
+  :isUnique: true
+- :name: Deidbell
+  :type: Gilded Sallet
+  :isUnique: true
+- :name: Deidbellow
+  :type: Gilded Sallet
+  :isUnique: true
+- :name: Demigod's Beacon
+  :type: Golden Flame
+  :isUnique: true
+- :name: Demigod's Dominance
+  :type: Golden Mantle
+  :isUnique: true
+- :name: Demigod's Stride
+  :type: Golden Caligae
+  :isUnique: true
+- :name: Demigod's Touch
+  :type: Golden Bracers
+  :isUnique: true
+- :name: Demigod's Triumph
+  :type: Golden Wreath
+  :isUnique: true
+- :name: Dendrobate
+  :type: Sentinel Jacket
+  :isUnique: true
+- :name: Deshret's Vise
+  :type: Steel Gauntlets
+  :isUnique: true
+- :name: Devoto's Devotion
+  :type: Nightmare Bascinet
+  :isUnique: true
+- :name: Dialla's Malefaction
+  :type: Sage's Robe
+  :isUnique: true
+- :name: Doedre's Scorn
+  :type: Lunaris Circlet
+  :isUnique: true
+- :name: Doedre's Skin
+  :type: Widowsilk Robe
+  :isUnique: true
+- :name: Doedre's Tenure
+  :type: Velvet Gloves
+  :isUnique: true
+- :name: 
+  :type: Golden Plate
+  :isUnique: false
+- :name: Doryani's Fist
+  :type: Vaal Gauntlets
+  :isUnique: true
+- :name: Drillneck
+  :type: Penetrating Arrow Quiver
+  :isUnique: true
+- :name: Dusktoe
+  :type: Ironscale Boots
+  :isUnique: true
+- :name: Eber's Unification
+  :type: Hubris Circlet
+  :isUnique: true
+- :name: Empire's Grasp
+  :type: Goliath Gauntlets
+  :isUnique: true
+- :name: Esh's Mirror
+  :type: Thorium Spirit Shield
+  :isUnique: true
+- :name: Esh's Visage
+  :type: Vaal Spirit Shield
+  :isUnique: true
+- :name: Ezomyte Hold
+  :type: Iron Hat
+  :isUnique: true
+- :name: Ezomyte Peak
+  :type: Iron Hat
+  :isUnique: true
+- :name: Facebreaker
+  :type: Strapped Mitts
+  :isUnique: true
+- :name: Fairgraves' Tricorne
+  :type: Tricorne
+  :isUnique: true
+- :name: Flesh and Spirit
+  :type: Ironscale Gauntlets
+  :isUnique: true
+- :name: Foxshade
+  :type: Wild Leather
+  :isUnique: true
+- :name: Gang's Momentum
+  :type: Legion Boots
+  :isUnique: true
+- :name: Garukhan's Flight
+  :type: Stealth Boots
+  :isUnique: true
+- :name: Geofri's Crest
+  :type: Great Crown
+  :isUnique: true
+- :name: Geofri's Sanctuary
+  :type: Elegant Ringmail
+  :isUnique: true
+- :name: Giantsbane
+  :type: Bronze Gauntlets
+  :isUnique: true
+- :name: Glitterdisc
+  :type: Burnished Spiked Shield
+  :isUnique: true
+- :name: Goldrim
+  :type: Leather Cap
+  :isUnique: true
+- :name: Goldwyrm
+  :type: Nubuck Boots
+  :isUnique: true
+- :name: Great Old One's Ward
+  :type: Corrugated Buckler
+  :isUnique: true
+- :name: Greed's Embrace
+  :type: Golden Plate
+  :isUnique: true
+- :name: Grip of the Council
+  :type: Arcanist Gloves
+  :isUnique: true
+- :name: Gruthkul's Pelt
+  :type: Wyrmscale Doublet
+  :isUnique: true
+- :name: 
+  :type: Thorium Spirit Shield
+  :isUnique: false
+- :name: Haemophilia
+  :type: Serpentscale Gauntlets
+  :isUnique: true
+- :name: 
+  :type: Assassin's Mitts
+  :isUnique: false
+- :name: Heatshiver
+  :type: Leather Hood
+  :isUnique: true
+- :name: Hellbringer
+  :type: Conjurer Gloves
+  :isUnique: true
+- :name: Heretic's Veil
+  :type: Deicide Mask
+  :isUnique: true
+- :name: 
+  :type: Titan Greaves
+  :isUnique: false
+- :name: Honourhome
+  :type: Soldier Helmet
+  :isUnique: true
+- :name: Hrimburn
+  :type: Goathide Gloves
+  :isUnique: true
+- :name: Hrimnor's Resolve
+  :type: Samite Helmet
+  :isUnique: true
+- :name: Hrimsorrow
+  :type: Goathide Gloves
+  :isUnique: true
+- :name: Hyrri's Bite
+  :type: Sharktooth Arrow Quiver
+  :isUnique: true
+- :name: Hyrri's Ire
+  :type: Zodiac Leather
+  :isUnique: true
+- :name: Icetomb
+  :type: Latticed Ringmail
+  :isUnique: true
+- :name: Incandescent Heart
+  :type: Saintly Chainmail
+  :isUnique: true
+- :name: Infernal Mantle
+  :type: Widowsilk Robe
+  :isUnique: true
+- :name: Inpulsa's Broken Heart
+  :type: Sadist Garb
+  :isUnique: true
+- :name: Invictus Solaris
+  :type: Archon Kite Shield
+  :isUnique: true
+- :name: Inya's Epiphany
+  :type: Arcanist Slippers
+  :isUnique: true
+- :name: Iron Heart
+  :type: Crusader Plate
+  :isUnique: true
+- :name: Jaws of Agony
+  :type: Supreme Spiked Shield
+  :isUnique: true
+- :name: Kalisa's Grace
+  :type: Samite Gloves
+  :isUnique: true
+- :name: Kaltenhalt
+  :type: Painted Buckler
+  :isUnique: true
+- :name: Kaltensoul
+  :type: Painted Buckler
+  :isUnique: true
+- :name: Kaom's Heart
+  :type: Glorious Plate
+  :isUnique: true
+- :name: Kaom's Roots
+  :type: Titan Greaves
+  :isUnique: true
+- :name: Kingsguard
+  :type: Conquest Chainmail
+  :isUnique: true
+- :name: Kintsugi
+  :type: Exquisite Leather
+  :isUnique: true
+- :name: Kitava's Thirst
+  :type: Zealot Helmet
+  :isUnique: true
+- :name: Kongming's Stratagem
+  :type: Ivory Spirit Shield
+  :isUnique: true
+- :name: Leer Cast
+  :type: Festival Mask
+  :isUnique: true
+- :name: Leper's Alms
+  :type: Mirrored Spiked Shield
+  :isUnique: true
+- :name: Lightbane Raiment
+  :type: Ornate Ringmail
+  :isUnique: true
+- :name: Lightning Coil
+  :type: Desert Brigandine
+  :isUnique: true
+- :name: Light of Lunaris
+  :type: Jingling Spirit Shield
+  :isUnique: true
+- :name: Lightpoacher
+  :type: Great Crown
+  :isUnique: true
+- :name: Lioneye's Paws
+  :type: Bronzescale Boots
+  :isUnique: true
+- :name: Lioneye's Remorse
+  :type: Pinnacle Tower Shield
+  :isUnique: true
+- :name: Lioneye's Vision
+  :type: Crusader Plate
+  :isUnique: true
+- :name: Lochtonial Caress
+  :type: Iron Gauntlets
+  :isUnique: true
+- :name: Lycosidae
+  :type: Rawhide Tower Shield
+  :isUnique: true
+- :name: Magna Eclipsis
+  :type: Pinnacle Tower Shield
+  :isUnique: true
+- :name: Malachai's Loop
+  :type: Harmonic Spirit Shield
+  :isUnique: true
+- :name: Malachai's Mark
+  :type: Murder Mitts
+  :isUnique: true
+- :name: Malachai's Simula
+  :type: Iron Mask
+  :isUnique: true
+- :name: Malachai's Vision
+  :type: Praetor Crown
+  :isUnique: true
+- :name: Maligaro's Lens
+  :type: Compound Spiked Shield
+  :isUnique: true
+- :name: Maligaro's Virtuosity
+  :type: Deerskin Gloves
+  :isUnique: true
+- :name: Maloney's Nightfall
+  :type: Blunt Arrow Quiver
+  :isUnique: true
+- :name: Martyr's Crown
+  :type: Vine Circlet
+  :isUnique: true
+- :name: Matua Tupuna
+  :type: Tarnished Spirit Shield
+  :isUnique: true
+- :name: Meginord's Vise
+  :type: Steel Gauntlets
+  :isUnique: true
+- :name: Memory Vault
+  :type: Praetor Crown
+  :isUnique: true
+- :name: Mind of the Council
+  :type: Harlequin Mask
+  :isUnique: true
+- :name: Mindspiral
+  :type: Aventail Helmet
+  :isUnique: true
+- :name: Mutewind Pennant
+  :type: Enameled Buckler
+  :isUnique: true
+- :name: Mutewind Whispersteps
+  :type: Serpentscale Boots
+  :isUnique: true
+- :name: Nomic's Storm
+  :type: Strapped Boots
+  :isUnique: true
+- :name: Null and Void
+  :type: Legion Gloves
+  :isUnique: true
+- :name: Obscurantis
+  :type: Lion Pelt
+  :isUnique: true
+- :name: Ondar's Clasp
+  :type: Wrapped Mitts
+  :isUnique: true
+- :name: Victario's Flight
+  :type: Goathide Boots
+  :isUnique: true
+- :name: 
+  :type: Baroque Round Shield
+  :isUnique: false
+- :name: Oskarm
+  :type: Nubuck Gloves
+  :isUnique: true
+- :name: 
+  :type: Destiny Leather
+  :isUnique: false
+- :name: 
+  :type: Astral Plate
+  :isUnique: false
+- :name: Prism Guardian
+  :type: Archon Kite Shield
+  :isUnique: true
+- :name: Queen of the Forest
+  :type: Destiny Leather
+  :isUnique: true
+- :name: 
+  :type: Ironscale Boots
+  :isUnique: false
+- :name: Rainbowstride
+  :type: Conjurer Boots
+  :isUnique: true
+- :name: Ralakesh's Impatience
+  :type: Riveted Boots
+  :isUnique: true
+- :name: Rathpith Globe
+  :type: Titanium Spirit Shield
+  :isUnique: true
+- :name: Rat's Nest
+  :type: Ursine Pelt
+  :isUnique: true
+- :name: Rearguard
+  :type: Broadhead Arrow Quiver
+  :isUnique: true
+- :name: Reckless Defence
+  :type: Lacquered Garb
+  :isUnique: true
+- :name: Redblade Banner
+  :type: Painted Tower Shield
+  :isUnique: true
+- :name: Redblade Tramplers
+  :type: Ancient Greaves
+  :isUnique: true
+- :name: Repentance
+  :type: Crusader Gloves
+  :isUnique: true
+- :name: Rigwald's Quills
+  :type: Two-Point Arrow Quiver
+  :isUnique: true
+- :name: Rime Gaze
+  :type: Mind Cage
+  :isUnique: true
+- :name: Rise of the Phoenix
+  :type: Mosaic Kite Shield
+  :isUnique: true
+- :name: Sadima's Touch
+  :type: Wool Gloves
+  :isUnique: true
+- :name: Saemus' Gift
+  :type: Spike-Point Arrow Quiver
+  :isUnique: true
+- :name: Saffell's Frame
+  :type: Branded Kite Shield
+  :isUnique: true
+- :name: Scold's Bridle
+  :type: Mind Cage
+  :isUnique: true
+- :name: Sentari's Answer
+  :type: Brass Spirit Shield
+  :isUnique: true
+- :name: Seven-League Step
+  :type: Rawhide Boots
+  :isUnique: true
+- :name: Shackles of the Wretched
+  :type: Chain Gloves
+  :isUnique: true
+- :name: Shadows and Dust
+  :type: Clasped Mitts
+  :isUnique: true
+- :name: Shaper's Touch
+  :type: Crusader Gloves
+  :isUnique: true
+- :name: Shavronne's Gambit
+  :type: Scholar Boots
+  :isUnique: true
+- :name: Shavronne's Pace
+  :type: Scholar Boots
+  :isUnique: true
+- :name: Shavronne's Wrappings
+  :type: Occultist's Vestment
+  :isUnique: true
+- :name: 
+  :type: Silken Hood
+  :isUnique: false
+- :name: Shroud of the Lightless
+  :type: Carnal Armour
+  :isUnique: true
+- :name: Sin Trek
+  :type: Stealth Boots
+  :isUnique: true
+- :name: Skin of the Lords
+  :type: Simple Robe
+  :isUnique: true
+- :name: Skin of the Loyal
+  :type: Simple Robe
+  :isUnique: true
+- :name: Skirmish
+  :type: Two-Point Arrow Quiver
+  :isUnique: true
+- :name: Skullhead
+  :type: Secutor Helm
+  :isUnique: true
+- :name: Skyforth
+  :type: Sorcerer Boots
+  :isUnique: true
+- :name: Slitherpinch
+  :type: Bronzescale Gauntlets
+  :isUnique: true
+- :name: Snakebite
+  :type: Assassin's Mitts
+  :isUnique: true
+- :name: Solaris Lorica
+  :type: Copper Plate
+  :isUnique: true
+- :name: Soul Mantle
+  :type: Spidersilk Robe
+  :isUnique: true
+- :name: Soul Strike
+  :type: Spike-Point Arrow Quiver
+  :isUnique: true
+- :name: Southbound
+  :type: Soldier Gloves
+  :isUnique: true
+- :name: Speaker's Wreath
+  :type: Prophet Crown
+  :isUnique: true
+- :name: Springleaf
+  :type: Plank Kite Shield
+  :isUnique: true
+- :name: Starkonja's Head
+  :type: Silken Hood
+  :isUnique: true
+- :name: Steppan Eard
+  :type: Sorcerer Boots
+  :isUnique: true
+- :name: Stormcharger
+  :type: Plated Greaves
+  :isUnique: true
+- :name: Sundance
+  :type: Clasped Boots
+  :isUnique: true
+- :name: Surgebinders
+  :type: Dragonscale Gauntlets
+  :isUnique: true
+- :name: Tabula Rasa
+  :type: Simple Robe
+  :isUnique: true
+- :name: The Anticipation
+  :type: Ezomyte Tower Shield
+  :isUnique: true
+- :name: The Baron
+  :type: Close Helmet
+  :isUnique: true
+- :name: The Beast Fur Shawl
+  :type: Vaal Regalia
+  :isUnique: true
+- :name: The Blood Dance
+  :type: Sharkskin Boots
+  :isUnique: true
+- :name: The Brass Dome
+  :type: Gladiator Plate
+  :isUnique: true
+- :name: The Brine Crown
+  :type: Prophet Crown
+  :isUnique: true
+- :name: The Bringer of Rain
+  :type: Nightmare Bascinet
+  :isUnique: true
+- :name: The Broken Crown
+  :type: Prophet Crown
+  :isUnique: true
+- :name: The Coming Calamity
+  :type: Destroyer Regalia
+  :isUnique: true
+- :name: The Covenant
+  :type: Spidersilk Robe
+  :isUnique: true
+- :name: The Deep One's Hide
+  :type: Studded Round Shield
+  :isUnique: true
+- :name: The Embalmer
+  :type: Carnal Mitts
+  :isUnique: true
+- :name: The Formless Flame
+  :type: Siege Helmet
+  :isUnique: true
+- :name: The Formless Inferno
+  :type: Royal Burgonet
+  :isUnique: true
+- :name: The Fracturing Spinner
+  :type: Blunt Arrow Quiver
+  :isUnique: true
+- :name: The Gull
+  :type: Raven Mask
+  :isUnique: true
+- :name: The Infinite Pursuit
+  :type: Goliath Greaves
+  :isUnique: true
+- :name: The Oak
+  :type: Plank Kite Shield
+  :isUnique: true
+- :name: The Peregrine
+  :type: Visored Sallet
+  :isUnique: true
+- :name: The Perfect Form
+  :type: Zodiac Leather
+  :isUnique: true
+- :name: The Rat Cage
+  :type: Sharkskin Tunic
+  :isUnique: true
+- :name: The Red Trail
+  :type: Titan Greaves
+  :isUnique: true
+- :name: The Restless Ward
+  :type: Carnal Armour
+  :isUnique: true
+- :name: The Signal Fire
+  :type: Fire Arrow Quiver
+  :isUnique: true
+- :name: The Snowblind Grace
+  :type: Coronal Leather
+  :isUnique: true
+- :name: The Surrender
+  :type: Ezomyte Tower Shield
+  :isUnique: true
+- :name: The Tempest's Binding
+  :type: Callous Mask
+  :isUnique: true
+- :name: The Three Dragons
+  :type: Golden Mask
+  :isUnique: true
+- :name: The Unshattered Will
+  :type: Archon Kite Shield
+  :isUnique: true
+- :name: The Vertex
+  :type: Vaal Mask
+  :isUnique: true
+- :name: Thirst for Horrors
+  :type: War Buckler
+  :isUnique: true
+- :name: Thousand Ribbons
+  :type: Simple Robe
+  :isUnique: true
+- :name: Thousand Teeth Temu
+  :type: Vaal Buckler
+  :isUnique: true
+- :name: Three-step Assault
+  :type: Shagreen Boots
+  :isUnique: true
+- :name: Thunderfist
+  :type: Murder Mitts
+  :isUnique: true
+- :name: Tinkerskin
+  :type: Sadist Garb
+  :isUnique: true
+- :name: Titucius' Span
+  :type: Reinforced Tower Shield
+  :isUnique: true
+- :name: Titucus Span
+  :type: Reinforced Tower Shield
+  :isUnique: true
+- :name: Tombfist
+  :type: Steelscale Gauntlets
+  :isUnique: true
+- :name: Trolltimber Spire
+  :type: Cedar Tower Shield
+  :isUnique: true
+- :name: Tukohama's Fortress
+  :type: Ebony Tower Shield
+  :isUnique: true
+- :name: Vaal Caress
+  :type: Bronzescale Gauntlets
+  :isUnique: true
+- :name: Veil of the Night
+  :type: Great Helmet
+  :isUnique: true
+- :name: Veruso's Battering Rams
+  :type: Titan Gauntlets
+  :isUnique: true
+- :name: Victario's Charity
+  :type: Laminated Kite Shield
+  :isUnique: true
+- :name: Victario's Influence
+  :type: Lacquered Garb
+  :isUnique: true
+- :name: Viper's Scales
+  :type: Full Scale Armour
+  :isUnique: true
+- :name: Vis Mortis
+  :type: Necromancer Silks
+  :isUnique: true
+- :name: Vix Lunaris
+  :type: Cardinal Round Shield
+  :isUnique: true
+- :name: Voidbringer
+  :type: Conjurer Gloves
+  :isUnique: true
+- :name: Voidwalker
+  :type: Murder Boots
+  :isUnique: true
+- :name: Volkuur's Guidance
+  :type: Zealot Gloves
+  :isUnique: true
+- :name: Voll's Protector
+  :type: Holy Chainmail
+  :isUnique: true
+- :name: Voll's Vision
+  :type: Praetor Crown
+  :isUnique: true
+- :name: Wake of Destruction
+  :type: Mesh Boots
+  :isUnique: true
+- :name: Wall of Brambles
+  :type: Plate Vest
+  :isUnique: true
+- :name: Wanderlust
+  :type: Wool Shoes
+  :isUnique: true
+- :name: Wheel of the Stormsail
+  :type: Rotted Round Shield
+  :isUnique: true
+- :name: Windscream
+  :type: Reinforced Greaves
+  :isUnique: true
+- :name: Winds of Change
+  :type: Ancient Gauntlets
+  :isUnique: true
+- :name: Wondertrap
+  :type: Velvet Slippers
+  :isUnique: true
+- :name: Wraithlord
+  :type: Bone Circlet
+  :isUnique: true
+- :name: Wyrmsign
+  :type: Wyrmscale Gauntlets
+  :isUnique: true
+- :name: Ylfeban's Trickery
+  :type: Hubris Circlet
+  :isUnique: true
+- :name: Yriel's Fostering
+  :type: Exquisite Leather
+  :isUnique: true
+- :name: Zahndethus' Cassock
+  :type: Sage's Robe
+  :isUnique: true
+- :name: 
+  :type: Golden Mantle
+  :isUnique: false
+- :name: 
+  :type: Shabby Jerkin
+  :isUnique: false
+- :name: 
+  :type: Glorious Leather
+  :isUnique: false
+- :name: 
+  :type: Coronal Leather
+  :isUnique: false
+- :name: 
+  :type: Cutthroat's Garb
+  :isUnique: false
+- :name: 
+  :type: Sharkskin Tunic
+  :isUnique: false
+- :name: 
+  :type: Exquisite Leather
+  :isUnique: false
+- :name: 
+  :type: Zodiac Leather
+  :isUnique: false
+- :name: 
+  :type: Assassin's Garb
+  :isUnique: false
+- :name: 
+  :type: Strapped Leather
+  :isUnique: false
+- :name: 
+  :type: Buckskin Tunic
+  :isUnique: false
+- :name: 
+  :type: Wild Leather
+  :isUnique: false
+- :name: 
+  :type: Full Leather
+  :isUnique: false
+- :name: 
+  :type: Sun Leather
+  :isUnique: false
+- :name: 
+  :type: Thief's Garb
+  :isUnique: false
+- :name: 
+  :type: Eelskin Tunic
+  :isUnique: false
+- :name: 
+  :type: Frontier Leather
+  :isUnique: false
+- :name: 
+  :type: Padded Vest
+  :isUnique: false
+- :name: 
+  :type: Crimson Raiment
+  :isUnique: false
+- :name: 
+  :type: Lacquered Garb
+  :isUnique: false
+- :name: 
+  :type: Crypt Armour
+  :isUnique: false
+- :name: 
+  :type: Sentinel Jacket
+  :isUnique: false
+- :name: 
+  :type: Varnished Coat
+  :isUnique: false
+- :name: 
+  :type: Blood Raiment
+  :isUnique: false
+- :name: 
+  :type: Carnal Armour
+  :isUnique: false
+- :name: 
+  :type: Oiled Vest
+  :isUnique: false
+- :name: 
+  :type: Padded Jacket
+  :isUnique: false
+- :name: 
+  :type: Oiled Coat
+  :isUnique: false
+- :name: 
+  :type: Scarlet Raiment
+  :isUnique: false
+- :name: 
+  :type: Waxed Garb
+  :isUnique: false
+- :name: 
+  :type: Bone Armour
+  :isUnique: false
+- :name: 
+  :type: Quilted Jacket
+  :isUnique: false
+- :name: 
+  :type: Sleek Coat
+  :isUnique: false
+- :name: 
+  :type: Simple Robe
+  :isUnique: false
+- :name: 
+  :type: Conjurer's Vestment
+  :isUnique: false
+- :name: 
+  :type: Spidersilk Robe
+  :isUnique: false
+- :name: 
+  :type: Destroyer Regalia
+  :isUnique: false
+- :name: 
+  :type: Savant's Robe
+  :isUnique: false
+- :name: 
+  :type: Necromancer Silks
+  :isUnique: false
+- :name: 
+  :type: Occultist's Vestment
+  :isUnique: false
+- :name: 
+  :type: Widowsilk Robe
+  :isUnique: false
+- :name: 
+  :type: Vaal Regalia
+  :isUnique: false
+- :name: 
+  :type: Silken Vest
+  :isUnique: false
+- :name: 
+  :type: Scholar's Robe
+  :isUnique: false
+- :name: 
+  :type: Silken Garb
+  :isUnique: false
+- :name: 
+  :type: Mage's Vestment
+  :isUnique: false
+- :name: 
+  :type: Silk Robe
+  :isUnique: false
+- :name: 
+  :type: Cabalist Regalia
+  :isUnique: false
+- :name: 
+  :type: Sage's Robe
+  :isUnique: false
+- :name: 
+  :type: Silken Wrap
+  :isUnique: false
+- :name: 
+  :type: Plate Vest
+  :isUnique: false
+- :name: 
+  :type: Sun Plate
+  :isUnique: false
+- :name: 
+  :type: Colosseum Plate
+  :isUnique: false
+- :name: 
+  :type: Majestic Plate
+  :isUnique: false
+- :name: 
+  :type: Crusader Plate
+  :isUnique: false
+- :name: 
+  :type: Gladiator Plate
+  :isUnique: false
+- :name: 
+  :type: Glorious Plate
+  :isUnique: false
+- :name: 
+  :type: Chestplate
+  :isUnique: false
+- :name: 
+  :type: Copper Plate
+  :isUnique: false
+- :name: 
+  :type: War Plate
+  :isUnique: false
+- :name: 
+  :type: Full Plate
+  :isUnique: false
+- :name: 
+  :type: Arena Plate
+  :isUnique: false
+- :name: 
+  :type: Lordly Plate
+  :isUnique: false
+- :name: 
+  :type: Bronze Plate
+  :isUnique: false
+- :name: 
+  :type: Battle Plate
+  :isUnique: false
+- :name: 
+  :type: Scale Vest
+  :isUnique: false
+- :name: 
+  :type: Full Wyrmscale
+  :isUnique: false
+- :name: 
+  :type: Commander's Brigandine
+  :isUnique: false
+- :name: 
+  :type: Battle Lamellar
+  :isUnique: false
+- :name: 
+  :type: Dragonscale Doublet
+  :isUnique: false
+- :name: 
+  :type: Desert Brigandine
+  :isUnique: false
+- :name: 
+  :type: Full Dragonscale
+  :isUnique: false
+- :name: 
+  :type: General's Brigandine
+  :isUnique: false
+- :name: 
+  :type: Triumphant Lamellar
+  :isUnique: false
+- :name: 
+  :type: Light Brigandine
+  :isUnique: false
+- :name: 
+  :type: Scale Doublet
+  :isUnique: false
+- :name: 
+  :type: Infantry Brigandine
+  :isUnique: false
+- :name: 
+  :type: Full Scale Armour
+  :isUnique: false
+- :name: 
+  :type: Soldier's Brigandine
+  :isUnique: false
+- :name: 
+  :type: Field Lamellar
+  :isUnique: false
+- :name: 
+  :type: Wyrmscale Doublet
+  :isUnique: false
+- :name: 
+  :type: Hussar Brigandine
+  :isUnique: false
+- :name: 
+  :type: Sacrificial Garb
+  :isUnique: false
+- :name: 
+  :type: Chainmail Vest
+  :isUnique: false
+- :name: 
+  :type: Ornate Ringmail
+  :isUnique: false
+- :name: 
+  :type: Chain Hauberk
+  :isUnique: false
+- :name: 
+  :type: Devout Chainmail
+  :isUnique: false
+- :name: 
+  :type: Loricated Ringmail
+  :isUnique: false
+- :name: 
+  :type: Conquest Chainmail
+  :isUnique: false
+- :name: 
+  :type: Elegant Ringmail
+  :isUnique: false
+- :name: 
+  :type: Saint's Hauberk
+  :isUnique: false
+- :name: 
+  :type: Saintly Chainmail
+  :isUnique: false
+- :name: 
+  :type: Chainmail Tunic
+  :isUnique: false
+- :name: 
+  :type: Ringmail Coat
+  :isUnique: false
+- :name: 
+  :type: Chainmail Doublet
+  :isUnique: false
+- :name: 
+  :type: Full Ringmail
+  :isUnique: false
+- :name: 
+  :type: Full Chainmail
+  :isUnique: false
+- :name: 
+  :type: Holy Chainmail
+  :isUnique: false
+- :name: 
+  :type: Latticed Ringmail
+  :isUnique: false
+- :name: 
+  :type: Crusader Chainmail
+  :isUnique: false
+- :name: 
+  :type: Two-Toned Boots
+  :isUnique: false
+- :name: 
+  :type: Golden Caligae
+  :isUnique: false
+- :name: 
+  :type: Rawhide Boots
+  :isUnique: false
+- :name: 
+  :type: Goathide Boots
+  :isUnique: false
+- :name: 
+  :type: Deerskin Boots
+  :isUnique: false
+- :name: 
+  :type: Nubuck Boots
+  :isUnique: false
+- :name: 
+  :type: Eelskin Boots
+  :isUnique: false
+- :name: 
+  :type: Sharkskin Boots
+  :isUnique: false
+- :name: 
+  :type: Shagreen Boots
+  :isUnique: false
+- :name: 
+  :type: Stealth Boots
+  :isUnique: false
+- :name: 
+  :type: Slink Boots
+  :isUnique: false
+- :name: 
+  :type: Wrapped Boots
+  :isUnique: false
+- :name: 
+  :type: Strapped Boots
+  :isUnique: false
+- :name: 
+  :type: Clasped Boots
+  :isUnique: false
+- :name: 
+  :type: Shackled Boots
+  :isUnique: false
+- :name: 
+  :type: Trapper Boots
+  :isUnique: false
+- :name: 
+  :type: Ambush Boots
+  :isUnique: false
+- :name: 
+  :type: Carnal Boots
+  :isUnique: false
+- :name: 
+  :type: Assassin's Boots
+  :isUnique: false
+- :name: 
+  :type: Wool Shoes
+  :isUnique: false
+- :name: 
+  :type: Velvet Slippers
+  :isUnique: false
+- :name: 
+  :type: Silk Slippers
+  :isUnique: false
+- :name: 
+  :type: Scholar Boots
+  :isUnique: false
+- :name: 
+  :type: Satin Slippers
+  :isUnique: false
+- :name: 
+  :type: Samite Slippers
+  :isUnique: false
+- :name: 
+  :type: Conjurer Boots
+  :isUnique: false
+- :name: 
+  :type: Arcanist Slippers
+  :isUnique: false
+- :name: 
+  :type: Sorcerer Boots
+  :isUnique: false
+- :name: 
+  :type: Iron Greaves
+  :isUnique: false
+- :name: 
+  :type: Steel Greaves
+  :isUnique: false
+- :name: 
+  :type: Plated Greaves
+  :isUnique: false
+- :name: 
+  :type: Reinforced Greaves
+  :isUnique: false
+- :name: 
+  :type: Antique Greaves
+  :isUnique: false
+- :name: 
+  :type: Ancient Greaves
+  :isUnique: false
+- :name: 
+  :type: Goliath Greaves
+  :isUnique: false
+- :name: 
+  :type: Vaal Greaves
+  :isUnique: false
+- :name: 
+  :type: Leatherscale Boots
+  :isUnique: false
+- :name: 
+  :type: Bronzescale Boots
+  :isUnique: false
+- :name: 
+  :type: Steelscale Boots
+  :isUnique: false
+- :name: 
+  :type: Serpentscale Boots
+  :isUnique: false
+- :name: 
+  :type: Wyrmscale Boots
+  :isUnique: false
+- :name: 
+  :type: Hydrascale Boots
+  :isUnique: false
+- :name: 
+  :type: Chain Boots
+  :isUnique: false
+- :name: 
+  :type: Ringmail Boots
+  :isUnique: false
+- :name: 
+  :type: Mesh Boots
+  :isUnique: false
+- :name: 
+  :type: Riveted Boots
+  :isUnique: false
+- :name: 
+  :type: Zealot Boots
+  :isUnique: false
+- :name: 
+  :type: Soldier Boots
+  :isUnique: false
+- :name: 
+  :type: Legion Boots
+  :isUnique: false
+- :name: 
+  :type: Crusader Boots
+  :isUnique: false
+- :name: 
+  :type: Gripped Gloves
+  :isUnique: false
+- :name: 
+  :type: Fingerless Silk Gloves
+  :isUnique: false
+- :name: 
+  :type: Spiked Gloves
+  :isUnique: false
+- :name: 
+  :type: Golden Bracers
+  :isUnique: false
+- :name: 
+  :type: Rawhide Gloves
+  :isUnique: false
+- :name: 
+  :type: Goathide Gloves
+  :isUnique: false
+- :name: 
+  :type: Deerskin Gloves
+  :isUnique: false
+- :name: 
+  :type: Nubuck Gloves
+  :isUnique: false
+- :name: 
+  :type: Eelskin Gloves
+  :isUnique: false
+- :name: 
+  :type: Sharkskin Gloves
+  :isUnique: false
+- :name: 
+  :type: Shagreen Gloves
+  :isUnique: false
+- :name: 
+  :type: Stealth Gloves
+  :isUnique: false
+- :name: 
+  :type: Slink Gloves
+  :isUnique: false
+- :name: 
+  :type: Wrapped Mitts
+  :isUnique: false
+- :name: 
+  :type: Strapped Mitts
+  :isUnique: false
+- :name: 
+  :type: Clasped Mitts
+  :isUnique: false
+- :name: 
+  :type: Trapper Mitts
+  :isUnique: false
+- :name: 
+  :type: Ambush Mitts
+  :isUnique: false
+- :name: 
+  :type: Carnal Mitts
+  :isUnique: false
+- :name: 
+  :type: Murder Mitts
+  :isUnique: false
+- :name: 
+  :type: Wool Gloves
+  :isUnique: false
+- :name: 
+  :type: Velvet Gloves
+  :isUnique: false
+- :name: 
+  :type: Silk Gloves
+  :isUnique: false
+- :name: 
+  :type: Embroidered Gloves
+  :isUnique: false
+- :name: 
+  :type: Satin Gloves
+  :isUnique: false
+- :name: 
+  :type: Samite Gloves
+  :isUnique: false
+- :name: 
+  :type: Conjurer Gloves
+  :isUnique: false
+- :name: 
+  :type: Arcanist Gloves
+  :isUnique: false
+- :name: 
+  :type: Sorcerer Gloves
+  :isUnique: false
+- :name: 
+  :type: Iron Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Plated Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Bronze Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Steel Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Antique Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Ancient Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Goliath Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Vaal Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Titan Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Fishscale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Ironscale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Bronzescale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Steelscale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Serpentscale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Wyrmscale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Hydrascale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Dragonscale Gauntlets
+  :isUnique: false
+- :name: 
+  :type: Chain Gloves
+  :isUnique: false
+- :name: 
+  :type: Ringmail Gloves
+  :isUnique: false
+- :name: 
+  :type: Mesh Gloves
+  :isUnique: false
+- :name: 
+  :type: Riveted Gloves
+  :isUnique: false
+- :name: 
+  :type: Zealot Gloves
+  :isUnique: false
+- :name: 
+  :type: Soldier Gloves
+  :isUnique: false
+- :name: 
+  :type: Legion Gloves
+  :isUnique: false
+- :name: 
+  :type: Bone Helmet
+  :isUnique: false
+- :name: 
+  :type: Leather Cap
+  :isUnique: false
+- :name: 
+  :type: Lion Pelt
+  :isUnique: false
+- :name: 
+  :type: Tricorne
+  :isUnique: false
+- :name: 
+  :type: Leather Hood
+  :isUnique: false
+- :name: 
+  :type: Wolf Pelt
+  :isUnique: false
+- :name: 
+  :type: Hunter Hood
+  :isUnique: false
+- :name: 
+  :type: Noble Tricorne
+  :isUnique: false
+- :name: 
+  :type: Ursine Pelt
+  :isUnique: false
+- :name: 
+  :type: Sinner Tricorne
+  :isUnique: false
+- :name: 
+  :type: Scare Mask
+  :isUnique: false
+- :name: 
+  :type: Vaal Mask
+  :isUnique: false
+- :name: 
+  :type: Deicide Mask
+  :isUnique: false
+- :name: 
+  :type: Plague Mask
+  :isUnique: false
+- :name: 
+  :type: Iron Mask
+  :isUnique: false
+- :name: 
+  :type: Festival Mask
+  :isUnique: false
+- :name: 
+  :type: Golden Mask
+  :isUnique: false
+- :name: 
+  :type: Raven Mask
+  :isUnique: false
+- :name: 
+  :type: Callous Mask
+  :isUnique: false
+- :name: 
+  :type: Regicide Mask
+  :isUnique: false
+- :name: 
+  :type: Harlequin Mask
+  :isUnique: false
+- :name: 
+  :type: Vine Circlet
+  :isUnique: false
+- :name: 
+  :type: Mind Cage
+  :isUnique: false
+- :name: 
+  :type: Hubris Circlet
+  :isUnique: false
+- :name: 
+  :type: Iron Circlet
+  :isUnique: false
+- :name: 
+  :type: Torture Cage
+  :isUnique: false
+- :name: 
+  :type: Tribal Circlet
+  :isUnique: false
+- :name: 
+  :type: Bone Circlet
+  :isUnique: false
+- :name: 
+  :type: Lunaris Circlet
+  :isUnique: false
+- :name: 
+  :type: Steel Circlet
+  :isUnique: false
+- :name: 
+  :type: Necromancer Circlet
+  :isUnique: false
+- :name: 
+  :type: Solaris Circlet
+  :isUnique: false
+- :name: 
+  :type: Iron Hat
+  :isUnique: false
+- :name: 
+  :type: Royal Burgonet
+  :isUnique: false
+- :name: 
+  :type: Eternal Burgonet
+  :isUnique: false
+- :name: 
+  :type: Cone Helmet
+  :isUnique: false
+- :name: 
+  :type: Barbute Helmet
+  :isUnique: false
+- :name: 
+  :type: Close Helmet
+  :isUnique: false
+- :name: 
+  :type: Gladiator Helmet
+  :isUnique: false
+- :name: 
+  :type: Reaver Helmet
+  :isUnique: false
+- :name: 
+  :type: Siege Helmet
+  :isUnique: false
+- :name: 
+  :type: Samite Helmet
+  :isUnique: false
+- :name: 
+  :type: Ezomyte Burgonet
+  :isUnique: false
+- :name: 
+  :type: Battered Helm
+  :isUnique: false
+- :name: 
+  :type: Sallet
+  :isUnique: false
+- :name: 
+  :type: Visored Sallet
+  :isUnique: false
+- :name: 
+  :type: Gilded Sallet
+  :isUnique: false
+- :name: 
+  :type: Secutor Helm
+  :isUnique: false
+- :name: 
+  :type: Fencer Helm
+  :isUnique: false
+- :name: 
+  :type: Lacquered Helmet
+  :isUnique: false
+- :name: 
+  :type: Fluted Bascinet
+  :isUnique: false
+- :name: 
+  :type: Pig-Faced Bascinet
+  :isUnique: false
+- :name: 
+  :type: Rusted Coif
+  :isUnique: false
+- :name: 
+  :type: Praetor Crown
+  :isUnique: false
+- :name: 
+  :type: Soldier Helmet
+  :isUnique: false
+- :name: 
+  :type: Great Helmet
+  :isUnique: false
+- :name: 
+  :type: Crusader Helmet
+  :isUnique: false
+- :name: 
+  :type: Aventail Helmet
+  :isUnique: false
+- :name: 
+  :type: Zealot Helmet
+  :isUnique: false
+- :name: 
+  :type: Great Crown
+  :isUnique: false
+- :name: 
+  :type: Magistrate Crown
+  :isUnique: false
+- :name: 
+  :type: Prophet Crown
+  :isUnique: false
+- :name: 
+  :type: Golden Wreath
+  :isUnique: false
+- :name: 
+  :type: Golden Flame
+  :isUnique: false
+- :name: 
+  :type: Goathide Buckler
+  :isUnique: false
+- :name: 
+  :type: Battle Buckler
+  :isUnique: false
+- :name: 
+  :type: Golden Buckler
+  :isUnique: false
+- :name: 
+  :type: Ironwood Buckler
+  :isUnique: false
+- :name: 
+  :type: Lacquered Buckler
+  :isUnique: false
+- :name: 
+  :type: Vaal Buckler
+  :isUnique: false
+- :name: 
+  :type: Crusader Buckler
+  :isUnique: false
+- :name: 
+  :type: Imperial Buckler
+  :isUnique: false
+- :name: 
+  :type: Pine Buckler
+  :isUnique: false
+- :name: 
+  :type: Painted Buckler
+  :isUnique: false
+- :name: 
+  :type: Hammered Buckler
+  :isUnique: false
+- :name: 
+  :type: War Buckler
+  :isUnique: false
+- :name: 
+  :type: Gilded Buckler
+  :isUnique: false
+- :name: 
+  :type: Oak Buckler
+  :isUnique: false
+- :name: 
+  :type: Enameled Buckler
+  :isUnique: false
+- :name: 
+  :type: Corrugated Buckler
+  :isUnique: false
+- :name: 
+  :type: Spiked Bundle
+  :isUnique: false
+- :name: 
+  :type: Alder Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Ezomyte Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Mirrored Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Supreme Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Driftwood Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Alloyed Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Burnished Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Ornate Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Redwood Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Compound Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Polished Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Sovereign Spiked Shield
+  :isUnique: false
+- :name: 
+  :type: Twig Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Chiming Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Lacewood Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Fossilised Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Vaal Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Harmonic Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Titanium Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Yew Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Bone Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Tarnished Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Jingling Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Walnut Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Ivory Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Ancient Spirit Shield
+  :isUnique: false
+- :name: 
+  :type: Splintered Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Bronze Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Girded Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Crested Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Shagreen Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Ebony Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Ezomyte Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Colossal Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Pinnacle Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Corroded Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Rawhide Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Cedar Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Copper Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Reinforced Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Painted Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Buckskin Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Mahogany Tower Shield
+  :isUnique: false
+- :name: 
+  :type: Rotted Round Shield
+  :isUnique: false
+- :name: 
+  :type: Teak Round Shield
+  :isUnique: false
+- :name: 
+  :type: Spiny Round Shield
+  :isUnique: false
+- :name: 
+  :type: Cardinal Round Shield
+  :isUnique: false
+- :name: 
+  :type: Elegant Round Shield
+  :isUnique: false
+- :name: 
+  :type: Fir Round Shield
+  :isUnique: false
+- :name: 
+  :type: Studded Round Shield
+  :isUnique: false
+- :name: 
+  :type: Scarlet Round Shield
+  :isUnique: false
+- :name: 
+  :type: Splendid Round Shield
+  :isUnique: false
+- :name: 
+  :type: Maple Round Shield
+  :isUnique: false
+- :name: 
+  :type: Spiked Round Shield
+  :isUnique: false
+- :name: 
+  :type: Crimson Round Shield
+  :isUnique: false
+- :name: 
+  :type: Plank Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Branded Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Champion Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Archon Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Linden Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Reinforced Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Layered Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Ceremonial Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Etched Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Steel Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Laminated Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Angelic Kite Shield
+  :isUnique: false
+- :name: 
+  :type: Cured Quiver
+  :isUnique: false
+- :name: 
+  :type: Fire Arrow Quiver
+  :isUnique: false
+- :name: 
+  :type: Broadhead Arrow Quiver
+  :isUnique: false
+- :name: 
+  :type: Penetrating Arrow Quiver
+  :isUnique: false
+- :name: 
+  :type: Spike-Point Arrow Quiver
+  :isUnique: false
+- :name: 
+  :type: Rugged Quiver
+  :isUnique: false
+- :name: 
+  :type: Conductive Quiver
+  :isUnique: false
+- :name: 
+  :type: Heavy Quiver
+  :isUnique: false
+- :name: 
+  :type: Light Quiver
+  :isUnique: false
+- :name: 
+  :type: Serrated Arrow Quiver
+  :isUnique: false
+- :name: 
+  :type: Blunt Arrow Quiver
+  :isUnique: false
+- :name: 
+  :type: Onyx Amulet
+  :isUnique: false
+- :name: Andvarius
+  :type: Gold Ring
+  :isUnique: true
+- :name: Angler's Plait
+  :type: Unset Ring
+  :isUnique: true
+- :name: Araku Tiki
+  :type: Coral Amulet
+  :isUnique: true
+- :name: Ascent From Flesh
+  :type: Chain Belt
+  :isUnique: true
+- :name: Astramentis
+  :type: Onyx Amulet
+  :isUnique: true
+- :name: Atziri's Foible
+  :type: Paua Amulet
+  :isUnique: true
+- :name: Auxium
+  :type: Chain Belt
+  :isUnique: true
+- :name: Bated Breath
+  :type: Chain Belt
+  :isUnique: true
+- :name: 
+  :type: Amber Amulet
+  :isUnique: false
+- :name: Belt of the Deceiver
+  :type: Heavy Belt
+  :isUnique: true
+- :name: Berek's Grip
+  :type: Two-Stone Ring
+  :isUnique: true
+- :name: Berek's Pass
+  :type: Two-Stone Ring
+  :isUnique: true
+- :name: Berek's Respite
+  :type: Two-Stone Ring
+  :isUnique: true
+- :name: Bisco's Collar
+  :type: Gold Amulet
+  :isUnique: true
+- :name: Bisco's Leash
+  :type: Heavy Belt
+  :isUnique: true
+- :name: Blackheart
+  :type: Iron Ring
+  :isUnique: true
+- :name: Blightwell
+  :type: Clutching Talisman
+  :isUnique: true
+- :name: Bloodboil
+  :type: Coral Ring
+  :isUnique: true
+- :name: Bloodgrip
+  :type: Marble Amulet
+  :isUnique: true
+- :name: Bloodgrip
+  :type: Coral Amulet
+  :isUnique: true
+- :name: Blood of Corruption
+  :type: Amber Amulet
+  :isUnique: true
+- :name: Brinerot Mark
+  :type: Unset Ring
+  :isUnique: true
+- :name: Call of the Brotherhood
+  :type: Two-Stone Ring
+  :isUnique: true
+- :name: Carnage Heart
+  :type: Onyx Amulet
+  :isUnique: true
+- :name: 
+  :type: Agate Amulet
+  :isUnique: false
+- :name: Choir of the Storm
+  :type: Lapis Amulet
+  :isUnique: true
+- :name: 
+  :type: Lapis Amulet
+  :isUnique: false
+- :name: Cyclopean Coil
+  :type: Leather Belt
+  :isUnique: true
+- :name: Daresso's Salute
+  :type: Citrine Amulet
+  :isUnique: true
+- :name: Darkness Enthroned
+  :type: Stygian Vise
+  :isUnique: true
+- :name: Death Rush
+  :type: Amethyst Ring
+  :isUnique: true
+- :name: Demigod's Bounty
+  :type: Golden Obi
+  :isUnique: true
+- :name: Demigod's Eye
+  :type: Golden Hoop
+  :isUnique: true
+- :name: Demigod's Presence
+  :type: Gold Amulet
+  :isUnique: true
+- :name: Doedre's Damning
+  :type: Paua Ring
+  :isUnique: true
+- :name: Doryani's Invitation
+  :type: Heavy Belt
+  :isUnique: true
+- :name: Dream Fragments
+  :type: Sapphire Ring
+  :isUnique: true
+- :name: Dyadian Dawn
+  :type: Heavy Belt
+  :isUnique: true
+- :name: Emberwake
+  :type: Ruby Ring
+  :isUnique: true
+- :name: Essence Worm
+  :type: Unset Ring
+  :isUnique: true
+- :name: Extractor Mentis
+  :type: Agate Amulet
+  :isUnique: true
+- :name: Eye of Chayula
+  :type: Onyx Amulet
+  :isUnique: true
+- :name: Eye of Innocence
+  :type: Citrine Amulet
+  :isUnique: true
+- :name: Eyes of the Greatwolf
+  :type: Greatwolf Talisman
+  :isUnique: true
+- :name: Faminebind
+  :type: Rustic Sash
+  :isUnique: true
+- :name: Feastbind
+  :type: Rustic Sash
+  :isUnique: true
+- :name: 
+  :type: Leather Belt
+  :isUnique: false
+- :name: Gifts from Above
+  :type: Diamond Ring
+  :isUnique: true
+- :name: Gloomfang
+  :type: Blue Pearl Amulet
+  :isUnique: true
+- :name: Hallowed Ground
+  :type: Unset Ring
+  :isUnique: true
+- :name: Headhunter
+  :type: Leather Belt
+  :isUnique: true
+- :name: Heartbound Loop
+  :type: Moonstone Ring
+  :isUnique: true
+- :name: Hinekora's Sight
+  :type: Onyx Amulet
+  :isUnique: true
+- :name: Immortal Flesh
+  :type: Leather Belt
+  :isUnique: true
+- :name: Impresence
+  :type: Onyx Amulet
+  :isUnique: true
+- :name: Kaom's Sign
+  :type: Coral Ring
+  :isUnique: true
+- :name: Kaom's Way
+  :type: Coral Ring
+  :isUnique: true
+- :name: Karui Charge
+  :type: Jade Amulet
+  :isUnique: true
+- :name: Karui Ward
+  :type: Jade Amulet
+  :isUnique: true
+- :name: Kikazaru
+  :type: Topaz Ring
+  :isUnique: true
+- :name: Le Heup of All
+  :type: Iron Ring
+  :isUnique: true
+- :name: Lori's Lantern
+  :type: Prismatic Ring
+  :isUnique: true
+- :name: Malachai's Artifice
+  :type: Unset Ring
+  :isUnique: true
+- :name: Maligaro's Cruelty
+  :type: Turquoise Amulet
+  :isUnique: true
+- :name: Maligaro's Restraint
+  :type: Chain Belt
+  :isUnique: true
+- :name: Marylene's Fallacy
+  :type: Lapis Amulet
+  :isUnique: true
+- :name: Meginord's Girdle
+  :type: Heavy Belt
+  :isUnique: true
+- :name: Ming's Heart
+  :type: Amethyst Ring
+  :isUnique: true
+- :name: Mokou's Embrace
+  :type: Ruby Ring
+  :isUnique: true
+- :name: Mutewind Seal
+  :type: Unset Ring
+  :isUnique: true
+- :name: Natural Hierarchy
+  :type: Rotfeather Talisman
+  :isUnique: true
+- :name: Ngamahu's Sign
+  :type: Ruby Ring
+  :isUnique: true
+- :name: Ngamahu Tiki
+  :type: Coral Amulet
+  :isUnique: true
+- :name: Night's Hold
+  :type: Black Maw Talisman
+  :isUnique: true
+- :name: Perandus Blazon
+  :type: Cloth Belt
+  :isUnique: true
+- :name: Perandus Signet
+  :type: Paua Ring
+  :isUnique: true
+- :name: Perseverance
+  :type: Vanguard Belt
+  :isUnique: true
+- :name: Praxis
+  :type: Paua Ring
+  :isUnique: true
+- :name: Presence of Chayula
+  :type: Onyx Amulet
+  :isUnique: true
+- :name: Prismweave
+  :type: Rustic Sash
+  :isUnique: true
+- :name: Pyre
+  :type: Sapphire Ring
+  :isUnique: true
+- :name: Rashkaldor's Patience
+  :type: Jade Amulet
+  :isUnique: true
+- :name: Redblade Band
+  :type: Unset Ring
+  :isUnique: true
+- :name: Rigwald's Crest
+  :type: Two-Stone Ring
+  :isUnique: true
+- :name: Rigwald's Curse
+  :type: Wereclaw Talisman
+  :isUnique: true
+- :name: Romira's Banquet
+  :type: Diamond Ring
+  :isUnique: true
+- :name: Ryslatha's Coil
+  :type: Studded Belt
+  :isUnique: true
+- :name: Shaper's Seed
+  :type: Agate Amulet
+  :isUnique: true
+- :name: Shavronne's Revelation
+  :type: Moonstone Ring
+  :isUnique: true
+- :name: Sibyl's Lament
+  :type: Coral Ring
+  :isUnique: true
+- :name: Sidhebreath
+  :type: Paua Amulet
+  :isUnique: true
+- :name: Snakepit
+  :type: Sapphire Ring
+  :isUnique: true
+- :name: Soul Tether
+  :type: Cloth Belt
+  :isUnique: true
+- :name: Soulthirst
+  :type: Cloth Belt
+  :isUnique: true
+- :name: Star of Wraeclast
+  :type: Ruby Amulet
+  :isUnique: true
+- :name: Stone of Lazhwar
+  :type: Lapis Amulet
+  :isUnique: true
+- :name: Sunblast
+  :type: Cloth Belt
+  :isUnique: true
+- :name: Talisman of the Victor
+  :type: Jet Amulet
+  :isUnique: true
+- :name: Tasalio's Sign
+  :type: Sapphire Ring
+  :isUnique: true
+- :name: Tear of Purity
+  :type: Lapis Amulet
+  :isUnique: true
+- :name: The Anvil
+  :type: Amber Amulet
+  :isUnique: true
+- :name: The Ascetic
+  :type: Gold Amulet
+  :isUnique: true
+- :name: The Aylardex
+  :type: Agate Amulet
+  :isUnique: true
+- :name: The Flow Untethered
+  :type: Cloth Belt
+  :isUnique: true
+- :name: The Halcyon
+  :type: Jade Amulet
+  :isUnique: true
+- :name: The Hungry Loop
+  :type: Unset Ring
+  :isUnique: true
+- :name: The Ignomon
+  :type: Gold Amulet
+  :isUnique: true
+- :name: The Magnate
+  :type: Studded Belt
+  :isUnique: true
+- :name: The Pandemonius
+  :type: Jade Amulet
+  :isUnique: true
+- :name: The Pariah
+  :type: Unset Ring
+  :isUnique: true
+- :name: The Retch
+  :type: Rustic Sash
+  :isUnique: true
+- :name: The Taming
+  :type: Prismatic Ring
+  :isUnique: true
+- :name: The Warden's Brand
+  :type: Iron Ring
+  :isUnique: true
+- :name: Thief's Torment
+  :type: Prismatic Ring
+  :isUnique: true
+- :name: Timeclasp
+  :type: Moonstone Ring
+  :isUnique: true
+- :name: Umbilicus Immortalis
+  :type: Leather Belt
+  :isUnique: true
+- :name: Ungil's Harmony
+  :type: Turquoise Amulet
+  :isUnique: true
+- :name: Valako's Sign
+  :type: Topaz Ring
+  :isUnique: true
+- :name: Valyrium
+  :type: Moonstone Ring
+  :isUnique: true
+- :name: Ventor's Gamble
+  :type: Gold Ring
+  :isUnique: true
+- :name: Victario's Acuity
+  :type: Turquoise Amulet
+  :isUnique: true
+- :name: Voice of the Storm
+  :type: Lapis Amulet
+  :isUnique: true
+- :name: Voideye
+  :type: Unset Ring
+  :isUnique: true
+- :name: Voidheart
+  :type: Iron Ring
+  :isUnique: true
+- :name: Voll's Devotion
+  :type: Agate Amulet
+  :isUnique: true
+- :name: Warped Timepiece
+  :type: Turquoise Amulet
+  :isUnique: true
+- :name: Winterheart
+  :type: Gold Amulet
+  :isUnique: true
+- :name: Wurm's Molt
+  :type: Leather Belt
+  :isUnique: true
+- :name: Xoph's Blood
+  :type: Amber Amulet
+  :isUnique: true
+- :name: Xoph's Heart
+  :type: Amber Amulet
+  :isUnique: true
+- :name: Yoke of Suffering
+  :type: Onyx Amulet
+  :isUnique: true
+- :name: 
+  :type: Blue Pearl Amulet
+  :isUnique: false
+- :name: 
+  :type: Marble Amulet
+  :isUnique: false
+- :name: 
+  :type: Jet Amulet
+  :isUnique: false
+- :name: 
+  :type: Paua Amulet
+  :isUnique: false
+- :name: 
+  :type: Citrine Amulet
+  :isUnique: false
+- :name: 
+  :type: Ruby Amulet
+  :isUnique: false
+- :name: 
+  :type: Coral Amulet
+  :isUnique: false
+- :name: 
+  :type: Jade Amulet
+  :isUnique: false
+- :name: 
+  :type: Gold Amulet
+  :isUnique: false
+- :name: 
+  :type: Turquoise Amulet
+  :isUnique: false
+- :name: 
+  :type: Black Maw Talisman
+  :isUnique: false
+- :name: 
+  :type: Mandible Talisman
+  :isUnique: false
+- :name: 
+  :type: Chrysalis Talisman
+  :isUnique: false
+- :name: 
+  :type: Writhing Talisman
+  :isUnique: false
+- :name: 
+  :type: Bonespire Talisman
+  :isUnique: false
+- :name: 
+  :type: Ashscale Talisman
+  :isUnique: false
+- :name: 
+  :type: Lone Antler Talisman
+  :isUnique: false
+- :name: 
+  :type: Deep One Talisman
+  :isUnique: false
+- :name: 
+  :type: Breakrib Talisman
+  :isUnique: false
+- :name: 
+  :type: Deadhand Talisman
+  :isUnique: false
+- :name: 
+  :type: Undying Flesh Talisman
+  :isUnique: false
+- :name: 
+  :type: Rot Head Talisman
+  :isUnique: false
+- :name: 
+  :type: Hexclaw Talisman
+  :isUnique: false
+- :name: 
+  :type: Primal Skull Talisman
+  :isUnique: false
+- :name: 
+  :type: Wereclaw Talisman
+  :isUnique: false
+- :name: 
+  :type: Splitnewt Talisman
+  :isUnique: false
+- :name: 
+  :type: Clutching Talisman
+  :isUnique: false
+- :name: 
+  :type: Avian Twins Talisman
+  :isUnique: false
+- :name: 
+  :type: Fangjaw Talisman
+  :isUnique: false
+- :name: 
+  :type: Horned Talisman
+  :isUnique: false
+- :name: 
+  :type: Spinefuse Talisman
+  :isUnique: false
+- :name: 
+  :type: Three Rat Talisman
+  :isUnique: false
+- :name: 
+  :type: Monkey Twins Talisman
+  :isUnique: false
+- :name: 
+  :type: Longtooth Talisman
+  :isUnique: false
+- :name: 
+  :type: Rotfeather Talisman
+  :isUnique: false
+- :name: 
+  :type: Monkey Paw Talisman
+  :isUnique: false
+- :name: 
+  :type: Three Hands Talisman
+  :isUnique: false
+- :name: 
+  :type: Greatwolf Talisman
+  :isUnique: false
+- :name: 
+  :type: Rustic Sash
+  :isUnique: false
+- :name: 
+  :type: Chain Belt
+  :isUnique: false
+- :name: 
+  :type: Heavy Belt
+  :isUnique: false
+- :name: 
+  :type: Cloth Belt
+  :isUnique: false
+- :name: 
+  :type: Studded Belt
+  :isUnique: false
+- :name: 
+  :type: Stygian Vise
+  :isUnique: false
+- :name: 
+  :type: Vanguard Belt
+  :isUnique: false
+- :name: 
+  :type: Crystal Belt
+  :isUnique: false
+- :name: 
+  :type: Golden Obi
+  :isUnique: false
+- :name: 
+  :type: Breach Ring
+  :isUnique: false
+- :name: 
+  :type: Iron Ring
+  :isUnique: false
+- :name: 
+  :type: Amethyst Ring
+  :isUnique: false
+- :name: 
+  :type: Diamond Ring
+  :isUnique: false
+- :name: 
+  :type: Two-Stone Ring
+  :isUnique: false
+- :name: 
+  :type: Unset Ring
+  :isUnique: false
+- :name: 
+  :type: Coral Ring
+  :isUnique: false
+- :name: 
+  :type: Paua Ring
+  :isUnique: false
+- :name: 
+  :type: Gold Ring
+  :isUnique: false
+- :name: 
+  :type: Topaz Ring
+  :isUnique: false
+- :name: 
+  :type: Sapphire Ring
+  :isUnique: false
+- :name: 
+  :type: Ruby Ring
+  :isUnique: false
+- :name: 
+  :type: Prismatic Ring
+  :isUnique: false
+- :name: 
+  :type: Moonstone Ring
+  :isUnique: false
+- :name: 
+  :type: Steel Ring
+  :isUnique: false
+- :name: 
+  :type: Opal Ring
+  :isUnique: false
+- :name: 
+  :type: Golden Hoop
+  :isUnique: false
+- :name: 
+  :type: Abyssal Cry
+  :isUnique: false
+- :name: 
+  :type: Ancestral Warchief
+  :isUnique: false
+- :name: 
+  :type: Anger
+  :isUnique: false
+- :name: 
+  :type: Animate Guardian
+  :isUnique: false
+- :name: 
+  :type: Animate Weapon
+  :isUnique: false
+- :name: 
+  :type: Arc
+  :isUnique: false
+- :name: 
+  :type: Arctic Armour
+  :isUnique: false
+- :name: 
+  :type: Arctic Breath
+  :isUnique: false
+- :name: 
+  :type: Ball Lightning
+  :isUnique: false
+- :name: 
+  :type: Barrage
+  :isUnique: false
+- :name: 
+  :type: Bear Trap
+  :isUnique: false
+- :name: 
+  :type: Bladefall
+  :isUnique: false
+- :name: 
+  :type: Blade Vortex
+  :isUnique: false
+- :name: 
+  :type: Blast Rain
+  :isUnique: false
+- :name: 
+  :type: Blight
+  :isUnique: false
+- :name: 
+  :type: Blink Arrow
+  :isUnique: false
+- :name: 
+  :type: Blood Rage
+  :isUnique: false
+- :name: 
+  :type: Unearth
+  :isUnique: false
+- :name: 
+  :type: Bone Offering
+  :isUnique: false
+- :name: 
+  :type: Burning Arrow
+  :isUnique: false
+- :name: 
+  :type: Blade Flurry
+  :isUnique: false
+- :name: 
+  :type: Charged Dash
+  :isUnique: false
+- :name: 
+  :type: Clarity
+  :isUnique: false
+- :name: 
+  :type: Cleave
+  :isUnique: false
+- :name: 
+  :type: Purity of Ice
+  :isUnique: false
+- :name: 
+  :type: Cold Snap
+  :isUnique: false
+- :name: 
+  :type: Conductivity
+  :isUnique: false
+- :name: 
+  :type: Contagion
+  :isUnique: false
+- :name: 
+  :type: Conversion Trap
+  :isUnique: false
+- :name: 
+  :type: Convocation
+  :isUnique: false
+- :name: 
+  :type: Cremation
+  :isUnique: false
+- :name: 
+  :type: Bodyswap
+  :isUnique: false
+- :name: 
+  :type: Assassin's Mark
+  :isUnique: false
+- :name: 
+  :type: Cyclone
+  :isUnique: false
+- :name: 
+  :type: Dark Pact
+  :isUnique: false
+- :name: 
+  :type: Decoy Totem
+  :isUnique: false
+- :name: 
+  :type: Desecrate
+  :isUnique: false
+- :name: 
+  :type: Determination
+  :isUnique: false
+- :name: 
+  :type: Detonate Dead
+  :isUnique: false
+- :name: 
+  :type: Detonate Mines
+  :isUnique: false
+- :name: 
+  :type: Devouring Totem
+  :isUnique: false
+- :name: 
+  :type: Discharge
+  :isUnique: false
+- :name: 
+  :type: Discipline
+  :isUnique: false
+- :name: 
+  :type: Dominating Blow
+  :isUnique: false
+- :name: 
+  :type: Double Strike
+  :isUnique: false
+- :name: 
+  :type: Dual Strike
+  :isUnique: false
+- :name: 
+  :type: Earthquake
+  :isUnique: false
+- :name: 
+  :type: Elemental Hit
+  :isUnique: false
+- :name: 
+  :type: Elemental Weakness
+  :isUnique: false
+- :name: 
+  :type: Enduring Cry
+  :isUnique: false
+- :name: 
+  :type: Enfeeble
+  :isUnique: false
+- :name: 
+  :type: Essence Drain
+  :isUnique: false
+- :name: 
+  :type: Ethereal Knives
+  :isUnique: false
+- :name: 
+  :type: Explosive Arrow
+  :isUnique: false
+- :name: 
+  :type: Fireball
+  :isUnique: false
+- :name: 
+  :type: Scorching Ray
+  :isUnique: false
+- :name: 
+  :type: Fire Nova Mine
+  :isUnique: false
+- :name: 
+  :type: Purity of Fire
+  :isUnique: false
+- :name: 
+  :type: Firestorm
+  :isUnique: false
+- :name: 
+  :type: Fire Trap
+  :isUnique: false
+- :name: 
+  :type: Flameblast
+  :isUnique: false
+- :name: 
+  :type: Flame Dash
+  :isUnique: false
+- :name: 
+  :type: Flame Totem
+  :isUnique: false
+- :name: 
+  :type: Flame Surge
+  :isUnique: false
+- :name: 
+  :type: Flammability
+  :isUnique: false
+- :name: 
+  :type: Flesh Offering
+  :isUnique: false
+- :name: 
+  :type: Flicker Strike
+  :isUnique: false
+- :name: 
+  :type: Freeze Mine
+  :isUnique: false
+- :name: 
+  :type: Freezing Pulse
+  :isUnique: false
+- :name: 
+  :type: Frenzy
+  :isUnique: false
+- :name: 
+  :type: Frostbite
+  :isUnique: false
+- :name: 
+  :type: Frost Blades
+  :isUnique: false
+- :name: 
+  :type: Frostbolt
+  :isUnique: false
+- :name: 
+  :type: Vortex
+  :isUnique: false
+- :name: 
+  :type: Frost Bomb
+  :isUnique: false
+- :name: 
+  :type: Frost Wall
+  :isUnique: false
+- :name: 
+  :type: Glacial Cascade
+  :isUnique: false
+- :name: 
+  :type: Glacial Hammer
+  :isUnique: false
+- :name: 
+  :type: Grace
+  :isUnique: false
+- :name: 
+  :type: Ground Slam
+  :isUnique: false
+- :name: 
+  :type: Haste
+  :isUnique: false
+- :name: 
+  :type: Hatred
+  :isUnique: false
+- :name: 
+  :type: Heavy Strike
+  :isUnique: false
+- :name: 
+  :type: Herald of Ash
+  :isUnique: false
+- :name: 
+  :type: Herald of Ice
+  :isUnique: false
+- :name: 
+  :type: Herald of Thunder
+  :isUnique: false
+- :name: 
+  :type: Ice Crash
+  :isUnique: false
+- :name: 
+  :type: Ice Nova
+  :isUnique: false
+- :name: 
+  :type: Ice Shot
+  :isUnique: false
+- :name: 
+  :type: Ice Spear
+  :isUnique: false
+- :name: 
+  :type: Ice Trap
+  :isUnique: false
+- :name: 
+  :type: Immortal Call
+  :isUnique: false
+- :name: 
+  :type: Incinerate
+  :isUnique: false
+- :name: 
+  :type: Infernal Blow
+  :isUnique: false
+- :name: 
+  :type: Kinetic Blast
+  :isUnique: false
+- :name: 
+  :type: Lacerate
+  :isUnique: false
+- :name: 
+  :type: Leap Slam
+  :isUnique: false
+- :name: 
+  :type: Lightning Arrow
+  :isUnique: false
+- :name: 
+  :type: Purity of Lightning
+  :isUnique: false
+- :name: 
+  :type: Lightning Strike
+  :isUnique: false
+- :name: 
+  :type: Lightning Tendrils
+  :isUnique: false
+- :name: 
+  :type: Lightning Trap
+  :isUnique: false
+- :name: 
+  :type: Lightning Warp
+  :isUnique: false
+- :name: 
+  :type: Magma Orb
+  :isUnique: false
+- :name: 
+  :type: Ancestral Protector
+  :isUnique: false
+- :name: 
+  :type: Mirror Arrow
+  :isUnique: false
+- :name: 
+  :type: Molten Shell
+  :isUnique: false
+- :name: 
+  :type: Molten Strike
+  :isUnique: false
+- :name: 
+  :type: Vulnerability
+  :isUnique: false
+- :name: 
+  :type: Orb of Storms
+  :isUnique: false
+- :name: 
+  :type: Phase Run
+  :isUnique: false
+- :name: 
+  :type: Poacher's Mark
+  :isUnique: false
+- :name: 
+  :type: Caustic Arrow
+  :isUnique: false
+- :name: 
+  :type: Portal
+  :isUnique: false
+- :name: 
+  :type: Power Siphon
+  :isUnique: false
+- :name: 
+  :type: Projectile Weakness
+  :isUnique: false
+- :name: 
+  :type: Puncture
+  :isUnique: false
+- :name: 
+  :type: Punishment
+  :isUnique: false
+- :name: 
+  :type: Purity of Elements
+  :isUnique: false
+- :name: 
+  :type: Rain of Arrows
+  :isUnique: false
+- :name: 
+  :type: Raise Spectre
+  :isUnique: false
+- :name: 
+  :type: Raise Zombie
+  :isUnique: false
+- :name: 
+  :type: Rallying Cry
+  :isUnique: false
+- :name: 
+  :type: Reave
+  :isUnique: false
+- :name: 
+  :type: Reckoning
+  :isUnique: false
+- :name: 
+  :type: Rejuvenation Totem
+  :isUnique: false
+- :name: 
+  :type: Righteous Fire
+  :isUnique: false
+- :name: 
+  :type: Riposte
+  :isUnique: false
+- :name: 
+  :type: Searing Bond
+  :isUnique: false
+- :name: 
+  :type: Shield Charge
+  :isUnique: false
+- :name: 
+  :type: Shock Nova
+  :isUnique: false
+- :name: 
+  :type: Shockwave Totem
+  :isUnique: false
+- :name: 
+  :type: Shrapnel Shot
+  :isUnique: false
+- :name: 
+  :type: Siege Ballista
+  :isUnique: false
+- :name: 
+  :type: Smoke Mine
+  :isUnique: false
+- :name: 
+  :type: Spark
+  :isUnique: false
+- :name: 
+  :type: Spirit Offering
+  :isUnique: false
+- :name: 
+  :type: Split Arrow
+  :isUnique: false
+- :name: 
+  :type: Static Strike
+  :isUnique: false
+- :name: 
+  :type: Storm Burst
+  :isUnique: false
+- :name: 
+  :type: Storm Call
+  :isUnique: false
+- :name: 
+  :type: Summon Chaos Golem
+  :isUnique: false
+- :name: 
+  :type: Summon Flame Golem
+  :isUnique: false
+- :name: 
+  :type: Summon Ice Golem
+  :isUnique: false
+- :name: 
+  :type: Summon Lightning Golem
+  :isUnique: false
+- :name: 
+  :type: Summon Raging Spirit
+  :isUnique: false
+- :name: 
+  :type: Summon Stone Golem
+  :isUnique: false
+- :name: 
+  :type: Summon Skeleton
+  :isUnique: false
+- :name: 
+  :type: Sunder
+  :isUnique: false
+- :name: 
+  :type: Sweep
+  :isUnique: false
+- :name: 
+  :type: Tempest Shield
+  :isUnique: false
+- :name: 
+  :type: Temporal Chains
+  :isUnique: false
+- :name: 
+  :type: Spectral Throw
+  :isUnique: false
+- :name: 
+  :type: Tornado Shot
+  :isUnique: false
+- :name: 
+  :type: Vaal Arc
+  :isUnique: false
+- :name: 
+  :type: Vaal Burning Arrow
+  :isUnique: false
+- :name: 
+  :type: Vaal Clarity
+  :isUnique: false
+- :name: 
+  :type: Vaal Cold Snap
+  :isUnique: false
+- :name: 
+  :type: Vaal Cyclone
+  :isUnique: false
+- :name: 
+  :type: Vaal Detonate Dead
+  :isUnique: false
+- :name: 
+  :type: Vaal Discipline
+  :isUnique: false
+- :name: 
+  :type: Vaal Double Strike
+  :isUnique: false
+- :name: 
+  :type: Vaal Fireball
+  :isUnique: false
+- :name: 
+  :type: Vaal Flameblast
+  :isUnique: false
+- :name: 
+  :type: Vaal Glacial Hammer
+  :isUnique: false
+- :name: 
+  :type: Vaal Grace
+  :isUnique: false
+- :name: 
+  :type: Vaal Ground Slam
+  :isUnique: false
+- :name: 
+  :type: Vaal Haste
+  :isUnique: false
+- :name: 
+  :type: Vaal Ice Nova
+  :isUnique: false
+- :name: 
+  :type: Vaal Immortal Call
+  :isUnique: false
+- :name: 
+  :type: Vaal Lightning Strike
+  :isUnique: false
+- :name: 
+  :type: Vaal Lightning Trap
+  :isUnique: false
+- :name: 
+  :type: Vaal Lightning Warp
+  :isUnique: false
+- :name: 
+  :type: Vaal Molten Shell
+  :isUnique: false
+- :name: 
+  :type: Vaal Breach
+  :isUnique: false
+- :name: 
+  :type: Vaal Power Siphon
+  :isUnique: false
+- :name: 
+  :type: Vaal Rain of Arrows
+  :isUnique: false
+- :name: 
+  :type: Vaal Reave
+  :isUnique: false
+- :name: 
+  :type: Vaal Righteous Fire
+  :isUnique: false
+- :name: 
+  :type: Vaal Spark
+  :isUnique: false
+- :name: 
+  :type: Vaal Storm Call
+  :isUnique: false
+- :name: 
+  :type: Vaal Summon Skeletons
+  :isUnique: false
+- :name: 
+  :type: Vaal Spectral Throw
+  :isUnique: false
+- :name: 
+  :type: Vengeance
+  :isUnique: false
+- :name: 
+  :type: Vigilant Strike
+  :isUnique: false
+- :name: 
+  :type: Viper Strike
+  :isUnique: false
+- :name: 
+  :type: Vitality
+  :isUnique: false
+- :name: 
+  :type: Volatile Dead
+  :isUnique: false
+- :name: 
+  :type: Despair
+  :isUnique: false
+- :name: 
+  :type: Warlord's Mark
+  :isUnique: false
+- :name: 
+  :type: Whirling Blades
+  :isUnique: false
+- :name: 
+  :type: Wild Strike
+  :isUnique: false
+- :name: 
+  :type: Wither
+  :isUnique: false
+- :name: 
+  :type: Wrath
+  :isUnique: false
+- :name: 
+  :type: Added Chaos Damage Support
+  :isUnique: false
+- :name: 
+  :type: Added Cold Damage Support
+  :isUnique: false
+- :name: 
+  :type: Added Fire Damage Support
+  :isUnique: false
+- :name: 
+  :type: Added Lightning Damage Support
+  :isUnique: false
+- :name: 
+  :type: Additional Accuracy Support
+  :isUnique: false
+- :name: 
+  :type: Empower Support
+  :isUnique: false
+- :name: 
+  :type: Enhance Support
+  :isUnique: false
+- :name: 
+  :type: Enlighten Support
+  :isUnique: false
+- :name: 
+  :type: Arcane Surge Support
+  :isUnique: false
+- :name: 
+  :type: Blasphemy Support
+  :isUnique: false
+- :name: 
+  :type: Blind Support
+  :isUnique: false
+- :name: 
+  :type: Block Chance Reduction Support
+  :isUnique: false
+- :name: 
+  :type: Bloodlust Support
+  :isUnique: false
+- :name: 
+  :type: Blood Magic Support
+  :isUnique: false
+- :name: 
+  :type: Brutality Support
+  :isUnique: false
+- :name: 
+  :type: Cast On Critical Strike Support
+  :isUnique: false
+- :name: 
+  :type: Cast when Damage Taken Support
+  :isUnique: false
+- :name: 
+  :type: Cast on Death Support
+  :isUnique: false
+- :name: 
+  :type: Cast on Melee Kill Support
+  :isUnique: false
+- :name: 
+  :type: Cast when Stunned Support
+  :isUnique: false
+- :name: 
+  :type: Cast while Channelling Support
+  :isUnique: false
+- :name: 
+  :type: Chain Support
+  :isUnique: false
+- :name: 
+  :type: Chance to Bleed Support
+  :isUnique: false
+- :name: 
+  :type: Chance to Flee Support
+  :isUnique: false
+- :name: 
+  :type: Chance to Ignite Support
+  :isUnique: false
+- :name: 
+  :type: Cluster Traps Support
+  :isUnique: false
+- :name: 
+  :type: Cold Penetration Support
+  :isUnique: false
+- :name: 
+  :type: Cold to Fire Support
+  :isUnique: false
+- :name: 
+  :type: Concentrated Effect Support
+  :isUnique: false
+- :name: 
+  :type: Controlled Destruction Support
+  :isUnique: false
+- :name: 
+  :type: Culling Strike Support
+  :isUnique: false
+- :name: 
+  :type: Curse On Hit Support
+  :isUnique: false
+- :name: 
+  :type: Hypothermia Support
+  :isUnique: false
+- :name: 
+  :type: Deadly Ailments Support
+  :isUnique: false
+- :name: 
+  :type: Decay Support
+  :isUnique: false
+- :name: 
+  :type: Efficacy Support
+  :isUnique: false
+- :name: 
+  :type: Elemental Focus Support
+  :isUnique: false
+- :name: 
+  :type: Elemental Proliferation Support
+  :isUnique: false
+- :name: 
+  :type: Endurance Charge on Melee Stun Support
+  :isUnique: false
+- :name: 
+  :type: Faster Attacks Support
+  :isUnique: false
+- :name: 
+  :type: Faster Casting Support
+  :isUnique: false
+- :name: 
+  :type: Faster Projectiles Support
+  :isUnique: false
+- :name: 
+  :type: Fire Penetration Support
+  :isUnique: false
+- :name: 
+  :type: Fork Support
+  :isUnique: false
+- :name: 
+  :type: Fortify Support
+  :isUnique: false
+- :name: 
+  :type: Ice Bite Support
+  :isUnique: false
+- :name: 
+  :type: Generosity Support
+  :isUnique: false
+- :name: 
+  :type: Greater Multiple Projectiles Support
+  :isUnique: false
+- :name: 
+  :type: Ignite Proliferation Support
+  :isUnique: false
+- :name: 
+  :type: Immolate Support
+  :isUnique: false
+- :name: 
+  :type: Increased Area of Effect Support
+  :isUnique: false
+- :name: 
+  :type: Burning Damage Support
+  :isUnique: false
+- :name: 
+  :type: Increased Critical Damage Support
+  :isUnique: false
+- :name: 
+  :type: Increased Critical Strikes Support
+  :isUnique: false
+- :name: 
+  :type: Increased Duration Support
+  :isUnique: false
+- :name: 
+  :type: Iron Grip Support
+  :isUnique: false
+- :name: 
+  :type: Iron Will Support
+  :isUnique: false
+- :name: 
+  :type: Item Quantity Support
+  :isUnique: false
+- :name: 
+  :type: Item Rarity Support
+  :isUnique: false
+- :name: 
+  :type: Knockback Support
+  :isUnique: false
+- :name: 
+  :type: Lesser Multiple Projectiles Support
+  :isUnique: false
+- :name: 
+  :type: Lesser Poison Support
+  :isUnique: false
+- :name: 
+  :type: Life Gain on Hit Support
+  :isUnique: false
+- :name: 
+  :type: Life Leech Support
+  :isUnique: false
+- :name: 
+  :type: Lightning Penetration Support
+  :isUnique: false
+- :name: 
+  :type: Maim Support
+  :isUnique: false
+- :name: 
+  :type: Mana Leech Support
+  :isUnique: false
+- :name: 
+  :type: Damage on Full Life Support
+  :isUnique: false
+- :name: 
+  :type: Melee Physical Damage Support
+  :isUnique: false
+- :name: 
+  :type: Melee Splash Support
+  :isUnique: false
+- :name: 
+  :type: Minefield Support
+  :isUnique: false
+- :name: 
+  :type: Minion Damage Support
+  :isUnique: false
+- :name: 
+  :type: Minion Life Support
+  :isUnique: false
+- :name: 
+  :type: Minion Speed Support
+  :isUnique: false
+- :name: 
+  :type: Mirage Archer Support
+  :isUnique: false
+- :name: 
+  :type: Spell Echo Support
+  :isUnique: false
+- :name: 
+  :type: Multistrike Support
+  :isUnique: false
+- :name: 
+  :type: Multiple Traps Support
+  :isUnique: false
+- :name: 
+  :type: Onslaught Support
+  :isUnique: false
+- :name: 
+  :type: Innervate Support
+  :isUnique: false
+- :name: 
+  :type: Volley Support
+  :isUnique: false
+- :name: 
+  :type: Physical Projectile Attack Damage Support
+  :isUnique: false
+- :name: 
+  :type: Physical to Lightning Support
+  :isUnique: false
+- :name: 
+  :type: Pierce Support
+  :isUnique: false
+- :name: 
+  :type: Point Blank Support
+  :isUnique: false
+- :name: 
+  :type: Poison Support
+  :isUnique: false
+- :name: 
+  :type: Power Charge On Critical Support
+  :isUnique: false
+- :name: 
+  :type: Ranged Attack Totem Support
+  :isUnique: false
+- :name: 
+  :type: Swift Affliction Support
+  :isUnique: false
+- :name: 
+  :type: Less Duration Support
+  :isUnique: false
+- :name: 
+  :type: Reduced Mana Support
+  :isUnique: false
+- :name: 
+  :type: Remote Mine Support
+  :isUnique: false
+- :name: 
+  :type: Ruthless Support
+  :isUnique: false
+- :name: 
+  :type: Slower Projectiles Support
+  :isUnique: false
+- :name: 
+  :type: Spell Cascade Support
+  :isUnique: false
+- :name: 
+  :type: Spell Totem Support
+  :isUnique: false
+- :name: 
+  :type: Ancestral Call Support
+  :isUnique: false
+- :name: 
+  :type: Storm Barrier Support
+  :isUnique: false
+- :name: 
+  :type: Stun Support
+  :isUnique: false
+- :name: 
+  :type: Minion and Totem Elemental Resistance Support
+  :isUnique: false
+- :name: 
+  :type: Trap Support
+  :isUnique: false
+- :name: 
+  :type: Trap and Mine Damage Support
+  :isUnique: false
+- :name: 
+  :type: Trap Cooldown Support
+  :isUnique: false
+- :name: 
+  :type: Unbound Ailments Support
+  :isUnique: false
+- :name: 
+  :type: Vile Toxins Support
+  :isUnique: false
+- :name: 
+  :type: Void Manipulation Support
+  :isUnique: false
+- :name: 
+  :type: Elemental Damage with Attacks Support
+  :isUnique: false
+- :name: Anatomical Knowledge
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Ancient Waystones
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Apparitions
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: To Dust
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Assassin's Haste
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Atziri's Reign
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Blood Sacrifice
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Brawn
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Brittle Barrier
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Brute Force Solution
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Fortified Legion
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Careful Planning
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Cheap Construction
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Chill of Corruption
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Clear Mind
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Coated Shrapnel
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Cold Steel
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Collateral Damage
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Combustibles
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Conqueror's Efficiency
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Conqueror's Longevity
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Conqueror's Potency
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Corrupted Energy
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Dead Reckoning
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Efficient Training
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Eldritch Knowledge
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Emperor's Cunning
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Emperor's Mastery
+  :type: Prismatic Jewel
+  :isUnique: true
+- :name: Emperor's Might
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Emperor's Wit
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Energised Armour
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Energy From Within
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Fertile Mind
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Fevered Mind
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Fight for Survival
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Fireborn
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: First Snow
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Fluid Motion
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Fragile Bloom
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Fragility
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: From Dust
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Frozen Trail
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Grand Spectrum
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Grand Spectrum
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Grand Spectrum
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Growing Agony
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Hair Trigger
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Hazardous Research
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Healthy Mind
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Hidden Potential
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Hotfooted
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Hungry Abyss
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Inertia
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Inevitability
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Inspired Learning
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Intuitive Leap
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Izaro's Turmoil
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Lioneye's Fall
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Malicious Intent
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Mantra of Flames
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Martial Artistry
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Might and Influence
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Might in All Forms
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Mutated Growth
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Omen on the Winds
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Overwhelming Odds
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Pacifism
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Pitch Darkness
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Poacher's Aim
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Powerlessness
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Primordial Eminence
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Primordial Harmony
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Primordial Might
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Pugilist
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Pure Talent
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Rain of Splinters
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Rapid Expansion
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Reckless Defence
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Ring of Blades
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Rolling Flames
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Sacrificial Harvest
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Self-Flagellation
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Shattered Chains
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Soul's Wick
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Spire of Stone
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Spirited Response
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Spirit Guards
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Spreading Rot
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Static Electricity
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Steel Spirit
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Sudden Ignition
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Survival Instincts
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Survival Secrets
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Survival Skills
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: The Anima Stone
+  :type: Prismatic Jewel
+  :isUnique: true
+- :name: The Blue Dream
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: The Blue Nightmare
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: The Golden Rule
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: The Green Dream
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: The Green Nightmare
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: The Long Winter
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: The Red Dream
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: The Red Nightmare
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: The Vigil
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Unending Hunger
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Unstable Payload
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Vaal Sentencing
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Violent Dead
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: Volley Fire
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Warlord's Reach
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Watcher's Eye
+  :type: Prismatic Jewel
+  :isUnique: true
+- :name: Weight of Sin
+  :type: Viridian Jewel
+  :isUnique: true
+- :name: Weight of the Empire
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Wildfire
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Winter Burial
+  :type: Crimson Jewel
+  :isUnique: true
+- :name: Winter's Bounty
+  :type: Cobalt Jewel
+  :isUnique: true
+- :name: 
+  :type: Hypnotic Eye Jewel
+  :isUnique: false
+- :name: 
+  :type: Murderous Eye Jewel
+  :isUnique: false
+- :name: 
+  :type: Searching Eye Jewel
+  :isUnique: false
+- :name: 
+  :type: Ghastly Eye Jewel
+  :isUnique: false
+- :name: 
+  :type: Viridian Jewel
+  :isUnique: false
+- :name: 
+  :type: Cobalt Jewel
+  :isUnique: false
+- :name: 
+  :type: Prismatic Jewel
+  :isUnique: false
+- :name: 
+  :type: Crimson Jewel
+  :isUnique: false
+- :name: Atziri's Promise
+  :type: Amethyst Flask
+  :isUnique: true
+- :name: Blood of the Karui
+  :type: Sanctified Life Flask
+  :isUnique: true
+- :name: Coralito's Signature
+  :type: Diamond Flask
+  :isUnique: true
+- :name: Coruscating Elixir
+  :type: Ruby Flask
+  :isUnique: true
+- :name: Divination Distillate
+  :type: Large Hybrid Flask
+  :isUnique: true
+- :name: Doedre's Elixir
+  :type: Greater Mana Flask
+  :isUnique: true
+- :name: Dying Sun
+  :type: Ruby Flask
+  :isUnique: true
+- :name: Forbidden Taste
+  :type: Quartz Flask
+  :isUnique: true
+- :name: Kiara's Determination
+  :type: Silver Flask
+  :isUnique: true
+- :name: Lavianga's Spirit
+  :type: Sanctified Mana Flask
+  :isUnique: true
+- :name: Lion's Roar
+  :type: Granite Flask
+  :isUnique: true
+- :name: Rotgut
+  :type: Quicksilver Flask
+  :isUnique: true
+- :name: Rumi's Concoction
+  :type: Granite Flask
+  :isUnique: true
+- :name: Sin's Rebirth
+  :type: Stibnite Flask
+  :isUnique: true
+- :name: Taste of Hate
+  :type: Sapphire Flask
+  :isUnique: true
+- :name: The Overflowing Chalice
+  :type: Sulphur Flask
+  :isUnique: true
+- :name: The Sorrow of the Divine
+  :type: Sulphur Flask
+  :isUnique: true
+- :name: The Wise Oak
+  :type: Bismuth Flask
+  :isUnique: true
+- :name: The Writhing Jar
+  :type: Hallowed Hybrid Flask
+  :isUnique: true
+- :name: Vessel of Vinktar
+  :type: Topaz Flask
+  :isUnique: true
+- :name: Witchfire Brew
+  :type: Stibnite Flask
+  :isUnique: true
+- :name: Zerphi's Last Breath
+  :type: Grand Mana Flask
+  :isUnique: true
+- :name: 
+  :type: Small Hybrid Flask
+  :isUnique: false
+- :name: 
+  :type: Medium Hybrid Flask
+  :isUnique: false
+- :name: 
+  :type: Large Hybrid Flask
+  :isUnique: false
+- :name: 
+  :type: Colossal Hybrid Flask
+  :isUnique: false
+- :name: 
+  :type: Sacred Hybrid Flask
+  :isUnique: false
+- :name: 
+  :type: Hallowed Hybrid Flask
+  :isUnique: false
+- :name: 
+  :type: Small Life Flask
+  :isUnique: false
+- :name: 
+  :type: Sanctified Life Flask
+  :isUnique: false
+- :name: 
+  :type: Divine Life Flask
+  :isUnique: false
+- :name: 
+  :type: Eternal Life Flask
+  :isUnique: false
+- :name: 
+  :type: Medium Life Flask
+  :isUnique: false
+- :name: 
+  :type: Large Life Flask
+  :isUnique: false
+- :name: 
+  :type: Greater Life Flask
+  :isUnique: false
+- :name: 
+  :type: Grand Life Flask
+  :isUnique: false
+- :name: 
+  :type: Giant Life Flask
+  :isUnique: false
+- :name: 
+  :type: Colossal Life Flask
+  :isUnique: false
+- :name: 
+  :type: Sacred Life Flask
+  :isUnique: false
+- :name: 
+  :type: Hallowed Life Flask
+  :isUnique: false
+- :name: 
+  :type: Small Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Sanctified Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Divine Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Eternal Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Medium Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Large Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Greater Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Grand Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Giant Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Colossal Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Sacred Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Hallowed Mana Flask
+  :isUnique: false
+- :name: 
+  :type: Diamond Flask
+  :isUnique: false
+- :name: 
+  :type: Basalt Flask
+  :isUnique: false
+- :name: 
+  :type: Aquamarine Flask
+  :isUnique: false
+- :name: 
+  :type: Stibnite Flask
+  :isUnique: false
+- :name: 
+  :type: Sulphur Flask
+  :isUnique: false
+- :name: 
+  :type: Silver Flask
+  :isUnique: false
+- :name: 
+  :type: Bismuth Flask
+  :isUnique: false
+- :name: 
+  :type: Ruby Flask
+  :isUnique: false
+- :name: 
+  :type: Sapphire Flask
+  :isUnique: false
+- :name: 
+  :type: Topaz Flask
+  :isUnique: false
+- :name: 
+  :type: Granite Flask
+  :isUnique: false
+- :name: 
+  :type: Quicksilver Flask
+  :isUnique: false
+- :name: 
+  :type: Amethyst Flask
+  :isUnique: false
+- :name: 
+  :type: Quartz Flask
+  :isUnique: false
+- :name: 
+  :type: Jade Flask
+  :isUnique: false
+- :name: Acton's Nightmare
+  :type: Overgrown Shrine Map
+  :isUnique: true
+- :name: Caer Blaidd, Wolfpack's Den
+  :type: Underground River Map
+  :isUnique: true
+- :name: Death and Taxes
+  :type: Necropolis Map
+  :isUnique: true
+- :name: Hall of Grandmasters
+  :type: Promenade Map
+  :isUnique: true
+- :name: Hallowed Ground
+  :type: Cemetery Map
+  :isUnique: true
+- :name: Maelström of Chaos
+  :type: Atoll Map
+  :isUnique: true
+- :name: Mao Kun
+  :type: Shore Map
+  :isUnique: true
+- :name: Oba's Cursed Trove
+  :type: Torture Chamber Map
+  :isUnique: true
+- :name: Olmec's Sanctum
+  :type: Bone Crypt Map
+  :isUnique: true
+- :name: Pillars of Arun
+  :type: Dunes Map
+  :isUnique: true
+- :name: Poorjoy's Asylum
+  :type: Temple Map
+  :isUnique: true
+- :name: Skullhead
+  :type: Castle Ruins Map
+  :isUnique: true
+- :name: The Coward's Trial
+  :type: Cursed Crypt Map
+  :isUnique: true
+- :name: The Putrid Cloister
+  :type: Museum Map
+  :isUnique: true
+- :name: The Twilight Temple
+  :type: Moon Temple Map
+  :isUnique: true
+- :name: The Vinktar Square
+  :type: Courtyard Map
+  :isUnique: true
+- :name: Vaults of Atziri
+  :type: Vaal Pyramid Map
+  :isUnique: true
+- :name: Whakawairua Tuahu
+  :type: Strand Map
+  :isUnique: true
+- :name: 
+  :type: Academy Map
+  :isUnique: false
+- :name: 
+  :type: Acid Lakes Map
+  :isUnique: false
+- :name: 
+  :type: Alleyways Map
+  :isUnique: false
+- :name: 
+  :type: Ancient City Map
+  :isUnique: false
+- :name: 
+  :type: Arachnid Nest Map
+  :isUnique: false
+- :name: 
+  :type: Arachnid Tomb Map
+  :isUnique: false
+- :name: 
+  :type: Arcade Map
+  :isUnique: false
+- :name: 
+  :type: Arena Map
+  :isUnique: false
+- :name: 
+  :type: Arid Lake Map
+  :isUnique: false
+- :name: 
+  :type: Armoury Map
+  :isUnique: false
+- :name: 
+  :type: Arsenal Map
+  :isUnique: false
+- :name: 
+  :type: Ashen Wood Map
+  :isUnique: false
+- :name: 
+  :type: Atoll Map
+  :isUnique: false
+- :name: 
+  :type: Barrows Map
+  :isUnique: false
+- :name: 
+  :type: Basilica Map
+  :isUnique: false
+- :name: 
+  :type: Bazaar Map
+  :isUnique: false
+- :name: 
+  :type: Beach Map
+  :isUnique: false
+- :name: 
+  :type: Belfry Map
+  :isUnique: false
+- :name: 
+  :type: Bog Map
+  :isUnique: false
+- :name: 
+  :type: Bone Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Burial Chambers Map
+  :isUnique: false
+- :name: 
+  :type: Cage Map
+  :isUnique: false
+- :name: 
+  :type: Caldera Map
+  :isUnique: false
+- :name: 
+  :type: Canyon Map
+  :isUnique: false
+- :name: 
+  :type: Carcass Map
+  :isUnique: false
+- :name: 
+  :type: Castle Ruins Map
+  :isUnique: false
+- :name: 
+  :type: Cells Map
+  :isUnique: false
+- :name: 
+  :type: Cemetery Map
+  :isUnique: false
+- :name: 
+  :type: Channel Map
+  :isUnique: false
+- :name: 
+  :type: Chateau Map
+  :isUnique: false
+- :name: 
+  :type: Pit of the Chimera Map
+  :isUnique: false
+- :name: 
+  :type: City Square Map
+  :isUnique: false
+- :name: 
+  :type: Colonnade Map
+  :isUnique: false
+- :name: 
+  :type: Colosseum Map
+  :isUnique: false
+- :name: 
+  :type: Conservatory Map
+  :isUnique: false
+- :name: 
+  :type: Coral Ruins Map
+  :isUnique: false
+- :name: 
+  :type: Core Map
+  :isUnique: false
+- :name: 
+  :type: Courthouse Map
+  :isUnique: false
+- :name: 
+  :type: Courtyard Map
+  :isUnique: false
+- :name: 
+  :type: Coves Map
+  :isUnique: false
+- :name: 
+  :type: Crimson Temple Map
+  :isUnique: false
+- :name: 
+  :type: Crystal Ore Map
+  :isUnique: false
+- :name: 
+  :type: Cursed Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Dark Forest Map
+  :isUnique: false
+- :name: 
+  :type: Defiled Cathedral Map
+  :isUnique: false
+- :name: 
+  :type: Desert Map
+  :isUnique: false
+- :name: 
+  :type: Desert Spring Map
+  :isUnique: false
+- :name: 
+  :type: Dig Map
+  :isUnique: false
+- :name: 
+  :type: Dunes Map
+  :isUnique: false
+- :name: 
+  :type: Dungeon Map
+  :isUnique: false
+- :name: 
+  :type: Estuary Map
+  :isUnique: false
+- :name: 
+  :type: Excavation Map
+  :isUnique: false
+- :name: 
+  :type: Factory Map
+  :isUnique: false
+- :name: 
+  :type: Fields Map
+  :isUnique: false
+- :name: 
+  :type: Flooded Mine Map
+  :isUnique: false
+- :name: 
+  :type: Gardens Map
+  :isUnique: false
+- :name: 
+  :type: Geode Map
+  :isUnique: false
+- :name: 
+  :type: Ghetto Map
+  :isUnique: false
+- :name: 
+  :type: Gorge Map
+  :isUnique: false
+- :name: 
+  :type: Graveyard Map
+  :isUnique: false
+- :name: 
+  :type: Grotto Map
+  :isUnique: false
+- :name: 
+  :type: Harbinger Map
+  :isUnique: false
+- :name: 
+  :type: Haunted Mansion Map
+  :isUnique: false
+- :name: 
+  :type: Lair of the Hydra Map
+  :isUnique: false
+- :name: 
+  :type: Iceberg Map
+  :isUnique: false
+- :name: 
+  :type: Infested Valley Map
+  :isUnique: false
+- :name: 
+  :type: Ivory Temple Map
+  :isUnique: false
+- :name: 
+  :type: Jungle Valley Map
+  :isUnique: false
+- :name: 
+  :type: Laboratory Map
+  :isUnique: false
+- :name: 
+  :type: Lair Map
+  :isUnique: false
+- :name: 
+  :type: Lava Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Lava Lake Map
+  :isUnique: false
+- :name: 
+  :type: Leyline Map
+  :isUnique: false
+- :name: 
+  :type: Lighthouse Map
+  :isUnique: false
+- :name: 
+  :type: Lookout Map
+  :isUnique: false
+- :name: 
+  :type: Malformation Map
+  :isUnique: false
+- :name: 
+  :type: Marshes Map
+  :isUnique: false
+- :name: 
+  :type: Mausoleum Map
+  :isUnique: false
+- :name: 
+  :type: Maze Map
+  :isUnique: false
+- :name: 
+  :type: Mesa Map
+  :isUnique: false
+- :name: 
+  :type: Mineral Pools Map
+  :isUnique: false
+- :name: 
+  :type: Maze of the Minotaur Map
+  :isUnique: false
+- :name: 
+  :type: Moon Temple Map
+  :isUnique: false
+- :name: 
+  :type: Mud Geyser Map
+  :isUnique: false
+- :name: 
+  :type: Museum Map
+  :isUnique: false
+- :name: 
+  :type: Necropolis Map
+  :isUnique: false
+- :name: 
+  :type: Orchard Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Ruin Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Palace Map
+  :isUnique: false
+- :name: 
+  :type: Park Map
+  :isUnique: false
+- :name: 
+  :type: Pen Map
+  :isUnique: false
+- :name: 
+  :type: Peninsula Map
+  :isUnique: false
+- :name: 
+  :type: Phantasmagoria Map
+  :isUnique: false
+- :name: 
+  :type: Forge of the Phoenix Map
+  :isUnique: false
+- :name: 
+  :type: Pier Map
+  :isUnique: false
+- :name: 
+  :type: Pit Map
+  :isUnique: false
+- :name: 
+  :type: Plateau Map
+  :isUnique: false
+- :name: 
+  :type: Plaza Map
+  :isUnique: false
+- :name: 
+  :type: Port Map
+  :isUnique: false
+- :name: 
+  :type: Precinct Map
+  :isUnique: false
+- :name: 
+  :type: Primordial Pool Map
+  :isUnique: false
+- :name: 
+  :type: Promenade Map
+  :isUnique: false
+- :name: 
+  :type: Racecourse Map
+  :isUnique: false
+- :name: 
+  :type: Ramparts Map
+  :isUnique: false
+- :name: 
+  :type: Reef Map
+  :isUnique: false
+- :name: 
+  :type: Relic Chambers Map
+  :isUnique: false
+- :name: 
+  :type: Residence Map
+  :isUnique: false
+- :name: 
+  :type: Scriptorium Map
+  :isUnique: false
+- :name: 
+  :type: Sepulchre Map
+  :isUnique: false
+- :name: 
+  :type: Shipyard Map
+  :isUnique: false
+- :name: 
+  :type: Shore Map
+  :isUnique: false
+- :name: 
+  :type: Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Siege Map
+  :isUnique: false
+- :name: 
+  :type: Spider Forest Map
+  :isUnique: false
+- :name: 
+  :type: Spider Lair Map
+  :isUnique: false
+- :name: 
+  :type: Springs Map
+  :isUnique: false
+- :name: 
+  :type: Strand Map
+  :isUnique: false
+- :name: 
+  :type: Sulphur Vents Map
+  :isUnique: false
+- :name: 
+  :type: Summit Map
+  :isUnique: false
+- :name: 
+  :type: Sunken City Map
+  :isUnique: false
+- :name: 
+  :type: Temple Map
+  :isUnique: false
+- :name: 
+  :type: Terrace Map
+  :isUnique: false
+- :name: 
+  :type: Thicket Map
+  :isUnique: false
+- :name: 
+  :type: Torture Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Tower Map
+  :isUnique: false
+- :name: 
+  :type: Toxic Sewer Map
+  :isUnique: false
+- :name: 
+  :type: Tribunal Map
+  :isUnique: false
+- :name: 
+  :type: Tropical Island Map
+  :isUnique: false
+- :name: 
+  :type: Underground River Map
+  :isUnique: false
+- :name: 
+  :type: Underground Sea Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Pyramid Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Temple Map
+  :isUnique: false
+- :name: 
+  :type: Vault Map
+  :isUnique: false
+- :name: 
+  :type: Villa Map
+  :isUnique: false
+- :name: 
+  :type: Volcano Map
+  :isUnique: false
+- :name: 
+  :type: Wasteland Map
+  :isUnique: false
+- :name: 
+  :type: Waste Pool Map
+  :isUnique: false
+- :name: 
+  :type: Waterways Map
+  :isUnique: false
+- :name: 
+  :type: Wharf Map
+  :isUnique: false
+- :name: Acton's Nightmare
+  :type: Overgrown Shrine Map
+  :isUnique: true
+- :name: Caer Blaidd, Wolfpack's Den
+  :type: Underground River Map
+  :isUnique: true
+- :name: Death and Taxes
+  :type: Necropolis Map
+  :isUnique: true
+- :name: Hall of Grandmasters
+  :type: Promenade Map
+  :isUnique: true
+- :name: Hallowed Ground
+  :type: Graveyard Map
+  :isUnique: true
+- :name: Maelström of Chaos
+  :type: Atoll Map
+  :isUnique: true
+- :name: Mao Kun
+  :type: Reef Map
+  :isUnique: true
+- :name: Oba's Cursed Trove
+  :type: Torture Chamber Map
+  :isUnique: true
+- :name: Olmec's Sanctum
+  :type: Bone Crypt Map
+  :isUnique: true
+- :name: Poorjoy's Asylum
+  :type: Temple Map
+  :isUnique: true
+- :name: The Beachhead
+  :type: Harbinger Map
+  :isUnique: true
+- :name: The Coward's Trial
+  :type: Cursed Crypt Map
+  :isUnique: true
+- :name: The Perandus Manor
+  :type: Chateau Map
+  :isUnique: true
+- :name: The Putrid Cloister
+  :type: Museum Map
+  :isUnique: true
+- :name: The Vinktar Square
+  :type: Courtyard Map
+  :isUnique: true
+- :name: Vaults of Atziri
+  :type: Vaal Pyramid Map
+  :isUnique: true
+- :name: Whakawairua Tuahu
+  :type: Strand Map
+  :isUnique: true
+- :name: 
+  :type: Caldera Map
+  :isUnique: false
+- :name: 
+  :type: Academy Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Academy Map
+  :isUnique: false
+- :name: 
+  :type: Acid Lakes Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Acid Lakes Map
+  :isUnique: false
+- :name: 
+  :type: Arachnid Nest Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Arachnid Nest Map
+  :isUnique: false
+- :name: 
+  :type: Arachnid Tomb Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Arachnid Tomb Map
+  :isUnique: false
+- :name: 
+  :type: Arcade Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Arcade Map
+  :isUnique: false
+- :name: 
+  :type: Arena Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Arena Map
+  :isUnique: false
+- :name: 
+  :type: Arid Lake Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Arid Lake Map
+  :isUnique: false
+- :name: 
+  :type: Armoury Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Armoury Map
+  :isUnique: false
+- :name: 
+  :type: Arsenal Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Arsenal Map
+  :isUnique: false
+- :name: 
+  :type: Atoll Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Atoll Map
+  :isUnique: false
+- :name: 
+  :type: Barrows Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Barrows Map
+  :isUnique: false
+- :name: 
+  :type: Bazaar Map
+  :isUnique: false
+- :name: 
+  :type: Beach Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Beach Map
+  :isUnique: false
+- :name: 
+  :type: Lighthouse Map
+  :isUnique: false
+- :name: 
+  :type: Bog Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Bog Map
+  :isUnique: false
+- :name: 
+  :type: Burial Chambers Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Burial Chambers Map
+  :isUnique: false
+- :name: 
+  :type: Canyon Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Canyon Map
+  :isUnique: false
+- :name: 
+  :type: Castle Ruins Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Castle Ruins Map
+  :isUnique: false
+- :name: 
+  :type: Bone Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Bone Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Flooded Mine Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Flooded Mine Map
+  :isUnique: false
+- :name: 
+  :type: Cells Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Cells Map
+  :isUnique: false
+- :name: 
+  :type: Cemetery Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Cemetery Map
+  :isUnique: false
+- :name: 
+  :type: Channel Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Channel Map
+  :isUnique: false
+- :name: 
+  :type: Chateau Map
+  :isUnique: false
+- :name: 
+  :type: Pit of the Chimera Map
+  :isUnique: false
+- :name: 
+  :type: Colonnade Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Colonnade Map
+  :isUnique: false
+- :name: 
+  :type: Colosseum Map
+  :isUnique: false
+- :name: 
+  :type: Core Map
+  :isUnique: false
+- :name: 
+  :type: Courtyard Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Courtyard Map
+  :isUnique: false
+- :name: 
+  :type: Coves Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Coves Map
+  :isUnique: false
+- :name: 
+  :type: Lava Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Cursed Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Cursed Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Crystal Ore Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Crystal Ore Map
+  :isUnique: false
+- :name: 
+  :type: Dark Forest Map
+  :isUnique: false
+- :name: 
+  :type: Desert Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Desert Map
+  :isUnique: false
+- :name: 
+  :type: Peninsula Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Peninsula Map
+  :isUnique: false
+- :name: 
+  :type: Ashen Wood Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Ashen Wood Map
+  :isUnique: false
+- :name: 
+  :type: Dunes Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Dunes Map
+  :isUnique: false
+- :name: 
+  :type: Dungeon Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Dungeon Map
+  :isUnique: false
+- :name: 
+  :type: Estuary Map
+  :isUnique: false
+- :name: 
+  :type: Excavation Map
+  :isUnique: false
+- :name: 
+  :type: Factory Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Factory Map
+  :isUnique: false
+- :name: 
+  :type: Ghetto Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Ghetto Map
+  :isUnique: false
+- :name: 
+  :type: Gorge Map
+  :isUnique: false
+- :name: 
+  :type: Graveyard Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Graveyard Map
+  :isUnique: false
+- :name: 
+  :type: Grotto Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Grotto Map
+  :isUnique: false
+- :name: 
+  :type: Harbinger Map
+  :isUnique: false
+- :name: 
+  :type: Terrace Map
+  :isUnique: false
+- :name: 
+  :type: Lair of the Hydra Map
+  :isUnique: false
+- :name: 
+  :type: Ivory Temple Map
+  :isUnique: false
+- :name: 
+  :type: Jungle Valley Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Jungle Valley Map
+  :isUnique: false
+- :name: 
+  :type: Lair Map
+  :isUnique: false
+- :name: 
+  :type: Malformation Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Malformation Map
+  :isUnique: false
+- :name: 
+  :type: Marshes Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Marshes Map
+  :isUnique: false
+- :name: 
+  :type: Maze Map
+  :isUnique: false
+- :name: 
+  :type: Mesa Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Mesa Map
+  :isUnique: false
+- :name: 
+  :type: Mineral Pools Map
+  :isUnique: false
+- :name: 
+  :type: Maze of the Minotaur Map
+  :isUnique: false
+- :name: 
+  :type: Mud Geyser Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Mud Geyser Map
+  :isUnique: false
+- :name: 
+  :type: Museum Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Museum Map
+  :isUnique: false
+- :name: 
+  :type: Necropolis Map
+  :isUnique: false
+- :name: 
+  :type: Desert Spring Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Desert Spring Map
+  :isUnique: false
+- :name: 
+  :type: Orchard Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Orchard Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Ruin Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Overgrown Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Palace Map
+  :isUnique: false
+- :name: 
+  :type: Phantasmagoria Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Phantasmagoria Map
+  :isUnique: false
+- :name: 
+  :type: Forge of the Phoenix Map
+  :isUnique: false
+- :name: 
+  :type: Pier Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Pier Map
+  :isUnique: false
+- :name: 
+  :type: Pit Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Pit Map
+  :isUnique: false
+- :name: 
+  :type: Plateau Map
+  :isUnique: false
+- :name: 
+  :type: Plaza Map
+  :isUnique: false
+- :name: 
+  :type: Precinct Map
+  :isUnique: false
+- :name: 
+  :type: Primordial Pool Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Primordial Pool Map
+  :isUnique: false
+- :name: 
+  :type: Promenade Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Promenade Map
+  :isUnique: false
+- :name: 
+  :type: Geode Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Geode Map
+  :isUnique: false
+- :name: 
+  :type: Port Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Port Map
+  :isUnique: false
+- :name: 
+  :type: Racecourse Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Racecourse Map
+  :isUnique: false
+- :name: 
+  :type: Ramparts Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Ramparts Map
+  :isUnique: false
+- :name: 
+  :type: Reef Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Reef Map
+  :isUnique: false
+- :name: 
+  :type: Residence Map
+  :isUnique: false
+- :name: 
+  :type: Scriptorium Map
+  :isUnique: false
+- :name: 
+  :type: Toxic Sewer Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Toxic Sewer Map
+  :isUnique: false
+- :name: 
+  :type: Shipyard Map
+  :isUnique: false
+- :name: 
+  :type: Shore Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Shore Map
+  :isUnique: false
+- :name: 
+  :type: Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Spider Forest Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Spider Forest Map
+  :isUnique: false
+- :name: 
+  :type: Spider Lair Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Spider Lair Map
+  :isUnique: false
+- :name: 
+  :type: Springs Map
+  :isUnique: false
+- :name: 
+  :type: Strand Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Strand Map
+  :isUnique: false
+- :name: 
+  :type: Leyline Map
+  :isUnique: false
+- :name: 
+  :type: Temple Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Temple Map
+  :isUnique: false
+- :name: 
+  :type: Gardens Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Gardens Map
+  :isUnique: false
+- :name: 
+  :type: Thicket Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Thicket Map
+  :isUnique: false
+- :name: 
+  :type: Torture Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Tower Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Tower Map
+  :isUnique: false
+- :name: 
+  :type: Tropical Island Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Tropical Island Map
+  :isUnique: false
+- :name: 
+  :type: Underground River Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Underground River Map
+  :isUnique: false
+- :name: 
+  :type: Underground Sea Map
+  :isUnique: false
+- :name: 
+  :type: Ancient City Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Ancient City Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Pyramid Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Vaal Pyramid Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Temple Map
+  :isUnique: false
+- :name: 
+  :type: Vault Map
+  :isUnique: false
+- :name: 
+  :type: Villa Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Villa Map
+  :isUnique: false
+- :name: 
+  :type: Volcano Map
+  :isUnique: false
+- :name: 
+  :type: Wasteland Map
+  :isUnique: false
+- :name: 
+  :type: Waste Pool Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Waste Pool Map
+  :isUnique: false
+- :name: 
+  :type: Waterways Map
+  :isUnique: false
+- :name: 
+  :type: Wharf Map
+  :isUnique: false
+- :name: 
+  :type: Shaped Wharf Map
+  :isUnique: false
+- :name: Acton's Nightmare
+  :type: Overgrown Shrine Map
+  :isUnique: true
+- :name: Caer Blaidd, Wolfpack's Den
+  :type: Underground River Map
+  :isUnique: true
+- :name: Death and Taxes
+  :type: Necropolis Map
+  :isUnique: true
+- :name: Hall of Grandmasters
+  :type: Promenade Map
+  :isUnique: true
+- :name: Maelström of Chaos
+  :type: Atoll Map
+  :isUnique: true
+- :name: Mao Kun
+  :type: Reef Map
+  :isUnique: true
+- :name: Oba's Cursed Trove
+  :type: Torture Chamber Map
+  :isUnique: true
+- :name: Olmec's Sanctum
+  :type: Bone Crypt Map
+  :isUnique: true
+- :name: Poorjoy's Asylum
+  :type: Temple Map
+  :isUnique: true
+- :name: The Coward's Trial
+  :type: Cursed Crypt Map
+  :isUnique: true
+- :name: The Perandus Manor
+  :type: Chateau Map
+  :isUnique: true
+- :name: Vaults of Atziri
+  :type: Vaal Pyramid Map
+  :isUnique: true
+- :name: Whakawairua Tuahu
+  :type: Strand Map
+  :isUnique: true
+- :name: 
+  :type: Necropolis Map
+  :isUnique: false
+- :name: 
+  :type: Plateau Map
+  :isUnique: false
+- :name: 
+  :type: Bazaar Map
+  :isUnique: false
+- :name: 
+  :type: Volcano Map
+  :isUnique: false
+- :name: 
+  :type: Chateau Map
+  :isUnique: false
+- :name: 
+  :type: Cursed Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Lava Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Precinct Map
+  :isUnique: false
+- :name: 
+  :type: Academy Map
+  :isUnique: false
+- :name: 
+  :type: Springs Map
+  :isUnique: false
+- :name: 
+  :type: Dungeon Map
+  :isUnique: false
+- :name: 
+  :type: Shipyard Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Ruin Map
+  :isUnique: false
+- :name: 
+  :type: Castle Ruins Map
+  :isUnique: false
+- :name: 
+  :type: Arsenal Map
+  :isUnique: false
+- :name: 
+  :type: Grotto Map
+  :isUnique: false
+- :name: 
+  :type: Wasteland Map
+  :isUnique: false
+- :name: 
+  :type: Courtyard Map
+  :isUnique: false
+- :name: 
+  :type: Excavation Map
+  :isUnique: false
+- :name: 
+  :type: Waterways Map
+  :isUnique: false
+- :name: 
+  :type: Dunes Map
+  :isUnique: false
+- :name: 
+  :type: Palace Map
+  :isUnique: false
+- :name: 
+  :type: Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Maze Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Temple Map
+  :isUnique: false
+- :name: 
+  :type: Plaza Map
+  :isUnique: false
+- :name: 
+  :type: Pit Map
+  :isUnique: false
+- :name: 
+  :type: Core Map
+  :isUnique: false
+- :name: 
+  :type: Caldera Map
+  :isUnique: false
+- :name: 
+  :type: Colosseum Map
+  :isUnique: false
+- :name: 
+  :type: Tropical Island Map
+  :isUnique: false
+- :name: 
+  :type: Desert Map
+  :isUnique: false
+- :name: 
+  :type: Toxic Sewer Map
+  :isUnique: false
+- :name: 
+  :type: Channel Map
+  :isUnique: false
+- :name: 
+  :type: Thicket Map
+  :isUnique: false
+- :name: 
+  :type: Atoll Map
+  :isUnique: false
+- :name: 
+  :type: Cemetery Map
+  :isUnique: false
+- :name: 
+  :type: Arcade Map
+  :isUnique: false
+- :name: 
+  :type: Wharf Map
+  :isUnique: false
+- :name: 
+  :type: Ghetto Map
+  :isUnique: false
+- :name: 
+  :type: Spider Lair Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Pyramid Map
+  :isUnique: false
+- :name: 
+  :type: Reef Map
+  :isUnique: false
+- :name: 
+  :type: Geode Map
+  :isUnique: false
+- :name: 
+  :type: Mud Geyser Map
+  :isUnique: false
+- :name: 
+  :type: Museum Map
+  :isUnique: false
+- :name: 
+  :type: Arena Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Crystal Ore Map
+  :isUnique: false
+- :name: 
+  :type: Shore Map
+  :isUnique: false
+- :name: 
+  :type: Spider Forest Map
+  :isUnique: false
+- :name: 
+  :type: Promenade Map
+  :isUnique: false
+- :name: 
+  :type: Phantasmagoria Map
+  :isUnique: false
+- :name: 
+  :type: Underground River Map
+  :isUnique: false
+- :name: 
+  :type: Pier Map
+  :isUnique: false
+- :name: 
+  :type: Bog Map
+  :isUnique: false
+- :name: 
+  :type: Graveyard Map
+  :isUnique: false
+- :name: 
+  :type: Coves Map
+  :isUnique: false
+- :name: 
+  :type: Villa Map
+  :isUnique: false
+- :name: 
+  :type: Temple Map
+  :isUnique: false
+- :name: 
+  :type: Arachnid Nest Map
+  :isUnique: false
+- :name: 
+  :type: Strand Map
+  :isUnique: false
+- :name: 
+  :type: Ashen Wood Map
+  :isUnique: false
+- :name: 
+  :type: Colonnade Map
+  :isUnique: false
+- :name: 
+  :type: Bone Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Torture Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Waste Pool Map
+  :isUnique: false
+- :name: 
+  :type: Flooded Mine Map
+  :isUnique: false
+- :name: 
+  :type: Jungle Valley Map
+  :isUnique: false
+- :name: 
+  :type: Gardens Map
+  :isUnique: false
+- :name: 
+  :type: Cells Map
+  :isUnique: false
+- :name: 
+  :type: Canyon Map
+  :isUnique: false
+- :name: 
+  :type: Dark Forest Map
+  :isUnique: false
+- :name: 
+  :type: Peninsula Map
+  :isUnique: false
+- :name: 
+  :type: Orchard Map
+  :isUnique: false
+- :name: 
+  :type: Underground Sea Map
+  :isUnique: false
+- :name: 
+  :type: Arid Lake Map
+  :isUnique: false
+- :name: 
+  :type: Gorge Map
+  :isUnique: false
+- :name: 
+  :type: Residence Map
+  :isUnique: false
+- :name: 
+  :type: Malformation Map
+  :isUnique: false
+- :name: 
+  :type: Necropolis Map
+  :isUnique: false
+- :name: 
+  :type: Plateau Map
+  :isUnique: false
+- :name: 
+  :type: Bazaar Map
+  :isUnique: false
+- :name: 
+  :type: Cursed Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Lava Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Precinct Map
+  :isUnique: false
+- :name: 
+  :type: Academy Map
+  :isUnique: false
+- :name: 
+  :type: Dungeon Map
+  :isUnique: false
+- :name: 
+  :type: Shipyard Map
+  :isUnique: false
+- :name: 
+  :type: Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Grotto Map
+  :isUnique: false
+- :name: 
+  :type: Palace Map
+  :isUnique: false
+- :name: 
+  :type: Courtyard Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Ruin Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Temple Map
+  :isUnique: false
+- :name: 
+  :type: Dunes Map
+  :isUnique: false
+- :name: 
+  :type: Arid Lake Map
+  :isUnique: false
+- :name: 
+  :type: Tropical Island Map
+  :isUnique: false
+- :name: 
+  :type: Orchard Map
+  :isUnique: false
+- :name: 
+  :type: Wharf Map
+  :isUnique: false
+- :name: 
+  :type: Arsenal Map
+  :isUnique: false
+- :name: 
+  :type: Thicket Map
+  :isUnique: false
+- :name: 
+  :type: Atoll Map
+  :isUnique: false
+- :name: 
+  :type: Cemetery Map
+  :isUnique: false
+- :name: 
+  :type: Toxic Sewer Map
+  :isUnique: false
+- :name: 
+  :type: Arcade Map
+  :isUnique: false
+- :name: 
+  :type: Ghetto Map
+  :isUnique: false
+- :name: 
+  :type: Spider Lair Map
+  :isUnique: false
+- :name: 
+  :type: Vaal Pyramid Map
+  :isUnique: false
+- :name: 
+  :type: Reef Map
+  :isUnique: false
+- :name: 
+  :type: Springs Map
+  :isUnique: false
+- :name: 
+  :type: Mud Geyser Map
+  :isUnique: false
+- :name: 
+  :type: Museum Map
+  :isUnique: false
+- :name: 
+  :type: Bone Crypt Map
+  :isUnique: false
+- :name: 
+  :type: Overgrown Shrine Map
+  :isUnique: false
+- :name: 
+  :type: Crystal Ore Map
+  :isUnique: false
+- :name: 
+  :type: Shore Map
+  :isUnique: false
+- :name: 
+  :type: Spider Forest Map
+  :isUnique: false
+- :name: 
+  :type: Promenade Map
+  :isUnique: false
+- :name: 
+  :type: Underground River Map
+  :isUnique: false
+- :name: 
+  :type: Pier Map
+  :isUnique: false
+- :name: 
+  :type: Bog Map
+  :isUnique: false
+- :name: 
+  :type: Graveyard Map
+  :isUnique: false
+- :name: 
+  :type: Coves Map
+  :isUnique: false
+- :name: 
+  :type: Villa Map
+  :isUnique: false
+- :name: 
+  :type: Temple Map
+  :isUnique: false
+- :name: 
+  :type: Arachnid Nest Map
+  :isUnique: false
+- :name: 
+  :type: Strand Map
+  :isUnique: false
+- :name: 
+  :type: Ashen Wood Map
+  :isUnique: false
+- :name: 
+  :type: Colonnade Map
+  :isUnique: false
+- :name: 
+  :type: Torture Chamber Map
+  :isUnique: false
+- :name: 
+  :type: Waste Pool Map
+  :isUnique: false
+- :name: 
+  :type: Flooded Mine Map
+  :isUnique: false
+- :name: 
+  :type: Jungle Valley Map
+  :isUnique: false
+- :name: 
+  :type: Gardens Map
+  :isUnique: false
+- :name: 
+  :type: Cells Map
+  :isUnique: false
+- :name: 
+  :type: Canyon Map
+  :isUnique: false
+- :name: 
+  :type: Dark Forest Map
+  :isUnique: false
+- :name: 
+  :type: Peninsula Map
+  :isUnique: false
+- :name: 
+  :type: Underground Sea Map
+  :isUnique: false
+- :name: 
+  :type: Maze Map
+  :isUnique: false
+- :name: 
+  :type: Gorge Map
+  :isUnique: false
+- :name: 
+  :type: Residence Map
+  :isUnique: false
+- :name: 
+  :type: Offering to the Goddess
+  :isUnique: false
+- :name: 
+  :type: Chayula's Breachstone
+  :isUnique: false
+- :name: 
+  :type: Tul's Breachstone
+  :isUnique: false
+- :name: 
+  :type: Xoph's Breachstone
+  :isUnique: false
+- :name: 
+  :type: Esh's Breachstone
+  :isUnique: false
+- :name: 
+  :type: Uul-Netol's Breachstone
+  :isUnique: false
+- :name: 
+  :type: Ancient Reliquary Key
+  :isUnique: false
+- :name: 
+  :type: Divine Vessel
+  :isUnique: false
+- :name: 
+  :type: Eber's Key
+  :isUnique: false
+- :name: 
+  :type: Yriel's Key
+  :isUnique: false
+- :name: 
+  :type: Inya's Key
+  :isUnique: false
+- :name: 
+  :type: Volkuur's Key
+  :isUnique: false
+- :name: 
+  :type: Fragment of the Phoenix
+  :isUnique: false
+- :name: 
+  :type: Fragment of the Minotaur
+  :isUnique: false
+- :name: 
+  :type: Fragment of the Chimera
+  :isUnique: false
+- :name: 
+  :type: Fragment of the Hydra
+  :isUnique: false
+- :name: 
+  :type: Sacrifice at Midnight
+  :isUnique: false
+- :name: 
+  :type: Sacrifice at Dawn
+  :isUnique: false
+- :name: 
+  :type: Sacrifice at Noon
+  :isUnique: false
+- :name: 
+  :type: Sacrifice at Dusk
+  :isUnique: false
+- :name: 
+  :type: Mortal Rage
+  :isUnique: false
+- :name: 
+  :type: Mortal Hope
+  :isUnique: false
+- :name: 
+  :type: Mortal Ignorance
+  :isUnique: false
+- :name: 
+  :type: Mortal Grief
+  :isUnique: false
+- :name: 
+  :type: Ambush Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Anarchy Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Beyond Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Bloodlines Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Breach Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Domination Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Essence Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Invasion Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Nemesis Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Onslaught Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Perandus Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Prophecy Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Rampage Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Talisman Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Tempest Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Torment Leaguestone
+  :isUnique: false
+- :name: 
+  :type: Warbands Leaguestone
+  :isUnique: false
+- :name: The Alchemist
+  :type: Prophecy
+  :isUnique: false
+- :name: Anarchy's End I
+  :type: Prophecy
+  :isUnique: false
+- :name: Anarchy's End II
+  :type: Prophecy
+  :isUnique: false
+- :name: Anarchy's End III
+  :type: Prophecy
+  :isUnique: false
+- :name: Anarchy's End IV
+  :type: Prophecy
+  :isUnique: false
+- :name: Ancient Rivalries I
+  :type: Prophecy
+  :isUnique: false
+- :name: Ancient Rivalries II
+  :type: Prophecy
+  :isUnique: false
+- :name: Ancient Rivalries III
+  :type: Prophecy
+  :isUnique: false
+- :name: Ancient Rivalries IV
+  :type: Prophecy
+  :isUnique: false
+- :name: The Twins
+  :type: Prophecy
+  :isUnique: false
+- :name: Possessed Foe
+  :type: Prophecy
+  :isUnique: false
+- :name: The Invader
+  :type: Prophecy
+  :isUnique: false
+- :name: Visions of the Drowned
+  :type: Prophecy
+  :isUnique: false
+- :name: Monstrous Treasure
+  :type: Prophecy
+  :isUnique: false
+- :name: Vaal Invasion
+  :type: Prophecy
+  :isUnique: false
+- :name: The Hungering Swarm
+  :type: Prophecy
+  :isUnique: false
+- :name: The Trembling Earth
+  :type: Prophecy
+  :isUnique: false
+- :name: The Cursed Choir
+  :type: Prophecy
+  :isUnique: false
+- :name: Soil, Worms and Blood
+  :type: Prophecy
+  :isUnique: false
+- :name: The Jeweller's Touch
+  :type: Prophecy
+  :isUnique: false
+- :name: The Forgotten Garrison
+  :type: Prophecy
+  :isUnique: false
+- :name: The Queen's Vaults
+  :type: Prophecy
+  :isUnique: false
+- :name: Beyond Sight I
+  :type: Prophecy
+  :isUnique: false
+- :name: Beyond Sight II
+  :type: Prophecy
+  :isUnique: false
+- :name: Beyond Sight III
+  :type: Prophecy
+  :isUnique: false
+- :name: Beyond Sight IV
+  :type: Prophecy
+  :isUnique: false
+- :name: Reforged Bonds
+  :type: Prophecy
+  :isUnique: false
+- :name: A Valuable Combination
+  :type: Prophecy
+  :isUnique: false
+- :name: The Fortune Teller's Collection
+  :type: Prophecy
+  :isUnique: false
+- :name: The Child of Lunaris
+  :type: Prophecy
+  :isUnique: false
+- :name: Twice Enchanted
+  :type: Prophecy
+  :isUnique: false
+- :name: Day of Sacrifice I
+  :type: Prophecy
+  :isUnique: false
+- :name: Day of Sacrifice II
+  :type: Prophecy
+  :isUnique: false
+- :name: Day of Sacrifice III
+  :type: Prophecy
+  :isUnique: false
+- :name: Day of Sacrifice IV
+  :type: Prophecy
+  :isUnique: false
+- :name: Deadly Rivalry I
+  :type: Prophecy
+  :isUnique: false
+- :name: Deadly Rivalry II
+  :type: Prophecy
+  :isUnique: false
+- :name: Deadly Rivalry III
+  :type: Prophecy
+  :isUnique: false
+- :name: Deadly Rivalry IV
+  :type: Prophecy
+  :isUnique: false
+- :name: Deadly Rivalry V
+  :type: Prophecy
+  :isUnique: false
+- :name: The Wealthy Exile
+  :type: Prophecy
+  :isUnique: false
+- :name: The Scout
+  :type: Prophecy
+  :isUnique: false
+- :name: Fallow At Last
+  :type: Prophecy
+  :isUnique: false
+- :name: Plague of Frogs
+  :type: Prophecy
+  :isUnique: false
+- :name: Pools of Wealth
+  :type: Prophecy
+  :isUnique: false
+- :name: The Blacksmith
+  :type: Prophecy
+  :isUnique: false
+- :name: Nemesis of Greed
+  :type: Prophecy
+  :isUnique: false
+- :name: Trash to Treasure
+  :type: Prophecy
+  :isUnique: false
+- :name: The Emperor's Trove
+  :type: Prophecy
+  :isUnique: false
+- :name: Path of Betrayal
+  :type: Prophecy
+  :isUnique: false
+- :name: From The Void
+  :type: Prophecy
+  :isUnique: false
+- :name: The Misunderstood Queen
+  :type: Prophecy
+  :isUnique: false
+- :name: Nature's Resilience
+  :type: Prophecy
+  :isUnique: false
+- :name: The Snuffed Flame
+  :type: Prophecy
+  :isUnique: false
+- :name: The King and the Brambles
+  :type: Prophecy
+  :isUnique: false
+- :name: Mouth of Horrors
+  :type: Prophecy
+  :isUnique: false
+- :name: The Servant's Heart
+  :type: Prophecy
+  :isUnique: false
+- :name: The Karui Rebellion
+  :type: Prophecy
+  :isUnique: false
+- :name: The Bloody Flowers Redux
+  :type: Prophecy
+  :isUnique: false
+- :name: The Beginning and the End
+  :type: Prophecy
+  :isUnique: false
+- :name: Heavy Blows
+  :type: Prophecy
+  :isUnique: false
+- :name: Dying Cry
+  :type: Prophecy
+  :isUnique: false
+- :name: Fire and Ice
+  :type: Prophecy
+  :isUnique: false
+- :name: Severed Limbs
+  :type: Prophecy
+  :isUnique: false
+- :name: Fire and Brimstone
+  :type: Prophecy
+  :isUnique: false
+- :name: The Apex Predator
+  :type: Prophecy
+  :isUnique: false
+- :name: The Silverwood
+  :type: Prophecy
+  :isUnique: false
+- :name: The King's Path
+  :type: Prophecy
+  :isUnique: false
+- :name: Hidden Reinforcements
+  :type: Prophecy
+  :isUnique: false
+- :name: The Bowstring's Music
+  :type: Prophecy
+  :isUnique: false
+- :name: Rebirth
+  :type: Prophecy
+  :isUnique: false
+- :name: Power Magnified
+  :type: Prophecy
+  :isUnique: false
+- :name: Gilded Within
+  :type: Prophecy
+  :isUnique: false
+- :name: Ending the Torment
+  :type: Prophecy
+  :isUnique: false
+- :name: Hunter's Lesson
+  :type: Prophecy
+  :isUnique: false
+- :name: Pleasure and Pain
+  :type: Prophecy
+  :isUnique: false
+- :name: The Flow of Energy
+  :type: Prophecy
+  :isUnique: false
+- :name: Winter's Mournful Melodies
+  :type: Prophecy
+  :isUnique: false
+- :name: A Forest of False Idols
+  :type: Prophecy
+  :isUnique: false
+- :name: Erased from Memory
+  :type: Prophecy
+  :isUnique: false
+- :name: Ancient Doom
+  :type: Prophecy
+  :isUnique: false
+- :name: The Dreamer's Dream
+  :type: Prophecy
+  :isUnique: false
+- :name: The Dream Trial
+  :type: Prophecy
+  :isUnique: false
+- :name: Hidden Vaal Pathways
+  :type: Prophecy
+  :isUnique: false
+- :name: Echoes of Lost Love
+  :type: Prophecy
+  :isUnique: false
+- :name: Echoes of Witchcraft
+  :type: Prophecy
+  :isUnique: false
+- :name: A Master Seeks Help
+  :type: Prophecy
+  :isUnique: false
+- :name: A Master Seeks Help
+  :type: Prophecy
+  :isUnique: false
+- :name: A Master Seeks Help
+  :type: Prophecy
+  :isUnique: false
+- :name: Bountiful Traps
+  :type: Prophecy
+  :isUnique: false
+- :name: A Master Seeks Help
+  :type: Prophecy
+  :isUnique: false
+- :name: A Master Seeks Help
+  :type: Prophecy
+  :isUnique: false
+- :name: A Master Seeks Help
+  :type: Prophecy
+  :isUnique: false
+- :name: A Master Seeks Help
+  :type: Prophecy
+  :isUnique: false
+- :name: The God of Misfortune
+  :type: Prophecy
+  :isUnique: false
+- :name: Brothers in Arms
+  :type: Prophecy
+  :isUnique: false
+- :name: Echoes of Mutation
+  :type: Prophecy
+  :isUnique: false
+- :name: The Aesthete's Spirit
+  :type: Prophecy
+  :isUnique: false
+- :name: The Undead Brutes
+  :type: Prophecy
+  :isUnique: false
+- :name: The Four Feral Exiles
+  :type: Prophecy
+  :isUnique: false
+- :name: Vaal Winds
+  :type: Prophecy
+  :isUnique: false
+- :name: Fire from the Sky
+  :type: Prophecy
+  :isUnique: false
+- :name: Ice from Above
+  :type: Prophecy
+  :isUnique: false
+- :name: Lightning Falls
+  :type: Prophecy
+  :isUnique: false
+- :name: Crushing Squall
+  :type: Prophecy
+  :isUnique: false
+- :name: The Undead Storm
+  :type: Prophecy
+  :isUnique: false
+- :name: Deadly Twins
+  :type: Prophecy
+  :isUnique: false
+- :name: A Gracious Master
+  :type: Prophecy
+  :isUnique: false
+- :name: Overflowing Riches
+  :type: Prophecy
+  :isUnique: false
+- :name: Mysterious Invaders
+  :type: Prophecy
+  :isUnique: false
+- :name: Thaumaturgical History I
+  :type: Prophecy
+  :isUnique: false
+- :name: Thaumaturgical History II
+  :type: Prophecy
+  :isUnique: false
+- :name: Thaumaturgical History III
+  :type: Prophecy
+  :isUnique: false
+- :name: Thaumaturgical History IV
+  :type: Prophecy
+  :isUnique: false
+- :name: Forceful Exorcism
+  :type: Prophecy
+  :isUnique: false
+- :name: The Last Watch
+  :type: Prophecy
+  :isUnique: false
+- :name: The Soulless Beast
+  :type: Prophecy
+  :isUnique: false
+- :name: Custodians of Silence
+  :type: Prophecy
+  :isUnique: false
+- :name: The Prison Guard
+  :type: Prophecy
+  :isUnique: false
+- :name: The Prison Key
+  :type: Prophecy
+  :isUnique: false
+- :name: The Ward's Ward
+  :type: Prophecy
+  :isUnique: false
+- :name: The Lady in Black
+  :type: Prophecy
+  :isUnique: false
+- :name: The Brutal Enforcer
+  :type: Prophecy
+  :isUnique: false
+- :name: Flesh of the Beast
+  :type: Prophecy
+  :isUnique: false
+- :name: Storm on the Horizon
+  :type: Prophecy
+  :isUnique: false
+- :name: The Nest
+  :type: Prophecy
+  :isUnique: false
+- :name: Abnormal Effulgence
+  :type: Prophecy
+  :isUnique: false
+- :name: Fire, Wood and Stone
+  :type: Prophecy
+  :isUnique: false
+- :name: Baptism by Death
+  :type: Prophecy
+  :isUnique: false
+- :name: Fear's Wide Reach
+  :type: Prophecy
+  :isUnique: false
+- :name: Against the Tide
+  :type: Prophecy
+  :isUnique: false
+- :name: From Death Springs Life
+  :type: Prophecy
+  :isUnique: false
+- :name: Weeping Death
+  :type: Prophecy
+  :isUnique: false
+- :name: Storm on the Reef
+  :type: Prophecy
+  :isUnique: false
+- :name: Strong as a Bull
+  :type: Prophecy
+  :isUnique: false
+- :name: Graceful Flames
+  :type: Prophecy
+  :isUnique: false
+- :name: A Whispered Prayer
+  :type: Prophecy
+  :isUnique: false
+- :name: Wind and Thunder
+  :type: Prophecy
+  :isUnique: false
+- :name: The Flayed Man
+  :type: Prophecy
+  :isUnique: false
+- :name: Blood of the Betrayed
+  :type: Prophecy
+  :isUnique: false
+- :name: Defiled in the Sceptre
+  :type: Prophecy
+  :isUnique: false
+- :name: The Sword King's Passion
+  :type: Prophecy
+  :isUnique: false
+- :name: Blood in the Eyes
+  :type: Prophecy
+  :isUnique: false
+- :name: Risen Blood
+  :type: Prophecy
+  :isUnique: false
+- :name: The Eagle's Cry
+  :type: Prophecy
+  :isUnique: false
+- :name: Roth's Legacy
+  :type: Prophecy
+  :isUnique: false
+- :name: The Petrified
+  :type: Prophecy
+  :isUnique: false
+- :name: Notched Flesh
+  :type: Prophecy
+  :isUnique: false
+- :name: The Walking Mountain
+  :type: Prophecy
+  :isUnique: false
+- :name: A Firm Foothold
+  :type: Prophecy
+  :isUnique: false
+- :name: The Sinner's Stone
+  :type: Prophecy
+  :isUnique: false
+- :name: The Lost Undying
+  :type: Prophecy
+  :isUnique: false
+- :name: A Prodigious Hand
+  :type: Prophecy
+  :isUnique: false
+- :name: A Call into the Void
+  :type: Prophecy
+  :isUnique: false
+- :name: The Hollow Pledge
+  :type: Prophecy
+  :isUnique: false
+- :name: Lost in the Pages
+  :type: Prophecy
+  :isUnique: false
+- :name: Cleanser of Sins
+  :type: Prophecy
+  :isUnique: false
+- :name: Heart of the Fire
+  :type: Prophecy
+  :isUnique: false
+- :name: The Vanguard
+  :type: Prophecy
+  :isUnique: false
+- :name: The Watcher's Watcher
+  :type: Prophecy
+  :isUnique: false
+- :name: Plague of Rats
+  :type: Prophecy
+  :isUnique: false
+- :name: Lasting Impressions
+  :type: Prophecy
+  :isUnique: false
+- :name: Kalandra's Craft
+  :type: Prophecy
+  :isUnique: false
+- :name: Fated Connections
+  :type: Prophecy
+  :isUnique: false
+- :name: A Regal Death
+  :type: Prophecy
+  :isUnique: false
+- :name: The Mysterious Gift
+  :type: Prophecy
+  :isUnique: false
+- :name: Erasmus' Gift
+  :type: Prophecy
+  :isUnique: false
+- :name: The Brothers of Necromancy
+  :type: Prophecy
+  :isUnique: false
+- :name: An Unseen Peril
+  :type: Prophecy
+  :isUnique: false
+- :name: Waiting in Ambush
+  :type: Prophecy
+  :isUnique: false
+- :name: The Ambitious Bandit I
+  :type: Prophecy
+  :isUnique: false
+- :name: The Ambitious Bandit II
+  :type: Prophecy
+  :isUnique: false
+- :name: The Ambitious Bandit III
+  :type: Prophecy
+  :isUnique: false
+- :name: The Feral Lord I
+  :type: Prophecy
+  :isUnique: false
+- :name: The Feral Lord II
+  :type: Prophecy
+  :isUnique: false
+- :name: The Feral Lord III
+  :type: Prophecy
+  :isUnique: false
+- :name: The Feral Lord IV
+  :type: Prophecy
+  :isUnique: false
+- :name: The Feral Lord V
+  :type: Prophecy
+  :isUnique: false
+- :name: The Plaguemaw I
+  :type: Prophecy
+  :isUnique: false
+- :name: The Plaguemaw II
+  :type: Prophecy
+  :isUnique: false
+- :name: The Plaguemaw III
+  :type: Prophecy
+  :isUnique: false
+- :name: The Plaguemaw IV
+  :type: Prophecy
+  :isUnique: false
+- :name: The Plaguemaw V
+  :type: Prophecy
+  :isUnique: false
+- :name: The Stockkeeper
+  :type: Prophecy
+  :isUnique: false
+- :name: The Unbreathing Queen I
+  :type: Prophecy
+  :isUnique: false
+- :name: The Unbreathing Queen II
+  :type: Prophecy
+  :isUnique: false
+- :name: The Unbreathing Queen III
+  :type: Prophecy
+  :isUnique: false
+- :name: The Unbreathing Queen IV
+  :type: Prophecy
+  :isUnique: false
+- :name: The Unbreathing Queen V
+  :type: Prophecy
+  :isUnique: false
+- :name: The Warmongers I
+  :type: Prophecy
+  :isUnique: false
+- :name: The Warmongers II
+  :type: Prophecy
+  :isUnique: false
+- :name: The Warmongers III
+  :type: Prophecy
+  :isUnique: false
+- :name: The Warmongers IV
+  :type: Prophecy
+  :isUnique: false
+- :name: The Lost Maps
+  :type: Prophecy
+  :isUnique: false
+- :name: The Singular Spirit
+  :type: Prophecy
+  :isUnique: false
+- :name: Touched by the Wind
+  :type: Prophecy
+  :isUnique: false
+- :name: Resistant to Change
+  :type: Prophecy
+  :isUnique: false
+- :name: Smothering Tendrils
+  :type: Prophecy
+  :isUnique: false
+- :name: Vital Transformation
+  :type: Prophecy
+  :isUnique: false
+- :name: Golden Touch
+  :type: Prophecy
+  :isUnique: false
+- :name: Holding the Bridge
+  :type: Prophecy
+  :isUnique: false
+- :name: Unbearable Whispers I
+  :type: Prophecy
+  :isUnique: false
+- :name: Unbearable Whispers II
+  :type: Prophecy
+  :isUnique: false
+- :name: Unbearable Whispers III
+  :type: Prophecy
+  :isUnique: false
+- :name: Unbearable Whispers IV
+  :type: Prophecy
+  :isUnique: false
+- :name: Unbearable Whispers V
+  :type: Prophecy
+  :isUnique: false
+- :name: Undead Uprising
+  :type: Prophecy
+  :isUnique: false
+- :name: Living Fires
+  :type: Prophecy
+  :isUnique: false
+- :name: Unnatural Energy
+  :type: Prophecy
+  :isUnique: false
+- :name: In the Grasp of Corruption
+  :type: Prophecy
+  :isUnique: false
+- :name: The Hardened Armour
+  :type: Prophecy
+  :isUnique: false
+- :name: The Beautiful Guide
+  :type: Prophecy
+  :isUnique: false
+- :name: The Sharpened Blade
+  :type: Prophecy
+  :isUnique: false
+- :name: The Corrupt
+  :type: Prophecy
+  :isUnique: false
+- :name: The Forgotten Soldiers
+  :type: Prophecy
+  :isUnique: false
+- :name: 
+  :type: Abandoned Wealth
+  :isUnique: false
+- :name: 
+  :type: A Mother's Parting Gift
+  :isUnique: false
+- :name: 
+  :type: Anarchy's Price
+  :isUnique: false
+- :name: 
+  :type: Assassin's Favour
+  :isUnique: false
+- :name: 
+  :type: Atziri's Arsenal
+  :isUnique: false
+- :name: 
+  :type: Audacity
+  :isUnique: false
+- :name: 
+  :type: Birth of the Three
+  :isUnique: false
+- :name: 
+  :type: Blind Venture
+  :isUnique: false
+- :name: 
+  :type: Boundless Realms
+  :isUnique: false
+- :name: 
+  :type: Bowyer's Dream
+  :isUnique: false
+- :name: 
+  :type: Call to the First Ones
+  :isUnique: false
+- :name: 
+  :type: Cartographer's Delight
+  :isUnique: false
+- :name: 
+  :type: Chaotic Disposition
+  :isUnique: false
+- :name: 
+  :type: Coveted Possession
+  :isUnique: false
+- :name: 
+  :type: Death
+  :isUnique: false
+- :name: 
+  :type: Destined to Crumble
+  :isUnique: false
+- :name: 
+  :type: Dialla's Subjugation
+  :isUnique: false
+- :name: 
+  :type: Doedre's Madness
+  :isUnique: false
+- :name: 
+  :type: Dying Anguish
+  :isUnique: false
+- :name: 
+  :type: Earth Drinker
+  :isUnique: false
+- :name: 
+  :type: Emperor of Purity
+  :isUnique: false
+- :name: 
+  :type: Emperor's Luck
+  :isUnique: false
+- :name: 
+  :type: Gemcutter's Promise
+  :isUnique: false
+- :name: 
+  :type: Gift of the Gemling Queen
+  :isUnique: false
+- :name: 
+  :type: Glimmer of Hope
+  :isUnique: false
+- :name: 
+  :type: Grave Knowledge
+  :isUnique: false
+- :name: 
+  :type: Her Mask
+  :isUnique: false
+- :name: 
+  :type: Heterochromia
+  :isUnique: false
+- :name: 
+  :type: Hope
+  :isUnique: false
+- :name: 
+  :type: House of Mirrors
+  :isUnique: false
+- :name: 
+  :type: Hubris
+  :isUnique: false
+- :name: 
+  :type: Humility
+  :isUnique: false
+- :name: 
+  :type: Hunter's Resolve
+  :isUnique: false
+- :name: 
+  :type: Hunter's Reward
+  :isUnique: false
+- :name: 
+  :type: Jack in the Box
+  :isUnique: false
+- :name: 
+  :type: Lantador's Lost Love
+  :isUnique: false
+- :name: 
+  :type: Last Hope
+  :isUnique: false
+- :name: 
+  :type: Left to Fate
+  :isUnique: false
+- :name: 
+  :type: Light and Truth
+  :isUnique: false
+- :name: 
+  :type: Lingering Remnants
+  :isUnique: false
+- :name: 
+  :type: Lost Worlds
+  :isUnique: false
+- :name: 
+  :type: Loyalty
+  :isUnique: false
+- :name: 
+  :type: Lucky Connections
+  :isUnique: false
+- :name: 
+  :type: Lucky Deck
+  :isUnique: false
+- :name: 
+  :type: Lysah's Respite
+  :isUnique: false
+- :name: 
+  :type: Mawr Blaidd
+  :isUnique: false
+- :name: 
+  :type: Merciless Armament
+  :isUnique: false
+- :name: 
+  :type: Might is Right
+  :isUnique: false
+- :name: 
+  :type: Mitts
+  :isUnique: false
+- :name: 
+  :type: No Traces
+  :isUnique: false
+- :name: 
+  :type: Pride Before the Fall
+  :isUnique: false
+- :name: 
+  :type: Prosperity
+  :isUnique: false
+- :name: 
+  :type: Rain of Chaos
+  :isUnique: false
+- :name: 
+  :type: Rain Tempter
+  :isUnique: false
+- :name: 
+  :type: Rats
+  :isUnique: false
+- :name: 
+  :type: Rebirth
+  :isUnique: false
+- :name: 
+  :type: Scholar of the Seas
+  :isUnique: false
+- :name: 
+  :type: Shard of Fate
+  :isUnique: false
+- :name: 
+  :type: Struck by Lightning
+  :isUnique: false
+- :name: 
+  :type: The Aesthete
+  :isUnique: false
+- :name: 
+  :type: The Arena Champion
+  :isUnique: false
+- :name: 
+  :type: The Artist
+  :isUnique: false
+- :name: 
+  :type: The Avenger
+  :isUnique: false
+- :name: 
+  :type: The Battle Born
+  :isUnique: false
+- :name: 
+  :type: The Betrayal
+  :isUnique: false
+- :name: 
+  :type: The Blazing Fire
+  :isUnique: false
+- :name: 
+  :type: The Body
+  :isUnique: false
+- :name: 
+  :type: The Brittle Emperor
+  :isUnique: false
+- :name: 
+  :type: The Calling
+  :isUnique: false
+- :name: 
+  :type: The Carrion Crow
+  :isUnique: false
+- :name: 
+  :type: The Cartographer
+  :isUnique: false
+- :name: 
+  :type: The Cataclysm
+  :isUnique: false
+- :name: 
+  :type: The Catalyst
+  :isUnique: false
+- :name: 
+  :type: The Celestial Justicar
+  :isUnique: false
+- :name: 
+  :type: The Chains that Bind
+  :isUnique: false
+- :name: 
+  :type: The Coming Storm
+  :isUnique: false
+- :name: 
+  :type: The Conduit
+  :isUnique: false
+- :name: 
+  :type: The Cursed King
+  :isUnique: false
+- :name: 
+  :type: The Dapper Prodigy
+  :isUnique: false
+- :name: 
+  :type: The Dark Mage
+  :isUnique: false
+- :name: 
+  :type: The Demoness
+  :isUnique: false
+- :name: 
+  :type: The Doctor
+  :isUnique: false
+- :name: 
+  :type: The Doppelganger
+  :isUnique: false
+- :name: 
+  :type: The Dragon
+  :isUnique: false
+- :name: 
+  :type: The Dragon's Heart
+  :isUnique: false
+- :name: 
+  :type: The Drunken Aristocrat
+  :isUnique: false
+- :name: 
+  :type: The Encroaching Darkness
+  :isUnique: false
+- :name: 
+  :type: The Endurance
+  :isUnique: false
+- :name: 
+  :type: The Enlightened
+  :isUnique: false
+- :name: 
+  :type: The Ethereal
+  :isUnique: false
+- :name: 
+  :type: The Explorer
+  :isUnique: false
+- :name: 
+  :type: The Eye of the Dragon
+  :isUnique: false
+- :name: 
+  :type: The Feast
+  :isUnique: false
+- :name: 
+  :type: The Fiend
+  :isUnique: false
+- :name: 
+  :type: The Fletcher
+  :isUnique: false
+- :name: 
+  :type: The Flora's Gift
+  :isUnique: false
+- :name: 
+  :type: The Formless Sea
+  :isUnique: false
+- :name: 
+  :type: The Forsaken
+  :isUnique: false
+- :name: 
+  :type: The Fox
+  :isUnique: false
+- :name: 
+  :type: The Gambler
+  :isUnique: false
+- :name: 
+  :type: The Garish Power
+  :isUnique: false
+- :name: 
+  :type: The Gemcutter
+  :isUnique: false
+- :name: 
+  :type: The Gentleman
+  :isUnique: false
+- :name: 
+  :type: The Gladiator
+  :isUnique: false
+- :name: 
+  :type: The Harvester
+  :isUnique: false
+- :name: 
+  :type: The Hermit
+  :isUnique: false
+- :name: 
+  :type: The Hoarder
+  :isUnique: false
+- :name: 
+  :type: The Hunger
+  :isUnique: false
+- :name: 
+  :type: The Immortal
+  :isUnique: false
+- :name: 
+  :type: The Incantation
+  :isUnique: false
+- :name: 
+  :type: The Inoculated
+  :isUnique: false
+- :name: 
+  :type: The Inventor
+  :isUnique: false
+- :name: 
+  :type: The Jester
+  :isUnique: false
+- :name: 
+  :type: The King's Blade
+  :isUnique: false
+- :name: 
+  :type: The King's Heart
+  :isUnique: false
+- :name: 
+  :type: The Last One Standing
+  :isUnique: false
+- :name: 
+  :type: The Lich
+  :isUnique: false
+- :name: 
+  :type: The Lion
+  :isUnique: false
+- :name: 
+  :type: The Lord in Black
+  :isUnique: false
+- :name: 
+  :type: The Lover
+  :isUnique: false
+- :name: 
+  :type: The Lunaris Priestess
+  :isUnique: false
+- :name: 
+  :type: The Mercenary
+  :isUnique: false
+- :name: 
+  :type: The Metalsmith's Gift
+  :isUnique: false
+- :name: 
+  :type: The Oath
+  :isUnique: false
+- :name: 
+  :type: The Offering
+  :isUnique: false
+- :name: 
+  :type: The One With All
+  :isUnique: false
+- :name: 
+  :type: The Opulent
+  :isUnique: false
+- :name: 
+  :type: The Pack Leader
+  :isUnique: false
+- :name: 
+  :type: The Pact
+  :isUnique: false
+- :name: 
+  :type: The Penitent
+  :isUnique: false
+- :name: 
+  :type: The Poet
+  :isUnique: false
+- :name: 
+  :type: The Polymath
+  :isUnique: false
+- :name: 
+  :type: The Porcupine
+  :isUnique: false
+- :name: 
+  :type: The Queen
+  :isUnique: false
+- :name: 
+  :type: The Rabid Rhoa
+  :isUnique: false
+- :name: 
+  :type: The Realm
+  :isUnique: false
+- :name: 
+  :type: The Risk
+  :isUnique: false
+- :name: 
+  :type: The Road to Power
+  :isUnique: false
+- :name: 
+  :type: The Ruthless Ceinture
+  :isUnique: false
+- :name: 
+  :type: The Saint's Treasure
+  :isUnique: false
+- :name: 
+  :type: The Scarred Meadow
+  :isUnique: false
+- :name: 
+  :type: The Scavenger
+  :isUnique: false
+- :name: 
+  :type: The Scholar
+  :isUnique: false
+- :name: 
+  :type: The Sephirot
+  :isUnique: false
+- :name: 
+  :type: The Sigil
+  :isUnique: false
+- :name: 
+  :type: The Siren
+  :isUnique: false
+- :name: 
+  :type: The Soul
+  :isUnique: false
+- :name: 
+  :type: The Spark and the Flame
+  :isUnique: false
+- :name: 
+  :type: The Spoiled Prince
+  :isUnique: false
+- :name: 
+  :type: The Standoff
+  :isUnique: false
+- :name: 
+  :type: The Stormcaller
+  :isUnique: false
+- :name: 
+  :type: The Summoner
+  :isUnique: false
+- :name: 
+  :type: The Sun
+  :isUnique: false
+- :name: 
+  :type: The Surgeon
+  :isUnique: false
+- :name: 
+  :type: The Surveyor
+  :isUnique: false
+- :name: 
+  :type: The Survivalist
+  :isUnique: false
+- :name: 
+  :type: The Thaumaturgist
+  :isUnique: false
+- :name: 
+  :type: The Throne
+  :isUnique: false
+- :name: 
+  :type: The Tower
+  :isUnique: false
+- :name: 
+  :type: The Traitor
+  :isUnique: false
+- :name: 
+  :type: The Trial
+  :isUnique: false
+- :name: 
+  :type: The Twins
+  :isUnique: false
+- :name: 
+  :type: The Tyrant
+  :isUnique: false
+- :name: 
+  :type: The Union
+  :isUnique: false
+- :name: 
+  :type: The Valkyrie
+  :isUnique: false
+- :name: 
+  :type: The Valley of Steel Boxes
+  :isUnique: false
+- :name: 
+  :type: The Vast
+  :isUnique: false
+- :name: 
+  :type: The Visionary
+  :isUnique: false
+- :name: 
+  :type: The Void
+  :isUnique: false
+- :name: 
+  :type: The Warden
+  :isUnique: false
+- :name: 
+  :type: The Warlord
+  :isUnique: false
+- :name: 
+  :type: The Watcher
+  :isUnique: false
+- :name: 
+  :type: The Web
+  :isUnique: false
+- :name: 
+  :type: The Wind
+  :isUnique: false
+- :name: 
+  :type: The Wolf
+  :isUnique: false
+- :name: 
+  :type: The Wolf's Shadow
+  :isUnique: false
+- :name: 
+  :type: The Wolven King's Bite
+  :isUnique: false
+- :name: 
+  :type: The Wolverine
+  :isUnique: false
+- :name: 
+  :type: The Wrath
+  :isUnique: false
+- :name: 
+  :type: The Wretched
+  :isUnique: false
+- :name: 
+  :type: Three Faces in the Dark
+  :isUnique: false
+- :name: 
+  :type: Thunderous Skies
+  :isUnique: false
+- :name: 
+  :type: Time-Lost Relic
+  :isUnique: false
+- :name: 
+  :type: Tranquillity
+  :isUnique: false
+- :name: 
+  :type: Treasure Hunter
+  :isUnique: false
+- :name: 
+  :type: Turn the Other Cheek
+  :isUnique: false
+- :name: 
+  :type: Vinia's Token
+  :isUnique: false
+- :name: 
+  :type: Volatile Power
+  :isUnique: false
+- :name: 
+  :type: Wealth and Power
+  :isUnique: false
+- :name: First Piece of the Arcane
+  :type: Legion Sword Piece
+  :isUnique: true
+- :name: First Piece of Brutality
+  :type: Imperial Staff Piece
+  :isUnique: true
+- :name: First Piece of Directions
+  :type: Blunt Arrow Quiver Piece
+  :isUnique: true
+- :name: First Piece of Focus
+  :type: Archon Kite Shield Piece
+  :isUnique: true
+- :name: First Piece of Storms
+  :type: Callous Mask Piece
+  :isUnique: true
+- :name: First Piece of Time
+  :type: Cloth Belt Piece
+  :isUnique: true
+- :name: Fourth Piece of Focus
+  :type: Archon Kite Shield Piece
+  :isUnique: true
+- :name: Second Piece of the Arcane
+  :type: Legion Sword Piece
+  :isUnique: true
+- :name: Second Piece of Brutality
+  :type: Imperial Staff Piece
+  :isUnique: true
+- :name: Second Piece of Directions
+  :type: Blunt Arrow Quiver Piece
+  :isUnique: true
+- :name: Second Piece of Focus
+  :type: Archon Kite Shield Piece
+  :isUnique: true
+- :name: Second Piece of Storms
+  :type: Callous Mask Piece
+  :isUnique: true
+- :name: Second Piece of Time
+  :type: Cloth Belt Piece
+  :isUnique: true
+- :name: Third Piece of the Arcane
+  :type: Legion Sword Piece
+  :isUnique: true
+- :name: Third Piece of Brutality
+  :type: Imperial Staff Piece
+  :isUnique: true
+- :name: Third Piece of Directions
+  :type: Blunt Arrow Quiver Piece
+  :isUnique: true
+- :name: Third Piece of Focus
+  :type: Archon Kite Shield Piece
+  :isUnique: true
+- :name: Third Piece of Storms
+  :type: Callous Mask Piece
+  :isUnique: true
+- :name: 
+  :type: Apprentice Cartographer's Sextant
+  :isUnique: false
+- :name: 
+  :type: Master Cartographer's Sextant
+  :isUnique: false
+- :name: 
+  :type: Journeyman Cartographer's Sextant
+  :isUnique: false
+- :name: 
+  :type: Orb of Augmentation
+  :isUnique: false
+- :name: 
+  :type: Exalted Orb
+  :isUnique: false
+- :name: 
+  :type: Exalted Shard
+  :isUnique: false
+- :name: 
+  :type: Armourer's Scrap
+  :isUnique: false
+- :name: 
+  :type: Splinter of Chayula
+  :isUnique: false
+- :name: 
+  :type: Splinter of Tul
+  :isUnique: false
+- :name: 
+  :type: Splinter of Xoph
+  :isUnique: false
+- :name: 
+  :type: Splinter of Esh
+  :isUnique: false
+- :name: 
+  :type: Splinter of Uul-Netol
+  :isUnique: false
+- :name: 
+  :type: Blessing of Chayula
+  :isUnique: false
+- :name: 
+  :type: Blessing of Tul
+  :isUnique: false
+- :name: 
+  :type: Blessing of Xoph
+  :isUnique: false
+- :name: 
+  :type: Blessing of Esh
+  :isUnique: false
+- :name: 
+  :type: Blessing of Uul-Netol
+  :isUnique: false
+- :name: 
+  :type: Orb of Scouring
+  :isUnique: false
+- :name: 
+  :type: Vaal Orb
+  :isUnique: false
+- :name: 
+  :type: Remnant of Corruption
+  :isUnique: false
+- :name: 
+  :type: Mirror of Kalandra
+  :isUnique: false
+- :name: 
+  :type: Mirror Shard
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Anger
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Anger
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Anger
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Anger
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Anger
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Anger
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Anguish
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Anguish
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Anguish
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Anguish
+  :isUnique: false
+- :name: 
+  :type: Whispering Essence of Contempt
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Contempt
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Contempt
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Contempt
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Contempt
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Contempt
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Contempt
+  :isUnique: false
+- :name: 
+  :type: Essence of Delirium
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Doubt
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Doubt
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Doubt
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Doubt
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Doubt
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Dread
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Dread
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Dread
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Envy
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Envy
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Envy
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Fear
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Fear
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Fear
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Fear
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Fear
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Fear
+  :isUnique: false
+- :name: 
+  :type: Whispering Essence of Greed
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Greed
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Greed
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Greed
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Greed
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Greed
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Greed
+  :isUnique: false
+- :name: 
+  :type: Whispering Essence of Hatred
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Hatred
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Hatred
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Hatred
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Hatred
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Hatred
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Hatred
+  :isUnique: false
+- :name: 
+  :type: Essence of Horror
+  :isUnique: false
+- :name: 
+  :type: Essence of Hysteria
+  :isUnique: false
+- :name: 
+  :type: Essence of Insanity
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Loathing
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Loathing
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Loathing
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Loathing
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Misery
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Misery
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Misery
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Rage
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Rage
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Rage
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Rage
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Rage
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Scorn
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Scorn
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Scorn
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Spite
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Spite
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Spite
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Spite
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Suffering
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Suffering
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Suffering
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Suffering
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Suffering
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Torment
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Torment
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Torment
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Torment
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Torment
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Torment
+  :isUnique: false
+- :name: 
+  :type: Whispering Essence of Woe
+  :isUnique: false
+- :name: 
+  :type: Muttering Essence of Woe
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Woe
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Woe
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Woe
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Woe
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Woe
+  :isUnique: false
+- :name: 
+  :type: Weeping Essence of Wrath
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Wrath
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Wrath
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Wrath
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Wrath
+  :isUnique: false
+- :name: 
+  :type: Wailing Essence of Zeal
+  :isUnique: false
+- :name: 
+  :type: Screaming Essence of Zeal
+  :isUnique: false
+- :name: 
+  :type: Shrieking Essence of Zeal
+  :isUnique: false
+- :name: 
+  :type: Deafening Essence of Zeal
+  :isUnique: false
+- :name: 
+  :type: Glassblower's Bauble
+  :isUnique: false
+- :name: 
+  :type: Gemcutter's Prism
+  :isUnique: false
+- :name: 
+  :type: Scroll of Wisdom
+  :isUnique: false
+- :name: 
+  :type: Scroll Fragment
+  :isUnique: false
+- :name: 
+  :type: Imprint
+  :isUnique: false
+- :name: 
+  :type: Eternal Orb
+  :isUnique: false
+- :name: 
+  :type: Cartographer's Chisel
+  :isUnique: false
+- :name: 
+  :type: Divine Orb
+  :isUnique: false
+- :name: 
+  :type: Orb of Regret
+  :isUnique: false
+- :name: 
+  :type: Perandus Coin
+  :isUnique: false
+- :name: 
+  :type: Portal Scroll
+  :isUnique: false
+- :name: 
+  :type: Orb of Annulment
+  :isUnique: false
+- :name: 
+  :type: Annulment Shard
+  :isUnique: false
+- :name: 
+  :type: Blessed Orb
+  :isUnique: false
+- :name: 
+  :type: Orb of Alteration
+  :isUnique: false
+- :name: 
+  :type: Alteration Shard
+  :isUnique: false
+- :name: 
+  :type: Orb of Horizons
+  :isUnique: false
+- :name: 
+  :type: Horizon Shard
+  :isUnique: false
+- :name: 
+  :type: Chaos Orb
+  :isUnique: false
+- :name: 
+  :type: Chaos Shard
+  :isUnique: false
+- :name: 
+  :type: Chromatic Orb
+  :isUnique: false
+- :name: 
+  :type: Orb of Fusing
+  :isUnique: false
+- :name: 
+  :type: Jeweller's Orb
+  :isUnique: false
+- :name: 
+  :type: Ancient Orb
+  :isUnique: false
+- :name: 
+  :type: Ancient Shard
+  :isUnique: false
+- :name: 
+  :type: Unshaping Orb
+  :isUnique: false
+- :name: 
+  :type: Albino Rhoa Feather
+  :isUnique: false
+- :name: 
+  :type: Master Cartographer's Seal
+  :isUnique: false
+- :name: 
+  :type: Apprentice Cartographer's Seal
+  :isUnique: false
+- :name: 
+  :type: Journeyman Cartographer's Seal
+  :isUnique: false
+- :name: 
+  :type: Silver Coin
+  :isUnique: false
+- :name: 
+  :type: Engineer's Orb
+  :isUnique: false
+- :name: 
+  :type: Engineer's Shard
+  :isUnique: false
+- :name: 
+  :type: Regal Orb
+  :isUnique: false
+- :name: 
+  :type: Regal Shard
+  :isUnique: false
+- :name: 
+  :type: Harbinger's Orb
+  :isUnique: false
+- :name: 
+  :type: Harbinger's Shard
+  :isUnique: false
+- :name: 
+  :type: Orb of Chance
+  :isUnique: false
+- :name: 
+  :type: Orb of Transmutation
+  :isUnique: false
+- :name: 
+  :type: Transmutation Shard
+  :isUnique: false
+- :name: 
+  :type: Orb of Alchemy
+  :isUnique: false
+- :name: 
+  :type: Orb of Binding
+  :isUnique: false
+- :name: 
+  :type: Binding Shard
+  :isUnique: false
+- :name: 
+  :type: Alchemy Shard
+  :isUnique: false
+- :name: 
+  :type: Blacksmith's Whetstone
+  :isUnique: false
+- :name: 
+  :type: Stacked Deck
+  :isUnique: false
+- :name: 
+  :type: Cloth Belt Piece
+  :isUnique: false
+- :name: 
+  :type: Callous Mask Piece
+  :isUnique: false
+- :name: 
+  :type: Blunt Arrow Quiver Piece
+  :isUnique: false
+- :name: 
+  :type: Archon Kite Shield Piece
+  :isUnique: false
+- :name: 
+  :type: Imperial Staff Piece
+  :isUnique: false
+- :name: 
+  :type: Legion Sword Piece
+  :isUnique: false
