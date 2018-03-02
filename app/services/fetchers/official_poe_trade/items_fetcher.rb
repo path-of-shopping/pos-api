@@ -17,7 +17,7 @@ module OfficialPoeTrade
       raw_items = JSON.parse(response.body)['result'].map { |result| result['entries'] }
       raw_items.flatten!
 
-      raw_items.map { |item| { name: item['name'], type: item['type'], isUnique: item['flags'].present? ? item['flags'].keys.include?(UNIQUE_FLAG) : false } }
+      raw_items.map { |item| { name: item['name'], base: item['type'], isUnique: item['flags'].present? ? item['flags'].keys.include?(UNIQUE_FLAG) : false } }
     end
   end
 end
