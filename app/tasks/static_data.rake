@@ -3,8 +3,10 @@ namespace :static_data do
 
   task update: :environment do
     puts 'Updating leagues...'
-    leagues = OfficialPoeTrade::LeaguesFetcher.new.fetch
-    File.open('./app/constants/leagues.yml', 'w') { |file| file.write(leagues.to_yaml) }
+    File.open('./app/constants/leagues.yml', 'w') { |file| file.write(OfficialPoeTrade::LeaguesFetcher.new.fetch.to_yaml) }
+
+    puts 'Updating mods...'
+    File.open('./app/constants/mods.yml', 'w') { |file| file.write(OfficialPoeTrade::ModsFetcher.new.fetch.to_yaml) }
 
     puts 'Done !'
   end
