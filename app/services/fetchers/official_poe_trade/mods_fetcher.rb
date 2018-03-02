@@ -16,7 +16,7 @@ module OfficialPoeTrade
       raw_mods = JSON.parse(response.body)['result'].map { |result| result['entries'] }
       raw_mods.flatten!
 
-      raw_mods.map { |mod| { id: mod['id'], value: mod['text'], type: mod['type'] } }
+      raw_mods.map { |mod| { id: mod['id'], name: mod['text'], type: mod['type'] } }
     end
   end
 end
