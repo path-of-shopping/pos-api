@@ -1309,12 +1309,12 @@
 - :id: explicit.stat_827329571
   :name: "#% increased Spell Damage per Power Charge"
   :type: explicit
-- :id: explicit.stat_1745710984
-  :name: "#% chance to grant Unholy Might to nearby Enemies on Kill"
-  :type: explicit
 - :id: explicit.stat_1163758055
   :name: 'With at least 40 Strength in Radius, Molten Strike has #% increased Area
     of Effect'
+  :type: explicit
+- :id: explicit.stat_1745710984
+  :name: "#% chance to grant Unholy Might to nearby Enemies on Kill"
   :type: explicit
 - :id: explicit.stat_2608615082
   :name: 'Socketed Gems are Supported by Level # Mana Leech'
@@ -1357,11 +1357,11 @@
 - :id: explicit.stat_4293455942
   :name: Enemies Cannot Leech Life From You
   :type: explicit
-- :id: explicit.stat_570644802
-  :name: "#% chance to gain a Spirit Charge on Kill"
-  :type: explicit
 - :id: explicit.stat_4271082039
   :name: "#% chance to Avoid being Ignited while on Low Life"
+  :type: explicit
+- :id: explicit.stat_570644802
+  :name: "#% chance to gain a Spirit Charge on Kill"
   :type: explicit
 - :id: explicit.stat_38301299
   :name: "#% to Fire Resistance while on Low Life"
@@ -1987,11 +1987,11 @@
   :name: "#% increased Chaos Damage per 10 Intelligence from Allocated Passives in
     Radius"
   :type: explicit
-- :id: explicit.stat_443525707
-  :name: 'Nearby Enemies have #% increased Effect of Curses on them'
-  :type: explicit
 - :id: explicit.stat_3175679225
   :name: 'Nearby allies gain #% increased Damage'
+  :type: explicit
+- :id: explicit.stat_443525707
+  :name: 'Nearby Enemies have #% increased Effect of Curses on them'
   :type: explicit
 - :id: explicit.stat_1457911472
   :name: "#% chance to cause Enemies to Flee on use"
@@ -3975,11 +3975,11 @@
 - :id: explicit.stat_768537671
   :name: "#% of Life Leech applies to Enemies as Chaos Damage"
   :type: explicit
-- :id: explicit.stat_2978408106
-  :name: Area contains a Voidspawn of Abaxoth Bloodline Pack
-  :type: explicit
 - :id: explicit.stat_622203853
   :name: "#% increased Conductivity Mana Reservation"
+  :type: explicit
+- :id: explicit.stat_2978408106
+  :name: Area contains a Voidspawn of Abaxoth Bloodline Pack
   :type: explicit
 - :id: explicit.stat_52953650
   :name: 'Grants Level # Envy Skill'
@@ -4011,14 +4011,14 @@
 - :id: explicit.stat_3097206473
   :name: Rare Breach Monsters drop an additional Splinter
   :type: explicit
-- :id: explicit.stat_1266553505
-  :name: Weapons you Animate create an additional copy
+- :id: explicit.stat_1406039617
+  :name: "#% increased Rampage Streak Duration"
   :type: explicit
 - :id: explicit.stat_1162425204
   :name: Remove Ignite and Burning when you use a Flask
   :type: explicit
-- :id: explicit.stat_1406039617
-  :name: "#% increased Rampage Streak Duration"
+- :id: explicit.stat_1266553505
+  :name: Weapons you Animate create an additional copy
   :type: explicit
 - :id: explicit.stat_414991155
   :name: "#% more Animate Weapon Duration"
@@ -4111,24 +4111,24 @@
 - :id: explicit.stat_3827349913
   :name: "#% increased Global Armour while you have no Energy Shield"
   :type: explicit
+- :id: explicit.stat_1416455556
+  :name: 'Players have #% increased Movement Speed'
+  :type: explicit
 - :id: explicit.stat_1645524575
   :name: |-
     Passives granting Fire Resistance or all Elemental Resistances in Radius
     also grant an equal chance to gain an Endurance Charge on Kill
   :type: explicit
-- :id: explicit.stat_1416455556
-  :name: 'Players have #% increased Movement Speed'
-  :type: explicit
 - :id: explicit.stat_1589917703
   :name: 'Minions deal #% increased Damage'
-  :type: explicit
-- :id: explicit.stat_1489997462
-  :name: 'Players have #% increased Rarity of Items Found per 15 Rampage Kills'
   :type: explicit
 - :id: explicit.stat_1753916791
   :name: |-
     Projectiles from Attacks have #% chance to Maim on Hit while
     you have a Bestial Minion
+  :type: explicit
+- :id: explicit.stat_1489997462
+  :name: 'Players have #% increased Rarity of Items Found per 15 Rampage Kills'
   :type: explicit
 - :id: explicit.stat_2383304564
   :name: "#% of Damage taken from Mana before Life while affected by Clarity"
@@ -4158,14 +4158,14 @@
 - :id: explicit.stat_3291658075
   :name: "#% increased Cold Damage"
   :type: explicit
-- :id: explicit.stat_1760576992
-  :name: 'Adds # to # Physical Damage to Bow Attacks'
+- :id: explicit.stat_1722463112
+  :name: 'Nearby Allies have #% increased Item Rarity'
   :type: explicit
 - :id: explicit.stat_2365917222
   :name: Unaffected by Enfeeble while affected by Grace
   :type: explicit
-- :id: explicit.stat_1722463112
-  :name: 'Nearby Allies have #% increased Item Rarity'
+- :id: explicit.stat_1760576992
+  :name: 'Adds # to # Physical Damage to Bow Attacks'
   :type: explicit
 - :id: explicit.stat_2106756686
   :name: "#% of Physical Damage Converted to Lightning Damage while affected by Wrath"
@@ -4195,17 +4195,17 @@
 - :id: explicit.stat_2062174346
   :name: "#% increased Damage per 15 Dexterity"
   :type: explicit
-- :id: explicit.stat_200299748
-  :name: When a Bloodline Pack is Slain, it drops a Currency Item
-  :type: explicit
 - :id: explicit.stat_3692646597
   :name: "#% chance to Block while affected by Determination"
   :type: explicit
-- :id: explicit.stat_1874553720
-  :name: "#% reduced Chill Duration on You"
+- :id: explicit.stat_200299748
+  :name: When a Bloodline Pack is Slain, it drops a Currency Item
   :type: explicit
 - :id: explicit.stat_2589977608
   :name: Area contains a Rare Monster carrying a Tier 2 Talisman
+  :type: explicit
+- :id: explicit.stat_1874553720
+  :name: "#% reduced Chill Duration on You"
   :type: explicit
 - :id: explicit.stat_3856468419
   :name: 'Adds # to # Physical Damage to Attacks against Frozen Enemies'
@@ -4250,26 +4250,26 @@
 - :id: explicit.stat_1173690938
   :name: Unaffected by Flammability while affected by Purity of Fire
   :type: explicit
-- :id: explicit.stat_1779027621
-  :name: "#% of Physical Damage from Hits taken as Cold Damage while affected by Purity
-    of Ice"
-  :type: explicit
 - :id: explicit.stat_3788235244
   :name: 'Area has a #% chance to contain Cadiro Perandus'
   :type: explicit
 - :id: explicit.stat_1594755360
   :name: Shrines grant a random additional Shrine Effect
   :type: explicit
+- :id: explicit.stat_1779027621
+  :name: "#% of Physical Damage from Hits taken as Cold Damage while affected by Purity
+    of Ice"
+  :type: explicit
 - :id: explicit.stat_3476327198
   :name: "#% increased Attack, Cast and Movement Speed while you do not have Iron
     Reflexes"
   :type: explicit
-- :id: explicit.stat_2156472123
-  :name: Perandus Chests are guarded by additional Rare monsters
-  :type: explicit
 - :id: explicit.stat_254131992
   :name: "#% of Physical Damage from Hits taken as Lightning Damage while affected
     by Purity of Lightning"
+  :type: explicit
+- :id: explicit.stat_2156472123
+  :name: Perandus Chests are guarded by additional Rare monsters
   :type: explicit
 - :id: explicit.stat_637101875
   :name: Monsters Fracture
@@ -4293,12 +4293,12 @@
 - :id: explicit.stat_1731620212
   :name: No Life Recovery Applies during Flask effect
   :type: explicit
+- :id: explicit.stat_949718413
+  :name: 'Lightning Skills have #% chance to Poison on Hit'
+  :type: explicit
 - :id: explicit.stat_1699077932
   :name: "#% chance to Recover 10% of Maximum Mana when you use a Skill while affected
     by Clarity"
-  :type: explicit
-- :id: explicit.stat_949718413
-  :name: 'Lightning Skills have #% chance to Poison on Hit'
   :type: explicit
 - :id: explicit.stat_3877259945
   :name: Monsters with Silver Coins drop an additional Rare Item
@@ -4321,11 +4321,11 @@
 - :id: explicit.stat_2643562209
   :name: 'Adds # to # Cold Damage while affected by Hatred'
   :type: explicit
-- :id: explicit.stat_2483795307
-  :name: "#% chance to gain a Power Charge on Kill"
-  :type: explicit
 - :id: explicit.stat_604298782
   :name: "#% of Physical Attack Damage Leeched as Mana per Power Charge"
+  :type: explicit
+- :id: explicit.stat_2483795307
+  :name: "#% chance to gain a Power Charge on Kill"
   :type: explicit
 - :id: explicit.stat_627889781
   :name: Removes Elemental Ailments on Rampage
@@ -4346,11 +4346,11 @@
 - :id: explicit.stat_281949611
   :name: Immune to Shock while affected by Purity of Lightning
   :type: explicit
-- :id: explicit.stat_1873457881
-  :name: "#% additional Physical Damage Reduction while affected by Determination"
-  :type: explicit
 - :id: explicit.stat_3223142064
   :name: Unaffected by Elemental Weakness while affected by Purity of Elements
+  :type: explicit
+- :id: explicit.stat_1873457881
+  :name: "#% additional Physical Damage Reduction while affected by Determination"
   :type: explicit
 - :id: explicit.stat_3130378100
   :name: "#% more Rarity of Items Dropped by Imprisoned Monsters"
@@ -4382,11 +4382,11 @@
 - :id: explicit.stat_2908391015
   :name: 'Players deal #% increased Damage with Hits to Breach Monsters'
   :type: explicit
-- :id: explicit.stat_2445618239
-  :name: "# to Total Mana Cost of Skills while affected by Clarity"
-  :type: explicit
 - :id: explicit.stat_2720072724
   :name: Immune to Freeze while affected by Purity of Ice
+  :type: explicit
+- :id: explicit.stat_2445618239
+  :name: "# to Total Mana Cost of Skills while affected by Clarity"
   :type: explicit
 - :id: explicit.stat_1016185292
   :name: "#% faster start of Energy Shield Recharge while affected by Discipline"
@@ -4463,20 +4463,20 @@
 - :id: explicit.stat_2968804751
   :name: "#% increased Attack and Movement Speed with Her Blessing"
   :type: explicit
-- :id: explicit.stat_754005431
-  :name: 'Gain #% of Sword Physical Damage as Extra Fire Damage'
-  :type: explicit
 - :id: explicit.stat_1093704472
   :name: "#% chance to Avoid being Frozen, Chilled or Ignited with Her Blessing"
+  :type: explicit
+- :id: explicit.stat_754005431
+  :name: 'Gain #% of Sword Physical Damage as Extra Fire Damage'
   :type: explicit
 - :id: explicit.stat_4203400545
   :name: "#% chance to gain Her Blessing for 3 seconds when you Ignite an Enemy"
   :type: explicit
-- :id: explicit.stat_2327728343
-  :name: "#% chance to Blind nearby Enemies when gaining Her Blessing"
-  :type: explicit
 - :id: explicit.stat_3884309250
   :name: Area contains a Tormented Embezzler
+  :type: explicit
+- :id: explicit.stat_2327728343
+  :name: "#% chance to Blind nearby Enemies when gaining Her Blessing"
   :type: explicit
 - :id: explicit.stat_2889601846
   :name: "#% of Lightning Damage is Leeched as Mana while affected by Wrath"
@@ -4489,14 +4489,14 @@
     Passives granting Fire Resistance or all Elemental Resistances in Radius
     also grant Chance to Block at #% of its value
   :type: explicit
-- :id: explicit.stat_1105638781
-  :name: Area contains an additional Perandus Jewellery Box
-  :type: explicit
 - :id: explicit.stat_3964634628
   :name: 'Adds # to # Fire Damage to Spells and Attacks'
   :type: explicit
 - :id: explicit.stat_3485067555
   :name: "#% increased Chill Duration on Enemies"
+  :type: explicit
+- :id: explicit.stat_1105638781
+  :name: Area contains an additional Perandus Jewellery Box
   :type: explicit
 - :id: explicit.stat_664849247
   :name: "#% of Physical Damage Converted to Cold Damage while affected by Hatred"
@@ -4510,11 +4510,11 @@
 - :id: explicit.stat_3824372849
   :name: "#% increased Curse Duration"
   :type: explicit
-- :id: explicit.stat_4259701244
-  :name: "# Life gained for each Enemy Hit while affected by Vitality"
-  :type: explicit
 - :id: explicit.stat_2996332612
   :name: Essences found in this Area are a higher level
+  :type: explicit
+- :id: explicit.stat_4259701244
+  :name: "# Life gained for each Enemy Hit while affected by Vitality"
   :type: explicit
 - :id: explicit.stat_1077131949
   :name: 'Damage Penetrates #% Lightning Resistance while affected by Wrath'
@@ -4591,17 +4591,17 @@
 - :id: explicit.stat_1773553795
   :name: Warbands in the Area have an additional Support Member
   :type: explicit
-- :id: explicit.stat_112201073
-  :name: "#% of Damage against Shocked Enemies Leeched as Mana"
-  :type: explicit
 - :id: explicit.stat_593279674
   :name: "#% of Damage against Frozen Enemies Leeched as Life"
   :type: explicit
-- :id: explicit.stat_3342989455
-  :name: "#% of Physical Damage from Hits taken as Fire Damage"
+- :id: explicit.stat_112201073
+  :name: "#% of Damage against Shocked Enemies Leeched as Mana"
   :type: explicit
 - :id: explicit.stat_3072066782
   :name: 'Players Regenerate #% of Maximum Life per second per 25 Rampage Kills'
+  :type: explicit
+- :id: explicit.stat_3342989455
+  :name: "#% of Physical Damage from Hits taken as Fire Damage"
   :type: explicit
 - :id: explicit.stat_829382474
   :name: "# to Level of Socketed Melee Gems"
@@ -4619,11 +4619,11 @@
 - :id: explicit.stat_2154246560
   :name: "#% increased Damage"
   :type: explicit
-- :id: explicit.stat_2668070396
-  :name: 'Trigger Level # Shock Ground when Hit'
-  :type: explicit
 - :id: explicit.stat_1999113824
   :name: "#% increased Evasion and Energy Shield"
+  :type: explicit
+- :id: explicit.stat_2668070396
+  :name: 'Trigger Level # Shock Ground when Hit'
   :type: explicit
 - :id: explicit.stat_4064867033
   :name: "#% more Weapon Damage"
@@ -4639,11 +4639,11 @@
 - :id: explicit.stat_3051845758
   :name: "#% to Fire Resistance when Socketed with a Red Gem"
   :type: explicit
-- :id: explicit.stat_279246355
-  :name: Area is inhabited by an additional Invasion Boss
-  :type: explicit
 - :id: explicit.stat_1783006896
   :name: "#% chance to Avoid being Ignited"
+  :type: explicit
+- :id: explicit.stat_279246355
+  :name: Area is inhabited by an additional Invasion Boss
   :type: explicit
 - :id: explicit.stat_1415399260
   :name: Area is controlled by a Warband Boss
@@ -4659,6 +4659,9 @@
 - :id: explicit.stat_1471580517
   :name: You can catch Exotic Fish
   :type: explicit
+- :id: explicit.stat_770672621
+  :name: 'Minions have #% increased maximum Life'
+  :type: explicit
 - :id: explicit.stat_3381731475
   :name: Area contains an additional Fangjaw Talisman
   :type: explicit
@@ -4666,9 +4669,6 @@
   :name: |-
     Passives granting Cold Resistance or all Elemental Resistances in Radius
     also grant Chance to Dodge Attacks at #% of its value
-  :type: explicit
-- :id: explicit.stat_770672621
-  :name: 'Minions have #% increased maximum Life'
   :type: explicit
 - :id: explicit.stat_2270693644
   :name: Area contains an additional Clutching Talisman
@@ -4692,11 +4692,11 @@
 - :id: explicit.stat_2889664727
   :name: "#% chance to Avoid Lightning Damage when Hit"
   :type: explicit
-- :id: explicit.stat_1335054179
-  :name: "#% chance to Ignite"
-  :type: explicit
 - :id: explicit.stat_470688636
   :name: Triggers Level 20 Spectral Spirits when Equipped
+  :type: explicit
+- :id: explicit.stat_1335054179
+  :name: "#% chance to Ignite"
   :type: explicit
 - :id: explicit.stat_2250533757
   :name: "#% increased Movement Speed"
@@ -4716,14 +4716,14 @@
 - :id: explicit.stat_1032751668
   :name: You have Vaal Pact if you've dealt a Critical Strike Recently
   :type: explicit
+- :id: explicit.stat_174664100
+  :name: 'Minions have #% increased Movement Speed'
+  :type: explicit
 - :id: explicit.stat_2306924373
   :name: 'You cannot be Chilled for # second after being Chilled'
   :type: explicit
 - :id: explicit.stat_1652515349
   :name: "# to maximum number of Zombies"
-  :type: explicit
-- :id: explicit.stat_174664100
-  :name: 'Minions have #% increased Movement Speed'
   :type: explicit
 - :id: explicit.stat_979246511
   :name: 'Gain #% of Physical Damage as Extra Cold Damage'
@@ -4743,11 +4743,11 @@
 - :id: explicit.stat_4167600809
   :name: "#% increased Fire Damage if you have used a Cold Skill Recently"
   :type: explicit
-- :id: explicit.stat_299054775
-  :name: "#% increased Evasion Rating during Flask effect"
-  :type: explicit
 - :id: explicit.stat_1186934478
   :name: "#% increased Maximum number of Summoned Raging Spirits"
+  :type: explicit
+- :id: explicit.stat_299054775
+  :name: "#% increased Evasion Rating during Flask effect"
   :type: explicit
 - :id: explicit.stat_2309614417
   :name: "#% chance to Freeze"
@@ -4755,11 +4755,11 @@
 - :id: explicit.stat_3762784591
   :name: "#% increased Chaos Damage taken over time"
   :type: explicit
-- :id: explicit.stat_1412217137
-  :name: "#% increased Flask Mana Recovery rate"
-  :type: explicit
 - :id: explicit.stat_2969128501
   :name: "#% increased Mana Cost of Minion Skills"
+  :type: explicit
+- :id: explicit.stat_1412217137
+  :name: "#% increased Flask Mana Recovery rate"
   :type: explicit
 - :id: explicit.stat_3181974858
   :name: "#% chance to Cause Monsters to Flee"
@@ -4776,11 +4776,11 @@
 - :id: explicit.stat_488900289
   :name: Breaches contain a Breachlord's Clasped Hand
   :type: explicit
-- :id: explicit.stat_3741323227
-  :name: "#% increased Flask effect duration"
-  :type: explicit
 - :id: explicit.stat_3720936304
   :name: 'Socketed Gems are Supported by Level # Increased Area of Effect'
+  :type: explicit
+- :id: explicit.stat_3741323227
+  :name: "#% increased Flask effect duration"
   :type: explicit
 - :id: explicit.stat_916797432
   :name: "# to Level of Socketed Strength Gems"
@@ -4788,22 +4788,22 @@
 - :id: explicit.stat_809229260
   :name: "# to Armour"
   :type: explicit
+- :id: explicit.stat_1062208444
+  :name: "#% increased Armour (Local)"
+  :type: explicit
+- :id: explicit.stat_3909654181
+  :name: 'Monsters have #% increased Attack, Cast and Movement Speed'
+  :type: explicit
 - :id: explicit.stat_2074744008
   :name: |-
     With at least 40 Intelligence in Radius, #% increased Freezing Pulse Damage if
     you've Shattered an Enemy Recently
-  :type: explicit
-- :id: explicit.stat_1062208444
-  :name: "#% increased Armour (Local)"
   :type: explicit
 - :id: explicit.stat_598809739
   :name: 'Monsters grant #% increased Experience'
   :type: explicit
 - :id: explicit.stat_1662717006
   :name: 'Adds # to # Cold Damage to Spells and Attacks'
-  :type: explicit
-- :id: explicit.stat_3909654181
-  :name: 'Monsters have #% increased Attack, Cast and Movement Speed'
   :type: explicit
 - :id: explicit.stat_1869678332
   :name: 'During Flask Effect, #% increased Damage taken of each Element for which
@@ -4848,26 +4848,26 @@
 - :id: explicit.stat_3293699237
   :name: "#% increased Attack Speed with Swords"
   :type: explicit
-- :id: explicit.stat_899928542
-  :name: Invasion Bosses drop an additional Vaal Orb
+- :id: explicit.stat_2929867083
+  :name: "#% increased Rarity of Items found when on Low Life"
   :type: explicit
 - :id: explicit.stat_3519268108
   :name: 'Adds # to # Chaos Damage to Spells and Attacks during any Flask Effect'
   :type: explicit
-- :id: explicit.stat_2929867083
-  :name: "#% increased Rarity of Items found when on Low Life"
+- :id: explicit.stat_899928542
+  :name: Invasion Bosses drop an additional Vaal Orb
   :type: explicit
 - :id: explicit.stat_3391324703
   :name: 'Traps and Mines deal # to # additional Physical Damage'
   :type: explicit
-- :id: explicit.stat_723832351
-  :name: "#% of Cold Damage Converted to Fire Damage"
+- :id: explicit.stat_3479987487
+  :name: "#% increased Block and Stun Recovery during Flask effect"
   :type: explicit
 - :id: explicit.stat_3407849389
   :name: "#% increased Effect of Curses on You"
   :type: explicit
-- :id: explicit.stat_3479987487
-  :name: "#% increased Block and Stun Recovery during Flask effect"
+- :id: explicit.stat_723832351
+  :name: "#% of Cold Damage Converted to Fire Damage"
   :type: explicit
 - :id: explicit.stat_1809006367
   :name: 'Totems gain #% to all Elemental Resistances'
@@ -4878,11 +4878,11 @@
 - :id: explicit.stat_2530071726
   :name: Area contains an additional Three Rat Talisman
   :type: explicit
+- :id: explicit.stat_3771516363
+  :name: "#% additional Physical Damage Reduction"
+  :type: explicit
 - :id: explicit.stat_4291461939
   :name: "# Mana Regenerated per second"
-  :type: explicit
-- :id: explicit.stat_124859000
-  :name: "#% increased Evasion Rating (Local)"
   :type: explicit
 - :id: explicit.stat_2594215131
   :name: "#% increased Physical Weapon Damage per 10 Strength"
@@ -4892,8 +4892,8 @@
     With at least 40 Strength in Radius, Glacial Hammer deals
     Cold-only Splash Damage to surrounding targets
   :type: explicit
-- :id: explicit.stat_3771516363
-  :name: "#% additional Physical Damage Reduction"
+- :id: explicit.stat_124859000
+  :name: "#% increased Evasion Rating (Local)"
   :type: explicit
 - :id: explicit.stat_30642521
   :name: 'Enemies can have # additional Curse'
@@ -4914,23 +4914,23 @@
   :name: "#% chance to gain a Frenzy Charge on Killing an Enemy affected by at least
     5 Poisons"
   :type: explicit
-- :id: explicit.stat_3818161429
-  :name: 'You gain Onslaught for # seconds on Culling Strike'
+- :id: explicit.stat_308309328
+  :name: "#% chance to Recover 10% of Maximum Mana when you use a Skill"
   :type: explicit
 - :id: explicit.stat_2825197711
   :name: "#% increased Movement Speed while on Full Energy Shield"
   :type: explicit
-- :id: explicit.stat_308309328
-  :name: "#% chance to Recover 10% of Maximum Mana when you use a Skill"
+- :id: explicit.stat_3818161429
+  :name: 'You gain Onslaught for # seconds on Culling Strike'
   :type: explicit
-- :id: explicit.stat_3441501978
-  :name: "#% to Fire and Lightning Resistances"
+- :id: explicit.stat_3676141501
+  :name: "#% to maximum Cold Resistance"
   :type: explicit
 - :id: explicit.stat_3057529096
   :name: Area contains a Rare Monster with Inner Treasure
   :type: explicit
-- :id: explicit.stat_3676141501
-  :name: "#% to maximum Cold Resistance"
+- :id: explicit.stat_3441501978
+  :name: "#% to Fire and Lightning Resistances"
   :type: explicit
 - :id: explicit.stat_498214257
   :name: "#% chance to gain a Power, Frenzy or Endurance Charge on Kill"
@@ -4944,11 +4944,14 @@
 - :id: explicit.stat_2761732967
   :name: Raging Spirits refresh their Duration when they Kill an Ignited Enemy
   :type: explicit
+- :id: explicit.stat_3013430129
+  :name: "# second to Summon Skeleton Cooldown"
+  :type: explicit
 - :id: explicit.stat_3846810663
   :name: "#% increased Reflected Damage taken"
   :type: explicit
-- :id: explicit.stat_3013430129
-  :name: "# second to Summon Skeleton Cooldown"
+- :id: explicit.stat_1880071428
+  :name: "#% increased effect of Non-Curse Auras you Cast"
   :type: explicit
 - :id: explicit.stat_1589090910
   :name: Summon an additional Skeleton Warrior with Summon Skeleton
@@ -4956,35 +4959,32 @@
 - :id: explicit.stat_3457687358
   :name: 'Enemies killed explode dealing #% of their Life as Fire Damage'
   :type: explicit
-- :id: explicit.stat_1880071428
-  :name: "#% increased effect of Non-Curse Auras you Cast"
-  :type: explicit
-- :id: explicit.stat_2697049014
-  :name: You gain a Power Charge on use
+- :id: explicit.stat_2515515064
+  :name: "#% increased Attack Speed with Maces"
   :type: explicit
 - :id: explicit.stat_359450079
   :name: 'Socketed Gems are Supported by Level # Greater Multiple Projectiles'
   :type: explicit
-- :id: explicit.stat_2515515064
-  :name: "#% increased Attack Speed with Maces"
-  :type: explicit
-- :id: explicit.stat_637766438
-  :name: 'You and nearby allies gain #% increased Damage'
-  :type: explicit
-- :id: explicit.stat_1261982764
-  :name: "#% increased Life Recovered"
+- :id: explicit.stat_2697049014
+  :name: You gain a Power Charge on use
   :type: explicit
 - :id: explicit.stat_3691641145
   :name: "#% increased Damage taken"
   :type: explicit
+- :id: explicit.stat_1261982764
+  :name: "#% increased Life Recovered"
+  :type: explicit
+- :id: explicit.stat_637766438
+  :name: 'You and nearby allies gain #% increased Damage'
+  :type: explicit
 - :id: explicit.stat_438778966
   :name: 'Socketed Gems are Supported by Level # Spell Echo'
   :type: explicit
-- :id: explicit.stat_2382196858
-  :name: "#% increased Cast Speed while Dual Wielding"
-  :type: explicit
 - :id: explicit.stat_895264825
   :name: "#% increased Area of Effect of Aura Skills"
+  :type: explicit
+- :id: explicit.stat_2382196858
+  :name: "#% increased Cast Speed while Dual Wielding"
   :type: explicit
 - :id: explicit.stat_2917449574
   :name: 'Removes #% of your maximum Energy Shield on use'
@@ -4992,11 +4992,11 @@
 - :id: explicit.stat_2023107756
   :name: 'Recover #% of Maximum Life on Kill'
   :type: explicit
-- :id: explicit.stat_2374357674
-  :name: Poison you inflict is Reflected to you
-  :type: explicit
 - :id: explicit.stat_1119465199
   :name: Chaos Damage does not bypass Energy Shield
+  :type: explicit
+- :id: explicit.stat_2374357674
+  :name: Poison you inflict is Reflected to you
   :type: explicit
 - :id: explicit.stat_3700381193
   :name: "#% increased Accuracy Rating per Frenzy Charge"
@@ -5013,20 +5013,23 @@
 - :id: explicit.stat_1454603936
   :name: 'Adds # to # Physical Damage to Attacks with this Weapon per 3 Player Levels'
   :type: explicit
-- :id: explicit.stat_2843100721
-  :name: "# to Level of Socketed Gems"
-  :type: explicit
 - :id: explicit.stat_3111255591
   :name: "#% of Physical Attack Damage Leeched as Life during Flask effect"
-  :type: explicit
-- :id: explicit.stat_2606808909
-  :name: Arrow Dancing
   :type: explicit
 - :id: explicit.stat_2947215268
   :name: "#% increased Damage during any Flask Effect"
   :type: explicit
 - :id: explicit.stat_1924591908
   :name: "#% chance to grant Onslaught to nearby Enemies on Kill"
+  :type: explicit
+- :id: explicit.stat_2843100721
+  :name: "# to Level of Socketed Gems"
+  :type: explicit
+- :id: explicit.stat_2606808909
+  :name: Arrow Dancing
+  :type: explicit
+- :id: explicit.stat_2788729902
+  :name: 'Socketed Gems Chain # additional times'
   :type: explicit
 - :id: explicit.stat_194037675
   :name: Area contains a Unique Strongbox
@@ -5037,56 +5040,53 @@
 - :id: explicit.stat_1526933524
   :name: Instant Recovery
   :type: explicit
-- :id: explicit.stat_736967255
-  :name: "#% increased Chaos Damage"
-  :type: explicit
 - :id: explicit.stat_643741006
   :name: Area is inhabited by Bandits
   :type: explicit
+- :id: explicit.stat_736967255
+  :name: "#% increased Chaos Damage"
+  :type: explicit
 - :id: explicit.stat_3981960937
   :name: "#% chance to Avoid being Shocked while Chilled"
+  :type: explicit
+- :id: explicit.stat_3550868361
+  :name: "#% increased Attack Speed with Axes"
   :type: explicit
 - :id: explicit.stat_2444301311
   :name: 'During Flask Effect, Damage Penetrates #% Resistance of each Element for
     which your Uncapped Elemental Resistance is highest'
   :type: explicit
-- :id: explicit.stat_3550868361
-  :name: "#% increased Attack Speed with Axes"
-  :type: explicit
-- :id: explicit.stat_2788729902
-  :name: 'Socketed Gems Chain # additional times'
-  :type: explicit
-- :id: explicit.stat_1152934561
-  :name: 'Temporal Chains has #% increased Effect on You'
-  :type: explicit
 - :id: explicit.stat_34194642
   :name: "#% increased Effect of Auras on You"
+  :type: explicit
+- :id: explicit.stat_734614379
+  :name: "#% increased Strength"
   :type: explicit
 - :id: explicit.stat_1165023334
   :name: Your hits can't be Evaded
   :type: explicit
-- :id: explicit.stat_734614379
-  :name: "#% increased Strength"
+- :id: explicit.stat_1152934561
+  :name: 'Temporal Chains has #% increased Effect on You'
   :type: explicit
 - :id: explicit.stat_2802263253
   :name: 'With at least 1000 Strength, #% of Damage dealt by your Zombies is Leeched
     to you as Life'
   :type: explicit
-- :id: explicit.stat_251342217
-  :name: Adds Knockback to Melee Attacks during Flask effect
+- :id: explicit.stat_1650632809
+  :name: With at least 40 Intelligence in Radius, Spark fires an additional Projectile
+  :type: explicit
+- :id: explicit.stat_2771181375
+  :name: "#% increased Poison Duration if you have at least 150 Intelligence"
+  :type: explicit
+- :id: explicit.stat_648019518
+  :name: 'Removes #% of Life Recovered from Mana when used'
   :type: explicit
 - :id: explicit.stat_1025503586
   :name: "With at least 40 Strength in Radius, Heavy Strike has a \n#% chance to deal
     Double Damage"
   :type: explicit
-- :id: explicit.stat_648019518
-  :name: 'Removes #% of Life Recovered from Mana when used'
-  :type: explicit
-- :id: explicit.stat_2771181375
-  :name: "#% increased Poison Duration if you have at least 150 Intelligence"
-  :type: explicit
-- :id: explicit.stat_1650632809
-  :name: With at least 40 Intelligence in Radius, Spark fires an additional Projectile
+- :id: explicit.stat_251342217
+  :name: Adds Knockback to Melee Attacks during Flask effect
   :type: explicit
 - :id: explicit.stat_3496944181
   :name: "#% increased Spell Damage while wielding a Staff"
@@ -5105,29 +5105,29 @@
   :name: 'With at least 40 Intelligence in Radius, Blight has #% increased Hinder
     Duration'
   :type: explicit
-- :id: explicit.stat_2648570028
-  :name: Ancestral Bond
-  :type: explicit
-- :id: explicit.stat_2195137717
-  :name: Half of your Strength is added to your Minions
+- :id: explicit.stat_3759735052
+  :name: "#% increased Attack Speed with Bows"
   :type: explicit
 - :id: explicit.stat_3943945975
   :name: Resolute Technique
   :type: explicit
-- :id: explicit.stat_3759735052
-  :name: "#% increased Attack Speed with Bows"
+- :id: explicit.stat_969865219
+  :name: "#% increased Damage taken while on Full Energy Shield"
   :type: explicit
 - :id: explicit.stat_1478653032
   :name: "#% increased Effect of Chill on You"
   :type: explicit
-- :id: explicit.stat_969865219
-  :name: "#% increased Damage taken while on Full Energy Shield"
+- :id: explicit.stat_2195137717
+  :name: Half of your Strength is added to your Minions
   :type: explicit
-- :id: explicit.stat_4249220643
-  :name: "#% increased Attack Speed while Dual Wielding"
+- :id: explicit.stat_2648570028
+  :name: Ancestral Bond
   :type: explicit
 - :id: explicit.stat_175362265
   :name: "#% to Chaos Resistance per Poison on you"
+  :type: explicit
+- :id: explicit.stat_749770518
+  :name: 'Socketed Gems are Supported by Level # Reduced Mana'
   :type: explicit
 - :id: explicit.stat_1923879260
   :name: 'Attacks have #% chance to cause Bleeding'
@@ -5135,61 +5135,52 @@
 - :id: explicit.stat_782323220
   :name: "#% increased Elemental Damage with Attack Skills during any Flask Effect"
   :type: explicit
-- :id: explicit.stat_749770518
-  :name: 'Socketed Gems are Supported by Level # Reduced Mana'
-  :type: explicit
 - :id: explicit.stat_1636220212
   :name: 'Socketed Gems are Supported by Level # Swift Affliction'
   :type: explicit
-- :id: explicit.stat_3204150184
-  :name: Vaal Pact
+- :id: explicit.stat_4249220643
+  :name: "#% increased Attack Speed while Dual Wielding"
   :type: explicit
 - :id: explicit.stat_1866583932
   :name: 'Socketed Gems are Supported by Level # Void Manipulation'
   :type: explicit
-- :id: explicit.stat_674553446
-  :name: 'Adds # to # Chaos Damage to Attacks'
-  :type: explicit
-- :id: explicit.stat_1782086450
-  :name: "#% faster start of Energy Shield Recharge"
+- :id: explicit.stat_3204150184
+  :name: Vaal Pact
   :type: explicit
 - :id: explicit.stat_3417711605
   :name: 'Damage Penetrates #% Cold Resistance'
   :type: explicit
+- :id: explicit.stat_1782086450
+  :name: "#% faster start of Energy Shield Recharge"
+  :type: explicit
+- :id: explicit.stat_674553446
+  :name: 'Adds # to # Chaos Damage to Attacks'
+  :type: explicit
 - :id: explicit.stat_1020786773
   :name: 'Golems have # to Armour'
   :type: explicit
-- :id: explicit.stat_2257118425
-  :name: Vaal Pact
+- :id: explicit.stat_1060540099
+  :name: 'Adds # to # Fire Damage to Attacks with this Weapon per 10 Strength'
   :type: explicit
-- :id: explicit.stat_1173027373
-  :name: "#% of Life Regenerated per second with at least 400 Strength"
+- :id: explicit.stat_411810300
+  :name: Area contains an additional Perandus Locker
+  :type: explicit
+- :id: explicit.stat_2018035324
+  :name: "# Life gained for each Enemy hit by your Spells"
   :type: explicit
 - :id: explicit.stat_1556625719
   :name: Gain a Power Charge for each Enemy you hit with a Critical Strike
+  :type: explicit
+- :id: explicit.stat_2257118425
+  :name: Vaal Pact
   :type: explicit
 - :id: explicit.stat_1210937073
   :name: |-
     Spectres have a Base Duration of # seconds
     Spectres do not travel between Areas
   :type: explicit
-- :id: explicit.stat_2018035324
-  :name: "# Life gained for each Enemy hit by your Spells"
-  :type: explicit
-- :id: explicit.stat_411810300
-  :name: Area contains an additional Perandus Locker
-  :type: explicit
-- :id: explicit.stat_1060540099
-  :name: 'Adds # to # Fire Damage to Attacks with this Weapon per 10 Strength'
-  :type: explicit
-- :id: explicit.stat_3985468650
-  :name: 'Grants Level # Blood Offering Skill'
-  :type: explicit
-- :id: explicit.stat_350069479
-  :name: "#% of Attack Damage Leeched as Mana"
-  :type: explicit
-- :id: explicit.stat_2441475928
-  :name: "#% to Critical Strike Multiplier with Lightning Skills"
+- :id: explicit.stat_1173027373
+  :name: "#% of Life Regenerated per second with at least 400 Strength"
   :type: explicit
 - :id: explicit.stat_1263158408
   :name: Elemental Equilibrium
@@ -5197,20 +5188,26 @@
 - :id: explicit.stat_514705332
   :name: 'Socketed Gems are Supported by Level # Minion and Totem Elemental Resistance'
   :type: explicit
+- :id: explicit.stat_3985468650
+  :name: 'Grants Level # Blood Offering Skill'
+  :type: explicit
+- :id: explicit.stat_350069479
+  :name: "#% of Attack Damage Leeched as Mana"
+  :type: explicit
 - :id: explicit.stat_3416410609
   :name: "#% additional Block Chance against Projectiles"
   :type: explicit
-- :id: explicit.stat_561307714
-  :name: "#% Chance to Block Spells"
+- :id: explicit.stat_2441475928
+  :name: "#% to Critical Strike Multiplier with Lightning Skills"
   :type: explicit
-- :id: explicit.stat_2894297982
-  :name: 'Your Chaos Damage has #% chance to Poison Enemies'
+- :id: explicit.stat_2066542501
+  :name: "#% increased Cast Speed while wielding a Staff"
   :type: explicit
 - :id: explicit.stat_1334465904
   :name: "#% increased Physical Damage with One Handed Melee Weapons"
   :type: explicit
-- :id: explicit.stat_2066542501
-  :name: "#% increased Cast Speed while wielding a Staff"
+- :id: explicit.stat_938645499
+  :name: "#% additional Chance to Block Spells with Shields"
   :type: explicit
 - :id: explicit.stat_3720627346
   :name: "#% increased Attack Speed with Wands"
@@ -5218,8 +5215,11 @@
 - :id: explicit.stat_1994392904
   :name: Conduit
   :type: explicit
-- :id: explicit.stat_938645499
-  :name: "#% additional Chance to Block Spells with Shields"
+- :id: explicit.stat_561307714
+  :name: "#% Chance to Block Spells"
+  :type: explicit
+- :id: explicit.stat_2894297982
+  :name: 'Your Chaos Damage has #% chance to Poison Enemies'
   :type: explicit
 - :id: explicit.stat_3338298622
   :name: "#% increased Frenzy Charge Duration"
@@ -5256,14 +5256,11 @@
 - :id: explicit.stat_256730087
   :name: "#% increased Damage with Poison if you have at least 300 Dexterity"
   :type: explicit
-- :id: explicit.stat_3279535558
-  :name: Cannot Leech when on Low Life
+- :id: explicit.stat_3812562802
+  :name: "#% of Damage dealt by your Totems is Leeched to you as Life"
   :type: explicit
 - :id: explicit.stat_2114157293
   :name: "#% increased Golem Damage for each Type of Golem you have Summoned"
-  :type: explicit
-- :id: explicit.stat_3812562802
-  :name: "#% of Damage dealt by your Totems is Leeched to you as Life"
   :type: explicit
 - :id: explicit.stat_1261612903
   :name: Your Cold Damage can Ignite but not Freeze or Chill
@@ -5275,8 +5272,8 @@
   :name: 'With at least 40 Intelligence in Radius, Fireball Projectiles gain Radius
     as they travel farther, up to # Radius'
   :type: explicit
-- :id: explicit.stat_2725259389
-  :name: "#% increased Skeleton Cast Speed"
+- :id: explicit.stat_3279535558
+  :name: Cannot Leech when on Low Life
   :type: explicit
 - :id: explicit.stat_1601542157
   :name: 'Gain # Souls for Vaal Skills on Rampage'
@@ -5284,20 +5281,26 @@
 - :id: explicit.stat_3956623857
   :name: Area contains an additional Unique Talisman
   :type: explicit
+- :id: explicit.stat_2725259389
+  :name: "#% increased Skeleton Cast Speed"
+  :type: explicit
 - :id: explicit.stat_3150705301
   :name: "#% increased Physical Damage with Staves"
+  :type: explicit
+- :id: explicit.stat_4154259475
+  :name: "# to Level of Socketed Support Gems"
+  :type: explicit
+- :id: explicit.stat_1693613464
+  :name: "#% increased Armour during Flask effect"
+  :type: explicit
+- :id: explicit.stat_2996445420
+  :name: Critical Strikes have Culling Strike
   :type: explicit
 - :id: explicit.stat_869436347
   :name: "#% increased Area of Effect for Skills used by Totems"
   :type: explicit
-- :id: explicit.stat_2237528173
-  :name: Strength from Passives in Radius is Transformed to Dexterity
-  :type: explicit
 - :id: explicit.stat_1296614065
   :name: "#% increased Fish Bite Sensitivity"
-  :type: explicit
-- :id: explicit.stat_2996445420
-  :name: Critical Strikes have Culling Strike
   :type: explicit
 - :id: explicit.stat_3194864913
   :name: Increases and Reductions to Life in Radius are Transformed to apply to Energy
@@ -5319,20 +5322,17 @@
   :name: 'With at least 40 Dexterity in Radius, Animate Weapon can Animate up to #
     Ranged Weapons'
   :type: explicit
-- :id: explicit.stat_4154259475
-  :name: "# to Level of Socketed Support Gems"
-  :type: explicit
 - :id: explicit.stat_1702195217
   :name: "#% additional Block Chance"
   :type: explicit
-- :id: explicit.stat_4082111882
-  :name: "# to Evasion Rating while on Full Life"
+- :id: explicit.stat_1367119630
+  :name: Your Curses can apply to Hexproof Enemies
   :type: explicit
 - :id: explicit.stat_1778298516
   :name: "#% additional Chance to Block with Staves"
   :type: explicit
-- :id: explicit.stat_1367119630
-  :name: Your Curses can apply to Hexproof Enemies
+- :id: explicit.stat_4082111882
+  :name: "# to Evasion Rating while on Full Life"
   :type: explicit
 - :id: explicit.stat_3702513529
   :name: "#% increased Weapon Critical Strike Chance while Dual Wielding"
@@ -5340,42 +5340,42 @@
 - :id: explicit.stat_273476097
   :name: 'Gain #% of Physical Attack Damage as Extra Fire Damage'
   :type: explicit
-- :id: explicit.stat_1693613464
-  :name: "#% increased Armour during Flask effect"
-  :type: explicit
 - :id: explicit.stat_1826802197
   :name: "#% chance to gain a Frenzy Charge on Kill"
   :type: explicit
 - :id: explicit.stat_1186596295
   :name: "#% increased Critical Strike Chance with Lightning Skills"
   :type: explicit
-- :id: explicit.stat_2479374428
-  :name: Increases and Reductions to Life in Radius are Transformed to apply to Mana
-    at 200% of their value
+- :id: explicit.stat_2237528173
+  :name: Strength from Passives in Radius is Transformed to Dexterity
+  :type: explicit
+- :id: explicit.stat_635761691
+  :name: "#% increased Physical Damage with Claws"
+  :type: explicit
+- :id: explicit.stat_3393547195
+  :name: "#% increased Movement Speed when on Full Life"
   :type: explicit
 - :id: explicit.stat_628716294
   :name: You cannot be slowed to below base speed
+  :type: explicit
+- :id: explicit.stat_2633745731
+  :name: "#% increased Life Leeched per second"
+  :type: explicit
+- :id: explicit.stat_1224319074
+  :name: "#% increased Effect of Auras on your Minions"
+  :type: explicit
+- :id: explicit.stat_447636597
+  :name: "#% of Attack Damage Leeched as Life against Maimed Enemies"
+  :type: explicit
+- :id: explicit.stat_2479374428
+  :name: Increases and Reductions to Life in Radius are Transformed to apply to Mana
+    at 200% of their value
   :type: explicit
 - :id: explicit.stat_3581578643
   :name: 'Socketed Gems are Supported by Level # Empower'
   :type: explicit
 - :id: explicit.stat_1678690824
   :name: "#% increased Spell Damage while Dual Wielding"
-  :type: explicit
-- :id: explicit.stat_2633745731
-  :name: "#% increased Life Leeched per second"
-  :type: explicit
-- :id: explicit.stat_447636597
-  :name: "#% of Attack Damage Leeched as Life against Maimed Enemies"
-  :type: explicit
-- :id: explicit.stat_3393547195
-  :name: "#% increased Movement Speed when on Full Life"
-  :type: explicit
-- :id: explicit.stat_1224319074
-  :name: "#% increased Effect of Auras on your Minions"
-  :type: explicit
-- :id: explicit.stat_635761691
-  :name: "#% increased Physical Damage with Claws"
   :type: explicit
 - :id: explicit.stat_2433615566
   :name: 'Socketed Gems are supported by Level # Pierce'
@@ -5415,11 +5415,11 @@
 - :id: explicit.stat_729180395
   :name: 'Golem Skills have #% increased Cooldown Recovery Speed'
   :type: explicit
-- :id: explicit.stat_3872306017
-  :name: "#% increased Power Charge Duration"
-  :type: explicit
 - :id: explicit.stat_3457100218
   :name: 'Gain Onslaught for # second per Frenzy Charge on use'
+  :type: explicit
+- :id: explicit.stat_3872306017
+  :name: "#% increased Power Charge Duration"
   :type: explicit
 - :id: explicit.stat_778050954
   :name: 'Adds 1 maximum Lightning Damage to Attacks per # Dexterity Allocated in
@@ -5451,34 +5451,31 @@
 - :id: explicit.stat_4048257027
   :name: 'Socketed Gems are Supported by Level # Storm Barrier'
   :type: explicit
-- :id: explicit.stat_2032386732
-  :name: 'Socketed Gems are Supported by Level # Life Gain On Hit'
+- :id: explicit.stat_138741818
+  :name: "#% additional Chance to Block Spells while Dual Wielding"
   :type: explicit
 - :id: explicit.stat_1370753114
   :name: 'Nearby Allies gain #% increased Mana Regeneration Rate'
   :type: explicit
-- :id: explicit.stat_1002855537
-  :name: 'Socketed Gems are Supported by Level # Vile Toxins'
+- :id: explicit.stat_2032386732
+  :name: 'Socketed Gems are Supported by Level # Life Gain On Hit'
   :type: explicit
-- :id: explicit.stat_138741818
-  :name: "#% additional Chance to Block Spells while Dual Wielding"
+- :id: explicit.stat_804508379
+  :name: 'Socketed Gems are Supported by Level # Bloodlust'
   :type: explicit
 - :id: explicit.stat_769192511
   :name: |-
     While your Passive Skill Tree connects to the Marauder's starting location, you gain:
     Melee Skills have #% increased Area of Effect
   :type: explicit
-- :id: explicit.stat_804508379
-  :name: 'Socketed Gems are Supported by Level # Bloodlust'
-  :type: explicit
-- :id: explicit.stat_583277599
-  :name: Chill Nearby Enemies when you Block
-  :type: explicit
-- :id: explicit.stat_542923416
-  :name: "#% increased Movement Speed while Shocked"
+- :id: explicit.stat_1002855537
+  :name: 'Socketed Gems are Supported by Level # Vile Toxins'
   :type: explicit
 - :id: explicit.stat_696707743
   :name: "#% chance to Dodge Spell Damage"
+  :type: explicit
+- :id: explicit.stat_542923416
+  :name: "#% increased Movement Speed while Shocked"
   :type: explicit
 - :id: explicit.stat_3640956958
   :name: Projectiles Pierce 2 additional Targets
@@ -5487,14 +5484,17 @@
   :name: 'With at least 40 Intelligence in Radius, Summon Skeleton can summon up to
     # Skeleton Mages'
   :type: explicit
-- :id: explicit.stat_3220927448
-  :name: 'Adds # to # Fire Damage to Staff Attacks'
+- :id: explicit.stat_2805586447
+  :name: 'Socketed Gems are Supported by Level # Minefield'
   :type: explicit
 - :id: explicit.stat_2918708827
   :name: "#% chance to gain Phasing for 4 seconds on Kill"
   :type: explicit
-- :id: explicit.stat_2805586447
-  :name: 'Socketed Gems are Supported by Level # Minefield'
+- :id: explicit.stat_3220927448
+  :name: 'Adds # to # Fire Damage to Staff Attacks'
+  :type: explicit
+- :id: explicit.stat_583277599
+  :name: Chill Nearby Enemies when you Block
   :type: explicit
 - :id: explicit.stat_670153687
   :name: "#% to Critical Strike Multiplier with One Handed Melee Weapons"
@@ -6064,6 +6064,9 @@
 - :id: explicit.stat_158779585
   :name: "#% increased effect of Fortify on You"
   :type: explicit
+- :id: explicit.stat_760855772
+  :name: "#% increased Quantity of Items found when on Low Life"
+  :type: explicit
 - :id: explicit.stat_135378852
   :name: 'Socketed Spells have #% to Critical Strike Chance'
   :type: explicit
@@ -6076,17 +6079,14 @@
 - :id: explicit.stat_1386808918
   :name: Breaches each contain a Breachlord
   :type: explicit
-- :id: explicit.stat_760855772
-  :name: "#% increased Quantity of Items found when on Low Life"
-  :type: explicit
 - :id: explicit.stat_4020144606
   :name: 'Socketed Gems are Supported by Level # Added Cold Damage'
   :type: explicit
-- :id: explicit.stat_1625103793
-  :name: "#% increased Damage taken per Frenzy Charge"
-  :type: explicit
 - :id: explicit.stat_2387423236
   :name: 'Adds # to # Cold Damage'
+  :type: explicit
+- :id: explicit.stat_1625103793
+  :name: "#% increased Damage taken per Frenzy Charge"
   :type: explicit
 - :id: explicit.stat_1366534040
   :name: Players are Cursed with Vulnerability
@@ -6103,15 +6103,15 @@
 - :id: explicit.stat_1871938116
   :name: You have Onslaught while on Low Life
   :type: explicit
+- :id: explicit.stat_3492297134
+  :name: 'Gain #% of Physical Damage as Extra Chaos Damage while at maximum Power
+    Charges'
+  :type: explicit
 - :id: explicit.stat_195090426
   :name: 'Left ring slot: #% increased Mana Regeneration Rate'
   :type: explicit
 - :id: explicit.stat_1686913105
   :name: "#% increased Elemental Damage taken when Hit per Endurance Charge"
-  :type: explicit
-- :id: explicit.stat_3492297134
-  :name: 'Gain #% of Physical Damage as Extra Chaos Damage while at maximum Power
-    Charges'
   :type: explicit
 - :id: explicit.stat_1985969957
   :name: Your Fire Damage can Poison
@@ -6954,15 +6954,15 @@
   :name: "#% of Damage taken gained as Mana over 4 seconds when Hit while affected
     by Clarity"
   :type: explicit
-- :id: explicit.stat_1495376076
-  :name: "# Mana Regenerated per Second while you have Avian's Flight"
-  :type: explicit
 - :id: explicit.stat_4212372504
   :name: Unaffected by Temporal Chains
   :type: explicit
 - :id: explicit.stat_2554328719
   :name: "#% chance to Trigger Level 20 Tornado when you gain Avian's Might or Avian's
     Flight"
+  :type: explicit
+- :id: explicit.stat_1495376076
+  :name: "# Mana Regenerated per Second while you have Avian's Flight"
   :type: explicit
 - :id: explicit.stat_3627458291
   :name: "#% to Critical Strike Multiplier while affected by Anger"
@@ -7572,26 +7572,68 @@
 - :id: implicit.stat_986397080
   :name: "#% reduced Ignite Duration on You"
   :type: implicit
-- :id: implicit.stat_1519615863
-  :name: "#% chance to cause Bleeding on Hit"
-  :type: implicit
 - :id: implicit.stat_800141891
   :name: "#% chance to Freeze, Shock and Ignite"
   :type: implicit
 - :id: implicit.stat_1515657623
   :name: "# to Maximum Endurance Charges"
   :type: implicit
+- :id: implicit.stat_1519615863
+  :name: "#% chance to cause Bleeding on Hit"
+  :type: implicit
+- :id: implicit.stat_3181974858
+  :name: "#% chance to Cause Monsters to Flee"
+  :type: implicit
 - :id: implicit.stat_2166444903
   :name: "#% additional Block Chance while Dual Wielding"
+  :type: implicit
+- :id: implicit.stat_2209668839
+  :name: 'Grants Level # Flammability Skill'
   :type: implicit
 - :id: implicit.stat_30642521
   :name: 'Enemies can have # additional Curse'
   :type: implicit
+- :id: implicit.stat_2429546158
+  :name: 'Grants Level # Hatred Skill'
+  :type: implicit
 - :id: implicit.stat_940324562
   :name: 'Grants Level # Temporal Chains Skill'
   :type: implicit
+- :id: implicit.stat_3822878124
+  :name: 'Grants Level # Purity of Lightning Skill'
+  :type: implicit
+- :id: implicit.stat_1408638732
+  :name: "#% increased Character Size"
+  :type: implicit
+- :id: implicit.stat_1811422871
+  :name: 'Socketed Gems are supported by Level # Melee Splash'
+  :type: implicit
+- :id: implicit.stat_2839036860
+  :name: "#% increased Endurance, Frenzy and Power Charge Duration"
+  :type: implicit
+- :id: implicit.stat_1837040413
+  :name: Slaying Enemies close together can attract monsters from Beyond this realm
+  :type: implicit
+- :id: implicit.stat_2530372417
+  :name: "#% Chance to Block"
+  :type: implicit
+- :id: implicit.stat_2325632050
+  :name: 'Socketed Gems are supported by Level # Cast On Critical Strike'
+  :type: implicit
+- :id: implicit.stat_2169938251
+  :name: 'Socketed Gems are Supported by Level # Faster Casting'
+  :type: implicit
+- :id: implicit.stat_3261801346
+  :name: "# to Dexterity"
+  :type: implicit
+- :id: implicit.stat_2483795307
+  :name: "#% chance to gain a Power Charge on Kill"
+  :type: implicit
 - :id: implicit.stat_3849207804
   :name: Area contains an Invasion Boss
+  :type: implicit
+- :id: implicit.stat_3771516363
+  :name: "#% additional Physical Damage Reduction"
   :type: implicit
 - :id: implicit.stat_4265392510
   :name: 'Grants Level # Determination Skill'
@@ -7611,11 +7653,11 @@
 - :id: implicit.stat_2843100721
   :name: "# to Level of Socketed Gems"
   :type: implicit
-- :id: implicit.stat_1871765599
-  :name: "#% chance to Avoid being Shocked"
-  :type: implicit
 - :id: implicit.stat_4212255859
   :name: Cannot be Knocked Back
+  :type: implicit
+- :id: implicit.stat_1871765599
+  :name: "#% chance to Avoid being Shocked"
   :type: implicit
 - :id: implicit.stat_1783006896
   :name: "#% chance to Avoid being Ignited"
@@ -7623,77 +7665,17 @@
 - :id: implicit.stat_210067635
   :name: "#% increased Attack Speed (Local)"
   :type: implicit
-- :id: implicit.stat_2300185227
-  :name: "# to Dexterity and Intelligence"
-  :type: implicit
 - :id: implicit.stat_2410613176
   :name: 'Grants Level # Vitality Skill'
   :type: implicit
-- :id: implicit.stat_1189760108
-  :name: "#% of Cold Damage from Hits taken as Fire Damage"
-  :type: implicit
-- :id: implicit.stat_280731498
-  :name: "#% increased Area of Effect"
-  :type: implicit
-- :id: implicit.stat_1874553720
-  :name: "#% reduced Chill Duration on You"
-  :type: implicit
-- :id: implicit.stat_2902845638
-  :name: 'Projectiles Pierce # additional Targets'
-  :type: implicit
-- :id: implicit.stat_1837040413
-  :name: Slaying Enemies close together can attract monsters from Beyond this realm
-  :type: implicit
-- :id: implicit.stat_1188846263
-  :name: 'Grants Level # Haste Skill'
-  :type: implicit
-- :id: implicit.stat_3771516363
-  :name: "#% additional Physical Damage Reduction"
+- :id: implicit.stat_2300185227
+  :name: "# to Dexterity and Intelligence"
   :type: implicit
 - :id: implicit.stat_3767873853
   :name: 'Reflects # Physical Damage to Melee Attackers'
   :type: implicit
-- :id: implicit.stat_1296614065
-  :name: "#% increased Fish Bite Sensitivity"
-  :type: implicit
-- :id: implicit.stat_2391261970
-  :name: Rare Monsters each have a Nemesis Mod
-  :type: implicit
-- :id: implicit.stat_3536689603
-  :name: 'Grants Level # Projectile Weakness Skill'
-  :type: implicit
-- :id: implicit.stat_1050286373
-  :name: Area contains up to 1 Monster imprisoned by Essences
-  :type: implicit
-- :id: implicit.stat_1408638732
-  :name: "#% increased Character Size"
-  :type: implicit
-- :id: implicit.stat_3181974858
-  :name: "#% chance to Cause Monsters to Flee"
-  :type: implicit
-- :id: implicit.stat_2839036860
-  :name: "#% increased Endurance, Frenzy and Power Charge Duration"
-  :type: implicit
-- :id: implicit.stat_1811422871
-  :name: 'Socketed Gems are supported by Level # Melee Splash'
-  :type: implicit
-- :id: implicit.stat_2530372417
-  :name: "#% Chance to Block"
-  :type: implicit
-- :id: implicit.stat_2325632050
-  :name: 'Socketed Gems are supported by Level # Cast On Critical Strike'
-  :type: implicit
-- :id: implicit.stat_2209668839
-  :name: 'Grants Level # Flammability Skill'
-  :type: implicit
-- :id: implicit.stat_2169938251
-  :name: 'Socketed Gems are Supported by Level # Faster Casting'
-  :type: implicit
-- :id: implicit.stat_3261801346
-  :name: "# to Dexterity"
-  :type: implicit
-- :id: implicit.stat_2483795307
-  :name: "#% chance to gain a Power Charge on Kill"
+- :id: implicit.stat_1188846263
+  :name: 'Grants Level # Haste Skill'
   :type: implicit
 - :id: implicit.stat_4193390599
   :name: 'Grants Level # Purity of Ice Skill'
@@ -7722,11 +7704,29 @@
 - :id: implicit.stat_1654414582
   :name: You cannot be Cursed with Silence
   :type: implicit
-- :id: implicit.stat_2429546158
-  :name: 'Grants Level # Hatred Skill'
+- :id: implicit.stat_1050286373
+  :name: Area contains up to 1 Monster imprisoned by Essences
   :type: implicit
-- :id: implicit.stat_3822878124
-  :name: 'Grants Level # Purity of Lightning Skill'
+- :id: implicit.stat_3536689603
+  :name: 'Grants Level # Projectile Weakness Skill'
+  :type: implicit
+- :id: implicit.stat_1189760108
+  :name: "#% of Cold Damage from Hits taken as Fire Damage"
+  :type: implicit
+- :id: implicit.stat_2391261970
+  :name: Rare Monsters each have a Nemesis Mod
+  :type: implicit
+- :id: implicit.stat_280731498
+  :name: "#% increased Area of Effect"
+  :type: implicit
+- :id: implicit.stat_1874553720
+  :name: "#% reduced Chill Duration on You"
+  :type: implicit
+- :id: implicit.stat_1296614065
+  :name: "#% increased Fish Bite Sensitivity"
+  :type: implicit
+- :id: implicit.stat_2902845638
+  :name: 'Projectiles Pierce # additional Targets'
   :type: implicit
 - :id: enchant.stat_4135304575
   :name: "#% increased Attack and Cast Speed if you've Killed Recently"
@@ -7802,11 +7802,11 @@
 - :id: enchant.stat_603658709
   :name: "#% chance to Trigger Edict of Thunder on Kill"
   :type: enchant
-- :id: enchant.stat_2760193888
-  :name: "#% chance to Trigger Edict of Force on Hit"
-  :type: enchant
 - :id: enchant.stat_257027296
   :name: "#% chance to Trigger Edict of Spite when Hit"
+  :type: enchant
+- :id: enchant.stat_2760193888
+  :name: "#% chance to Trigger Edict of Force on Hit"
   :type: enchant
 - :id: enchant.stat_147678606
   :name: "#% chance to Trigger Edict of Winter when Hit"
@@ -7850,11 +7850,11 @@
 - :id: enchant.stat_1454162553
   :name: "#% increased Cyclone Damage"
   :type: enchant
-- :id: enchant.stat_3555919553
-  :name: "#% increased Tornado Shot Damage"
-  :type: enchant
 - :id: enchant.stat_3917881666
   :name: "#% increased Earthquake Duration"
+  :type: enchant
+- :id: enchant.stat_3555919553
+  :name: "#% increased Tornado Shot Damage"
   :type: enchant
 - :id: enchant.stat_835592326
   :name: "#% increased Cyclone Attack Speed"
@@ -7979,11 +7979,11 @@
 - :id: enchant.stat_1573799461
   :name: "#% increased Dark Pact Damage"
   :type: enchant
-- :id: enchant.stat_578067404
-  :name: "#% increased Lacerate Critical Strike Chance"
-  :type: enchant
 - :id: enchant.stat_3418033798
   :name: 'Blood Rage grants additional #% increased Attack Speed'
+  :type: enchant
+- :id: enchant.stat_578067404
+  :name: "#% increased Lacerate Critical Strike Chance"
   :type: enchant
 - :id: enchant.stat_3701991680
   :name: "#% increased Flicker Strike Damage per Frenzy Charge"
@@ -7994,11 +7994,11 @@
 - :id: enchant.stat_3645693773
   :name: 'Spectres have #% increased Damage'
   :type: enchant
-- :id: enchant.stat_2600498881
-  :name: "#% increased Fireball Damage"
-  :type: enchant
 - :id: enchant.stat_1818525360
   :name: "#% chance to Trigger Decree of Ire when Hit"
+  :type: enchant
+- :id: enchant.stat_2600498881
+  :name: "#% increased Fireball Damage"
   :type: enchant
 - :id: enchant.stat_3537762266
   :name: "#% increased Herald of Ice Mana Reservation"
@@ -8060,11 +8060,11 @@
 - :id: enchant.stat_600891507
   :name: "#% increased Magma Orb Damage"
   :type: enchant
-- :id: enchant.stat_1255310381
-  :name: "#% increased Frenzy Damage per Frenzy Charge"
-  :type: enchant
 - :id: enchant.stat_1359058534
   :name: "#% increased Cleave Damage"
+  :type: enchant
+- :id: enchant.stat_1255310381
+  :name: "#% increased Frenzy Damage per Frenzy Charge"
   :type: enchant
 - :id: enchant.stat_3320271130
   :name: "#% increased Ancestral Warchief Totem Area of Effect"
@@ -8093,11 +8093,11 @@
 - :id: enchant.stat_1336543283
   :name: "#% increased Immortal Call Duration"
   :type: enchant
-- :id: enchant.stat_1154155584
-  :name: "#% of Glacial Cascade Physical Damage Converted to Cold Damage"
-  :type: enchant
 - :id: enchant.stat_2740567252
   :name: "#% increased Arc Damage"
+  :type: enchant
+- :id: enchant.stat_1154155584
+  :name: "#% of Glacial Cascade Physical Damage Converted to Cold Damage"
   :type: enchant
 - :id: enchant.stat_3490662882
   :name: "#% increased Shield Charge Damage"
@@ -8135,23 +8135,23 @@
 - :id: enchant.stat_3229580299
   :name: "#% of Burning Arrow Physical Damage gained as Extra Fire Damage"
   :type: enchant
-- :id: enchant.stat_2284801675
-  :name: "#% increased Effect of the Buff granted by your Stone Golems"
-  :type: enchant
 - :id: enchant.stat_2413715772
   :name: "#% increased Bladefall Area of Effect"
   :type: enchant
+- :id: enchant.stat_2284801675
+  :name: "#% increased Effect of the Buff granted by your Stone Golems"
+  :type: enchant
 - :id: enchant.stat_1549898151
   :name: "#% increased Grace Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_2078274993
-  :name: "#% increased Frostbolt Damage"
   :type: enchant
 - :id: enchant.stat_558298545
   :name: "#% increased Herald of Thunder Damage"
   :type: enchant
 - :id: enchant.stat_524936200
   :name: "#% increased Wild Strike Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2078274993
+  :name: "#% increased Frostbolt Damage"
   :type: enchant
 - :id: enchant.stat_3711386843
   :name: "#% chance to create an additional Animate Weapon copy"
@@ -8171,14 +8171,14 @@
 - :id: enchant.stat_1962401751
   :name: "#% increased Ice Shot Area of Effect"
   :type: enchant
-- :id: enchant.stat_3630274354
-  :name: "#% increased Lightning Strike Damage"
-  :type: enchant
 - :id: enchant.stat_1554500307
   :name: "#% chance to Trigger Commandment of Fury on Hit"
   :type: enchant
 - :id: enchant.stat_1819674879
   :name: 'Animated Weapons deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_3630274354
+  :name: "#% increased Lightning Strike Damage"
   :type: enchant
 - :id: enchant.stat_3496292484
   :name: "#% increased Puncture Damage"
@@ -8210,14 +8210,14 @@
 - :id: enchant.stat_574378310
   :name: "#% increased Blast Rain Area of Effect"
   :type: enchant
-- :id: enchant.stat_2732675053
-  :name: "#% increased Glacial Hammer Damage"
+- :id: enchant.stat_2094069860
+  :name: "#% increased Dual Strike Damage"
   :type: enchant
 - :id: enchant.stat_2003026405
   :name: "#% increased Freezing Pulse Projectile Speed"
   :type: enchant
-- :id: enchant.stat_2094069860
-  :name: "#% increased Dual Strike Damage"
+- :id: enchant.stat_2732675053
+  :name: "#% increased Glacial Hammer Damage"
   :type: enchant
 - :id: enchant.stat_1691710359
   :name: "#% increased Firestorm Duration"
@@ -8237,11 +8237,11 @@
 - :id: enchant.stat_2906742892
   :name: "#% increased Static Strike Duration"
   :type: enchant
-- :id: enchant.stat_1953644681
-  :name: "#% chance for Immortal Call to not consume Endurance Charges"
-  :type: enchant
 - :id: enchant.stat_1532964880
   :name: "#% increased Flameblast Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1953644681
+  :name: "#% chance for Immortal Call to not consume Endurance Charges"
   :type: enchant
 - :id: enchant.stat_3215042347
   :name: "#% increased Purity of Fire Mana Reservation"
@@ -8252,17 +8252,17 @@
 - :id: enchant.stat_4074562940
   :name: "#% increased Vortex Duration"
   :type: enchant
-- :id: enchant.stat_3152806535
-  :name: 'Blood Rage grants additional #% chance to gain a Frenzy Charge on Kill'
-  :type: enchant
 - :id: enchant.stat_343849491
   :name: "#% increased Heavy Strike Attack Speed"
   :type: enchant
-- :id: enchant.stat_2440551805
-  :name: "#% increased Shockwave Totem Damage"
+- :id: enchant.stat_3152806535
+  :name: 'Blood Rage grants additional #% chance to gain a Frenzy Charge on Kill'
   :type: enchant
 - :id: enchant.stat_4137556603
   :name: 'Spectres have #% increased Attack and Cast Speed'
+  :type: enchant
+- :id: enchant.stat_2440551805
+  :name: "#% increased Shockwave Totem Damage"
   :type: enchant
 - :id: enchant.stat_277116504
   :name: "#% increased Contagion Damage"
@@ -8306,11 +8306,11 @@
 - :id: enchant.stat_354556858
   :name: "#% increased Shrapnel Shot Area of Effect"
   :type: enchant
-- :id: enchant.stat_815390778
-  :name: "#% increased Molten Shell Damage"
-  :type: enchant
 - :id: enchant.stat_3510848926
   :name: "#% increased Ice Spear Critical Strike Chance in second form"
+  :type: enchant
+- :id: enchant.stat_815390778
+  :name: "#% increased Molten Shell Damage"
   :type: enchant
 - :id: enchant.stat_2555366825
   :name: "#% of Glacial Hammer Physical Damage gained as Extra Cold Damage"
@@ -8351,14 +8351,14 @@
 - :id: enchant.stat_3109915337
   :name: "#% chance to Trigger Commandment of Light when you take a Critical Strike"
   :type: enchant
+- :id: enchant.stat_444858149
+  :name: "#% increased Siege Ballista Attack Speed"
+  :type: enchant
 - :id: enchant.stat_1433838252
   :name: "#% chance to Dodge Attacks at Maximum Blade Flurry stages"
   :type: enchant
 - :id: enchant.stat_1894493605
   :name: "#% increased Freezing Pulse Cast Speed"
-  :type: enchant
-- :id: enchant.stat_444858149
-  :name: "#% increased Siege Ballista Attack Speed"
   :type: enchant
 - :id: enchant.stat_131320052
   :name: 'Converted Enemies have #% increased Damage'
@@ -8375,23 +8375,23 @@
 - :id: enchant.stat_3059357595
   :name: 'Skeletons deal #% increased Damage'
   :type: enchant
-- :id: enchant.stat_2020183428
-  :name: "#% chance to Trigger Commandment of Inferno on Kill"
-  :type: enchant
-- :id: enchant.stat_101788216
-  :name: "#% increased Flesh Offering Duration"
+- :id: enchant.stat_4136186767
+  :name: 'Mirror Arrow and Mirror Arrow Clones deal #% increased Damage'
   :type: enchant
 - :id: enchant.stat_3131492956
   :name: "#% increased Lightning Trap Damage"
   :type: enchant
-- :id: enchant.stat_4136186767
-  :name: 'Mirror Arrow and Mirror Arrow Clones deal #% increased Damage'
+- :id: enchant.stat_101788216
+  :name: "#% increased Flesh Offering Duration"
   :type: enchant
-- :id: enchant.stat_4031295671
-  :name: "#% increased Infernal Blow Area of Effect"
+- :id: enchant.stat_2020183428
+  :name: "#% chance to Trigger Commandment of Inferno on Kill"
   :type: enchant
 - :id: enchant.stat_1849664701
   :name: "#% increased Purity of Elements Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_4031295671
+  :name: "#% increased Infernal Blow Area of Effect"
   :type: enchant
 - :id: enchant.stat_482660590
   :name: "#% increased Detonate Dead Area of Effect"
@@ -8405,14 +8405,14 @@
 - :id: enchant.stat_1949390531
   :name: "#% increased Molten Shell Buff Effect"
   :type: enchant
-- :id: enchant.stat_244125450
-  :name: "#% Chance for Puncture to Maim on hit"
-  :type: enchant
 - :id: enchant.stat_3134777190
   :name: Lightning Strike pierces an additional Target
   :type: enchant
 - :id: enchant.stat_2565809961
   :name: "#% increased Contagion Duration"
+  :type: enchant
+- :id: enchant.stat_244125450
+  :name: "#% Chance for Puncture to Maim on hit"
   :type: enchant
 - :id: enchant.stat_1988467615
   :name: "#% chance to Trigger Commandment of Thunder on Kill"
@@ -8435,20 +8435,20 @@
 - :id: enchant.stat_3703722637
   :name: "#% chance to Trigger Commandment of Flames on Hit"
   :type: enchant
-- :id: enchant.stat_430890565
-  :name: "#% increased Flame Surge Damage against Burning Enemies"
-  :type: enchant
 - :id: enchant.stat_620045439
   :name: "#% chance to Trigger Commandment of Ire when Hit"
   :type: enchant
-- :id: enchant.stat_3211417111
-  :name: "#% increased Fire Nova Cast Speed"
+- :id: enchant.stat_430890565
+  :name: "#% increased Flame Surge Damage against Burning Enemies"
   :type: enchant
 - :id: enchant.stat_2499559911
   :name: 'Zombies have #% increased Attack Speed'
   :type: enchant
 - :id: enchant.stat_4082863126
   :name: "#% increased Flame Totem Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_3211417111
+  :name: "#% increased Fire Nova Cast Speed"
   :type: enchant
 - :id: enchant.stat_3232905239
   :name: "#% Chance to gain a Power Charge on Critical Strike with Ice Spear"
@@ -8477,11 +8477,14 @@
 - :id: enchant.stat_3760588941
   :name: 'Heavy Strike has a #% chance to deal Double Damage'
   :type: enchant
+- :id: enchant.stat_241781316
+  :name: "#% increased Enduring Cry Buff Effect"
+  :type: enchant
 - :id: enchant.stat_1151217691
   :name: "#% increased Elemental Hit Attack Speed"
   :type: enchant
-- :id: enchant.stat_241781316
-  :name: "#% increased Enduring Cry Buff Effect"
+- :id: enchant.stat_513715594
+  :name: 'Flesh Offering grants an additional #% increased Attack Speed'
   :type: enchant
 - :id: enchant.stat_2556095677
   :name: "#% increased Phase Run Duration"
@@ -8492,14 +8495,11 @@
 - :id: enchant.stat_3395908304
   :name: "#% increased Conductivity Curse Effect"
   :type: enchant
-- :id: enchant.stat_513715594
-  :name: 'Flesh Offering grants an additional #% increased Attack Speed'
+- :id: enchant.stat_195463427
+  :name: Arc Always Shocks
   :type: enchant
 - :id: enchant.stat_1030003515
   :name: "#% increased Flame Surge Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_195463427
-  :name: Arc Always Shocks
   :type: enchant
 - :id: enchant.stat_702909553
   :name: "#% increased Scorching Ray beam length"
@@ -8537,14 +8537,14 @@
 - :id: enchant.stat_3280107027
   :name: 'Lightning Golems deal #% increased Damage'
   :type: enchant
-- :id: enchant.stat_2844206732
-  :name: "#% increased Punishment Curse Effect"
+- :id: enchant.stat_2505115650
+  :name: 'Chaos Golems deal #% increased Damage'
   :type: enchant
 - :id: enchant.stat_288248772
   :name: Glacial Hammer Always Freezes
   :type: enchant
-- :id: enchant.stat_2505115650
-  :name: 'Chaos Golems deal #% increased Damage'
+- :id: enchant.stat_2844206732
+  :name: "#% increased Punishment Curse Effect"
   :type: enchant
 - :id: enchant.stat_1322030222
   :name: "#% increased Lightning Trap Cooldown Recovery Speed"
@@ -8558,11 +8558,11 @@
 - :id: enchant.stat_3367298564
   :name: "#% increased Ice Trap Area of Effect"
   :type: enchant
-- :id: enchant.stat_3617955571
-  :name: "#% increased Enduring Cry Cooldown Recovery Speed"
-  :type: enchant
 - :id: enchant.stat_3850775143
   :name: "#% increased Leap Slam Damage"
+  :type: enchant
+- :id: enchant.stat_3617955571
+  :name: "#% increased Enduring Cry Cooldown Recovery Speed"
   :type: enchant
 - :id: enchant.stat_27640220
   :name: "#% to Raised Spectre Elemental Resistances"
@@ -8579,14 +8579,14 @@
 - :id: enchant.stat_2983274404
   :name: "#% increased Blink Arrow Cooldown Recovery Speed"
   :type: enchant
-- :id: enchant.stat_3269321994
-  :name: Ice Nova Always Freezes
-  :type: enchant
 - :id: enchant.stat_2121581717
   :name: "#% increased Tempest Shield Damage"
   :type: enchant
 - :id: enchant.stat_516587640
   :name: "#% increased Enfeeble Duration"
+  :type: enchant
+- :id: enchant.stat_3269321994
+  :name: Ice Nova Always Freezes
   :type: enchant
 - :id: enchant.stat_3772643988
   :name: "#% increased Dominating Blow Duration"
@@ -8597,21 +8597,21 @@
 - :id: enchant.stat_2875508213
   :name: "#% increased Orb of Storms Area of Effect"
   :type: enchant
-- :id: enchant.stat_4259029320
-  :name: "#% chance for Phase Run to not consume Frenzy Charges"
-  :type: enchant
 - :id: enchant.stat_1934891174
   :name: "#% increased Abyssal Cry Duration"
+  :type: enchant
+- :id: enchant.stat_4259029320
+  :name: "#% chance for Phase Run to not consume Frenzy Charges"
   :type: enchant
 - :id: enchant.stat_4170725899
   :name: 'Blight has #% increased Hinder Duration'
   :type: enchant
-- :id: enchant.stat_4189505564
-  :name: "#% increased Chance to consume an additional Corpse with Devouring Totem"
-  :type: enchant
 - :id: enchant.stat_1374371477
   :name: "#% chance to Trigger Commandment of the Grave when your Skills or Minions
     Kill"
+  :type: enchant
+- :id: enchant.stat_4189505564
+  :name: "#% increased Chance to consume an additional Corpse with Devouring Totem"
   :type: enchant
 - :id: enchant.stat_3804575865
   :name: "#% increased Arctic Breath Duration"
@@ -8631,20 +8631,20 @@
 - :id: enchant.stat_1265055278
   :name: "#% increased Charged Dash Damage"
   :type: enchant
-- :id: enchant.stat_1877863115
-  :name: "#% increased Bear Trap Damage"
-  :type: enchant
 - :id: enchant.stat_740609357
   :name: "#% increased Desecrate Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_1877863115
+  :name: "#% increased Bear Trap Damage"
   :type: enchant
 - :id: enchant.stat_2690620076
   :name: "#% increased Elemental Weakness Duration"
   :type: enchant
-- :id: enchant.stat_1347575155
-  :name: "#% increased Lightning Warp Cast Speed"
-  :type: enchant
 - :id: enchant.stat_3719728947
   :name: "#% increased Smoke Mine Duration"
+  :type: enchant
+- :id: enchant.stat_1347575155
+  :name: "#% increased Lightning Warp Cast Speed"
   :type: enchant
 - :id: enchant.stat_3524326896
   :name: "#% increased Frost Bomb Cooldown Recovery Speed"
@@ -8655,11 +8655,11 @@
 - :id: enchant.stat_1631824124
   :name: "#% increased Decoy Totem Life"
   :type: enchant
-- :id: enchant.stat_3503624267
-  :name: 'Cremation can have up to # additional Geyser at a time'
-  :type: enchant
 - :id: enchant.stat_2948719994
   :name: "#% increased Storm Burst Damage"
+  :type: enchant
+- :id: enchant.stat_3503624267
+  :name: 'Cremation can have up to # additional Geyser at a time'
   :type: enchant
 - :id: enchant.stat_1783696476
   :name: "#% increased Frostbite Duration"
@@ -8710,11 +8710,11 @@
 - :id: enchant.stat_1298820272
   :name: "#% to increased Flame Golem Elemental Resistances"
   :type: enchant
-- :id: enchant.stat_4118537428
-  :name: "#% Sweep Knockback Chance"
-  :type: enchant
 - :id: enchant.stat_3953599026
   :name: "#% increased Unearth Damage"
+  :type: enchant
+- :id: enchant.stat_4118537428
+  :name: "#% Sweep Knockback Chance"
   :type: enchant
 - :id: enchant.stat_708179348
   :name: "#% increased Searing Bond Totem Placement Speed"
@@ -8731,17 +8731,17 @@
 - :id: enchant.stat_1601558321
   :name: "#% to Stone Golem Elemental Resistances"
   :type: enchant
-- :id: enchant.stat_3367800526
-  :name: "#% increased Leap Slam Area of Effect"
-  :type: enchant
 - :id: enchant.stat_918308703
   :name: "#% increased Bear Trap Cooldown Recovery Speed"
   :type: enchant
-- :id: enchant.stat_1588572574
-  :name: "#% increased Rejuvenation Totem Aura Effect"
+- :id: enchant.stat_3367800526
+  :name: "#% increased Leap Slam Area of Effect"
   :type: enchant
 - :id: enchant.stat_3233607638
   :name: 'Bone Offering grants an additional #% Block Chance'
+  :type: enchant
+- :id: enchant.stat_1588572574
+  :name: "#% increased Rejuvenation Totem Aura Effect"
   :type: enchant
 - :id: enchant.stat_2479762395
   :name: "#% increased Frost Wall Cooldown Recovery Speed"
@@ -8767,11 +8767,11 @@
 - :id: enchant.stat_1040958896
   :name: "#% chance to Summon an additional Skeleton Warrior with Summon Skeleton"
   :type: enchant
-- :id: enchant.stat_2520825974
-  :name: "#% to Ice Golem Elemental Resistances"
-  :type: enchant
 - :id: enchant.stat_3961497709
   :name: "#% increased Storm Burst Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2520825974
+  :name: "#% to Ice Golem Elemental Resistances"
   :type: enchant
 - :id: enchant.stat_2387717928
   :name: "#% increased Unearth Cast Speed"
@@ -8812,11 +8812,11 @@
 - :id: enchant.stat_3111060801
   :name: "#% chance to Trigger Word of Light when you take a Critical Strike"
   :type: enchant
-- :id: enchant.stat_1350605126
-  :name: "#% chance to Trigger Word of Thunder on Kill"
-  :type: enchant
 - :id: enchant.stat_4166834934
   :name: "#% increased Ancestral Blademaster Totem Damage"
+  :type: enchant
+- :id: enchant.stat_1350605126
+  :name: "#% chance to Trigger Word of Thunder on Kill"
   :type: enchant
 - :id: enchant.stat_780453137
   :name: "#% increased Abyssal Cry Damage"
@@ -9180,11 +9180,11 @@
   :name: "#% chance to Dodge Attacks if you have finished Channelling Charged Dash
     Recently"
   :type: enchant
-- :id: enchant.stat_2187415468
-  :name: "#% chance to Trigger Decree of the Grave when your Skills or Minions Kill"
-  :type: enchant
 - :id: enchant.stat_3693451031
   :name: "#% increased Mana Cost of Skills if you've been Hit Recently"
+  :type: enchant
+- :id: enchant.stat_2187415468
+  :name: "#% chance to Trigger Decree of the Grave when your Skills or Minions Kill"
   :type: enchant
 - :id: enchant.stat_464448327
   :name: "#% increased Flicker Strike Damage"
@@ -9210,14 +9210,14 @@
 - :id: enchant.stat_1891516164
   :name: "#% increased Spectral Shield Throw Damage"
   :type: enchant
+- :id: enchant.stat_1561141582
+  :name: "#% increased Spectral Shield Throw Projectile Speed"
+  :type: enchant
 - :id: enchant.stat_340193547
   :name: "#% increased Tectonic Slam Area of Effect"
   :type: enchant
 - :id: enchant.stat_464512091
   :name: "#% chance for Tectonic Slam to not consume an Endurance Charge"
-  :type: enchant
-- :id: enchant.stat_1561141582
-  :name: "#% increased Spectral Shield Throw Projectile Speed"
   :type: enchant
 - :id: crafted.stat_3299347043
   :name: "# to maximum Life"
@@ -9453,41 +9453,95 @@
 - :id: crafted.stat_1086147743
   :name: "#% increased Ignite Duration on Enemies"
   :type: crafted
-- :id: crafted.stat_1871765599
-  :name: "#% chance to Avoid being Shocked"
-  :type: crafted
 - :id: crafted.stat_1538773178
   :name: "#% chance to Shock"
+  :type: crafted
+- :id: crafted.stat_1871765599
+  :name: "#% chance to Avoid being Shocked"
   :type: crafted
 - :id: crafted.stat_2362265695
   :name: "#% chance to Avoid being Knocked Back"
   :type: crafted
-- :id: crafted.stat_1783006896
-  :name: "#% chance to Avoid being Ignited"
-  :type: crafted
 - :id: crafted.stat_1805374733
   :name: "#% increased Physical Damage (Local)"
   :type: crafted
-- :id: crafted.stat_3483999943
-  :name: "#% chance to Avoid being Chilled"
+- :id: crafted.stat_1783006896
+  :name: "#% chance to Avoid being Ignited"
   :type: crafted
 - :id: crafted.stat_3372524247
   :name: "#% to Fire Resistance"
   :type: crafted
-- :id: crafted.stat_3741323227
-  :name: "#% increased Flask effect duration"
+- :id: crafted.stat_3483999943
+  :name: "#% chance to Avoid being Chilled"
   :type: crafted
-- :id: crafted.stat_2375316951
-  :name: "#% increased Critical Strike Chance"
+- :id: crafted.stat_3668351662
+  :name: "#% increased Shock Duration on Enemies"
+  :type: crafted
+- :id: crafted.stat_2428829184
+  :name: "# to maximum number of Skeletons"
+  :type: crafted
+- :id: crafted.stat_1514829491
+  :name: "#% chance to Avoid being Frozen"
+  :type: crafted
+- :id: crafted.stat_681332047
+  :name: "#% increased Attack Speed"
+  :type: crafted
+- :id: crafted.stat_238314698
+  :name: 'Cannot roll Mods with Required Level above #'
+  :type: crafted
+- :id: crafted.stat_4122424929
+  :name: Cannot roll Attack Mods
   :type: crafted
 - :id: crafted.stat_1133016593
   :name: 'Adds # to # Fire Damage to Spells'
   :type: crafted
+- :id: crafted.stat_3741323227
+  :name: "#% increased Flask effect duration"
+  :type: crafted
+- :id: crafted.stat_3824372849
+  :name: "#% increased Curse Duration"
+  :type: crafted
+- :id: crafted.stat_3999401129
+  :name: "#% of Cold Damage Leeched as Life"
+  :type: crafted
+- :id: crafted.stat_2879723104
+  :name: Prefixes Cannot Be Changed
+  :type: crafted
+- :id: crafted.stat_1412217137
+  :name: "#% increased Flask Mana Recovery rate"
+  :type: crafted
+- :id: crafted.stat_3484657501
+  :name: "# to Armour (Local)"
+  :type: crafted
 - :id: crafted.stat_2941585404
   :name: "#% increased Trap Damage"
   :type: crafted
+- :id: crafted.stat_2375316951
+  :name: "#% increased Critical Strike Chance"
+  :type: crafted
+- :id: crafted.stat_1896971621
+  :name: "#% increased Mine Laying Speed"
+  :type: crafted
+- :id: crafted.stat_1050105434
+  :name: "# to maximum Mana"
+  :type: crafted
+- :id: crafted.stat_2866361420
+  :name: "#% increased Armour"
+  :type: crafted
+- :id: crafted.stat_691932474
+  :name: "# to Accuracy Rating (Local)"
+  :type: crafted
+- :id: crafted.stat_3922006600
+  :name: 'Socketed Gems are Supported by Level # Blood Magic'
+  :type: crafted
 - :id: crafted.stat_770672621
   :name: 'Minions have #% increased maximum Life'
+  :type: crafted
+- :id: crafted.stat_1379411836
+  :name: "# to all Attributes"
+  :type: crafted
+- :id: crafted.stat_832404842
+  :name: "#% reduced Enemy Stun Threshold with this Weapon"
   :type: crafted
 - :id: crafted.stat_3759663284
   :name: "#% increased Projectile Speed"
@@ -9495,60 +9549,6 @@
 - :id: crafted.stat_2891184298
   :name: "#% increased Cast Speed"
   :type: crafted
-- :id: crafted.stat_691932474
-  :name: "# to Accuracy Rating (Local)"
-  :type: crafted
-- :id: crafted.stat_1379411836
-  :name: "# to all Attributes"
-  :type: crafted
-- :id: crafted.stat_238314698
-  :name: 'Cannot roll Mods with Required Level above #'
-  :type: crafted
-- :id: crafted.stat_1514829491
-  :name: "#% chance to Avoid being Frozen"
-  :type: crafted
-- :id: crafted.stat_832404842
-  :name: "#% reduced Enemy Stun Threshold with this Weapon"
-  :type: crafted
-- :id: crafted.stat_2428829184
-  :name: "# to maximum number of Skeletons"
-  :type: crafted
-- :id: crafted.stat_681332047
-  :name: "#% increased Attack Speed"
-  :type: crafted
-- :id: crafted.stat_1412217137
-  :name: "#% increased Flask Mana Recovery rate"
-  :type: crafted
-- :id: crafted.stat_3824372849
-  :name: "#% increased Curse Duration"
-  :type: crafted
-- :id: crafted.stat_1896971621
-  :name: "#% increased Mine Laying Speed"
-  :type: crafted
-- :id: crafted.stat_3922006600
-  :name: 'Socketed Gems are Supported by Level # Blood Magic'
-  :type: crafted
-- :id: crafted.stat_4122424929
-  :name: Cannot roll Attack Mods
-  :type: crafted
-- :id: crafted.stat_3484657501
-  :name: "# to Armour (Local)"
-  :type: crafted
-- :id: crafted.stat_3668351662
-  :name: "#% increased Shock Duration on Enemies"
-  :type: crafted
-- :id: crafted.stat_2866361420
-  :name: "#% increased Armour"
-  :type: crafted
 - :id: crafted.stat_1037193709
   :name: 'Adds # to # Cold Damage (Local)'
-  :type: crafted
-- :id: crafted.stat_2879723104
-  :name: Prefixes Cannot Be Changed
-  :type: crafted
-- :id: crafted.stat_3999401129
-  :name: "#% of Cold Damage Leeched as Life"
-  :type: crafted
-- :id: crafted.stat_1050105434
-  :name: "# to maximum Mana"
   :type: crafted
