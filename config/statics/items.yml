@@ -1,1563 +1,615 @@
 ---
-- :name: Abberath's Horn
-  :base: Goat's Horn
+- :name: Andvarius
+  :base: Gold Ring
   :isUnique: true
-- :name: Advancing Fortress
-  :base: Gut Ripper
+- :name: Angler's Plait
+  :base: Unset Ring
   :isUnique: true
-- :name: Agnerod
-  :base: Imperial Staff
+- :name: Araku Tiki
+  :base: Coral Amulet
   :isUnique: true
-- :name: Agnerod East
-  :base: Imperial Staff
+- :name: Ascent From Flesh
+  :base: Chain Belt
   :isUnique: true
-- :name: Agnerod North
-  :base: Imperial Staff
+- :name: Astramentis
+  :base: Onyx Amulet
   :isUnique: true
-- :name: Agnerod South
-  :base: Imperial Staff
+- :name: Atziri's Foible
+  :base: Paua Amulet
   :isUnique: true
-- :name: Agnerod West
-  :base: Imperial Staff
+- :name: Auxium
+  :base: Chain Belt
   :isUnique: true
-- :name: 
-  :base: Vaal Sceptre
-  :isUnique: false
-- :name: Ahn's Might
-  :base: Midnight Blade
-  :isUnique: true
-- :name: Al Dhih
-  :base: Timeworn Claw
-  :isUnique: true
-- :name: Allure
-  :base: Vaal Claw
-  :isUnique: true
-- :name: Amplification Rod
-  :base: Spiraled Wand
-  :isUnique: true
-- :name: Apep's Rage
-  :base: Opal Wand
-  :isUnique: true
-- :name: 
-  :base: Meatgrinder
-  :isUnique: false
-- :name: Arakaali's Fang
-  :base: Fiend Dagger
-  :isUnique: true
-- :name: Arborix
-  :base: Assassin Bow
-  :isUnique: true
-- :name: 
-  :base: Short Bow
-  :isUnique: false
-- :name: 
-  :base: Gladius
-  :isUnique: false
-- :name: Ashcaller
-  :base: Quartz Wand
-  :isUnique: true
-- :name: Atziri's Disfavour
-  :base: Vaal Axe
-  :isUnique: true
-- :name: Augyre
-  :base: Void Sceptre
-  :isUnique: true
-- :name: Aurumvorax
-  :base: Basket Rapier
-  :isUnique: true
-- :name: Axiom Perpetuum
-  :base: Bronze Sceptre
-  :isUnique: true
-- :name: Balefire
-  :base: Opal Sceptre
-  :isUnique: true
-- :name: 
-  :base: Infernal Sword
-  :isUnique: false
-- :name: Beltimber Blade
-  :base: Eternal Sword
-  :isUnique: true
-- :name: Bino's Kitchen Knife
-  :base: Slaughter Knife
-  :isUnique: true
-- :name: Bitterdream
-  :base: Shadow Sceptre
-  :isUnique: true
-- :name: Bloodplay
-  :base: Stiletto
-  :isUnique: true
-- :name: Bloodseeker
-  :base: Hellion's Paw
-  :isUnique: true
-- :name: Brain Rattler
-  :base: Meatgrinder
-  :isUnique: true
-- :name: Breath of the Council
-  :base: Carnal Sceptre
-  :isUnique: true
-- :name: 
-  :base: Ranger Bow
-  :isUnique: false
-- :name: Brightbeak
-  :base: War Hammer
-  :isUnique: true
-- :name: Brutus' Lead Sprinkler
-  :base: Ritual Sceptre
-  :isUnique: true
-- :name: Callinellus Malleus
-  :base: Auric Mace
-  :isUnique: true
-- :name: Cameria's Maul
-  :base: Gavel
-  :isUnique: true
-- :name: Cane of Unravelling
-  :base: Ezomyte Staff
-  :isUnique: true
-- :name: Chin Sol
-  :base: Assassin Bow
-  :isUnique: true
-- :name: Chitus' Needle
-  :base: Elegant Foil
-  :isUnique: true
-- :name: Chober Chaber
-  :base: Great Mallet
-  :isUnique: true
-- :name: Clayshaper
-  :base: Rock Breaker
-  :isUnique: true
-- :name: Cospri's Malice
-  :base: Jewelled Foil
-  :isUnique: true
-- :name: Cybil's Paw
-  :base: Thresher Claw
-  :isUnique: true
-- :name: Daresso's Passion
-  :base: Estoc
-  :isUnique: true
-- :name: Darkscorn
-  :base: Assassin Bow
-  :isUnique: true
-- :name: Death's Hand
-  :base: Karui Sceptre
-  :isUnique: true
-- :name: Death's Harp
-  :base: Death Bow
-  :isUnique: true
-- :name: Death's Opus
-  :base: Death Bow
-  :isUnique: true
-- :name: Debeon's Dirge
-  :base: Despot Axe
-  :isUnique: true
-- :name: Divinarius
-  :base: Imperial Skean
-  :isUnique: true
-- :name: Doomfletch
-  :base: Royal Bow
-  :isUnique: true
-- :name: Doomfletch's Prism
-  :base: Royal Bow
-  :isUnique: true
-- :name: Doomsower
-  :base: Lion Sword
-  :isUnique: true
-- :name: Doon Cuebiyari
-  :base: Vaal Sceptre
-  :isUnique: true
-- :name: Doryani's Catalyst
-  :base: Vaal Sceptre
-  :isUnique: true
-- :name: Dreadarc
-  :base: Cleaver
-  :isUnique: true
-- :name: Dreamfeather
-  :base: Eternal Sword
-  :isUnique: true
-- :name: Duskdawn
-  :base: Maelström Staff
-  :isUnique: true
-- :name: Dyadus
-  :base: Infernal Axe
-  :isUnique: true
-- :name: Dying Breath
-  :base: Iron Staff
-  :isUnique: true
-- :name: Dying Breath
-  :base: Coiled Staff
-  :isUnique: true
-- :name: Eclipse Solaris
-  :base: Crystal Wand
-  :isUnique: true
-- :name: 
-  :base: Imperial Claw
-  :isUnique: false
-- :name: Edge of Madness
-  :base: Etched Greatsword
+- :name: Bated Breath
+  :base: Chain Belt
   :isUnique: true
-- :name: Ephemeral Edge
-  :base: Dusk Blade
+- :name: Belt of the Deceiver
+  :base: Heavy Belt
   :isUnique: true
-- :name: Essentia Sanguis
-  :base: Eye Gouger
+- :name: Berek's Grip
+  :base: Two-Stone Ring
   :isUnique: true
-- :name: Essentia Sanguis
-  :base: Vaal Claw
+- :name: Berek's Pass
+  :base: Two-Stone Ring
   :isUnique: true
-- :name: Ewar's Mirage
-  :base: Antique Rapier
+- :name: Berek's Respite
+  :base: Two-Stone Ring
   :isUnique: true
-- :name: Femurs of the Saints
-  :base: Primordial Staff
+- :name: Bisco's Collar
+  :base: Gold Amulet
   :isUnique: true
-- :name: Fencoil
-  :base: Gnarled Branch
+- :name: Bisco's Leash
+  :base: Heavy Belt
   :isUnique: true
-- :name: Fidelitas' Spike
-  :base: Jagged Foil
+- :name: Blackheart
+  :base: Iron Ring
   :isUnique: true
-- :name: Flesh-Eater
-  :base: Dream Mace
+- :name: Blightwell
+  :base: Clutching Talisman
   :isUnique: true
-- :name: Frostbreath
-  :base: Ornate Mace
+- :name: Bloodboil
+  :base: Coral Ring
   :isUnique: true
-- :name: Geofri's Baptism
-  :base: Brass Maul
+- :name: Bloodgrip
+  :base: Marble Amulet
   :isUnique: true
-- :name: Gorebreaker
-  :base: Spiked Club
+- :name: Bloodgrip
+  :base: Coral Amulet
   :isUnique: true
-- :name: Goredrill
-  :base: Skinning Knife
+- :name: Blood of Corruption
+  :base: Amber Amulet
   :isUnique: true
-- :name: Grelwood Shank
-  :base: Eternal Sword
+- :name: Brinerot Mark
+  :base: Unset Ring
   :isUnique: true
-- :name: Hand of Thought and Motion
-  :base: Blinder
+- :name: Call of the Brotherhood
+  :base: Two-Stone Ring
   :isUnique: true
-- :name: Hand of Wisdom and Action
-  :base: Imperial Claw
+- :name: Carnage Heart
+  :base: Onyx Amulet
   :isUnique: true
-- :name: Heartbreaker
-  :base: Royal Skean
+- :name: Choir of the Storm
+  :base: Lapis Amulet
   :isUnique: true
-- :name: Hegemony's Era
-  :base: Judgement Staff
+- :name: Cyclopean Coil
+  :base: Leather Belt
   :isUnique: true
-- :name: Hezmana's Bloodlust
-  :base: Vaal Axe
+- :name: Daresso's Salute
+  :base: Citrine Amulet
   :isUnique: true
-- :name: Hiltless
-  :base: Reaver Sword
+- :name: Darkness Enthroned
+  :base: Stygian Vise
   :isUnique: true
-- :name: Hopeshredder
-  :base: Ranger Bow
+- :name: Death Rush
+  :base: Amethyst Ring
   :isUnique: true
-- :name: Hrimnor's Dirge
-  :base: Sledgehammer
+- :name: Demigod's Bounty
+  :base: Golden Obi
   :isUnique: true
-- :name: Hrimnor's Hymn
-  :base: Sledgehammer
+- :name: Demigod's Eye
+  :base: Golden Hoop
   :isUnique: true
-- :name: 
-  :base: Charan's Sword
-  :isUnique: false
-- :name: Hyaon's Fury
-  :base: Legion Sword
-  :isUnique: true
-- :name: Ichimonji
-  :base: Corsair Sword
-  :isUnique: true
-- :name: Infractem
-  :base: Decimation Bow
-  :isUnique: true
-- :name: Innsbury Edge
-  :base: Elder Sword
-  :isUnique: true
-- :name: Iron Commander
-  :base: Death Bow
-  :isUnique: true
-- :name: Izaro's Dilemma
-  :base: Imperial Claw
-  :isUnique: true
-- :name: Jack, the Axe
-  :base: Vaal Hatchet
-  :isUnique: true
-- :name: Jorrhast's Blacksteel
-  :base: Steelhead
-  :isUnique: true
-- :name: Kaom's Primacy
-  :base: Karui Chopper
-  :isUnique: true
-- :name: Kingmaker
-  :base: Despot Axe
-  :isUnique: true
-- :name: Kitava's Feast
-  :base: Void Axe
-  :isUnique: true
-- :name: Kondo's Pride
-  :base: Ezomyte Blade
-  :isUnique: true
-- :name: Kongor's Undying Rage
-  :base: Terror Maul
-  :isUnique: true
-- :name: Lakishu's Blade
-  :base: Elegant Sword
-  :isUnique: true
-- :name: Last Resort
-  :base: Nailed Fist
+- :name: Demigod's Presence
+  :base: Gold Amulet
   :isUnique: true
-- :name: Lavianga's Wisdom
-  :base: War Hammer
+- :name: Doedre's Damning
+  :base: Paua Ring
   :isUnique: true
-- :name: Lifesprig
-  :base: Driftwood Wand
+- :name: Doryani's Invitation
+  :base: Heavy Belt
   :isUnique: true
-- :name: Limbsplit
-  :base: Woodsplitter
+- :name: Dream Fragments
+  :base: Sapphire Ring
   :isUnique: true
-- :name: Lioneye's Glare
-  :base: Imperial Bow
+- :name: Dyadian Dawn
+  :base: Heavy Belt
   :isUnique: true
-- :name: Mark of the Doubting Knight
-  :base: Platinum Kris
+- :name: Emberwake
+  :base: Ruby Ring
   :isUnique: true
-- :name: Marohi Erqi
-  :base: Karui Maul
+- :name: Essence Worm
+  :base: Unset Ring
   :isUnique: true
-- :name: Martyr of Innocence
-  :base: Highborn Staff
+- :name: Extractor Mentis
+  :base: Agate Amulet
   :isUnique: true
-- :name: Midnight Bargain
-  :base: Engraved Wand
+- :name: Eye of Chayula
+  :base: Onyx Amulet
   :isUnique: true
-- :name: Mightflay
-  :base: Flaying Knife
+- :name: Eye of Innocence
+  :base: Citrine Amulet
   :isUnique: true
-- :name: Mjölner
-  :base: Gavel
+- :name: Eyes of the Greatwolf
+  :base: Greatwolf Talisman
   :isUnique: true
-- :name: Mon'tregul's Grasp
-  :base: Void Sceptre
+- :name: Faminebind
+  :base: Rustic Sash
   :isUnique: true
-- :name: Moonbender's Wing
-  :base: Tomahawk
+- :name: Feastbind
+  :base: Rustic Sash
   :isUnique: true
-- :name: Moonsorrow
-  :base: Imbued Wand
+- :name: Gifts from Above
+  :base: Diamond Ring
   :isUnique: true
-- :name: Mortem Morsu
-  :base: Fright Claw
+- :name: Gloomfang
+  :base: Blue Pearl Amulet
   :isUnique: true
-- :name: Nebuloch
-  :base: Nightmare Mace
+- :name: Hallowed Ground
+  :base: Unset Ring
   :isUnique: true
-- :name: Ngamahu's Flame
-  :base: Abyssal Axe
+- :name: Headhunter
+  :base: Leather Belt
   :isUnique: true
-- :name: Null's Inclination
-  :base: Ranger Bow
+- :name: Heartbound Loop
+  :base: Moonstone Ring
   :isUnique: true
-- :name: Nuro's Harp
-  :base: Harbinger Bow
+- :name: Hinekora's Sight
+  :base: Onyx Amulet
   :isUnique: true
-- :name: Nycta's Lantern
-  :base: Crystal Sceptre
+- :name: Immortal Flesh
+  :base: Leather Belt
   :isUnique: true
-- :name: Obliteration
-  :base: Demon's Horn
+- :name: Impresence
+  :base: Onyx Amulet
   :isUnique: true
-- :name: Oni-Goroshi
-  :base: Charan's Sword
+- :name: Kaom's Sign
+  :base: Coral Ring
   :isUnique: true
-- :name: Ornament of the East
-  :base: Gut Ripper
+- :name: Kaom's Way
+  :base: Coral Ring
   :isUnique: true
-- :name: Oro's Sacrifice
-  :base: Infernal Sword
+- :name: Karui Charge
+  :base: Jade Amulet
   :isUnique: true
-- :name: Pillar of the Caged God
-  :base: Long Staff
+- :name: Karui Ward
+  :base: Jade Amulet
   :isUnique: true
-- :name: Piscator's Vigil
-  :base: Tornado Wand
+- :name: Kikazaru
+  :base: Topaz Ring
   :isUnique: true
-- :name: Pledge of Hands
-  :base: Judgement Staff
+- :name: Le Heup of All
+  :base: Iron Ring
   :isUnique: true
-- :name: Prismatic Eclipse
-  :base: Twilight Blade
+- :name: Lori's Lantern
+  :base: Prismatic Ring
   :isUnique: true
-- :name: Quecholli
-  :base: Jagged Maul
+- :name: Malachai's Artifice
+  :base: Unset Ring
   :isUnique: true
-- :name: Queen's Decree
-  :base: Ornate Sword
+- :name: Maligaro's Cruelty
+  :base: Turquoise Amulet
   :isUnique: true
-- :name: Queen's Escape
-  :base: Ornate Sword
+- :name: Maligaro's Restraint
+  :base: Chain Belt
   :isUnique: true
-- :name: Quill Rain
-  :base: Short Bow
+- :name: Mark of the Elder
+  :base: Steel Ring
   :isUnique: true
-- :name: Razor of the Seventh Sun
-  :base: Midnight Blade
+- :name: Mark of the Shaper
+  :base: Opal Ring
   :isUnique: true
-- :name: Reach of the Council
-  :base: Spine Bow
+- :name: Marylene's Fallacy
+  :base: Lapis Amulet
   :isUnique: true
-- :name: Realm Ender
-  :base: Iron Staff
+- :name: Meginord's Girdle
+  :base: Heavy Belt
   :isUnique: true
-- :name: Realmshaper
-  :base: Iron Staff
+- :name: Ming's Heart
+  :base: Amethyst Ring
   :isUnique: true
-- :name: Reaper's Pursuit
-  :base: Shadow Axe
+- :name: Mokou's Embrace
+  :base: Ruby Ring
   :isUnique: true
-- :name: Rebuke of the Vaal
-  :base: Vaal Blade
+- :name: Mutewind Seal
+  :base: Unset Ring
   :isUnique: true
-- :name: Redbeak
-  :base: Rusted Sword
+- :name: Natural Hierarchy
+  :base: Rotfeather Talisman
   :isUnique: true
-- :name: Reefbane
-  :base: Fishing Rod
+- :name: Ngamahu's Sign
+  :base: Ruby Ring
   :isUnique: true
-- :name: Relentless Fury
-  :base: Decorative Axe
+- :name: Ngamahu Tiki
+  :base: Coral Amulet
   :isUnique: true
-- :name: Reverberation Rod
-  :base: Spiraled Wand
+- :name: Night's Hold
+  :base: Black Maw Talisman
   :isUnique: true
-- :name: Rigwald's Charge
-  :base: Highland Blade
+- :name: Perandus Blazon
+  :base: Cloth Belt
   :isUnique: true
-- :name: Rigwald's Command
-  :base: Midnight Blade
+- :name: Perandus Signet
+  :base: Paua Ring
   :isUnique: true
-- :name: Rigwald's Savagery
-  :base: Royal Axe
+- :name: Perseverance
+  :base: Vanguard Belt
   :isUnique: true
-- :name: Rive
-  :base: Terror Claw
+- :name: Praxis
+  :base: Paua Ring
   :isUnique: true
-- :name: Roth's Reach
-  :base: Recurve Bow
+- :name: Presence of Chayula
+  :base: Onyx Amulet
   :isUnique: true
-- :name: Scaeva
-  :base: Gladius
+- :name: Prismweave
+  :base: Rustic Sash
   :isUnique: true
-- :name: 
-  :base: Gut Ripper
-  :isUnique: false
-- :name: Severed in Sleep
-  :base: Cutlass
-  :isUnique: true
-- :name: Shade of Solaris
-  :base: Sage Wand
-  :isUnique: true
-- :name: Shimmeron
-  :base: Tornado Wand
-  :isUnique: true
-- :name: Shiversting
-  :base: Bastard Sword
-  :isUnique: true
-- :name: Silverbough
-  :base: Crude Bow
-  :isUnique: true
-- :name: Silverbranch
-  :base: Crude Bow
-  :isUnique: true
-- :name: Singularity
-  :base: Platinum Sceptre
+- :name: Pyre
+  :base: Sapphire Ring
   :isUnique: true
-- :name: Sire of Shards
-  :base: Serpentine Staff
+- :name: Rashkaldor's Patience
+  :base: Jade Amulet
   :isUnique: true
-- :name: Slivertongue
-  :base: Harbinger Bow
+- :name: Redblade Band
+  :base: Unset Ring
   :isUnique: true
-- :name: Song of the Sirens
-  :base: Fishing Rod
+- :name: Rigwald's Crest
+  :base: Two-Stone Ring
   :isUnique: true
-- :name: Soul Taker
-  :base: Siege Axe
+- :name: Rigwald's Curse
+  :base: Wereclaw Talisman
   :isUnique: true
-- :name: Spine of the First Claimant
-  :base: Iron Sceptre
+- :name: Romira's Banquet
+  :base: Diamond Ring
   :isUnique: true
-- :name: Starforge
-  :base: Infernal Sword
+- :name: Ryslatha's Coil
+  :base: Studded Belt
   :isUnique: true
-- :name: Storm Cloud
-  :base: Long Bow
+- :name: Shaper's Seed
+  :base: Agate Amulet
   :isUnique: true
-- :name: Storm Prison
-  :base: Carved Wand
+- :name: Shavronne's Revelation
+  :base: Moonstone Ring
   :isUnique: true
-- :name: Taproot
-  :base: Ambusher
+- :name: Sibyl's Lament
+  :base: Coral Ring
   :isUnique: true
-- :name: Taryn's Shiver
-  :base: Maelström Staff
+- :name: Sidhebreath
+  :base: Paua Amulet
   :isUnique: true
-- :name: Terminus Est
-  :base: Tiger Sword
+- :name: Snakepit
+  :base: Sapphire Ring
   :isUnique: true
-- :name: The Blood Reaper
-  :base: Headsman Axe
+- :name: Soul Tether
+  :base: Cloth Belt
   :isUnique: true
-- :name: The Blood Thorn
-  :base: Gnarled Branch
+- :name: Soulthirst
+  :base: Cloth Belt
   :isUnique: true
-- :name: The Cauteriser
-  :base: Woodsplitter
+- :name: Star of Wraeclast
+  :base: Ruby Amulet
   :isUnique: true
-- :name: The Consuming Dark
-  :base: Fiend Dagger
+- :name: Stone of Lazhwar
+  :base: Lapis Amulet
   :isUnique: true
-- :name: The Dancing Dervish
-  :base: Reaver Sword
+- :name: Stormfire
+  :base: Opal Ring
   :isUnique: true
-- :name: The Dark Seer
-  :base: Shadow Sceptre
+- :name: Sunblast
+  :base: Cloth Belt
   :isUnique: true
-- :name: The Enmity Divine
-  :base: Imperial Staff
+- :name: Talisman of the Victor
+  :base: Jet Amulet
   :isUnique: true
-- :name: The Goddess Bound
-  :base: Whalebone Rapier
+- :name: Tasalio's Sign
+  :base: Sapphire Ring
   :isUnique: true
-- :name: The Goddess Scorned
-  :base: Elegant Sword
+- :name: Tear of Purity
+  :base: Lapis Amulet
   :isUnique: true
-- :name: The Goddess Unleashed
-  :base: Eternal Sword
+- :name: The Anvil
+  :base: Amber Amulet
   :isUnique: true
-- :name: The Gryphon
-  :base: Jade Hatchet
+- :name: The Ascetic
+  :base: Gold Amulet
   :isUnique: true
-- :name: The Harvest
-  :base: Jasper Chopper
+- :name: The Aylardex
+  :base: Agate Amulet
   :isUnique: true
-- :name: The Poet's Pen
-  :base: Carved Wand
+- :name: The Effigon
+  :base: Gold Amulet
   :isUnique: true
-- :name: The Princess
-  :base: Sabre
+- :name: The Flow Untethered
+  :base: Cloth Belt
   :isUnique: true
-- :name: The Rippling Thoughts
-  :base: Legion Sword
+- :name: The Halcyon
+  :base: Jade Amulet
   :isUnique: true
-- :name: The Scourge
-  :base: Terror Claw
+- :name: The Hungry Loop
+  :base: Unset Ring
   :isUnique: true
-- :name: The Screaming Eagle
-  :base: Jade Hatchet
+- :name: The Ignomon
+  :base: Gold Amulet
   :isUnique: true
-- :name: The Searing Touch
-  :base: Lathi
+- :name: The Magnate
+  :base: Studded Belt
   :isUnique: true
-- :name: The Searing Touch
-  :base: Long Staff
+- :name: The Nomad
+  :base: Studded Belt
   :isUnique: true
-- :name: The Stormheart
-  :base: Royal Staff
+- :name: The Pandemonius
+  :base: Jade Amulet
   :isUnique: true
-- :name: The Supreme Truth
-  :base: Crystal Sceptre
+- :name: The Pariah
+  :base: Unset Ring
   :isUnique: true
-- :name: The Tempest
-  :base: Long Bow
+- :name: The Retch
+  :base: Rustic Sash
   :isUnique: true
-- :name: The Tempestuous Steel
-  :base: War Sword
+- :name: The Tactician
+  :base: Studded Belt
   :isUnique: true
-- :name: The Wasp Nest
-  :base: Throat Stabber
+- :name: The Taming
+  :base: Prismatic Ring
   :isUnique: true
-- :name: The Whispering Ice
-  :base: Vile Staff
+- :name: The Warden's Brand
+  :base: Iron Ring
   :isUnique: true
-- :name: Tidebreaker
-  :base: Imperial Maul
+- :name: Thief's Torment
+  :base: Prismatic Ring
   :isUnique: true
-- :name: Tipua Kaikohuru
-  :base: Whalebone Rapier
+- :name: Timeclasp
+  :base: Moonstone Ring
   :isUnique: true
-- :name: Touch of Anguish
-  :base: Imperial Claw
+- :name: Timetwist
+  :base: Moonstone Ring
   :isUnique: true
-- :name: Tremor Rod
-  :base: Military Staff
+- :name: Umbilicus Immortalis
+  :base: Leather Belt
   :isUnique: true
-- :name: Trypanon
-  :base: Great Mallet
+- :name: Ungil's Harmony
+  :base: Turquoise Amulet
   :isUnique: true
-- :name: Tulborn
-  :base: Spiraled Wand
+- :name: Valako's Sign
+  :base: Topaz Ring
   :isUnique: true
-- :name: Tulfall
-  :base: Tornado Wand
+- :name: Valyrium
+  :base: Moonstone Ring
   :isUnique: true
-- :name: Twyzel
-  :base: Sage Wand
+- :name: Ventor's Gamble
+  :base: Gold Ring
   :isUnique: true
-- :name: Ungil's Gauche
-  :base: Boot Knife
+- :name: Victario's Acuity
+  :base: Turquoise Amulet
   :isUnique: true
-- :name: United in Dream
-  :base: Cutlass
+- :name: Voice of the Storm
+  :base: Lapis Amulet
   :isUnique: true
-- :name: Uul-Netol's Embrace
-  :base: Vaal Axe
+- :name: Voideye
+  :base: Unset Ring
   :isUnique: true
-- :name: Uul-Netol's Kiss
-  :base: Labrys
+- :name: Voidheart
+  :base: Iron Ring
   :isUnique: true
-- :name: Varunastra
-  :base: Vaal Blade
+- :name: Voll's Devotion
+  :base: Agate Amulet
   :isUnique: true
-- :name: Void Battery
-  :base: Prophecy Wand
+- :name: Warped Timepiece
+  :base: Turquoise Amulet
   :isUnique: true
-- :name: Voidhome
-  :base: Dread Maul
+- :name: Winterheart
+  :base: Gold Amulet
   :isUnique: true
-- :name: Voltaxic Rift
-  :base: Spine Bow
+- :name: Winterweave
+  :base: Coral Ring
   :isUnique: true
-- :name: Vulconus
-  :base: Demon Dagger
+- :name: Wurm's Molt
+  :base: Leather Belt
   :isUnique: true
-- :name: White Wind
-  :base: Imperial Skean
+- :name: Xoph's Blood
+  :base: Amber Amulet
   :isUnique: true
-- :name: Wideswing
-  :base: Poleaxe
+- :name: Xoph's Heart
+  :base: Amber Amulet
   :isUnique: true
-- :name: Widowmaker
-  :base: Boot Blade
+- :name: Yoke of Suffering
+  :base: Onyx Amulet
   :isUnique: true
-- :name: Wildslash
-  :base: Awl
-  :isUnique: true
-- :name: Windripper
-  :base: Imperial Bow
-  :isUnique: true
-- :name: Wings of Entropy
-  :base: Sundering Axe
-  :isUnique: true
-- :name: Xirgil's Crank
-  :base: Coiled Staff
-  :isUnique: true
-- :name: Xoph's Inception
-  :base: Bone Bow
-  :isUnique: true
-- :name: Xoph's Nurture
-  :base: Citadel Bow
-  :isUnique: true
-- :name: 
-  :base: Nailed Fist
-  :isUnique: false
-- :name: 
-  :base: Gouger
-  :isUnique: false
-- :name: 
-  :base: Tiger's Paw
-  :isUnique: false
-- :name: 
-  :base: Prehistoric Claw
-  :isUnique: false
-- :name: 
-  :base: Noble Claw
-  :isUnique: false
-- :name: 
-  :base: Eagle Claw
-  :isUnique: false
-- :name: 
-  :base: Great White Claw
-  :isUnique: false
-- :name: 
-  :base: Throat Stabber
-  :isUnique: false
-- :name: 
-  :base: Hellion's Paw
-  :isUnique: false
-- :name: 
-  :base: Eye Gouger
-  :isUnique: false
-- :name: 
-  :base: Sharktooth Claw
-  :isUnique: false
-- :name: 
-  :base: Vaal Claw
-  :isUnique: false
-- :name: 
-  :base: Terror Claw
-  :isUnique: false
-- :name: 
-  :base: Awl
-  :isUnique: false
-- :name: 
-  :base: Cat's Paw
-  :isUnique: false
-- :name: 
-  :base: Blinder
-  :isUnique: false
-- :name: 
-  :base: Timeworn Claw
-  :isUnique: false
-- :name: 
-  :base: Sparkling Claw
-  :isUnique: false
-- :name: 
-  :base: Fright Claw
-  :isUnique: false
-- :name: 
-  :base: Thresher Claw
-  :isUnique: false
-- :name: 
-  :base: Double Claw
-  :isUnique: false
-- :name: 
-  :base: Twin Claw
-  :isUnique: false
-- :name: 
-  :base: Gemini Claw
-  :isUnique: false
-- :name: 
-  :base: Glass Shank
-  :isUnique: false
-- :name: 
-  :base: Butcher Knife
-  :isUnique: false
-- :name: 
-  :base: Poignard
-  :isUnique: false
-- :name: 
-  :base: Boot Blade
-  :isUnique: false
-- :name: 
-  :base: Golden Kris
-  :isUnique: false
-- :name: 
-  :base: Royal Skean
-  :isUnique: false
-- :name: 
-  :base: Fiend Dagger
-  :isUnique: false
-- :name: 
-  :base: Gutting Knife
-  :isUnique: false
-- :name: 
-  :base: Slaughter Knife
-  :isUnique: false
-- :name: 
-  :base: Ambusher
-  :isUnique: false
-- :name: 
-  :base: Ezomyte Dagger
-  :isUnique: false
-- :name: 
-  :base: Skinning Knife
-  :isUnique: false
-- :name: 
-  :base: Platinum Kris
-  :isUnique: false
-- :name: 
-  :base: Imperial Skean
-  :isUnique: false
-- :name: 
-  :base: Demon Dagger
-  :isUnique: false
-- :name: 
-  :base: Carving Knife
-  :isUnique: false
-- :name: 
-  :base: Stiletto
-  :isUnique: false
-- :name: 
-  :base: Boot Knife
-  :isUnique: false
-- :name: 
-  :base: Copper Kris
-  :isUnique: false
-- :name: 
-  :base: Skean
-  :isUnique: false
-- :name: 
-  :base: Imp Dagger
-  :isUnique: false
-- :name: 
-  :base: Flaying Knife
-  :isUnique: false
-- :name: 
-  :base: Prong Dagger
-  :isUnique: false
-- :name: 
-  :base: Trisula
-  :isUnique: false
-- :name: 
-  :base: Sai
-  :isUnique: false
-- :name: 
-  :base: Rusted Hatchet
-  :isUnique: false
-- :name: 
-  :base: Tomahawk
-  :isUnique: false
-- :name: 
-  :base: Wrist Chopper
-  :isUnique: false
-- :name: 
-  :base: War Axe
-  :isUnique: false
-- :name: 
-  :base: Chest Splitter
-  :isUnique: false
-- :name: 
-  :base: Ceremonial Axe
-  :isUnique: false
-- :name: 
-  :base: Wraith Axe
-  :isUnique: false
-- :name: 
-  :base: Karui Axe
-  :isUnique: false
-- :name: 
-  :base: Siege Axe
-  :isUnique: false
-- :name: 
-  :base: Reaver Axe
-  :isUnique: false
-- :name: 
-  :base: Butcher Axe
-  :isUnique: false
-- :name: 
-  :base: Jade Hatchet
-  :isUnique: false
-- :name: 
-  :base: Vaal Hatchet
-  :isUnique: false
-- :name: 
-  :base: Royal Axe
-  :isUnique: false
-- :name: 
-  :base: Infernal Axe
-  :isUnique: false
-- :name: 
-  :base: Boarding Axe
-  :isUnique: false
-- :name: 
-  :base: Cleaver
-  :isUnique: false
-- :name: 
-  :base: Broad Axe
-  :isUnique: false
-- :name: 
-  :base: Arming Axe
-  :isUnique: false
-- :name: 
-  :base: Decorative Axe
-  :isUnique: false
-- :name: 
-  :base: Spectral Axe
-  :isUnique: false
-- :name: 
-  :base: Jasper Axe
-  :isUnique: false
-- :name: 
-  :base: Etched Hatchet
-  :isUnique: false
-- :name: 
-  :base: Engraved Hatchet
-  :isUnique: false
-- :name: 
-  :base: Runic Hatchet
-  :isUnique: false
-- :name: 
-  :base: Driftwood Club
-  :isUnique: false
-- :name: 
-  :base: Barbed Club
-  :isUnique: false
-- :name: 
-  :base: Rock Breaker
-  :isUnique: false
-- :name: 
-  :base: Battle Hammer
-  :isUnique: false
-- :name: 
-  :base: Flanged Mace
-  :isUnique: false
-- :name: 
-  :base: Ornate Mace
-  :isUnique: false
-- :name: 
-  :base: Phantom Mace
-  :isUnique: false
-- :name: 
-  :base: Ancestral Club
-  :isUnique: false
-- :name: 
-  :base: Tenderizer
-  :isUnique: false
-- :name: 
-  :base: Gavel
-  :isUnique: false
-- :name: 
-  :base: Legion Hammer
-  :isUnique: false
-- :name: 
-  :base: Tribal Club
-  :isUnique: false
-- :name: 
-  :base: Pernarch
-  :isUnique: false
-- :name: 
-  :base: Auric Mace
-  :isUnique: false
-- :name: 
-  :base: Nightmare Mace
-  :isUnique: false
-- :name: 
-  :base: Spiked Club
-  :isUnique: false
-- :name: 
-  :base: Stone Hammer
-  :isUnique: false
-- :name: 
-  :base: War Hammer
-  :isUnique: false
-- :name: 
-  :base: Bladed Mace
-  :isUnique: false
-- :name: 
-  :base: Ceremonial Mace
-  :isUnique: false
-- :name: 
-  :base: Dream Mace
-  :isUnique: false
-- :name: 
-  :base: Petrified Club
-  :isUnique: false
-- :name: 
-  :base: Wyrm Mace
-  :isUnique: false
-- :name: 
-  :base: Dragon Mace
-  :isUnique: false
-- :name: 
-  :base: Behemoth Mace
-  :isUnique: false
-- :name: 
-  :base: Driftwood Sceptre
-  :isUnique: false
-- :name: 
-  :base: Sekhem
-  :isUnique: false
-- :name: 
-  :base: Crystal Sceptre
-  :isUnique: false
-- :name: 
-  :base: Lead Sceptre
-  :isUnique: false
-- :name: 
-  :base: Blood Sceptre
-  :isUnique: false
-- :name: 
-  :base: Royal Sceptre
-  :isUnique: false
-- :name: 
-  :base: Abyssal Sceptre
-  :isUnique: false
-- :name: 
-  :base: Karui Sceptre
-  :isUnique: false
-- :name: 
-  :base: Tyrant's Sekhem
-  :isUnique: false
-- :name: 
-  :base: Opal Sceptre
-  :isUnique: false
-- :name: 
-  :base: Platinum Sceptre
-  :isUnique: false
-- :name: 
-  :base: Darkwood Sceptre
-  :isUnique: false
-- :name: 
-  :base: Carnal Sceptre
-  :isUnique: false
-- :name: 
-  :base: Void Sceptre
-  :isUnique: false
-- :name: 
-  :base: Bronze Sceptre
-  :isUnique: false
-- :name: 
-  :base: Quartz Sceptre
-  :isUnique: false
-- :name: 
-  :base: Iron Sceptre
-  :isUnique: false
-- :name: 
-  :base: Ochre Sceptre
-  :isUnique: false
-- :name: 
-  :base: Ritual Sceptre
-  :isUnique: false
-- :name: 
-  :base: Shadow Sceptre
-  :isUnique: false
-- :name: 
-  :base: Grinning Fetish
-  :isUnique: false
-- :name: 
-  :base: Horned Sceptre
-  :isUnique: false
-- :name: 
-  :base: Stag Sceptre
-  :isUnique: false
-- :name: 
-  :base: Sambar Sceptre
-  :isUnique: false
-- :name: 
-  :base: Rusted Sword
-  :isUnique: false
-- :name: 
-  :base: Cutlass
-  :isUnique: false
-- :name: 
-  :base: Baselard
-  :isUnique: false
-- :name: 
-  :base: Battle Sword
-  :isUnique: false
-- :name: 
-  :base: Elder Sword
-  :isUnique: false
-- :name: 
-  :base: Graceful Sword
-  :isUnique: false
-- :name: 
-  :base: Twilight Blade
-  :isUnique: false
-- :name: 
-  :base: Gemstone Sword
-  :isUnique: false
-- :name: 
-  :base: Corsair Sword
-  :isUnique: false
-- :name: 
-  :base: Legion Sword
-  :isUnique: false
-- :name: 
-  :base: Copper Sword
-  :isUnique: false
-- :name: 
-  :base: Vaal Blade
-  :isUnique: false
-- :name: 
-  :base: Eternal Sword
-  :isUnique: false
-- :name: 
-  :base: Midnight Blade
-  :isUnique: false
-- :name: 
-  :base: Sabre
-  :isUnique: false
-- :name: 
-  :base: Broad Sword
-  :isUnique: false
-- :name: 
-  :base: War Sword
-  :isUnique: false
-- :name: 
-  :base: Ancient Sword
-  :isUnique: false
-- :name: 
-  :base: Elegant Sword
-  :isUnique: false
-- :name: 
-  :base: Dusk Blade
-  :isUnique: false
-- :name: 
-  :base: Variscite Blade
-  :isUnique: false
-- :name: 
-  :base: Hook Sword
-  :isUnique: false
-- :name: 
-  :base: Grappler
-  :isUnique: false
-- :name: 
-  :base: Tiger Hook
-  :isUnique: false
-- :name: 
-  :base: Rusted Spike
-  :isUnique: false
-- :name: 
-  :base: Burnished Foil
-  :isUnique: false
-- :name: 
-  :base: Estoc
-  :isUnique: false
-- :name: 
-  :base: Serrated Foil
-  :isUnique: false
-- :name: 
-  :base: Primeval Rapier
-  :isUnique: false
-- :name: 
-  :base: Fancy Foil
-  :isUnique: false
-- :name: 
-  :base: Apex Rapier
-  :isUnique: false
-- :name: 
-  :base: Dragonbone Rapier
-  :isUnique: false
-- :name: 
-  :base: Tempered Foil
-  :isUnique: false
-- :name: 
-  :base: Pecoraro
-  :isUnique: false
-- :name: 
-  :base: Spiraled Foil
-  :isUnique: false
-- :name: 
-  :base: Whalebone Rapier
-  :isUnique: false
-- :name: 
-  :base: Vaal Rapier
-  :isUnique: false
-- :name: 
-  :base: Jewelled Foil
-  :isUnique: false
-- :name: 
-  :base: Harpy Rapier
-  :isUnique: false
-- :name: 
-  :base: Battered Foil
-  :isUnique: false
-- :name: 
-  :base: Basket Rapier
-  :isUnique: false
-- :name: 
-  :base: Jagged Foil
-  :isUnique: false
-- :name: 
-  :base: Antique Rapier
-  :isUnique: false
-- :name: 
-  :base: Elegant Foil
-  :isUnique: false
-- :name: 
-  :base: Thorn Rapier
-  :isUnique: false
-- :name: 
-  :base: Wyrmbone Rapier
-  :isUnique: false
-- :name: 
-  :base: Smallsword
-  :isUnique: false
-- :name: 
-  :base: Courtesan Sword
-  :isUnique: false
-- :name: 
-  :base: Dragoon Sword
-  :isUnique: false
-- :name: 
-  :base: Driftwood Wand
-  :isUnique: false
-- :name: 
-  :base: Serpent Wand
-  :isUnique: false
-- :name: 
-  :base: Omen Wand
-  :isUnique: false
-- :name: 
-  :base: Demon's Horn
-  :isUnique: false
-- :name: 
-  :base: Imbued Wand
-  :isUnique: false
-- :name: 
-  :base: Opal Wand
-  :isUnique: false
-- :name: 
-  :base: Tornado Wand
-  :isUnique: false
-- :name: 
-  :base: Prophecy Wand
-  :isUnique: false
-- :name: 
-  :base: Goat's Horn
-  :isUnique: false
-- :name: 
-  :base: Carved Wand
-  :isUnique: false
-- :name: 
-  :base: Quartz Wand
-  :isUnique: false
-- :name: 
-  :base: Spiraled Wand
-  :isUnique: false
-- :name: 
-  :base: Sage Wand
-  :isUnique: false
-- :name: 
-  :base: Faun's Horn
-  :isUnique: false
-- :name: 
-  :base: Engraved Wand
-  :isUnique: false
-- :name: 
-  :base: Crystal Wand
-  :isUnique: false
-- :name: 
-  :base: Pagan Wand
-  :isUnique: false
-- :name: 
-  :base: Heathen Wand
-  :isUnique: false
-- :name: 
-  :base: Profane Wand
-  :isUnique: false
-- :name: 
-  :base: Fishing Rod
-  :isUnique: false
-- :name: 
-  :base: Crude Bow
-  :isUnique: false
-- :name: 
-  :base: Decurve Bow
-  :isUnique: false
-- :name: 
-  :base: Compound Bow
-  :isUnique: false
-- :name: 
-  :base: Sniper Bow
-  :isUnique: false
-- :name: 
-  :base: Ivory Bow
-  :isUnique: false
-- :name: 
-  :base: Highborn Bow
-  :isUnique: false
-- :name: 
-  :base: Decimation Bow
-  :isUnique: false
-- :name: 
-  :base: Thicket Bow
-  :isUnique: false
-- :name: 
-  :base: Citadel Bow
-  :isUnique: false
-- :name: 
-  :base: Assassin Bow
-  :isUnique: false
-- :name: 
-  :base: Spine Bow
-  :isUnique: false
-- :name: 
-  :base: Imperial Bow
-  :isUnique: false
-- :name: 
-  :base: Harbinger Bow
-  :isUnique: false
-- :name: 
-  :base: Long Bow
-  :isUnique: false
-- :name: 
-  :base: Composite Bow
-  :isUnique: false
-- :name: 
-  :base: Recurve Bow
-  :isUnique: false
-- :name: 
-  :base: Bone Bow
-  :isUnique: false
-- :name: 
-  :base: Royal Bow
-  :isUnique: false
-- :name: 
-  :base: Death Bow
-  :isUnique: false
-- :name: 
-  :base: Grove Bow
-  :isUnique: false
-- :name: 
-  :base: Reflex Bow
-  :isUnique: false
-- :name: 
-  :base: Steelwood Bow
-  :isUnique: false
-- :name: 
-  :base: Maraketh Bow
-  :isUnique: false
-- :name: 
-  :base: Gnarled Branch
-  :isUnique: false
-- :name: 
-  :base: Military Staff
-  :isUnique: false
-- :name: 
-  :base: Serpentine Staff
-  :isUnique: false
-- :name: 
-  :base: Highborn Staff
-  :isUnique: false
-- :name: 
-  :base: Foul Staff
-  :isUnique: false
-- :name: 
-  :base: Primordial Staff
-  :isUnique: false
-- :name: 
-  :base: Lathi
-  :isUnique: false
-- :name: 
-  :base: Ezomyte Staff
-  :isUnique: false
-- :name: 
-  :base: Maelström Staff
-  :isUnique: false
-- :name: 
-  :base: Imperial Staff
-  :isUnique: false
-- :name: 
-  :base: Judgement Staff
-  :isUnique: false
-- :name: 
-  :base: Primitive Staff
-  :isUnique: false
-- :name: 
-  :base: Long Staff
-  :isUnique: false
-- :name: 
-  :base: Iron Staff
-  :isUnique: false
-- :name: 
-  :base: Coiled Staff
-  :isUnique: false
-- :name: 
-  :base: Royal Staff
-  :isUnique: false
-- :name: 
-  :base: Vile Staff
-  :isUnique: false
 - :name: 
-  :base: Woodful Staff
+  :base: Blue Pearl Amulet
   :isUnique: false
 - :name: 
-  :base: Quarterstaff
+  :base: Marble Amulet
   :isUnique: false
 - :name: 
-  :base: Crescent Staff
+  :base: Jet Amulet
   :isUnique: false
 - :name: 
-  :base: Moon Staff
+  :base: Paua Amulet
   :isUnique: false
 - :name: 
-  :base: Eclipse Staff
+  :base: Citrine Amulet
   :isUnique: false
 - :name: 
-  :base: Stone Axe
+  :base: Ruby Amulet
   :isUnique: false
 - :name: 
-  :base: Headsman Axe
+  :base: Coral Amulet
   :isUnique: false
 - :name: 
-  :base: Labrys
+  :base: Amber Amulet
   :isUnique: false
 - :name: 
-  :base: Noble Axe
+  :base: Jade Amulet
   :isUnique: false
 - :name: 
-  :base: Abyssal Axe
+  :base: Lapis Amulet
   :isUnique: false
 - :name: 
-  :base: Karui Chopper
+  :base: Gold Amulet
   :isUnique: false
 - :name: 
-  :base: Sundering Axe
+  :base: Onyx Amulet
   :isUnique: false
 - :name: 
-  :base: Ezomyte Axe
+  :base: Turquoise Amulet
   :isUnique: false
 - :name: 
-  :base: Vaal Axe
+  :base: Agate Amulet
   :isUnique: false
 - :name: 
-  :base: Despot Axe
+  :base: Black Maw Talisman
   :isUnique: false
 - :name: 
-  :base: Void Axe
+  :base: Mandible Talisman
   :isUnique: false
 - :name: 
-  :base: Jade Chopper
+  :base: Chrysalis Talisman
   :isUnique: false
 - :name: 
-  :base: Woodsplitter
+  :base: Writhing Talisman
   :isUnique: false
 - :name: 
-  :base: Poleaxe
+  :base: Bonespire Talisman
   :isUnique: false
 - :name: 
-  :base: Double Axe
+  :base: Ashscale Talisman
   :isUnique: false
 - :name: 
-  :base: Gilded Axe
+  :base: Lone Antler Talisman
   :isUnique: false
 - :name: 
-  :base: Shadow Axe
+  :base: Deep One Talisman
   :isUnique: false
 - :name: 
-  :base: Jasper Chopper
+  :base: Breakrib Talisman
   :isUnique: false
 - :name: 
-  :base: Timber Axe
+  :base: Deadhand Talisman
   :isUnique: false
 - :name: 
-  :base: Dagger Axe
+  :base: Undying Flesh Talisman
   :isUnique: false
 - :name: 
-  :base: Talon Axe
+  :base: Rot Head Talisman
   :isUnique: false
 - :name: 
-  :base: Fleshripper
+  :base: Hexclaw Talisman
   :isUnique: false
 - :name: 
-  :base: Driftwood Maul
+  :base: Primal Skull Talisman
   :isUnique: false
 - :name: 
-  :base: Steelhead
+  :base: Wereclaw Talisman
   :isUnique: false
 - :name: 
-  :base: Spiny Maul
+  :base: Splitnewt Talisman
   :isUnique: false
 - :name: 
-  :base: Plated Maul
+  :base: Clutching Talisman
   :isUnique: false
 - :name: 
-  :base: Dread Maul
+  :base: Avian Twins Talisman
   :isUnique: false
 - :name: 
-  :base: Karui Maul
+  :base: Fangjaw Talisman
   :isUnique: false
 - :name: 
-  :base: Colossus Mallet
+  :base: Horned Talisman
   :isUnique: false
 - :name: 
-  :base: Piledriver
+  :base: Spinefuse Talisman
   :isUnique: false
 - :name: 
-  :base: Imperial Maul
+  :base: Three Rat Talisman
   :isUnique: false
 - :name: 
-  :base: Terror Maul
+  :base: Monkey Twins Talisman
   :isUnique: false
 - :name: 
-  :base: Tribal Maul
+  :base: Longtooth Talisman
   :isUnique: false
 - :name: 
-  :base: Mallet
+  :base: Rotfeather Talisman
   :isUnique: false
 - :name: 
-  :base: Sledgehammer
+  :base: Monkey Paw Talisman
   :isUnique: false
 - :name: 
-  :base: Jagged Maul
+  :base: Three Hands Talisman
   :isUnique: false
 - :name: 
-  :base: Brass Maul
+  :base: Greatwolf Talisman
   :isUnique: false
 - :name: 
-  :base: Fright Maul
+  :base: Rustic Sash
   :isUnique: false
 - :name: 
-  :base: Totemic Maul
+  :base: Chain Belt
   :isUnique: false
 - :name: 
-  :base: Great Mallet
+  :base: Leather Belt
   :isUnique: false
 - :name: 
-  :base: Morning Star
+  :base: Heavy Belt
   :isUnique: false
 - :name: 
-  :base: Solar Maul
+  :base: Cloth Belt
   :isUnique: false
 - :name: 
-  :base: Coronal Maul
+  :base: Studded Belt
   :isUnique: false
 - :name: 
-  :base: Corroded Blade
+  :base: Stygian Vise
   :isUnique: false
 - :name: 
-  :base: Highland Blade
+  :base: Vanguard Belt
   :isUnique: false
 - :name: 
-  :base: Engraved Greatsword
+  :base: Crystal Belt
   :isUnique: false
 - :name: 
-  :base: Tiger Sword
+  :base: Golden Obi
   :isUnique: false
 - :name: 
-  :base: Wraith Sword
+  :base: Breach Ring
   :isUnique: false
 - :name: 
-  :base: Headman's Sword
+  :base: Iron Ring
   :isUnique: false
 - :name: 
-  :base: Reaver Sword
+  :base: Amethyst Ring
   :isUnique: false
 - :name: 
-  :base: Ezomyte Blade
+  :base: Diamond Ring
   :isUnique: false
 - :name: 
-  :base: Vaal Greatsword
+  :base: Two-Stone Ring
   :isUnique: false
 - :name: 
-  :base: Lion Sword
+  :base: Unset Ring
   :isUnique: false
 - :name: 
-  :base: Longsword
+  :base: Coral Ring
   :isUnique: false
 - :name: 
-  :base: Bastard Sword
+  :base: Paua Ring
   :isUnique: false
 - :name: 
-  :base: Two-Handed Sword
+  :base: Gold Ring
   :isUnique: false
 - :name: 
-  :base: Etched Greatsword
+  :base: Topaz Ring
   :isUnique: false
 - :name: 
-  :base: Ornate Sword
+  :base: Sapphire Ring
   :isUnique: false
 - :name: 
-  :base: Spectral Sword
+  :base: Ruby Ring
   :isUnique: false
 - :name: 
-  :base: Butcher Sword
+  :base: Prismatic Ring
   :isUnique: false
 - :name: 
-  :base: Footman Sword
+  :base: Moonstone Ring
   :isUnique: false
 - :name: 
-  :base: Curved Blade
+  :base: Steel Ring
   :isUnique: false
 - :name: 
-  :base: Lithe Blade
+  :base: Opal Ring
   :isUnique: false
 - :name: 
-  :base: Exquisite Blade
+  :base: Golden Hoop
   :isUnique: false
 - :name: Abberath's Hooves
   :base: Goathide Boots
@@ -1586,15 +638,9 @@
 - :name: Ambu's Charge
   :base: Crusader Chainmail
   :isUnique: true
-- :name: 
-  :base: Dragonscale Boots
-  :isUnique: false
-- :name: 
-  :base: Murder Boots
-  :isUnique: false
-- :name: 
-  :base: Crusader Gloves
-  :isUnique: false
+- :name: Asenath's Chant
+  :base: Iron Circlet
+  :isUnique: true
 - :name: Asenath's Gentle Touch
   :base: Silk Gloves
   :isUnique: true
@@ -1622,18 +668,9 @@
 - :name: Aurseize
   :base: Steelscale Gauntlets
   :isUnique: true
-- :name: 
-  :base: Mosaic Kite Shield
-  :isUnique: false
-- :name: 
-  :base: Nightmare Bascinet
-  :isUnique: false
 - :name: Belly of the Beast
   :base: Full Wyrmscale
   :isUnique: true
-- :name: 
-  :base: Sharktooth Arrow Quiver
-  :isUnique: false
 - :name: Blackgleam
   :base: Fire Arrow Quiver
   :isUnique: true
@@ -1643,15 +680,9 @@
 - :name: Blasphemer's Grasp
   :base: Assassin's Mitts
   :isUnique: true
-- :name: 
-  :base: Sadist Garb
-  :isUnique: false
 - :name: Bloodbond
   :base: Bone Armour
   :isUnique: true
-- :name: 
-  :base: Two-Point Arrow Quiver
-  :isUnique: false
 - :name: Bones of Ullr
   :base: Silk Slippers
   :isUnique: true
@@ -1703,9 +734,6 @@
 - :name: Cloak of Tawm'r Isley
   :base: Savant's Robe
   :isUnique: true
-- :name: 
-  :base: Brass Spirit Shield
-  :isUnique: false
 - :name: Cospri's Will
   :base: Assassin's Garb
   :isUnique: true
@@ -1714,6 +742,18 @@
   :isUnique: true
 - :name: Craghead
   :base: Serrated Arrow Quiver
+  :isUnique: true
+- :name: Craiceann's Carapace
+  :base: Golden Plate
+  :isUnique: true
+- :name: Craiceann's Chitin
+  :base: Magistrate Crown
+  :isUnique: true
+- :name: Craiceann's Pincers
+  :base: Titan Gauntlets
+  :isUnique: true
+- :name: Craiceann's Tracks
+  :base: Goliath Greaves
   :isUnique: true
 - :name: Crest of Perandus
   :base: Pine Buckler
@@ -1726,6 +766,9 @@
   :isUnique: true
 - :name: Crown of Thorns
   :base: Vine Circlet
+  :isUnique: true
+- :name: Crystal Vault
+  :base: Latticed Ringmail
   :isUnique: true
 - :name: Daresso's Courage
   :base: Baroque Round Shield
@@ -1778,6 +821,9 @@
 - :name: Dialla's Malefaction
   :base: Sage's Robe
   :isUnique: true
+- :name: Doedre's Malevolence
+  :base: Velvet Gloves
+  :isUnique: true
 - :name: Doedre's Scorn
   :base: Lunaris Circlet
   :isUnique: true
@@ -1787,14 +833,14 @@
 - :name: Doedre's Tenure
   :base: Velvet Gloves
   :isUnique: true
-- :name: 
-  :base: Golden Plate
-  :isUnique: false
 - :name: Doryani's Fist
   :base: Vaal Gauntlets
   :isUnique: true
 - :name: Drillneck
   :base: Penetrating Arrow Quiver
+  :isUnique: true
+- :name: Duskblight
+  :base: Ironscale Boots
   :isUnique: true
 - :name: Dusktoe
   :base: Ironscale Boots
@@ -1823,11 +869,38 @@
 - :name: Fairgraves' Tricorne
   :base: Tricorne
   :isUnique: true
+- :name: Farrul's Bite
+  :base: Harlequin Mask
+  :isUnique: true
+- :name: Farrul's Chase
+  :base: Slink Boots
+  :isUnique: true
+- :name: Farrul's Fur
+  :base: Triumphant Lamellar
+  :isUnique: true
+- :name: Fenumus' Shroud
+  :base: Widowsilk Robe
+  :isUnique: true
+- :name: Fenumus' Spinnerets
+  :base: Assassin's Boots
+  :isUnique: true
+- :name: Fenumus' Toxins
+  :base: Necromancer Circlet
+  :isUnique: true
+- :name: Fenumus' Weave
+  :base: Carnal Mitts
+  :isUnique: true
 - :name: Flesh and Spirit
   :base: Ironscale Gauntlets
   :isUnique: true
+- :name: Fox's Fortune
+  :base: Wild Leather
+  :isUnique: true
 - :name: Foxshade
   :base: Wild Leather
+  :isUnique: true
+- :name: Frostferno
+  :base: Leather Hood
   :isUnique: true
 - :name: Gang's Momentum
   :base: Legion Boots
@@ -1853,11 +926,17 @@
 - :name: Goldwyrm
   :base: Nubuck Boots
   :isUnique: true
+- :name: Gorgon's Gaze
+  :base: Regicide Mask
+  :isUnique: true
 - :name: Great Old One's Ward
   :base: Corrugated Buckler
   :isUnique: true
 - :name: Greed's Embrace
   :base: Golden Plate
+  :isUnique: true
+- :name: Greedtrap
+  :base: Velvet Slippers
   :isUnique: true
 - :name: Grip of the Council
   :base: Arcanist Gloves
@@ -1865,15 +944,9 @@
 - :name: Gruthkul's Pelt
   :base: Wyrmscale Doublet
   :isUnique: true
-- :name: 
-  :base: Thorium Spirit Shield
-  :isUnique: false
 - :name: Haemophilia
   :base: Serpentscale Gauntlets
   :isUnique: true
-- :name: 
-  :base: Assassin's Mitts
-  :isUnique: false
 - :name: Heatshiver
   :base: Leather Hood
   :isUnique: true
@@ -1883,9 +956,6 @@
 - :name: Heretic's Veil
   :base: Deicide Mask
   :isUnique: true
-- :name: 
-  :base: Titan Greaves
-  :isUnique: false
 - :name: Honourhome
   :base: Soldier Helmet
   :isUnique: true
@@ -1901,6 +971,9 @@
 - :name: Hyrri's Bite
   :base: Sharktooth Arrow Quiver
   :isUnique: true
+- :name: Hyrri's Demise
+  :base: Sharktooth Arrow Quiver
+  :isUnique: true
 - :name: Hyrri's Ire
   :base: Zodiac Leather
   :isUnique: true
@@ -1909,6 +982,9 @@
   :isUnique: true
 - :name: Incandescent Heart
   :base: Saintly Chainmail
+  :isUnique: true
+- :name: Indigon
+  :base: Hubris Circlet
   :isUnique: true
 - :name: Infernal Mantle
   :base: Widowsilk Robe
@@ -1991,6 +1067,9 @@
 - :name: Magna Eclipsis
   :base: Pinnacle Tower Shield
   :isUnique: true
+- :name: Malachai's Awakening
+  :base: Iron Mask
+  :isUnique: true
 - :name: Malachai's Loop
   :base: Harmonic Spirit Shield
   :isUnique: true
@@ -2011,6 +1090,9 @@
   :isUnique: true
 - :name: Maloney's Nightfall
   :base: Blunt Arrow Quiver
+  :isUnique: true
+- :name: Mark of the Red Covenant
+  :base: Tribal Circlet
   :isUnique: true
 - :name: Martyr's Crown
   :base: Vine Circlet
@@ -2051,27 +1133,15 @@
 - :name: Victario's Flight
   :base: Goathide Boots
   :isUnique: true
-- :name: 
-  :base: Baroque Round Shield
-  :isUnique: false
 - :name: Oskarm
   :base: Nubuck Gloves
   :isUnique: true
-- :name: 
-  :base: Destiny Leather
-  :isUnique: false
-- :name: 
-  :base: Astral Plate
-  :isUnique: false
 - :name: Prism Guardian
   :base: Archon Kite Shield
   :isUnique: true
 - :name: Queen of the Forest
   :base: Destiny Leather
   :isUnique: true
-- :name: 
-  :base: Ironscale Boots
-  :isUnique: false
 - :name: Rainbowstride
   :base: Conjurer Boots
   :isUnique: true
@@ -2117,6 +1187,18 @@
 - :name: Saffell's Frame
   :base: Branded Kite Shield
   :isUnique: true
+- :name: Saqawal's Flock
+  :base: Silken Hood
+  :isUnique: true
+- :name: Saqawal's Nest
+  :base: Blood Raiment
+  :isUnique: true
+- :name: Saqawal's Talons
+  :base: Hydrascale Boots
+  :isUnique: true
+- :name: Saqawal's Winds
+  :base: Soldier Gloves
+  :isUnique: true
 - :name: Scold's Bridle
   :base: Mind Cage
   :isUnique: true
@@ -2144,9 +1226,6 @@
 - :name: Shavronne's Wrappings
   :base: Occultist's Vestment
   :isUnique: true
-- :name: 
-  :base: Silken Hood
-  :isUnique: false
 - :name: Shroud of the Lightless
   :base: Carnal Armour
   :isUnique: true
@@ -2202,6 +1281,9 @@
   :base: Plated Greaves
   :isUnique: true
 - :name: Sundance
+  :base: Clasped Boots
+  :isUnique: true
+- :name: Sunspite
   :base: Clasped Boots
   :isUnique: true
 - :name: Surgebinders
@@ -2360,6 +1442,9 @@
 - :name: Voidbringer
   :base: Conjurer Gloves
   :isUnique: true
+- :name: Voidfletcher
+  :base: Penetrating Arrow Quiver
+  :isUnique: true
 - :name: Voidwalker
   :base: Murder Boots
   :isUnique: true
@@ -2384,7 +1469,13 @@
 - :name: Wheel of the Stormsail
   :base: Rotted Round Shield
   :isUnique: true
+- :name: Wildwrap
+  :base: Strapped Leather
+  :isUnique: true
 - :name: Windscream
+  :base: Reinforced Greaves
+  :isUnique: true
+- :name: Windshriek
   :base: Reinforced Greaves
   :isUnique: true
 - :name: Winds of Change
@@ -2425,6 +1516,9 @@
   :isUnique: false
 - :name: 
   :base: Sharkskin Tunic
+  :isUnique: false
+- :name: 
+  :base: Destiny Leather
   :isUnique: false
 - :name: 
   :base: Exquisite Leather
@@ -2479,6 +1573,9 @@
   :isUnique: false
 - :name: 
   :base: Blood Raiment
+  :isUnique: false
+- :name: 
+  :base: Sadist Garb
   :isUnique: false
 - :name: 
   :base: Carnal Armour
@@ -2571,7 +1668,13 @@
   :base: Majestic Plate
   :isUnique: false
 - :name: 
+  :base: Golden Plate
+  :isUnique: false
+- :name: 
   :base: Crusader Plate
+  :isUnique: false
+- :name: 
+  :base: Astral Plate
   :isUnique: false
 - :name: 
   :base: Gladiator Plate
@@ -2766,6 +1869,9 @@
   :base: Assassin's Boots
   :isUnique: false
 - :name: 
+  :base: Murder Boots
+  :isUnique: false
+- :name: 
   :base: Wool Shoes
   :isUnique: false
 - :name: 
@@ -2817,7 +1923,13 @@
   :base: Vaal Greaves
   :isUnique: false
 - :name: 
+  :base: Titan Greaves
+  :isUnique: false
+- :name: 
   :base: Leatherscale Boots
+  :isUnique: false
+- :name: 
+  :base: Ironscale Boots
   :isUnique: false
 - :name: 
   :base: Bronzescale Boots
@@ -2833,6 +1945,9 @@
   :isUnique: false
 - :name: 
   :base: Hydrascale Boots
+  :isUnique: false
+- :name: 
+  :base: Dragonscale Boots
   :isUnique: false
 - :name: 
   :base: Chain Boots
@@ -2914,6 +2029,9 @@
   :isUnique: false
 - :name: 
   :base: Carnal Mitts
+  :isUnique: false
+- :name: 
+  :base: Assassin's Mitts
   :isUnique: false
 - :name: 
   :base: Murder Mitts
@@ -3018,6 +2136,9 @@
   :base: Legion Gloves
   :isUnique: false
 - :name: 
+  :base: Crusader Gloves
+  :isUnique: false
+- :name: 
   :base: Bone Helmet
   :isUnique: false
 - :name: 
@@ -3043,6 +2164,9 @@
   :isUnique: false
 - :name: 
   :base: Ursine Pelt
+  :isUnique: false
+- :name: 
+  :base: Silken Hood
   :isUnique: false
 - :name: 
   :base: Sinner Tricorne
@@ -3148,6 +2272,9 @@
   :isUnique: false
 - :name: 
   :base: Battered Helm
+  :isUnique: false
+- :name: 
+  :base: Nightmare Bascinet
   :isUnique: false
 - :name: 
   :base: Sallet
@@ -3303,6 +2430,9 @@
   :base: Chiming Spirit Shield
   :isUnique: false
 - :name: 
+  :base: Thorium Spirit Shield
+  :isUnique: false
+- :name: 
   :base: Lacewood Spirit Shield
   :isUnique: false
 - :name: 
@@ -3328,6 +2458,9 @@
   :isUnique: false
 - :name: 
   :base: Jingling Spirit Shield
+  :isUnique: false
+- :name: 
+  :base: Brass Spirit Shield
   :isUnique: false
 - :name: 
   :base: Walnut Spirit Shield
@@ -3426,6 +2559,9 @@
   :base: Crimson Round Shield
   :isUnique: false
 - :name: 
+  :base: Baroque Round Shield
+  :isUnique: false
+- :name: 
   :base: Plank Kite Shield
   :isUnique: false
 - :name: 
@@ -3433,6 +2569,9 @@
   :isUnique: false
 - :name: 
   :base: Champion Kite Shield
+  :isUnique: false
+- :name: 
+  :base: Mosaic Kite Shield
   :isUnique: false
 - :name: 
   :base: Archon Kite Shield
@@ -3492,595 +2631,1429 @@
   :base: Serrated Arrow Quiver
   :isUnique: false
 - :name: 
+  :base: Two-Point Arrow Quiver
+  :isUnique: false
+- :name: 
+  :base: Sharktooth Arrow Quiver
+  :isUnique: false
+- :name: 
   :base: Blunt Arrow Quiver
   :isUnique: false
 - :name: 
-  :base: Onyx Amulet
+  :base: Abandoned Wealth
   :isUnique: false
-- :name: Andvarius
-  :base: Gold Ring
+- :name: 
+  :base: A Mother's Parting Gift
+  :isUnique: false
+- :name: 
+  :base: Anarchy's Price
+  :isUnique: false
+- :name: 
+  :base: Assassin's Favour
+  :isUnique: false
+- :name: 
+  :base: Atziri's Arsenal
+  :isUnique: false
+- :name: 
+  :base: Audacity
+  :isUnique: false
+- :name: 
+  :base: Birth of the Three
+  :isUnique: false
+- :name: 
+  :base: Blessing of God
+  :isUnique: false
+- :name: 
+  :base: Blind Venture
+  :isUnique: false
+- :name: 
+  :base: Boundless Realms
+  :isUnique: false
+- :name: 
+  :base: Bowyer's Dream
+  :isUnique: false
+- :name: 
+  :base: Call to the First Ones
+  :isUnique: false
+- :name: 
+  :base: Cartographer's Delight
+  :isUnique: false
+- :name: 
+  :base: Chaotic Disposition
+  :isUnique: false
+- :name: 
+  :base: Coveted Possession
+  :isUnique: false
+- :name: 
+  :base: Death
+  :isUnique: false
+- :name: 
+  :base: Destined to Crumble
+  :isUnique: false
+- :name: 
+  :base: Dialla's Subjugation
+  :isUnique: false
+- :name: 
+  :base: Doedre's Madness
+  :isUnique: false
+- :name: 
+  :base: Dying Anguish
+  :isUnique: false
+- :name: 
+  :base: Earth Drinker
+  :isUnique: false
+- :name: 
+  :base: Emperor of Purity
+  :isUnique: false
+- :name: 
+  :base: Emperor's Luck
+  :isUnique: false
+- :name: 
+  :base: Forbidden Power
+  :isUnique: false
+- :name: 
+  :base: Gemcutter's Promise
+  :isUnique: false
+- :name: 
+  :base: Gift of the Gemling Queen
+  :isUnique: false
+- :name: 
+  :base: Glimmer of Hope
+  :isUnique: false
+- :name: 
+  :base: Grave Knowledge
+  :isUnique: false
+- :name: 
+  :base: Her Mask
+  :isUnique: false
+- :name: 
+  :base: Heterochromia
+  :isUnique: false
+- :name: 
+  :base: Hope
+  :isUnique: false
+- :name: 
+  :base: House of Mirrors
+  :isUnique: false
+- :name: 
+  :base: Hubris
+  :isUnique: false
+- :name: 
+  :base: Humility
+  :isUnique: false
+- :name: 
+  :base: Hunter's Resolve
+  :isUnique: false
+- :name: 
+  :base: Hunter's Reward
+  :isUnique: false
+- :name: 
+  :base: Jack in the Box
+  :isUnique: false
+- :name: 
+  :base: Lantador's Lost Love
+  :isUnique: false
+- :name: 
+  :base: Last Hope
+  :isUnique: false
+- :name: 
+  :base: Left to Fate
+  :isUnique: false
+- :name: 
+  :base: Light and Truth
+  :isUnique: false
+- :name: 
+  :base: Lingering Remnants
+  :isUnique: false
+- :name: 
+  :base: Lost Worlds
+  :isUnique: false
+- :name: 
+  :base: Loyalty
+  :isUnique: false
+- :name: 
+  :base: Lucky Connections
+  :isUnique: false
+- :name: 
+  :base: Lucky Deck
+  :isUnique: false
+- :name: 
+  :base: Lysah's Respite
+  :isUnique: false
+- :name: 
+  :base: Mawr Blaidd
+  :isUnique: false
+- :name: 
+  :base: Merciless Armament
+  :isUnique: false
+- :name: 
+  :base: Might is Right
+  :isUnique: false
+- :name: 
+  :base: Mitts
+  :isUnique: false
+- :name: 
+  :base: No Traces
+  :isUnique: false
+- :name: 
+  :base: Pride Before the Fall
+  :isUnique: false
+- :name: 
+  :base: Prosperity
+  :isUnique: false
+- :name: 
+  :base: Rain of Chaos
+  :isUnique: false
+- :name: 
+  :base: Rain Tempter
+  :isUnique: false
+- :name: 
+  :base: Rats
+  :isUnique: false
+- :name: 
+  :base: Rebirth
+  :isUnique: false
+- :name: 
+  :base: Scholar of the Seas
+  :isUnique: false
+- :name: 
+  :base: Shard of Fate
+  :isUnique: false
+- :name: 
+  :base: Struck by Lightning
+  :isUnique: false
+- :name: 
+  :base: The Aesthete
+  :isUnique: false
+- :name: 
+  :base: The Arena Champion
+  :isUnique: false
+- :name: 
+  :base: The Artist
+  :isUnique: false
+- :name: 
+  :base: The Avenger
+  :isUnique: false
+- :name: 
+  :base: The Battle Born
+  :isUnique: false
+- :name: 
+  :base: The Betrayal
+  :isUnique: false
+- :name: 
+  :base: The Blazing Fire
+  :isUnique: false
+- :name: 
+  :base: The Body
+  :isUnique: false
+- :name: 
+  :base: The Breach
+  :isUnique: false
+- :name: 
+  :base: The Brittle Emperor
+  :isUnique: false
+- :name: 
+  :base: The Calling
+  :isUnique: false
+- :name: 
+  :base: The Carrion Crow
+  :isUnique: false
+- :name: 
+  :base: The Cartographer
+  :isUnique: false
+- :name: 
+  :base: The Cataclysm
+  :isUnique: false
+- :name: 
+  :base: The Catalyst
+  :isUnique: false
+- :name: 
+  :base: The Celestial Justicar
+  :isUnique: false
+- :name: 
+  :base: The Chains that Bind
+  :isUnique: false
+- :name: 
+  :base: The Coming Storm
+  :isUnique: false
+- :name: 
+  :base: The Conduit
+  :isUnique: false
+- :name: 
+  :base: The Cursed King
+  :isUnique: false
+- :name: 
+  :base: The Dapper Prodigy
+  :isUnique: false
+- :name: 
+  :base: The Dark Mage
+  :isUnique: false
+- :name: 
+  :base: The Deceiver
+  :isUnique: false
+- :name: 
+  :base: The Demoness
+  :isUnique: false
+- :name: 
+  :base: The Doctor
+  :isUnique: false
+- :name: 
+  :base: The Doppelganger
+  :isUnique: false
+- :name: 
+  :base: The Dragon
+  :isUnique: false
+- :name: 
+  :base: The Dragon's Heart
+  :isUnique: false
+- :name: 
+  :base: The Dreamer
+  :isUnique: false
+- :name: 
+  :base: The Drunken Aristocrat
+  :isUnique: false
+- :name: 
+  :base: The Encroaching Darkness
+  :isUnique: false
+- :name: 
+  :base: The Endurance
+  :isUnique: false
+- :name: 
+  :base: The Enlightened
+  :isUnique: false
+- :name: 
+  :base: The Ethereal
+  :isUnique: false
+- :name: 
+  :base: The Explorer
+  :isUnique: false
+- :name: 
+  :base: The Eye of the Dragon
+  :isUnique: false
+- :name: 
+  :base: The Feast
+  :isUnique: false
+- :name: 
+  :base: The Fiend
+  :isUnique: false
+- :name: 
+  :base: The Fletcher
+  :isUnique: false
+- :name: 
+  :base: The Flora's Gift
+  :isUnique: false
+- :name: 
+  :base: The Formless Sea
+  :isUnique: false
+- :name: 
+  :base: The Forsaken
+  :isUnique: false
+- :name: 
+  :base: The Fox
+  :isUnique: false
+- :name: 
+  :base: The Gambler
+  :isUnique: false
+- :name: 
+  :base: The Garish Power
+  :isUnique: false
+- :name: 
+  :base: The Gemcutter
+  :isUnique: false
+- :name: 
+  :base: The Gentleman
+  :isUnique: false
+- :name: 
+  :base: The Gladiator
+  :isUnique: false
+- :name: 
+  :base: The Harvester
+  :isUnique: false
+- :name: 
+  :base: The Hermit
+  :isUnique: false
+- :name: 
+  :base: The Hoarder
+  :isUnique: false
+- :name: 
+  :base: The Hunger
+  :isUnique: false
+- :name: 
+  :base: The Immortal
+  :isUnique: false
+- :name: 
+  :base: The Incantation
+  :isUnique: false
+- :name: 
+  :base: The Inoculated
+  :isUnique: false
+- :name: 
+  :base: The Insatiable
+  :isUnique: false
+- :name: 
+  :base: The Inventor
+  :isUnique: false
+- :name: 
+  :base: The Iron Bard
+  :isUnique: false
+- :name: 
+  :base: The Jester
+  :isUnique: false
+- :name: 
+  :base: The King's Blade
+  :isUnique: false
+- :name: 
+  :base: The King's Heart
+  :isUnique: false
+- :name: 
+  :base: The Last One Standing
+  :isUnique: false
+- :name: 
+  :base: The Lich
+  :isUnique: false
+- :name: 
+  :base: The Lion
+  :isUnique: false
+- :name: 
+  :base: The Lord in Black
+  :isUnique: false
+- :name: 
+  :base: The Lover
+  :isUnique: false
+- :name: 
+  :base: The Lunaris Priestess
+  :isUnique: false
+- :name: 
+  :base: The Mercenary
+  :isUnique: false
+- :name: 
+  :base: The Metalsmith's Gift
+  :isUnique: false
+- :name: 
+  :base: The Oath
+  :isUnique: false
+- :name: 
+  :base: The Obscured
+  :isUnique: false
+- :name: 
+  :base: The Offering
+  :isUnique: false
+- :name: 
+  :base: The One With All
+  :isUnique: false
+- :name: 
+  :base: The Opulent
+  :isUnique: false
+- :name: 
+  :base: The Pack Leader
+  :isUnique: false
+- :name: 
+  :base: The Pact
+  :isUnique: false
+- :name: 
+  :base: The Penitent
+  :isUnique: false
+- :name: 
+  :base: The Poet
+  :isUnique: false
+- :name: 
+  :base: The Polymath
+  :isUnique: false
+- :name: 
+  :base: The Porcupine
+  :isUnique: false
+- :name: 
+  :base: The Puzzle
+  :isUnique: false
+- :name: 
+  :base: The Queen
+  :isUnique: false
+- :name: 
+  :base: The Rabid Rhoa
+  :isUnique: false
+- :name: 
+  :base: The Realm
+  :isUnique: false
+- :name: 
+  :base: The Risk
+  :isUnique: false
+- :name: 
+  :base: The Road to Power
+  :isUnique: false
+- :name: 
+  :base: The Ruthless Ceinture
+  :isUnique: false
+- :name: 
+  :base: The Saint's Treasure
+  :isUnique: false
+- :name: 
+  :base: The Scarred Meadow
+  :isUnique: false
+- :name: 
+  :base: The Scavenger
+  :isUnique: false
+- :name: 
+  :base: The Scholar
+  :isUnique: false
+- :name: 
+  :base: The Sephirot
+  :isUnique: false
+- :name: 
+  :base: The Sigil
+  :isUnique: false
+- :name: 
+  :base: The Siren
+  :isUnique: false
+- :name: 
+  :base: The Soul
+  :isUnique: false
+- :name: 
+  :base: The Spark and the Flame
+  :isUnique: false
+- :name: 
+  :base: The Spoiled Prince
+  :isUnique: false
+- :name: 
+  :base: The Standoff
+  :isUnique: false
+- :name: 
+  :base: The Stormcaller
+  :isUnique: false
+- :name: 
+  :base: The Summoner
+  :isUnique: false
+- :name: 
+  :base: The Sun
+  :isUnique: false
+- :name: 
+  :base: The Surgeon
+  :isUnique: false
+- :name: 
+  :base: The Surveyor
+  :isUnique: false
+- :name: 
+  :base: The Survivalist
+  :isUnique: false
+- :name: 
+  :base: The Thaumaturgist
+  :isUnique: false
+- :name: 
+  :base: The Throne
+  :isUnique: false
+- :name: 
+  :base: The Tower
+  :isUnique: false
+- :name: 
+  :base: The Traitor
+  :isUnique: false
+- :name: 
+  :base: The Trial
+  :isUnique: false
+- :name: 
+  :base: The Twins
+  :isUnique: false
+- :name: 
+  :base: The Tyrant
+  :isUnique: false
+- :name: 
+  :base: The Union
+  :isUnique: false
+- :name: 
+  :base: The Valkyrie
+  :isUnique: false
+- :name: 
+  :base: The Valley of Steel Boxes
+  :isUnique: false
+- :name: 
+  :base: The Vast
+  :isUnique: false
+- :name: 
+  :base: The Visionary
+  :isUnique: false
+- :name: 
+  :base: The Void
+  :isUnique: false
+- :name: 
+  :base: The Warden
+  :isUnique: false
+- :name: 
+  :base: The Warlord
+  :isUnique: false
+- :name: 
+  :base: The Watcher
+  :isUnique: false
+- :name: 
+  :base: The Web
+  :isUnique: false
+- :name: 
+  :base: The Wind
+  :isUnique: false
+- :name: 
+  :base: The Wolf
+  :isUnique: false
+- :name: 
+  :base: The Wolf's Shadow
+  :isUnique: false
+- :name: 
+  :base: The Wolven King's Bite
+  :isUnique: false
+- :name: 
+  :base: The Wolverine
+  :isUnique: false
+- :name: 
+  :base: The World Eater
+  :isUnique: false
+- :name: 
+  :base: The Wrath
+  :isUnique: false
+- :name: 
+  :base: The Wretched
+  :isUnique: false
+- :name: 
+  :base: Three Faces in the Dark
+  :isUnique: false
+- :name: 
+  :base: Thunderous Skies
+  :isUnique: false
+- :name: 
+  :base: Time-Lost Relic
+  :isUnique: false
+- :name: 
+  :base: Tranquillity
+  :isUnique: false
+- :name: 
+  :base: Treasure Hunter
+  :isUnique: false
+- :name: 
+  :base: Turn the Other Cheek
+  :isUnique: false
+- :name: 
+  :base: Vinia's Token
+  :isUnique: false
+- :name: 
+  :base: Volatile Power
+  :isUnique: false
+- :name: 
+  :base: Wealth and Power
+  :isUnique: false
+- :name: First Piece of the Arcane
+  :base: Legion Sword Piece
+  :isUnique: true
+- :name: First Piece of Brutality
+  :base: Imperial Staff Piece
+  :isUnique: true
+- :name: First Piece of Directions
+  :base: Blunt Arrow Quiver Piece
+  :isUnique: true
+- :name: First Piece of Focus
+  :base: Archon Kite Shield Piece
+  :isUnique: true
+- :name: First Piece of Storms
+  :base: Callous Mask Piece
+  :isUnique: true
+- :name: First Piece of Time
+  :base: Cloth Belt Piece
+  :isUnique: true
+- :name: Fourth Piece of Focus
+  :base: Archon Kite Shield Piece
+  :isUnique: true
+- :name: Second Piece of the Arcane
+  :base: Legion Sword Piece
   :isUnique: true
-- :name: Angler's Plait
-  :base: Unset Ring
+- :name: Second Piece of Brutality
+  :base: Imperial Staff Piece
   :isUnique: true
-- :name: Araku Tiki
-  :base: Coral Amulet
+- :name: Second Piece of Directions
+  :base: Blunt Arrow Quiver Piece
   :isUnique: true
-- :name: Ascent From Flesh
-  :base: Chain Belt
+- :name: Second Piece of Focus
+  :base: Archon Kite Shield Piece
   :isUnique: true
-- :name: Astramentis
-  :base: Onyx Amulet
+- :name: Second Piece of Storms
+  :base: Callous Mask Piece
   :isUnique: true
-- :name: Atziri's Foible
-  :base: Paua Amulet
+- :name: Second Piece of Time
+  :base: Cloth Belt Piece
   :isUnique: true
-- :name: Auxium
-  :base: Chain Belt
+- :name: Third Piece of the Arcane
+  :base: Legion Sword Piece
   :isUnique: true
-- :name: Bated Breath
-  :base: Chain Belt
+- :name: Third Piece of Brutality
+  :base: Imperial Staff Piece
   :isUnique: true
+- :name: Third Piece of Directions
+  :base: Blunt Arrow Quiver Piece
+  :isUnique: true
+- :name: Third Piece of Focus
+  :base: Archon Kite Shield Piece
+  :isUnique: true
+- :name: Third Piece of Storms
+  :base: Callous Mask Piece
+  :isUnique: true
+- :name: 
+  :base: Simple Rope Net
+  :isUnique: false
+- :name: 
+  :base: Thaumaturgical Net
+  :isUnique: false
+- :name: 
+  :base: Reinforced Rope Net
+  :isUnique: false
+- :name: 
+  :base: Strong Rope Net
+  :isUnique: false
+- :name: 
+  :base: Simple Iron Net
+  :isUnique: false
+- :name: 
+  :base: Reinforced Iron Net
+  :isUnique: false
+- :name: 
+  :base: Strong Iron Net
+  :isUnique: false
+- :name: 
+  :base: Simple Steel Net
+  :isUnique: false
+- :name: 
+  :base: Reinforced Steel Net
+  :isUnique: false
+- :name: 
+  :base: Strong Steel Net
+  :isUnique: false
+- :name: 
+  :base: Apprentice Cartographer's Sextant
+  :isUnique: false
+- :name: 
+  :base: Master Cartographer's Sextant
+  :isUnique: false
+- :name: 
+  :base: Journeyman Cartographer's Sextant
+  :isUnique: false
+- :name: 
+  :base: Orb of Augmentation
+  :isUnique: false
+- :name: 
+  :base: Exalted Orb
+  :isUnique: false
+- :name: 
+  :base: Exalted Shard
+  :isUnique: false
+- :name: 
+  :base: Armourer's Scrap
+  :isUnique: false
+- :name: 
+  :base: Splinter of Chayula
+  :isUnique: false
+- :name: 
+  :base: Splinter of Tul
+  :isUnique: false
+- :name: 
+  :base: Splinter of Xoph
+  :isUnique: false
+- :name: 
+  :base: Splinter of Esh
+  :isUnique: false
+- :name: 
+  :base: Splinter of Uul-Netol
+  :isUnique: false
+- :name: 
+  :base: Blessing of Chayula
+  :isUnique: false
+- :name: 
+  :base: Blessing of Tul
+  :isUnique: false
+- :name: 
+  :base: Blessing of Xoph
+  :isUnique: false
+- :name: 
+  :base: Blessing of Esh
+  :isUnique: false
+- :name: 
+  :base: Blessing of Uul-Netol
+  :isUnique: false
+- :name: 
+  :base: Orb of Scouring
+  :isUnique: false
+- :name: 
+  :base: Vaal Orb
+  :isUnique: false
+- :name: 
+  :base: Remnant of Corruption
+  :isUnique: false
+- :name: 
+  :base: Mirror of Kalandra
+  :isUnique: false
+- :name: 
+  :base: Mirror Shard
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Anger
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Anger
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Anger
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Anger
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Anger
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Anger
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Anguish
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Anguish
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Anguish
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Anguish
+  :isUnique: false
+- :name: 
+  :base: Whispering Essence of Contempt
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Contempt
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Contempt
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Contempt
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Contempt
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Contempt
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Contempt
+  :isUnique: false
+- :name: 
+  :base: Essence of Delirium
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Doubt
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Doubt
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Doubt
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Doubt
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Doubt
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Dread
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Dread
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Dread
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Envy
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Envy
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Envy
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Fear
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Fear
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Fear
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Fear
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Fear
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Fear
+  :isUnique: false
+- :name: 
+  :base: Whispering Essence of Greed
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Greed
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Greed
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Greed
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Greed
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Greed
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Greed
+  :isUnique: false
+- :name: 
+  :base: Whispering Essence of Hatred
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Hatred
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Hatred
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Hatred
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Hatred
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Hatred
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Hatred
+  :isUnique: false
+- :name: 
+  :base: Essence of Horror
+  :isUnique: false
+- :name: 
+  :base: Essence of Hysteria
+  :isUnique: false
+- :name: 
+  :base: Essence of Insanity
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Loathing
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Loathing
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Loathing
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Loathing
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Misery
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Misery
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Misery
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Rage
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Rage
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Rage
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Rage
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Rage
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Scorn
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Scorn
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Scorn
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Sorrow
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Spite
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Spite
+  :isUnique: false
 - :name: 
-  :base: Amber Amulet
+  :base: Shrieking Essence of Spite
   :isUnique: false
-- :name: Belt of the Deceiver
-  :base: Heavy Belt
-  :isUnique: true
-- :name: Berek's Grip
-  :base: Two-Stone Ring
-  :isUnique: true
-- :name: Berek's Pass
-  :base: Two-Stone Ring
-  :isUnique: true
-- :name: Berek's Respite
-  :base: Two-Stone Ring
-  :isUnique: true
-- :name: Bisco's Collar
-  :base: Gold Amulet
-  :isUnique: true
-- :name: Bisco's Leash
-  :base: Heavy Belt
-  :isUnique: true
-- :name: Blackheart
-  :base: Iron Ring
-  :isUnique: true
-- :name: Blightwell
-  :base: Clutching Talisman
-  :isUnique: true
-- :name: Bloodboil
-  :base: Coral Ring
-  :isUnique: true
-- :name: Bloodgrip
-  :base: Marble Amulet
-  :isUnique: true
-- :name: Bloodgrip
-  :base: Coral Amulet
-  :isUnique: true
-- :name: Blood of Corruption
-  :base: Amber Amulet
-  :isUnique: true
-- :name: Brinerot Mark
-  :base: Unset Ring
-  :isUnique: true
-- :name: Call of the Brotherhood
-  :base: Two-Stone Ring
-  :isUnique: true
-- :name: Carnage Heart
-  :base: Onyx Amulet
-  :isUnique: true
 - :name: 
-  :base: Agate Amulet
+  :base: Deafening Essence of Spite
   :isUnique: false
-- :name: Choir of the Storm
-  :base: Lapis Amulet
-  :isUnique: true
 - :name: 
-  :base: Lapis Amulet
+  :base: Weeping Essence of Suffering
   :isUnique: false
-- :name: Cyclopean Coil
-  :base: Leather Belt
-  :isUnique: true
-- :name: Daresso's Salute
-  :base: Citrine Amulet
-  :isUnique: true
-- :name: Darkness Enthroned
-  :base: Stygian Vise
-  :isUnique: true
-- :name: Death Rush
-  :base: Amethyst Ring
-  :isUnique: true
-- :name: Demigod's Bounty
-  :base: Golden Obi
-  :isUnique: true
-- :name: Demigod's Eye
-  :base: Golden Hoop
-  :isUnique: true
-- :name: Demigod's Presence
-  :base: Gold Amulet
-  :isUnique: true
-- :name: Doedre's Damning
-  :base: Paua Ring
-  :isUnique: true
-- :name: Doryani's Invitation
-  :base: Heavy Belt
-  :isUnique: true
-- :name: Dream Fragments
-  :base: Sapphire Ring
-  :isUnique: true
-- :name: Dyadian Dawn
-  :base: Heavy Belt
-  :isUnique: true
-- :name: Emberwake
-  :base: Ruby Ring
-  :isUnique: true
-- :name: Essence Worm
-  :base: Unset Ring
-  :isUnique: true
-- :name: Extractor Mentis
-  :base: Agate Amulet
-  :isUnique: true
-- :name: Eye of Chayula
-  :base: Onyx Amulet
-  :isUnique: true
-- :name: Eye of Innocence
-  :base: Citrine Amulet
-  :isUnique: true
-- :name: Eyes of the Greatwolf
-  :base: Greatwolf Talisman
-  :isUnique: true
-- :name: Faminebind
-  :base: Rustic Sash
-  :isUnique: true
-- :name: Feastbind
-  :base: Rustic Sash
-  :isUnique: true
 - :name: 
-  :base: Leather Belt
+  :base: Wailing Essence of Suffering
   :isUnique: false
-- :name: Gifts from Above
-  :base: Diamond Ring
-  :isUnique: true
-- :name: Gloomfang
-  :base: Blue Pearl Amulet
-  :isUnique: true
-- :name: Hallowed Ground
-  :base: Unset Ring
-  :isUnique: true
-- :name: Headhunter
-  :base: Leather Belt
-  :isUnique: true
-- :name: Heartbound Loop
-  :base: Moonstone Ring
-  :isUnique: true
-- :name: Hinekora's Sight
-  :base: Onyx Amulet
-  :isUnique: true
-- :name: Immortal Flesh
-  :base: Leather Belt
-  :isUnique: true
-- :name: Impresence
-  :base: Onyx Amulet
-  :isUnique: true
-- :name: Kaom's Sign
-  :base: Coral Ring
-  :isUnique: true
-- :name: Kaom's Way
-  :base: Coral Ring
-  :isUnique: true
-- :name: Karui Charge
-  :base: Jade Amulet
-  :isUnique: true
-- :name: Karui Ward
-  :base: Jade Amulet
-  :isUnique: true
-- :name: Kikazaru
-  :base: Topaz Ring
-  :isUnique: true
-- :name: Le Heup of All
-  :base: Iron Ring
-  :isUnique: true
-- :name: Lori's Lantern
-  :base: Prismatic Ring
-  :isUnique: true
-- :name: Malachai's Artifice
-  :base: Unset Ring
-  :isUnique: true
-- :name: Maligaro's Cruelty
-  :base: Turquoise Amulet
-  :isUnique: true
-- :name: Maligaro's Restraint
-  :base: Chain Belt
-  :isUnique: true
-- :name: Marylene's Fallacy
-  :base: Lapis Amulet
-  :isUnique: true
-- :name: Meginord's Girdle
-  :base: Heavy Belt
-  :isUnique: true
-- :name: Ming's Heart
-  :base: Amethyst Ring
-  :isUnique: true
-- :name: Mokou's Embrace
-  :base: Ruby Ring
-  :isUnique: true
-- :name: Mutewind Seal
-  :base: Unset Ring
-  :isUnique: true
-- :name: Natural Hierarchy
-  :base: Rotfeather Talisman
-  :isUnique: true
-- :name: Ngamahu's Sign
-  :base: Ruby Ring
-  :isUnique: true
-- :name: Ngamahu Tiki
-  :base: Coral Amulet
-  :isUnique: true
-- :name: Night's Hold
-  :base: Black Maw Talisman
-  :isUnique: true
-- :name: Perandus Blazon
-  :base: Cloth Belt
-  :isUnique: true
-- :name: Perandus Signet
-  :base: Paua Ring
-  :isUnique: true
-- :name: Perseverance
-  :base: Vanguard Belt
-  :isUnique: true
-- :name: Praxis
-  :base: Paua Ring
-  :isUnique: true
-- :name: Presence of Chayula
-  :base: Onyx Amulet
-  :isUnique: true
-- :name: Prismweave
-  :base: Rustic Sash
-  :isUnique: true
-- :name: Pyre
-  :base: Sapphire Ring
-  :isUnique: true
-- :name: Rashkaldor's Patience
-  :base: Jade Amulet
-  :isUnique: true
-- :name: Redblade Band
-  :base: Unset Ring
-  :isUnique: true
-- :name: Rigwald's Crest
-  :base: Two-Stone Ring
-  :isUnique: true
-- :name: Rigwald's Curse
-  :base: Wereclaw Talisman
-  :isUnique: true
-- :name: Romira's Banquet
-  :base: Diamond Ring
-  :isUnique: true
-- :name: Ryslatha's Coil
-  :base: Studded Belt
-  :isUnique: true
-- :name: Shaper's Seed
-  :base: Agate Amulet
-  :isUnique: true
-- :name: Shavronne's Revelation
-  :base: Moonstone Ring
-  :isUnique: true
-- :name: Sibyl's Lament
-  :base: Coral Ring
-  :isUnique: true
-- :name: Sidhebreath
-  :base: Paua Amulet
-  :isUnique: true
-- :name: Snakepit
-  :base: Sapphire Ring
-  :isUnique: true
-- :name: Soul Tether
-  :base: Cloth Belt
-  :isUnique: true
-- :name: Soulthirst
-  :base: Cloth Belt
-  :isUnique: true
-- :name: Star of Wraeclast
-  :base: Ruby Amulet
-  :isUnique: true
-- :name: Stone of Lazhwar
-  :base: Lapis Amulet
-  :isUnique: true
-- :name: Sunblast
-  :base: Cloth Belt
-  :isUnique: true
-- :name: Talisman of the Victor
-  :base: Jet Amulet
-  :isUnique: true
-- :name: Tasalio's Sign
-  :base: Sapphire Ring
-  :isUnique: true
-- :name: Tear of Purity
-  :base: Lapis Amulet
-  :isUnique: true
-- :name: The Anvil
-  :base: Amber Amulet
-  :isUnique: true
-- :name: The Ascetic
-  :base: Gold Amulet
-  :isUnique: true
-- :name: The Aylardex
-  :base: Agate Amulet
-  :isUnique: true
-- :name: The Flow Untethered
-  :base: Cloth Belt
-  :isUnique: true
-- :name: The Halcyon
-  :base: Jade Amulet
-  :isUnique: true
-- :name: The Hungry Loop
-  :base: Unset Ring
-  :isUnique: true
-- :name: The Ignomon
-  :base: Gold Amulet
-  :isUnique: true
-- :name: The Magnate
-  :base: Studded Belt
-  :isUnique: true
-- :name: The Pandemonius
-  :base: Jade Amulet
-  :isUnique: true
-- :name: The Pariah
-  :base: Unset Ring
-  :isUnique: true
-- :name: The Retch
-  :base: Rustic Sash
-  :isUnique: true
-- :name: The Taming
-  :base: Prismatic Ring
-  :isUnique: true
-- :name: The Warden's Brand
-  :base: Iron Ring
-  :isUnique: true
-- :name: Thief's Torment
-  :base: Prismatic Ring
-  :isUnique: true
-- :name: Timeclasp
-  :base: Moonstone Ring
-  :isUnique: true
-- :name: Umbilicus Immortalis
-  :base: Leather Belt
-  :isUnique: true
-- :name: Ungil's Harmony
-  :base: Turquoise Amulet
-  :isUnique: true
-- :name: Valako's Sign
-  :base: Topaz Ring
-  :isUnique: true
-- :name: Valyrium
-  :base: Moonstone Ring
-  :isUnique: true
-- :name: Ventor's Gamble
-  :base: Gold Ring
-  :isUnique: true
-- :name: Victario's Acuity
-  :base: Turquoise Amulet
-  :isUnique: true
-- :name: Voice of the Storm
-  :base: Lapis Amulet
-  :isUnique: true
-- :name: Voideye
-  :base: Unset Ring
-  :isUnique: true
-- :name: Voidheart
-  :base: Iron Ring
-  :isUnique: true
-- :name: Voll's Devotion
-  :base: Agate Amulet
-  :isUnique: true
-- :name: Warped Timepiece
-  :base: Turquoise Amulet
-  :isUnique: true
-- :name: Winterheart
-  :base: Gold Amulet
-  :isUnique: true
-- :name: Wurm's Molt
-  :base: Leather Belt
-  :isUnique: true
-- :name: Xoph's Blood
-  :base: Amber Amulet
-  :isUnique: true
-- :name: Xoph's Heart
-  :base: Amber Amulet
-  :isUnique: true
-- :name: Yoke of Suffering
-  :base: Onyx Amulet
-  :isUnique: true
+- :name: 
+  :base: Screaming Essence of Suffering
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Suffering
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Suffering
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Torment
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Torment
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Torment
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Torment
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Torment
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Torment
+  :isUnique: false
+- :name: 
+  :base: Whispering Essence of Woe
+  :isUnique: false
+- :name: 
+  :base: Muttering Essence of Woe
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Woe
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Woe
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Woe
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Woe
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Woe
+  :isUnique: false
+- :name: 
+  :base: Weeping Essence of Wrath
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Wrath
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Wrath
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Wrath
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Wrath
+  :isUnique: false
+- :name: 
+  :base: Wailing Essence of Zeal
+  :isUnique: false
+- :name: 
+  :base: Screaming Essence of Zeal
+  :isUnique: false
+- :name: 
+  :base: Shrieking Essence of Zeal
+  :isUnique: false
+- :name: 
+  :base: Deafening Essence of Zeal
+  :isUnique: false
+- :name: 
+  :base: Glassblower's Bauble
+  :isUnique: false
+- :name: 
+  :base: Gemcutter's Prism
+  :isUnique: false
+- :name: 
+  :base: Scroll of Wisdom
+  :isUnique: false
+- :name: 
+  :base: Scroll Fragment
+  :isUnique: false
+- :name: 
+  :base: Imprint
+  :isUnique: false
+- :name: 
+  :base: Eternal Orb
+  :isUnique: false
+- :name: 
+  :base: Cartographer's Chisel
+  :isUnique: false
+- :name: 
+  :base: Divine Orb
+  :isUnique: false
+- :name: 
+  :base: Orb of Regret
+  :isUnique: false
+- :name: 
+  :base: Perandus Coin
+  :isUnique: false
+- :name: 
+  :base: Portal Scroll
+  :isUnique: false
+- :name: 
+  :base: Orb of Annulment
+  :isUnique: false
+- :name: 
+  :base: Annulment Shard
+  :isUnique: false
+- :name: 
+  :base: Blessed Orb
+  :isUnique: false
+- :name: 
+  :base: Orb of Alteration
+  :isUnique: false
+- :name: 
+  :base: Alteration Shard
+  :isUnique: false
+- :name: 
+  :base: Orb of Horizons
+  :isUnique: false
+- :name: 
+  :base: Horizon Shard
+  :isUnique: false
+- :name: 
+  :base: Chaos Orb
+  :isUnique: false
+- :name: 
+  :base: Chaos Shard
+  :isUnique: false
+- :name: 
+  :base: Chromatic Orb
+  :isUnique: false
+- :name: 
+  :base: Orb of Fusing
+  :isUnique: false
+- :name: 
+  :base: Jeweller's Orb
+  :isUnique: false
+- :name: 
+  :base: Ancient Orb
+  :isUnique: false
+- :name: 
+  :base: Ancient Shard
+  :isUnique: false
+- :name: 
+  :base: Unshaping Orb
+  :isUnique: false
+- :name: 
+  :base: Albino Rhoa Feather
+  :isUnique: false
+- :name: 
+  :base: Master Cartographer's Seal
+  :isUnique: false
+- :name: 
+  :base: Apprentice Cartographer's Seal
+  :isUnique: false
+- :name: 
+  :base: Journeyman Cartographer's Seal
+  :isUnique: false
+- :name: 
+  :base: Silver Coin
+  :isUnique: false
+- :name: 
+  :base: Engineer's Orb
+  :isUnique: false
+- :name: 
+  :base: Engineer's Shard
+  :isUnique: false
 - :name: 
-  :base: Blue Pearl Amulet
+  :base: Regal Orb
   :isUnique: false
 - :name: 
-  :base: Marble Amulet
+  :base: Regal Shard
   :isUnique: false
 - :name: 
-  :base: Jet Amulet
+  :base: Harbinger's Orb
   :isUnique: false
 - :name: 
-  :base: Paua Amulet
+  :base: Harbinger's Shard
   :isUnique: false
 - :name: 
-  :base: Citrine Amulet
+  :base: Orb of Chance
   :isUnique: false
 - :name: 
-  :base: Ruby Amulet
+  :base: Orb of Transmutation
   :isUnique: false
 - :name: 
-  :base: Coral Amulet
+  :base: Transmutation Shard
   :isUnique: false
 - :name: 
-  :base: Jade Amulet
+  :base: Orb of Alchemy
   :isUnique: false
 - :name: 
-  :base: Gold Amulet
+  :base: Orb of Binding
   :isUnique: false
 - :name: 
-  :base: Turquoise Amulet
+  :base: Binding Shard
   :isUnique: false
 - :name: 
-  :base: Black Maw Talisman
+  :base: Alchemy Shard
   :isUnique: false
 - :name: 
-  :base: Mandible Talisman
+  :base: Blacksmith's Whetstone
   :isUnique: false
 - :name: 
-  :base: Chrysalis Talisman
+  :base: Stacked Deck
   :isUnique: false
 - :name: 
-  :base: Writhing Talisman
+  :base: Cloth Belt Piece
   :isUnique: false
 - :name: 
-  :base: Bonespire Talisman
+  :base: Callous Mask Piece
   :isUnique: false
 - :name: 
-  :base: Ashscale Talisman
+  :base: Blunt Arrow Quiver Piece
   :isUnique: false
 - :name: 
-  :base: Lone Antler Talisman
+  :base: Archon Kite Shield Piece
   :isUnique: false
 - :name: 
-  :base: Deep One Talisman
+  :base: Imperial Staff Piece
   :isUnique: false
 - :name: 
-  :base: Breakrib Talisman
+  :base: Legion Sword Piece
   :isUnique: false
+- :name: Atziri's Promise
+  :base: Amethyst Flask
+  :isUnique: true
+- :name: Blood of the Karui
+  :base: Sanctified Life Flask
+  :isUnique: true
+- :name: Coralito's Signature
+  :base: Diamond Flask
+  :isUnique: true
+- :name: Coruscating Elixir
+  :base: Ruby Flask
+  :isUnique: true
+- :name: Divination Distillate
+  :base: Large Hybrid Flask
+  :isUnique: true
+- :name: Doedre's Elixir
+  :base: Greater Mana Flask
+  :isUnique: true
+- :name: Dying Sun
+  :base: Ruby Flask
+  :isUnique: true
+- :name: Forbidden Taste
+  :base: Quartz Flask
+  :isUnique: true
+- :name: Kiara's Determination
+  :base: Silver Flask
+  :isUnique: true
+- :name: Lavianga's Spirit
+  :base: Sanctified Mana Flask
+  :isUnique: true
+- :name: Lion's Roar
+  :base: Granite Flask
+  :isUnique: true
+- :name: Rotgut
+  :base: Quicksilver Flask
+  :isUnique: true
+- :name: Rumi's Concoction
+  :base: Granite Flask
+  :isUnique: true
+- :name: Sin's Rebirth
+  :base: Stibnite Flask
+  :isUnique: true
+- :name: Taste of Hate
+  :base: Sapphire Flask
+  :isUnique: true
+- :name: The Overflowing Chalice
+  :base: Sulphur Flask
+  :isUnique: true
+- :name: The Sorrow of the Divine
+  :base: Sulphur Flask
+  :isUnique: true
+- :name: The Wise Oak
+  :base: Bismuth Flask
+  :isUnique: true
+- :name: The Writhing Jar
+  :base: Hallowed Hybrid Flask
+  :isUnique: true
+- :name: Vessel of Vinktar
+  :base: Topaz Flask
+  :isUnique: true
+- :name: Witchfire Brew
+  :base: Stibnite Flask
+  :isUnique: true
+- :name: Zerphi's Last Breath
+  :base: Grand Mana Flask
+  :isUnique: true
 - :name: 
-  :base: Deadhand Talisman
+  :base: Small Hybrid Flask
   :isUnique: false
 - :name: 
-  :base: Undying Flesh Talisman
+  :base: Medium Hybrid Flask
   :isUnique: false
 - :name: 
-  :base: Rot Head Talisman
+  :base: Large Hybrid Flask
   :isUnique: false
 - :name: 
-  :base: Hexclaw Talisman
+  :base: Colossal Hybrid Flask
   :isUnique: false
 - :name: 
-  :base: Primal Skull Talisman
+  :base: Sacred Hybrid Flask
   :isUnique: false
 - :name: 
-  :base: Wereclaw Talisman
+  :base: Hallowed Hybrid Flask
   :isUnique: false
 - :name: 
-  :base: Splitnewt Talisman
+  :base: Small Life Flask
   :isUnique: false
 - :name: 
-  :base: Clutching Talisman
+  :base: Sanctified Life Flask
   :isUnique: false
 - :name: 
-  :base: Avian Twins Talisman
+  :base: Divine Life Flask
   :isUnique: false
 - :name: 
-  :base: Fangjaw Talisman
+  :base: Eternal Life Flask
   :isUnique: false
 - :name: 
-  :base: Horned Talisman
+  :base: Medium Life Flask
   :isUnique: false
 - :name: 
-  :base: Spinefuse Talisman
+  :base: Large Life Flask
   :isUnique: false
 - :name: 
-  :base: Three Rat Talisman
+  :base: Greater Life Flask
   :isUnique: false
 - :name: 
-  :base: Monkey Twins Talisman
+  :base: Grand Life Flask
   :isUnique: false
 - :name: 
-  :base: Longtooth Talisman
+  :base: Giant Life Flask
   :isUnique: false
 - :name: 
-  :base: Rotfeather Talisman
+  :base: Colossal Life Flask
   :isUnique: false
 - :name: 
-  :base: Monkey Paw Talisman
+  :base: Sacred Life Flask
   :isUnique: false
 - :name: 
-  :base: Three Hands Talisman
+  :base: Hallowed Life Flask
   :isUnique: false
 - :name: 
-  :base: Greatwolf Talisman
+  :base: Small Mana Flask
   :isUnique: false
 - :name: 
-  :base: Rustic Sash
+  :base: Sanctified Mana Flask
   :isUnique: false
 - :name: 
-  :base: Chain Belt
+  :base: Divine Mana Flask
   :isUnique: false
 - :name: 
-  :base: Heavy Belt
+  :base: Eternal Mana Flask
   :isUnique: false
 - :name: 
-  :base: Cloth Belt
+  :base: Medium Mana Flask
   :isUnique: false
 - :name: 
-  :base: Studded Belt
+  :base: Large Mana Flask
   :isUnique: false
 - :name: 
-  :base: Stygian Vise
+  :base: Greater Mana Flask
   :isUnique: false
 - :name: 
-  :base: Vanguard Belt
+  :base: Grand Mana Flask
   :isUnique: false
 - :name: 
-  :base: Crystal Belt
+  :base: Giant Mana Flask
   :isUnique: false
 - :name: 
-  :base: Golden Obi
+  :base: Colossal Mana Flask
   :isUnique: false
 - :name: 
-  :base: Breach Ring
+  :base: Sacred Mana Flask
   :isUnique: false
 - :name: 
-  :base: Iron Ring
+  :base: Hallowed Mana Flask
   :isUnique: false
 - :name: 
-  :base: Amethyst Ring
+  :base: Diamond Flask
   :isUnique: false
 - :name: 
-  :base: Diamond Ring
+  :base: Basalt Flask
   :isUnique: false
 - :name: 
-  :base: Two-Stone Ring
+  :base: Aquamarine Flask
   :isUnique: false
 - :name: 
-  :base: Unset Ring
+  :base: Stibnite Flask
   :isUnique: false
 - :name: 
-  :base: Coral Ring
+  :base: Sulphur Flask
   :isUnique: false
 - :name: 
-  :base: Paua Ring
+  :base: Silver Flask
   :isUnique: false
 - :name: 
-  :base: Gold Ring
+  :base: Bismuth Flask
   :isUnique: false
 - :name: 
-  :base: Topaz Ring
+  :base: Ruby Flask
   :isUnique: false
 - :name: 
-  :base: Sapphire Ring
+  :base: Sapphire Flask
   :isUnique: false
 - :name: 
-  :base: Ruby Ring
+  :base: Topaz Flask
   :isUnique: false
 - :name: 
-  :base: Prismatic Ring
+  :base: Granite Flask
   :isUnique: false
 - :name: 
-  :base: Moonstone Ring
+  :base: Quicksilver Flask
   :isUnique: false
 - :name: 
-  :base: Steel Ring
+  :base: Amethyst Flask
   :isUnique: false
 - :name: 
-  :base: Opal Ring
+  :base: Quartz Flask
   :isUnique: false
 - :name: 
-  :base: Golden Hoop
+  :base: Jade Flask
   :isUnique: false
 - :name: 
   :base: Abyssal Cry
@@ -4533,10 +4506,16 @@
   :base: Sweep
   :isUnique: false
 - :name: 
+  :base: Tectonic Slam
+  :isUnique: false
+- :name: 
   :base: Tempest Shield
   :isUnique: false
 - :name: 
   :base: Temporal Chains
+  :isUnique: false
+- :name: 
+  :base: Spectral Shield Throw
   :isUnique: false
 - :name: 
   :base: Spectral Throw
@@ -4965,6 +4944,9 @@
   :base: Minion and Totem Elemental Resistance Support
   :isUnique: false
 - :name: 
+  :base: Summon Phantasm on Kill Support
+  :isUnique: false
+- :name: 
   :base: Trap Support
   :isUnique: false
 - :name: 
@@ -5174,6 +5156,9 @@
 - :name: Might in All Forms
   :base: Crimson Jewel
   :isUnique: true
+- :name: Might of the Meek
+  :base: Crimson Jewel
+  :isUnique: true
 - :name: Mutated Growth
   :base: Cobalt Jewel
   :isUnique: true
@@ -5356,207 +5341,6 @@
   :isUnique: false
 - :name: 
   :base: Crimson Jewel
-  :isUnique: false
-- :name: Atziri's Promise
-  :base: Amethyst Flask
-  :isUnique: true
-- :name: Blood of the Karui
-  :base: Sanctified Life Flask
-  :isUnique: true
-- :name: Coralito's Signature
-  :base: Diamond Flask
-  :isUnique: true
-- :name: Coruscating Elixir
-  :base: Ruby Flask
-  :isUnique: true
-- :name: Divination Distillate
-  :base: Large Hybrid Flask
-  :isUnique: true
-- :name: Doedre's Elixir
-  :base: Greater Mana Flask
-  :isUnique: true
-- :name: Dying Sun
-  :base: Ruby Flask
-  :isUnique: true
-- :name: Forbidden Taste
-  :base: Quartz Flask
-  :isUnique: true
-- :name: Kiara's Determination
-  :base: Silver Flask
-  :isUnique: true
-- :name: Lavianga's Spirit
-  :base: Sanctified Mana Flask
-  :isUnique: true
-- :name: Lion's Roar
-  :base: Granite Flask
-  :isUnique: true
-- :name: Rotgut
-  :base: Quicksilver Flask
-  :isUnique: true
-- :name: Rumi's Concoction
-  :base: Granite Flask
-  :isUnique: true
-- :name: Sin's Rebirth
-  :base: Stibnite Flask
-  :isUnique: true
-- :name: Taste of Hate
-  :base: Sapphire Flask
-  :isUnique: true
-- :name: The Overflowing Chalice
-  :base: Sulphur Flask
-  :isUnique: true
-- :name: The Sorrow of the Divine
-  :base: Sulphur Flask
-  :isUnique: true
-- :name: The Wise Oak
-  :base: Bismuth Flask
-  :isUnique: true
-- :name: The Writhing Jar
-  :base: Hallowed Hybrid Flask
-  :isUnique: true
-- :name: Vessel of Vinktar
-  :base: Topaz Flask
-  :isUnique: true
-- :name: Witchfire Brew
-  :base: Stibnite Flask
-  :isUnique: true
-- :name: Zerphi's Last Breath
-  :base: Grand Mana Flask
-  :isUnique: true
-- :name: 
-  :base: Small Hybrid Flask
-  :isUnique: false
-- :name: 
-  :base: Medium Hybrid Flask
-  :isUnique: false
-- :name: 
-  :base: Large Hybrid Flask
-  :isUnique: false
-- :name: 
-  :base: Colossal Hybrid Flask
-  :isUnique: false
-- :name: 
-  :base: Sacred Hybrid Flask
-  :isUnique: false
-- :name: 
-  :base: Hallowed Hybrid Flask
-  :isUnique: false
-- :name: 
-  :base: Small Life Flask
-  :isUnique: false
-- :name: 
-  :base: Sanctified Life Flask
-  :isUnique: false
-- :name: 
-  :base: Divine Life Flask
-  :isUnique: false
-- :name: 
-  :base: Eternal Life Flask
-  :isUnique: false
-- :name: 
-  :base: Medium Life Flask
-  :isUnique: false
-- :name: 
-  :base: Large Life Flask
-  :isUnique: false
-- :name: 
-  :base: Greater Life Flask
-  :isUnique: false
-- :name: 
-  :base: Grand Life Flask
-  :isUnique: false
-- :name: 
-  :base: Giant Life Flask
-  :isUnique: false
-- :name: 
-  :base: Colossal Life Flask
-  :isUnique: false
-- :name: 
-  :base: Sacred Life Flask
-  :isUnique: false
-- :name: 
-  :base: Hallowed Life Flask
-  :isUnique: false
-- :name: 
-  :base: Small Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Sanctified Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Divine Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Eternal Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Medium Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Large Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Greater Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Grand Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Giant Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Colossal Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Sacred Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Hallowed Mana Flask
-  :isUnique: false
-- :name: 
-  :base: Diamond Flask
-  :isUnique: false
-- :name: 
-  :base: Basalt Flask
-  :isUnique: false
-- :name: 
-  :base: Aquamarine Flask
-  :isUnique: false
-- :name: 
-  :base: Stibnite Flask
-  :isUnique: false
-- :name: 
-  :base: Sulphur Flask
-  :isUnique: false
-- :name: 
-  :base: Silver Flask
-  :isUnique: false
-- :name: 
-  :base: Bismuth Flask
-  :isUnique: false
-- :name: 
-  :base: Ruby Flask
-  :isUnique: false
-- :name: 
-  :base: Sapphire Flask
-  :isUnique: false
-- :name: 
-  :base: Topaz Flask
-  :isUnique: false
-- :name: 
-  :base: Granite Flask
-  :isUnique: false
-- :name: 
-  :base: Quicksilver Flask
-  :isUnique: false
-- :name: 
-  :base: Amethyst Flask
-  :isUnique: false
-- :name: 
-  :base: Quartz Flask
-  :isUnique: false
-- :name: 
-  :base: Jade Flask
   :isUnique: false
 - :name: Acton's Nightmare
   :base: Overgrown Shrine Map
@@ -7163,6 +6947,1599 @@
 - :name: 
   :base: Mortal Grief
   :isUnique: false
+- :name: Abberath's Horn
+  :base: Goat's Horn
+  :isUnique: true
+- :name: Advancing Fortress
+  :base: Gut Ripper
+  :isUnique: true
+- :name: Agnerod
+  :base: Imperial Staff
+  :isUnique: true
+- :name: Agnerod East
+  :base: Imperial Staff
+  :isUnique: true
+- :name: Agnerod North
+  :base: Imperial Staff
+  :isUnique: true
+- :name: Agnerod South
+  :base: Imperial Staff
+  :isUnique: true
+- :name: Agnerod West
+  :base: Imperial Staff
+  :isUnique: true
+- :name: Ahn's Might
+  :base: Midnight Blade
+  :isUnique: true
+- :name: Al Dhih
+  :base: Timeworn Claw
+  :isUnique: true
+- :name: Allure
+  :base: Vaal Claw
+  :isUnique: true
+- :name: Amplification Rod
+  :base: Spiraled Wand
+  :isUnique: true
+- :name: Apep's Rage
+  :base: Opal Wand
+  :isUnique: true
+- :name: Arakaali's Fang
+  :base: Fiend Dagger
+  :isUnique: true
+- :name: Arborix
+  :base: Assassin Bow
+  :isUnique: true
+- :name: Ashcaller
+  :base: Quartz Wand
+  :isUnique: true
+- :name: Atziri's Disfavour
+  :base: Vaal Axe
+  :isUnique: true
+- :name: Augyre
+  :base: Void Sceptre
+  :isUnique: true
+- :name: Aurumvorax
+  :base: Basket Rapier
+  :isUnique: true
+- :name: Axiom Perpetuum
+  :base: Bronze Sceptre
+  :isUnique: true
+- :name: Balefire
+  :base: Opal Sceptre
+  :isUnique: true
+- :name: Beltimber Blade
+  :base: Eternal Sword
+  :isUnique: true
+- :name: Bino's Kitchen Knife
+  :base: Slaughter Knife
+  :isUnique: true
+- :name: Bitterdream
+  :base: Shadow Sceptre
+  :isUnique: true
+- :name: Bloodplay
+  :base: Stiletto
+  :isUnique: true
+- :name: Bloodseeker
+  :base: Hellion's Paw
+  :isUnique: true
+- :name: Brain Rattler
+  :base: Meatgrinder
+  :isUnique: true
+- :name: Breath of the Council
+  :base: Carnal Sceptre
+  :isUnique: true
+- :name: Brightbeak
+  :base: War Hammer
+  :isUnique: true
+- :name: Brutus' Lead Sprinkler
+  :base: Ritual Sceptre
+  :isUnique: true
+- :name: Callinellus Malleus
+  :base: Auric Mace
+  :isUnique: true
+- :name: Cameria's Avarice
+  :base: Gavel
+  :isUnique: true
+- :name: Cameria's Maul
+  :base: Gavel
+  :isUnique: true
+- :name: Cane of Unravelling
+  :base: Ezomyte Staff
+  :isUnique: true
+- :name: Chin Sol
+  :base: Assassin Bow
+  :isUnique: true
+- :name: Chitus' Needle
+  :base: Elegant Foil
+  :isUnique: true
+- :name: Chober Chaber
+  :base: Great Mallet
+  :isUnique: true
+- :name: Clayshaper
+  :base: Rock Breaker
+  :isUnique: true
+- :name: Cospri's Malice
+  :base: Jewelled Foil
+  :isUnique: true
+- :name: Cybil's Paw
+  :base: Thresher Claw
+  :isUnique: true
+- :name: Daresso's Passion
+  :base: Estoc
+  :isUnique: true
+- :name: Darkscorn
+  :base: Assassin Bow
+  :isUnique: true
+- :name: Death's Hand
+  :base: Karui Sceptre
+  :isUnique: true
+- :name: Death's Harp
+  :base: Death Bow
+  :isUnique: true
+- :name: Death's Opus
+  :base: Death Bow
+  :isUnique: true
+- :name: Debeon's Dirge
+  :base: Despot Axe
+  :isUnique: true
+- :name: Disintegrator
+  :base: Maelström Staff
+  :isUnique: true
+- :name: Divinarius
+  :base: Imperial Skean
+  :isUnique: true
+- :name: Doomfletch
+  :base: Royal Bow
+  :isUnique: true
+- :name: Doomfletch's Prism
+  :base: Royal Bow
+  :isUnique: true
+- :name: Doomsower
+  :base: Lion Sword
+  :isUnique: true
+- :name: Doon Cuebiyari
+  :base: Vaal Sceptre
+  :isUnique: true
+- :name: Doryani's Catalyst
+  :base: Vaal Sceptre
+  :isUnique: true
+- :name: Dreadarc
+  :base: Cleaver
+  :isUnique: true
+- :name: Dreadbeak
+  :base: Rusted Sword
+  :isUnique: true
+- :name: Dreadsurge
+  :base: Cleaver
+  :isUnique: true
+- :name: Dreamfeather
+  :base: Eternal Sword
+  :isUnique: true
+- :name: Duskdawn
+  :base: Maelström Staff
+  :isUnique: true
+- :name: Dyadus
+  :base: Infernal Axe
+  :isUnique: true
+- :name: Dying Breath
+  :base: Iron Staff
+  :isUnique: true
+- :name: Dying Breath
+  :base: Coiled Staff
+  :isUnique: true
+- :name: Eclipse Solaris
+  :base: Crystal Wand
+  :isUnique: true
+- :name: Edge of Madness
+  :base: Etched Greatsword
+  :isUnique: true
+- :name: Ephemeral Edge
+  :base: Dusk Blade
+  :isUnique: true
+- :name: Essentia Sanguis
+  :base: Eye Gouger
+  :isUnique: true
+- :name: Essentia Sanguis
+  :base: Vaal Claw
+  :isUnique: true
+- :name: Ewar's Mirage
+  :base: Antique Rapier
+  :isUnique: true
+- :name: Femurs of the Saints
+  :base: Primordial Staff
+  :isUnique: true
+- :name: Fencoil
+  :base: Gnarled Branch
+  :isUnique: true
+- :name: Fidelitas' Spike
+  :base: Jagged Foil
+  :isUnique: true
+- :name: Flesh-Eater
+  :base: Dream Mace
+  :isUnique: true
+- :name: Frostbreath
+  :base: Ornate Mace
+  :isUnique: true
+- :name: Geofri's Baptism
+  :base: Brass Maul
+  :isUnique: true
+- :name: Geofri's Devotion
+  :base: Brass Maul
+  :isUnique: true
+- :name: Gorebreaker
+  :base: Spiked Club
+  :isUnique: true
+- :name: Goredrill
+  :base: Skinning Knife
+  :isUnique: true
+- :name: Grelwood Shank
+  :base: Eternal Sword
+  :isUnique: true
+- :name: Hand of Thought and Motion
+  :base: Blinder
+  :isUnique: true
+- :name: Hand of Wisdom and Action
+  :base: Imperial Claw
+  :isUnique: true
+- :name: Heartbreaker
+  :base: Royal Skean
+  :isUnique: true
+- :name: Hegemony's Era
+  :base: Judgement Staff
+  :isUnique: true
+- :name: Hezmana's Bloodlust
+  :base: Vaal Axe
+  :isUnique: true
+- :name: Hiltless
+  :base: Reaver Sword
+  :isUnique: true
+- :name: Hopeshredder
+  :base: Ranger Bow
+  :isUnique: true
+- :name: Hrimnor's Dirge
+  :base: Sledgehammer
+  :isUnique: true
+- :name: Hrimnor's Hymn
+  :base: Sledgehammer
+  :isUnique: true
+- :name: Hyaon's Fury
+  :base: Legion Sword
+  :isUnique: true
+- :name: Ichimonji
+  :base: Corsair Sword
+  :isUnique: true
+- :name: Infractem
+  :base: Decimation Bow
+  :isUnique: true
+- :name: Innsbury Edge
+  :base: Elder Sword
+  :isUnique: true
+- :name: Iron Commander
+  :base: Death Bow
+  :isUnique: true
+- :name: Izaro's Dilemma
+  :base: Imperial Claw
+  :isUnique: true
+- :name: Jack, the Axe
+  :base: Vaal Hatchet
+  :isUnique: true
+- :name: Jorrhast's Blacksteel
+  :base: Steelhead
+  :isUnique: true
+- :name: Kaom's Primacy
+  :base: Karui Chopper
+  :isUnique: true
+- :name: Kingmaker
+  :base: Despot Axe
+  :isUnique: true
+- :name: Kitava's Feast
+  :base: Void Axe
+  :isUnique: true
+- :name: Kondo's Pride
+  :base: Ezomyte Blade
+  :isUnique: true
+- :name: Kongor's Undying Rage
+  :base: Terror Maul
+  :isUnique: true
+- :name: Lakishu's Blade
+  :base: Elegant Sword
+  :isUnique: true
+- :name: Last Resort
+  :base: Nailed Fist
+  :isUnique: true
+- :name: Lavianga's Wisdom
+  :base: War Hammer
+  :isUnique: true
+- :name: Lifesprig
+  :base: Driftwood Wand
+  :isUnique: true
+- :name: Limbsplit
+  :base: Woodsplitter
+  :isUnique: true
+- :name: Lioneye's Glare
+  :base: Imperial Bow
+  :isUnique: true
+- :name: Mark of the Doubting Knight
+  :base: Platinum Kris
+  :isUnique: true
+- :name: Marohi Erqi
+  :base: Karui Maul
+  :isUnique: true
+- :name: Martyr of Innocence
+  :base: Highborn Staff
+  :isUnique: true
+- :name: Midnight Bargain
+  :base: Engraved Wand
+  :isUnique: true
+- :name: Mightflay
+  :base: Flaying Knife
+  :isUnique: true
+- :name: Mirebough
+  :base: Gnarled Branch
+  :isUnique: true
+- :name: Mjölner
+  :base: Gavel
+  :isUnique: true
+- :name: Mon'tregul's Grasp
+  :base: Void Sceptre
+  :isUnique: true
+- :name: Moonbender's Wing
+  :base: Tomahawk
+  :isUnique: true
+- :name: Moonsorrow
+  :base: Imbued Wand
+  :isUnique: true
+- :name: Mortem Morsu
+  :base: Fright Claw
+  :isUnique: true
+- :name: Nebuloch
+  :base: Nightmare Mace
+  :isUnique: true
+- :name: Ngamahu's Flame
+  :base: Abyssal Axe
+  :isUnique: true
+- :name: Null's Inclination
+  :base: Ranger Bow
+  :isUnique: true
+- :name: Nuro's Harp
+  :base: Harbinger Bow
+  :isUnique: true
+- :name: Nycta's Lantern
+  :base: Crystal Sceptre
+  :isUnique: true
+- :name: Obliteration
+  :base: Demon's Horn
+  :isUnique: true
+- :name: Oni-Goroshi
+  :base: Charan's Sword
+  :isUnique: true
+- :name: Ornament of the East
+  :base: Gut Ripper
+  :isUnique: true
+- :name: Oro's Sacrifice
+  :base: Infernal Sword
+  :isUnique: true
+- :name: Panquetzaliztli
+  :base: Jagged Maul
+  :isUnique: true
+- :name: Pillar of the Caged God
+  :base: Long Staff
+  :isUnique: true
+- :name: Piscator's Vigil
+  :base: Tornado Wand
+  :isUnique: true
+- :name: Pledge of Hands
+  :base: Judgement Staff
+  :isUnique: true
+- :name: Prismatic Eclipse
+  :base: Twilight Blade
+  :isUnique: true
+- :name: Quecholli
+  :base: Jagged Maul
+  :isUnique: true
+- :name: Queen's Decree
+  :base: Ornate Sword
+  :isUnique: true
+- :name: Queen's Escape
+  :base: Ornate Sword
+  :isUnique: true
+- :name: Quill Rain
+  :base: Short Bow
+  :isUnique: true
+- :name: Razor of the Seventh Sun
+  :base: Midnight Blade
+  :isUnique: true
+- :name: Reach of the Council
+  :base: Spine Bow
+  :isUnique: true
+- :name: Realm Ender
+  :base: Iron Staff
+  :isUnique: true
+- :name: Realmshaper
+  :base: Iron Staff
+  :isUnique: true
+- :name: Reaper's Pursuit
+  :base: Shadow Axe
+  :isUnique: true
+- :name: Rebuke of the Vaal
+  :base: Vaal Blade
+  :isUnique: true
+- :name: Redbeak
+  :base: Rusted Sword
+  :isUnique: true
+- :name: Reefbane
+  :base: Fishing Rod
+  :isUnique: true
+- :name: Relentless Fury
+  :base: Decorative Axe
+  :isUnique: true
+- :name: Reverberation Rod
+  :base: Spiraled Wand
+  :isUnique: true
+- :name: Rigwald's Charge
+  :base: Highland Blade
+  :isUnique: true
+- :name: Rigwald's Command
+  :base: Midnight Blade
+  :isUnique: true
+- :name: Rigwald's Savagery
+  :base: Royal Axe
+  :isUnique: true
+- :name: Rive
+  :base: Terror Claw
+  :isUnique: true
+- :name: Roth's Reach
+  :base: Recurve Bow
+  :isUnique: true
+- :name: Sanguine Gambol
+  :base: Skinning Knife
+  :isUnique: true
+- :name: Scaeva
+  :base: Gladius
+  :isUnique: true
+- :name: Severed in Sleep
+  :base: Cutlass
+  :isUnique: true
+- :name: Shade of Solaris
+  :base: Sage Wand
+  :isUnique: true
+- :name: Shimmeron
+  :base: Tornado Wand
+  :isUnique: true
+- :name: Shiversting
+  :base: Bastard Sword
+  :isUnique: true
+- :name: Silverbough
+  :base: Crude Bow
+  :isUnique: true
+- :name: Silverbranch
+  :base: Crude Bow
+  :isUnique: true
+- :name: Singularity
+  :base: Platinum Sceptre
+  :isUnique: true
+- :name: Sire of Shards
+  :base: Serpentine Staff
+  :isUnique: true
+- :name: Slivertongue
+  :base: Harbinger Bow
+  :isUnique: true
+- :name: Song of the Sirens
+  :base: Fishing Rod
+  :isUnique: true
+- :name: Soul Taker
+  :base: Siege Axe
+  :isUnique: true
+- :name: Spine of the First Claimant
+  :base: Iron Sceptre
+  :isUnique: true
+- :name: Starforge
+  :base: Infernal Sword
+  :isUnique: true
+- :name: Storm Cloud
+  :base: Long Bow
+  :isUnique: true
+- :name: Storm Prison
+  :base: Carved Wand
+  :isUnique: true
+- :name: Taproot
+  :base: Ambusher
+  :isUnique: true
+- :name: Taryn's Shiver
+  :base: Maelström Staff
+  :isUnique: true
+- :name: Terminus Est
+  :base: Tiger Sword
+  :isUnique: true
+- :name: The Blood Reaper
+  :base: Headsman Axe
+  :isUnique: true
+- :name: The Blood Thorn
+  :base: Gnarled Branch
+  :isUnique: true
+- :name: The Cauteriser
+  :base: Woodsplitter
+  :isUnique: true
+- :name: The Consuming Dark
+  :base: Fiend Dagger
+  :isUnique: true
+- :name: The Dancing Dervish
+  :base: Reaver Sword
+  :isUnique: true
+- :name: The Dancing Duo
+  :base: Reaver Sword
+  :isUnique: true
+- :name: The Dark Seer
+  :base: Shadow Sceptre
+  :isUnique: true
+- :name: The Enmity Divine
+  :base: Imperial Staff
+  :isUnique: true
+- :name: The Goddess Bound
+  :base: Whalebone Rapier
+  :isUnique: true
+- :name: The Goddess Scorned
+  :base: Elegant Sword
+  :isUnique: true
+- :name: The Goddess Unleashed
+  :base: Eternal Sword
+  :isUnique: true
+- :name: The Gryphon
+  :base: Jade Hatchet
+  :isUnique: true
+- :name: The Harvest
+  :base: Jasper Chopper
+  :isUnique: true
+- :name: The Poet's Pen
+  :base: Carved Wand
+  :isUnique: true
+- :name: The Princess
+  :base: Sabre
+  :isUnique: true
+- :name: The Rippling Thoughts
+  :base: Legion Sword
+  :isUnique: true
+- :name: The Scourge
+  :base: Terror Claw
+  :isUnique: true
+- :name: The Screaming Eagle
+  :base: Jade Hatchet
+  :isUnique: true
+- :name: The Searing Touch
+  :base: Lathi
+  :isUnique: true
+- :name: The Searing Touch
+  :base: Long Staff
+  :isUnique: true
+- :name: The Stormheart
+  :base: Royal Staff
+  :isUnique: true
+- :name: The Stormwall
+  :base: Royal Staff
+  :isUnique: true
+- :name: The Supreme Truth
+  :base: Crystal Sceptre
+  :isUnique: true
+- :name: The Tempest
+  :base: Long Bow
+  :isUnique: true
+- :name: The Tempestuous Steel
+  :base: War Sword
+  :isUnique: true
+- :name: The Wasp Nest
+  :base: Throat Stabber
+  :isUnique: true
+- :name: The Whispering Ice
+  :base: Vile Staff
+  :isUnique: true
+- :name: Tidebreaker
+  :base: Imperial Maul
+  :isUnique: true
+- :name: Tipua Kaikohuru
+  :base: Whalebone Rapier
+  :isUnique: true
+- :name: Touch of Anguish
+  :base: Imperial Claw
+  :isUnique: true
+- :name: Tremor Rod
+  :base: Military Staff
+  :isUnique: true
+- :name: Trypanon
+  :base: Great Mallet
+  :isUnique: true
+- :name: Tulborn
+  :base: Spiraled Wand
+  :isUnique: true
+- :name: Tulfall
+  :base: Tornado Wand
+  :isUnique: true
+- :name: Twyzel
+  :base: Sage Wand
+  :isUnique: true
+- :name: Ungil's Gauche
+  :base: Boot Knife
+  :isUnique: true
+- :name: United in Dream
+  :base: Cutlass
+  :isUnique: true
+- :name: Uul-Netol's Embrace
+  :base: Vaal Axe
+  :isUnique: true
+- :name: Uul-Netol's Kiss
+  :base: Labrys
+  :isUnique: true
+- :name: Varunastra
+  :base: Vaal Blade
+  :isUnique: true
+- :name: Void Battery
+  :base: Prophecy Wand
+  :isUnique: true
+- :name: Voidforge
+  :base: Infernal Sword
+  :isUnique: true
+- :name: Voidhome
+  :base: Dread Maul
+  :isUnique: true
+- :name: Voltaxic Rift
+  :base: Spine Bow
+  :isUnique: true
+- :name: Vulconus
+  :base: Demon Dagger
+  :isUnique: true
+- :name: White Wind
+  :base: Imperial Skean
+  :isUnique: true
+- :name: Wideswing
+  :base: Poleaxe
+  :isUnique: true
+- :name: Widowmaker
+  :base: Boot Blade
+  :isUnique: true
+- :name: Wildslash
+  :base: Awl
+  :isUnique: true
+- :name: Windripper
+  :base: Imperial Bow
+  :isUnique: true
+- :name: Wings of Entropy
+  :base: Sundering Axe
+  :isUnique: true
+- :name: Xirgil's Crank
+  :base: Coiled Staff
+  :isUnique: true
+- :name: Xoph's Inception
+  :base: Bone Bow
+  :isUnique: true
+- :name: Xoph's Nurture
+  :base: Citadel Bow
+  :isUnique: true
+- :name: 
+  :base: Nailed Fist
+  :isUnique: false
+- :name: 
+  :base: Gouger
+  :isUnique: false
+- :name: 
+  :base: Tiger's Paw
+  :isUnique: false
+- :name: 
+  :base: Gut Ripper
+  :isUnique: false
+- :name: 
+  :base: Prehistoric Claw
+  :isUnique: false
+- :name: 
+  :base: Noble Claw
+  :isUnique: false
+- :name: 
+  :base: Eagle Claw
+  :isUnique: false
+- :name: 
+  :base: Great White Claw
+  :isUnique: false
+- :name: 
+  :base: Throat Stabber
+  :isUnique: false
+- :name: 
+  :base: Hellion's Paw
+  :isUnique: false
+- :name: 
+  :base: Eye Gouger
+  :isUnique: false
+- :name: 
+  :base: Sharktooth Claw
+  :isUnique: false
+- :name: 
+  :base: Vaal Claw
+  :isUnique: false
+- :name: 
+  :base: Imperial Claw
+  :isUnique: false
+- :name: 
+  :base: Terror Claw
+  :isUnique: false
+- :name: 
+  :base: Awl
+  :isUnique: false
+- :name: 
+  :base: Cat's Paw
+  :isUnique: false
+- :name: 
+  :base: Blinder
+  :isUnique: false
+- :name: 
+  :base: Timeworn Claw
+  :isUnique: false
+- :name: 
+  :base: Sparkling Claw
+  :isUnique: false
+- :name: 
+  :base: Fright Claw
+  :isUnique: false
+- :name: 
+  :base: Thresher Claw
+  :isUnique: false
+- :name: 
+  :base: Double Claw
+  :isUnique: false
+- :name: 
+  :base: Twin Claw
+  :isUnique: false
+- :name: 
+  :base: Gemini Claw
+  :isUnique: false
+- :name: 
+  :base: Glass Shank
+  :isUnique: false
+- :name: 
+  :base: Butcher Knife
+  :isUnique: false
+- :name: 
+  :base: Poignard
+  :isUnique: false
+- :name: 
+  :base: Boot Blade
+  :isUnique: false
+- :name: 
+  :base: Golden Kris
+  :isUnique: false
+- :name: 
+  :base: Royal Skean
+  :isUnique: false
+- :name: 
+  :base: Fiend Dagger
+  :isUnique: false
+- :name: 
+  :base: Gutting Knife
+  :isUnique: false
+- :name: 
+  :base: Slaughter Knife
+  :isUnique: false
+- :name: 
+  :base: Ambusher
+  :isUnique: false
+- :name: 
+  :base: Ezomyte Dagger
+  :isUnique: false
+- :name: 
+  :base: Skinning Knife
+  :isUnique: false
+- :name: 
+  :base: Platinum Kris
+  :isUnique: false
+- :name: 
+  :base: Imperial Skean
+  :isUnique: false
+- :name: 
+  :base: Demon Dagger
+  :isUnique: false
+- :name: 
+  :base: Carving Knife
+  :isUnique: false
+- :name: 
+  :base: Stiletto
+  :isUnique: false
+- :name: 
+  :base: Boot Knife
+  :isUnique: false
+- :name: 
+  :base: Copper Kris
+  :isUnique: false
+- :name: 
+  :base: Skean
+  :isUnique: false
+- :name: 
+  :base: Imp Dagger
+  :isUnique: false
+- :name: 
+  :base: Flaying Knife
+  :isUnique: false
+- :name: 
+  :base: Prong Dagger
+  :isUnique: false
+- :name: 
+  :base: Trisula
+  :isUnique: false
+- :name: 
+  :base: Sai
+  :isUnique: false
+- :name: 
+  :base: Rusted Hatchet
+  :isUnique: false
+- :name: 
+  :base: Tomahawk
+  :isUnique: false
+- :name: 
+  :base: Wrist Chopper
+  :isUnique: false
+- :name: 
+  :base: War Axe
+  :isUnique: false
+- :name: 
+  :base: Chest Splitter
+  :isUnique: false
+- :name: 
+  :base: Ceremonial Axe
+  :isUnique: false
+- :name: 
+  :base: Wraith Axe
+  :isUnique: false
+- :name: 
+  :base: Karui Axe
+  :isUnique: false
+- :name: 
+  :base: Siege Axe
+  :isUnique: false
+- :name: 
+  :base: Reaver Axe
+  :isUnique: false
+- :name: 
+  :base: Butcher Axe
+  :isUnique: false
+- :name: 
+  :base: Jade Hatchet
+  :isUnique: false
+- :name: 
+  :base: Vaal Hatchet
+  :isUnique: false
+- :name: 
+  :base: Royal Axe
+  :isUnique: false
+- :name: 
+  :base: Infernal Axe
+  :isUnique: false
+- :name: 
+  :base: Boarding Axe
+  :isUnique: false
+- :name: 
+  :base: Cleaver
+  :isUnique: false
+- :name: 
+  :base: Broad Axe
+  :isUnique: false
+- :name: 
+  :base: Arming Axe
+  :isUnique: false
+- :name: 
+  :base: Decorative Axe
+  :isUnique: false
+- :name: 
+  :base: Spectral Axe
+  :isUnique: false
+- :name: 
+  :base: Jasper Axe
+  :isUnique: false
+- :name: 
+  :base: Etched Hatchet
+  :isUnique: false
+- :name: 
+  :base: Engraved Hatchet
+  :isUnique: false
+- :name: 
+  :base: Runic Hatchet
+  :isUnique: false
+- :name: 
+  :base: Driftwood Club
+  :isUnique: false
+- :name: 
+  :base: Barbed Club
+  :isUnique: false
+- :name: 
+  :base: Rock Breaker
+  :isUnique: false
+- :name: 
+  :base: Battle Hammer
+  :isUnique: false
+- :name: 
+  :base: Flanged Mace
+  :isUnique: false
+- :name: 
+  :base: Ornate Mace
+  :isUnique: false
+- :name: 
+  :base: Phantom Mace
+  :isUnique: false
+- :name: 
+  :base: Ancestral Club
+  :isUnique: false
+- :name: 
+  :base: Tenderizer
+  :isUnique: false
+- :name: 
+  :base: Gavel
+  :isUnique: false
+- :name: 
+  :base: Legion Hammer
+  :isUnique: false
+- :name: 
+  :base: Tribal Club
+  :isUnique: false
+- :name: 
+  :base: Pernarch
+  :isUnique: false
+- :name: 
+  :base: Auric Mace
+  :isUnique: false
+- :name: 
+  :base: Nightmare Mace
+  :isUnique: false
+- :name: 
+  :base: Spiked Club
+  :isUnique: false
+- :name: 
+  :base: Stone Hammer
+  :isUnique: false
+- :name: 
+  :base: War Hammer
+  :isUnique: false
+- :name: 
+  :base: Bladed Mace
+  :isUnique: false
+- :name: 
+  :base: Ceremonial Mace
+  :isUnique: false
+- :name: 
+  :base: Dream Mace
+  :isUnique: false
+- :name: 
+  :base: Petrified Club
+  :isUnique: false
+- :name: 
+  :base: Wyrm Mace
+  :isUnique: false
+- :name: 
+  :base: Dragon Mace
+  :isUnique: false
+- :name: 
+  :base: Behemoth Mace
+  :isUnique: false
+- :name: 
+  :base: Driftwood Sceptre
+  :isUnique: false
+- :name: 
+  :base: Sekhem
+  :isUnique: false
+- :name: 
+  :base: Crystal Sceptre
+  :isUnique: false
+- :name: 
+  :base: Lead Sceptre
+  :isUnique: false
+- :name: 
+  :base: Blood Sceptre
+  :isUnique: false
+- :name: 
+  :base: Royal Sceptre
+  :isUnique: false
+- :name: 
+  :base: Abyssal Sceptre
+  :isUnique: false
+- :name: 
+  :base: Karui Sceptre
+  :isUnique: false
+- :name: 
+  :base: Tyrant's Sekhem
+  :isUnique: false
+- :name: 
+  :base: Opal Sceptre
+  :isUnique: false
+- :name: 
+  :base: Platinum Sceptre
+  :isUnique: false
+- :name: 
+  :base: Darkwood Sceptre
+  :isUnique: false
+- :name: 
+  :base: Vaal Sceptre
+  :isUnique: false
+- :name: 
+  :base: Carnal Sceptre
+  :isUnique: false
+- :name: 
+  :base: Void Sceptre
+  :isUnique: false
+- :name: 
+  :base: Bronze Sceptre
+  :isUnique: false
+- :name: 
+  :base: Quartz Sceptre
+  :isUnique: false
+- :name: 
+  :base: Iron Sceptre
+  :isUnique: false
+- :name: 
+  :base: Ochre Sceptre
+  :isUnique: false
+- :name: 
+  :base: Ritual Sceptre
+  :isUnique: false
+- :name: 
+  :base: Shadow Sceptre
+  :isUnique: false
+- :name: 
+  :base: Grinning Fetish
+  :isUnique: false
+- :name: 
+  :base: Horned Sceptre
+  :isUnique: false
+- :name: 
+  :base: Stag Sceptre
+  :isUnique: false
+- :name: 
+  :base: Sambar Sceptre
+  :isUnique: false
+- :name: 
+  :base: Rusted Sword
+  :isUnique: false
+- :name: 
+  :base: Cutlass
+  :isUnique: false
+- :name: 
+  :base: Baselard
+  :isUnique: false
+- :name: 
+  :base: Battle Sword
+  :isUnique: false
+- :name: 
+  :base: Elder Sword
+  :isUnique: false
+- :name: 
+  :base: Graceful Sword
+  :isUnique: false
+- :name: 
+  :base: Twilight Blade
+  :isUnique: false
+- :name: 
+  :base: Gemstone Sword
+  :isUnique: false
+- :name: 
+  :base: Corsair Sword
+  :isUnique: false
+- :name: 
+  :base: Gladius
+  :isUnique: false
+- :name: 
+  :base: Legion Sword
+  :isUnique: false
+- :name: 
+  :base: Copper Sword
+  :isUnique: false
+- :name: 
+  :base: Vaal Blade
+  :isUnique: false
+- :name: 
+  :base: Eternal Sword
+  :isUnique: false
+- :name: 
+  :base: Midnight Blade
+  :isUnique: false
+- :name: 
+  :base: Sabre
+  :isUnique: false
+- :name: 
+  :base: Broad Sword
+  :isUnique: false
+- :name: 
+  :base: War Sword
+  :isUnique: false
+- :name: 
+  :base: Ancient Sword
+  :isUnique: false
+- :name: 
+  :base: Elegant Sword
+  :isUnique: false
+- :name: 
+  :base: Dusk Blade
+  :isUnique: false
+- :name: 
+  :base: Variscite Blade
+  :isUnique: false
+- :name: 
+  :base: Charan's Sword
+  :isUnique: false
+- :name: 
+  :base: Hook Sword
+  :isUnique: false
+- :name: 
+  :base: Grappler
+  :isUnique: false
+- :name: 
+  :base: Tiger Hook
+  :isUnique: false
+- :name: 
+  :base: Rusted Spike
+  :isUnique: false
+- :name: 
+  :base: Burnished Foil
+  :isUnique: false
+- :name: 
+  :base: Estoc
+  :isUnique: false
+- :name: 
+  :base: Serrated Foil
+  :isUnique: false
+- :name: 
+  :base: Primeval Rapier
+  :isUnique: false
+- :name: 
+  :base: Fancy Foil
+  :isUnique: false
+- :name: 
+  :base: Apex Rapier
+  :isUnique: false
+- :name: 
+  :base: Dragonbone Rapier
+  :isUnique: false
+- :name: 
+  :base: Tempered Foil
+  :isUnique: false
+- :name: 
+  :base: Pecoraro
+  :isUnique: false
+- :name: 
+  :base: Spiraled Foil
+  :isUnique: false
+- :name: 
+  :base: Whalebone Rapier
+  :isUnique: false
+- :name: 
+  :base: Vaal Rapier
+  :isUnique: false
+- :name: 
+  :base: Jewelled Foil
+  :isUnique: false
+- :name: 
+  :base: Harpy Rapier
+  :isUnique: false
+- :name: 
+  :base: Battered Foil
+  :isUnique: false
+- :name: 
+  :base: Basket Rapier
+  :isUnique: false
+- :name: 
+  :base: Jagged Foil
+  :isUnique: false
+- :name: 
+  :base: Antique Rapier
+  :isUnique: false
+- :name: 
+  :base: Elegant Foil
+  :isUnique: false
+- :name: 
+  :base: Thorn Rapier
+  :isUnique: false
+- :name: 
+  :base: Wyrmbone Rapier
+  :isUnique: false
+- :name: 
+  :base: Smallsword
+  :isUnique: false
+- :name: 
+  :base: Courtesan Sword
+  :isUnique: false
+- :name: 
+  :base: Dragoon Sword
+  :isUnique: false
+- :name: 
+  :base: Driftwood Wand
+  :isUnique: false
+- :name: 
+  :base: Serpent Wand
+  :isUnique: false
+- :name: 
+  :base: Omen Wand
+  :isUnique: false
+- :name: 
+  :base: Demon's Horn
+  :isUnique: false
+- :name: 
+  :base: Imbued Wand
+  :isUnique: false
+- :name: 
+  :base: Opal Wand
+  :isUnique: false
+- :name: 
+  :base: Tornado Wand
+  :isUnique: false
+- :name: 
+  :base: Prophecy Wand
+  :isUnique: false
+- :name: 
+  :base: Goat's Horn
+  :isUnique: false
+- :name: 
+  :base: Carved Wand
+  :isUnique: false
+- :name: 
+  :base: Quartz Wand
+  :isUnique: false
+- :name: 
+  :base: Spiraled Wand
+  :isUnique: false
+- :name: 
+  :base: Sage Wand
+  :isUnique: false
+- :name: 
+  :base: Faun's Horn
+  :isUnique: false
+- :name: 
+  :base: Engraved Wand
+  :isUnique: false
+- :name: 
+  :base: Crystal Wand
+  :isUnique: false
+- :name: 
+  :base: Pagan Wand
+  :isUnique: false
+- :name: 
+  :base: Heathen Wand
+  :isUnique: false
+- :name: 
+  :base: Profane Wand
+  :isUnique: false
+- :name: 
+  :base: Fishing Rod
+  :isUnique: false
+- :name: 
+  :base: Crude Bow
+  :isUnique: false
+- :name: 
+  :base: Decurve Bow
+  :isUnique: false
+- :name: 
+  :base: Compound Bow
+  :isUnique: false
+- :name: 
+  :base: Sniper Bow
+  :isUnique: false
+- :name: 
+  :base: Ivory Bow
+  :isUnique: false
+- :name: 
+  :base: Highborn Bow
+  :isUnique: false
+- :name: 
+  :base: Decimation Bow
+  :isUnique: false
+- :name: 
+  :base: Thicket Bow
+  :isUnique: false
+- :name: 
+  :base: Citadel Bow
+  :isUnique: false
+- :name: 
+  :base: Ranger Bow
+  :isUnique: false
+- :name: 
+  :base: Assassin Bow
+  :isUnique: false
+- :name: 
+  :base: Short Bow
+  :isUnique: false
+- :name: 
+  :base: Spine Bow
+  :isUnique: false
+- :name: 
+  :base: Imperial Bow
+  :isUnique: false
+- :name: 
+  :base: Harbinger Bow
+  :isUnique: false
+- :name: 
+  :base: Long Bow
+  :isUnique: false
+- :name: 
+  :base: Composite Bow
+  :isUnique: false
+- :name: 
+  :base: Recurve Bow
+  :isUnique: false
+- :name: 
+  :base: Bone Bow
+  :isUnique: false
+- :name: 
+  :base: Royal Bow
+  :isUnique: false
+- :name: 
+  :base: Death Bow
+  :isUnique: false
+- :name: 
+  :base: Grove Bow
+  :isUnique: false
+- :name: 
+  :base: Reflex Bow
+  :isUnique: false
+- :name: 
+  :base: Steelwood Bow
+  :isUnique: false
+- :name: 
+  :base: Maraketh Bow
+  :isUnique: false
+- :name: 
+  :base: Gnarled Branch
+  :isUnique: false
+- :name: 
+  :base: Military Staff
+  :isUnique: false
+- :name: 
+  :base: Serpentine Staff
+  :isUnique: false
+- :name: 
+  :base: Highborn Staff
+  :isUnique: false
+- :name: 
+  :base: Foul Staff
+  :isUnique: false
+- :name: 
+  :base: Primordial Staff
+  :isUnique: false
+- :name: 
+  :base: Lathi
+  :isUnique: false
+- :name: 
+  :base: Ezomyte Staff
+  :isUnique: false
+- :name: 
+  :base: Maelström Staff
+  :isUnique: false
+- :name: 
+  :base: Imperial Staff
+  :isUnique: false
+- :name: 
+  :base: Judgement Staff
+  :isUnique: false
+- :name: 
+  :base: Primitive Staff
+  :isUnique: false
+- :name: 
+  :base: Long Staff
+  :isUnique: false
+- :name: 
+  :base: Iron Staff
+  :isUnique: false
+- :name: 
+  :base: Coiled Staff
+  :isUnique: false
+- :name: 
+  :base: Royal Staff
+  :isUnique: false
+- :name: 
+  :base: Vile Staff
+  :isUnique: false
+- :name: 
+  :base: Woodful Staff
+  :isUnique: false
+- :name: 
+  :base: Quarterstaff
+  :isUnique: false
+- :name: 
+  :base: Crescent Staff
+  :isUnique: false
+- :name: 
+  :base: Moon Staff
+  :isUnique: false
+- :name: 
+  :base: Eclipse Staff
+  :isUnique: false
+- :name: 
+  :base: Stone Axe
+  :isUnique: false
+- :name: 
+  :base: Headsman Axe
+  :isUnique: false
+- :name: 
+  :base: Labrys
+  :isUnique: false
+- :name: 
+  :base: Noble Axe
+  :isUnique: false
+- :name: 
+  :base: Abyssal Axe
+  :isUnique: false
+- :name: 
+  :base: Karui Chopper
+  :isUnique: false
+- :name: 
+  :base: Sundering Axe
+  :isUnique: false
+- :name: 
+  :base: Ezomyte Axe
+  :isUnique: false
+- :name: 
+  :base: Vaal Axe
+  :isUnique: false
+- :name: 
+  :base: Despot Axe
+  :isUnique: false
+- :name: 
+  :base: Void Axe
+  :isUnique: false
+- :name: 
+  :base: Jade Chopper
+  :isUnique: false
+- :name: 
+  :base: Woodsplitter
+  :isUnique: false
+- :name: 
+  :base: Poleaxe
+  :isUnique: false
+- :name: 
+  :base: Double Axe
+  :isUnique: false
+- :name: 
+  :base: Gilded Axe
+  :isUnique: false
+- :name: 
+  :base: Shadow Axe
+  :isUnique: false
+- :name: 
+  :base: Jasper Chopper
+  :isUnique: false
+- :name: 
+  :base: Timber Axe
+  :isUnique: false
+- :name: 
+  :base: Dagger Axe
+  :isUnique: false
+- :name: 
+  :base: Talon Axe
+  :isUnique: false
+- :name: 
+  :base: Fleshripper
+  :isUnique: false
+- :name: 
+  :base: Driftwood Maul
+  :isUnique: false
+- :name: 
+  :base: Steelhead
+  :isUnique: false
+- :name: 
+  :base: Spiny Maul
+  :isUnique: false
+- :name: 
+  :base: Plated Maul
+  :isUnique: false
+- :name: 
+  :base: Dread Maul
+  :isUnique: false
+- :name: 
+  :base: Karui Maul
+  :isUnique: false
+- :name: 
+  :base: Colossus Mallet
+  :isUnique: false
+- :name: 
+  :base: Piledriver
+  :isUnique: false
+- :name: 
+  :base: Meatgrinder
+  :isUnique: false
+- :name: 
+  :base: Imperial Maul
+  :isUnique: false
+- :name: 
+  :base: Terror Maul
+  :isUnique: false
+- :name: 
+  :base: Tribal Maul
+  :isUnique: false
+- :name: 
+  :base: Mallet
+  :isUnique: false
+- :name: 
+  :base: Sledgehammer
+  :isUnique: false
+- :name: 
+  :base: Jagged Maul
+  :isUnique: false
+- :name: 
+  :base: Brass Maul
+  :isUnique: false
+- :name: 
+  :base: Fright Maul
+  :isUnique: false
+- :name: 
+  :base: Totemic Maul
+  :isUnique: false
+- :name: 
+  :base: Great Mallet
+  :isUnique: false
+- :name: 
+  :base: Morning Star
+  :isUnique: false
+- :name: 
+  :base: Solar Maul
+  :isUnique: false
+- :name: 
+  :base: Coronal Maul
+  :isUnique: false
+- :name: 
+  :base: Corroded Blade
+  :isUnique: false
+- :name: 
+  :base: Highland Blade
+  :isUnique: false
+- :name: 
+  :base: Engraved Greatsword
+  :isUnique: false
+- :name: 
+  :base: Tiger Sword
+  :isUnique: false
+- :name: 
+  :base: Wraith Sword
+  :isUnique: false
+- :name: 
+  :base: Headman's Sword
+  :isUnique: false
+- :name: 
+  :base: Reaver Sword
+  :isUnique: false
+- :name: 
+  :base: Ezomyte Blade
+  :isUnique: false
+- :name: 
+  :base: Vaal Greatsword
+  :isUnique: false
+- :name: 
+  :base: Lion Sword
+  :isUnique: false
+- :name: 
+  :base: Infernal Sword
+  :isUnique: false
+- :name: 
+  :base: Longsword
+  :isUnique: false
+- :name: 
+  :base: Bastard Sword
+  :isUnique: false
+- :name: 
+  :base: Two-Handed Sword
+  :isUnique: false
+- :name: 
+  :base: Etched Greatsword
+  :isUnique: false
+- :name: 
+  :base: Ornate Sword
+  :isUnique: false
+- :name: 
+  :base: Spectral Sword
+  :isUnique: false
+- :name: 
+  :base: Butcher Sword
+  :isUnique: false
+- :name: 
+  :base: Footman Sword
+  :isUnique: false
+- :name: 
+  :base: Curved Blade
+  :isUnique: false
+- :name: 
+  :base: Lithe Blade
+  :isUnique: false
+- :name: 
+  :base: Exquisite Blade
+  :isUnique: false
 - :name: 
   :base: Ambush Leaguestone
   :isUnique: false
@@ -7277,6 +8654,9 @@
 - :name: The Forgotten Garrison
   :base: Prophecy
   :isUnique: false
+- :name: Song of the Sekhema
+  :base: Prophecy
+  :isUnique: false
 - :name: The Queen's Vaults
   :base: Prophecy
   :isUnique: false
@@ -7292,7 +8672,16 @@
 - :name: Beyond Sight IV
   :base: Prophecy
   :isUnique: false
+- :name: Cold Blooded Fury
+  :base: Prophecy
+  :isUnique: false
 - :name: Reforged Bonds
+  :base: Prophecy
+  :isUnique: false
+- :name: Last of the Wildmen
+  :base: Prophecy
+  :isUnique: false
+- :name: Cold Greed
   :base: Prophecy
   :isUnique: false
 - :name: A Valuable Combination
@@ -7334,6 +8723,15 @@
 - :name: Deadly Rivalry V
   :base: Prophecy
   :isUnique: false
+- :name: The Malevolent Witch
+  :base: Prophecy
+  :isUnique: false
+- :name: Burning Dread
+  :base: Prophecy
+  :isUnique: false
+- :name: Agony at Dusk
+  :base: Prophecy
+  :isUnique: false
 - :name: The Wealthy Exile
   :base: Prophecy
   :isUnique: false
@@ -7343,13 +8741,34 @@
 - :name: Fallow At Last
   :base: Prophecy
   :isUnique: false
+- :name: Trapped in the Tower
+  :base: Prophecy
+  :isUnique: false
+- :name: Dark Instincts
+  :base: Prophecy
+  :isUnique: false
 - :name: Plague of Frogs
+  :base: Prophecy
+  :isUnique: false
+- :name: Black Devotion
   :base: Prophecy
   :isUnique: false
 - :name: Pools of Wealth
   :base: Prophecy
   :isUnique: false
+- :name: Crimson Hues
+  :base: Prophecy
+  :isUnique: false
+- :name: A Vision of Ice and Fire
+  :base: Prophecy
+  :isUnique: false
 - :name: The Blacksmith
+  :base: Prophecy
+  :isUnique: false
+- :name: A Dishonourable Death
+  :base: Prophecy
+  :isUnique: false
+- :name: End of the Light
   :base: Prophecy
   :isUnique: false
 - :name: Nemesis of Greed
@@ -7457,6 +8876,9 @@
 - :name: Ancient Doom
   :base: Prophecy
   :isUnique: false
+- :name: The Nightmare Awakens
+  :base: Prophecy
+  :isUnique: false
 - :name: The Dreamer's Dream
   :base: Prophecy
   :isUnique: false
@@ -7557,6 +8979,9 @@
   :base: Prophecy
   :isUnique: false
 - :name: Forceful Exorcism
+  :base: Prophecy
+  :isUnique: false
+- :name: The Fall of an Empire
   :base: Prophecy
   :isUnique: false
 - :name: The Last Watch
@@ -7703,6 +9128,9 @@
 - :name: Kalandra's Craft
   :base: Prophecy
   :isUnique: false
+- :name: The Dreaded Rhoa
+  :base: Prophecy
+  :isUnique: false
 - :name: Fated Connections
   :base: Prophecy
   :isUnique: false
@@ -7724,6 +9152,9 @@
 - :name: Waiting in Ambush
   :base: Prophecy
   :isUnique: false
+- :name: Sun's Punishment
+  :base: Prophecy
+  :isUnique: false
 - :name: The Ambitious Bandit I
   :base: Prophecy
   :isUnique: false
@@ -7731,6 +9162,9 @@
   :base: Prophecy
   :isUnique: false
 - :name: The Ambitious Bandit III
+  :base: Prophecy
+  :isUnique: false
+- :name: Dance of Steel
   :base: Prophecy
   :isUnique: false
 - :name: The Feral Lord I
@@ -7746,6 +9180,15 @@
   :base: Prophecy
   :isUnique: false
 - :name: The Feral Lord V
+  :base: Prophecy
+  :isUnique: false
+- :name: Blind Faith
+  :base: Prophecy
+  :isUnique: false
+- :name: The Great Mind of the North
+  :base: Prophecy
+  :isUnique: false
+- :name: The Great Leader of the North
   :base: Prophecy
   :isUnique: false
 - :name: The Plaguemaw I
@@ -7764,6 +9207,9 @@
   :base: Prophecy
   :isUnique: false
 - :name: The Stockkeeper
+  :base: Prophecy
+  :isUnique: false
+- :name: The Storm Spire
   :base: Prophecy
   :isUnique: false
 - :name: The Unbreathing Queen I
@@ -7794,6 +9240,9 @@
   :base: Prophecy
   :isUnique: false
 - :name: The Lost Maps
+  :base: Prophecy
+  :isUnique: false
+- :name: A Rift in Time
   :base: Prophecy
   :isUnique: false
 - :name: The Singular Spirit
@@ -7859,1158 +9308,9 @@
 - :name: The Forgotten Soldiers
   :base: Prophecy
   :isUnique: false
-- :name: 
-  :base: Abandoned Wealth
-  :isUnique: false
-- :name: 
-  :base: A Mother's Parting Gift
-  :isUnique: false
-- :name: 
-  :base: Anarchy's Price
-  :isUnique: false
-- :name: 
-  :base: Assassin's Favour
-  :isUnique: false
-- :name: 
-  :base: Atziri's Arsenal
-  :isUnique: false
-- :name: 
-  :base: Audacity
-  :isUnique: false
-- :name: 
-  :base: Birth of the Three
-  :isUnique: false
-- :name: 
-  :base: Blind Venture
-  :isUnique: false
-- :name: 
-  :base: Boundless Realms
-  :isUnique: false
-- :name: 
-  :base: Bowyer's Dream
-  :isUnique: false
-- :name: 
-  :base: Call to the First Ones
-  :isUnique: false
-- :name: 
-  :base: Cartographer's Delight
-  :isUnique: false
-- :name: 
-  :base: Chaotic Disposition
-  :isUnique: false
-- :name: 
-  :base: Coveted Possession
-  :isUnique: false
-- :name: 
-  :base: Death
-  :isUnique: false
-- :name: 
-  :base: Destined to Crumble
-  :isUnique: false
-- :name: 
-  :base: Dialla's Subjugation
-  :isUnique: false
-- :name: 
-  :base: Doedre's Madness
-  :isUnique: false
-- :name: 
-  :base: Dying Anguish
-  :isUnique: false
-- :name: 
-  :base: Earth Drinker
-  :isUnique: false
-- :name: 
-  :base: Emperor of Purity
-  :isUnique: false
-- :name: 
-  :base: Emperor's Luck
-  :isUnique: false
-- :name: 
-  :base: Gemcutter's Promise
-  :isUnique: false
-- :name: 
-  :base: Gift of the Gemling Queen
-  :isUnique: false
-- :name: 
-  :base: Glimmer of Hope
-  :isUnique: false
-- :name: 
-  :base: Grave Knowledge
-  :isUnique: false
-- :name: 
-  :base: Her Mask
-  :isUnique: false
-- :name: 
-  :base: Heterochromia
-  :isUnique: false
-- :name: 
-  :base: Hope
-  :isUnique: false
-- :name: 
-  :base: House of Mirrors
-  :isUnique: false
-- :name: 
-  :base: Hubris
-  :isUnique: false
-- :name: 
-  :base: Humility
-  :isUnique: false
-- :name: 
-  :base: Hunter's Resolve
-  :isUnique: false
-- :name: 
-  :base: Hunter's Reward
-  :isUnique: false
-- :name: 
-  :base: Jack in the Box
-  :isUnique: false
-- :name: 
-  :base: Lantador's Lost Love
-  :isUnique: false
-- :name: 
-  :base: Last Hope
-  :isUnique: false
-- :name: 
-  :base: Left to Fate
-  :isUnique: false
-- :name: 
-  :base: Light and Truth
-  :isUnique: false
-- :name: 
-  :base: Lingering Remnants
-  :isUnique: false
-- :name: 
-  :base: Lost Worlds
-  :isUnique: false
-- :name: 
-  :base: Loyalty
-  :isUnique: false
-- :name: 
-  :base: Lucky Connections
-  :isUnique: false
-- :name: 
-  :base: Lucky Deck
-  :isUnique: false
-- :name: 
-  :base: Lysah's Respite
-  :isUnique: false
-- :name: 
-  :base: Mawr Blaidd
-  :isUnique: false
-- :name: 
-  :base: Merciless Armament
-  :isUnique: false
-- :name: 
-  :base: Might is Right
-  :isUnique: false
-- :name: 
-  :base: Mitts
-  :isUnique: false
-- :name: 
-  :base: No Traces
-  :isUnique: false
-- :name: 
-  :base: Pride Before the Fall
-  :isUnique: false
-- :name: 
-  :base: Prosperity
-  :isUnique: false
-- :name: 
-  :base: Rain of Chaos
-  :isUnique: false
-- :name: 
-  :base: Rain Tempter
-  :isUnique: false
-- :name: 
-  :base: Rats
-  :isUnique: false
-- :name: 
-  :base: Rebirth
-  :isUnique: false
-- :name: 
-  :base: Scholar of the Seas
-  :isUnique: false
-- :name: 
-  :base: Shard of Fate
-  :isUnique: false
-- :name: 
-  :base: Struck by Lightning
-  :isUnique: false
-- :name: 
-  :base: The Aesthete
-  :isUnique: false
-- :name: 
-  :base: The Arena Champion
-  :isUnique: false
-- :name: 
-  :base: The Artist
-  :isUnique: false
-- :name: 
-  :base: The Avenger
-  :isUnique: false
-- :name: 
-  :base: The Battle Born
-  :isUnique: false
-- :name: 
-  :base: The Betrayal
-  :isUnique: false
-- :name: 
-  :base: The Blazing Fire
-  :isUnique: false
-- :name: 
-  :base: The Body
-  :isUnique: false
-- :name: 
-  :base: The Brittle Emperor
-  :isUnique: false
-- :name: 
-  :base: The Calling
-  :isUnique: false
-- :name: 
-  :base: The Carrion Crow
-  :isUnique: false
-- :name: 
-  :base: The Cartographer
-  :isUnique: false
-- :name: 
-  :base: The Cataclysm
-  :isUnique: false
-- :name: 
-  :base: The Catalyst
-  :isUnique: false
-- :name: 
-  :base: The Celestial Justicar
-  :isUnique: false
-- :name: 
-  :base: The Chains that Bind
-  :isUnique: false
-- :name: 
-  :base: The Coming Storm
-  :isUnique: false
-- :name: 
-  :base: The Conduit
-  :isUnique: false
-- :name: 
-  :base: The Cursed King
-  :isUnique: false
-- :name: 
-  :base: The Dapper Prodigy
-  :isUnique: false
-- :name: 
-  :base: The Dark Mage
-  :isUnique: false
-- :name: 
-  :base: The Demoness
-  :isUnique: false
-- :name: 
-  :base: The Doctor
-  :isUnique: false
-- :name: 
-  :base: The Doppelganger
-  :isUnique: false
-- :name: 
-  :base: The Dragon
-  :isUnique: false
-- :name: 
-  :base: The Dragon's Heart
-  :isUnique: false
-- :name: 
-  :base: The Drunken Aristocrat
-  :isUnique: false
-- :name: 
-  :base: The Encroaching Darkness
-  :isUnique: false
-- :name: 
-  :base: The Endurance
-  :isUnique: false
-- :name: 
-  :base: The Enlightened
-  :isUnique: false
-- :name: 
-  :base: The Ethereal
-  :isUnique: false
-- :name: 
-  :base: The Explorer
-  :isUnique: false
-- :name: 
-  :base: The Eye of the Dragon
-  :isUnique: false
-- :name: 
-  :base: The Feast
-  :isUnique: false
-- :name: 
-  :base: The Fiend
-  :isUnique: false
-- :name: 
-  :base: The Fletcher
-  :isUnique: false
-- :name: 
-  :base: The Flora's Gift
-  :isUnique: false
-- :name: 
-  :base: The Formless Sea
-  :isUnique: false
-- :name: 
-  :base: The Forsaken
-  :isUnique: false
-- :name: 
-  :base: The Fox
-  :isUnique: false
-- :name: 
-  :base: The Gambler
-  :isUnique: false
-- :name: 
-  :base: The Garish Power
-  :isUnique: false
-- :name: 
-  :base: The Gemcutter
-  :isUnique: false
-- :name: 
-  :base: The Gentleman
-  :isUnique: false
-- :name: 
-  :base: The Gladiator
-  :isUnique: false
-- :name: 
-  :base: The Harvester
-  :isUnique: false
-- :name: 
-  :base: The Hermit
-  :isUnique: false
-- :name: 
-  :base: The Hoarder
-  :isUnique: false
-- :name: 
-  :base: The Hunger
-  :isUnique: false
-- :name: 
-  :base: The Immortal
-  :isUnique: false
-- :name: 
-  :base: The Incantation
-  :isUnique: false
-- :name: 
-  :base: The Inoculated
-  :isUnique: false
-- :name: 
-  :base: The Inventor
-  :isUnique: false
-- :name: 
-  :base: The Jester
-  :isUnique: false
-- :name: 
-  :base: The King's Blade
-  :isUnique: false
-- :name: 
-  :base: The King's Heart
-  :isUnique: false
-- :name: 
-  :base: The Last One Standing
-  :isUnique: false
-- :name: 
-  :base: The Lich
-  :isUnique: false
-- :name: 
-  :base: The Lion
-  :isUnique: false
-- :name: 
-  :base: The Lord in Black
-  :isUnique: false
-- :name: 
-  :base: The Lover
-  :isUnique: false
-- :name: 
-  :base: The Lunaris Priestess
-  :isUnique: false
-- :name: 
-  :base: The Mercenary
-  :isUnique: false
-- :name: 
-  :base: The Metalsmith's Gift
-  :isUnique: false
-- :name: 
-  :base: The Oath
-  :isUnique: false
-- :name: 
-  :base: The Offering
-  :isUnique: false
-- :name: 
-  :base: The One With All
-  :isUnique: false
-- :name: 
-  :base: The Opulent
-  :isUnique: false
-- :name: 
-  :base: The Pack Leader
-  :isUnique: false
-- :name: 
-  :base: The Pact
-  :isUnique: false
-- :name: 
-  :base: The Penitent
-  :isUnique: false
-- :name: 
-  :base: The Poet
-  :isUnique: false
-- :name: 
-  :base: The Polymath
-  :isUnique: false
-- :name: 
-  :base: The Porcupine
-  :isUnique: false
-- :name: 
-  :base: The Queen
-  :isUnique: false
-- :name: 
-  :base: The Rabid Rhoa
-  :isUnique: false
-- :name: 
-  :base: The Realm
-  :isUnique: false
-- :name: 
-  :base: The Risk
-  :isUnique: false
-- :name: 
-  :base: The Road to Power
-  :isUnique: false
-- :name: 
-  :base: The Ruthless Ceinture
-  :isUnique: false
-- :name: 
-  :base: The Saint's Treasure
-  :isUnique: false
-- :name: 
-  :base: The Scarred Meadow
-  :isUnique: false
-- :name: 
-  :base: The Scavenger
-  :isUnique: false
-- :name: 
-  :base: The Scholar
-  :isUnique: false
-- :name: 
-  :base: The Sephirot
-  :isUnique: false
-- :name: 
-  :base: The Sigil
-  :isUnique: false
-- :name: 
-  :base: The Siren
-  :isUnique: false
-- :name: 
-  :base: The Soul
-  :isUnique: false
-- :name: 
-  :base: The Spark and the Flame
-  :isUnique: false
-- :name: 
-  :base: The Spoiled Prince
-  :isUnique: false
-- :name: 
-  :base: The Standoff
-  :isUnique: false
-- :name: 
-  :base: The Stormcaller
-  :isUnique: false
-- :name: 
-  :base: The Summoner
-  :isUnique: false
-- :name: 
-  :base: The Sun
-  :isUnique: false
-- :name: 
-  :base: The Surgeon
-  :isUnique: false
-- :name: 
-  :base: The Surveyor
-  :isUnique: false
-- :name: 
-  :base: The Survivalist
-  :isUnique: false
-- :name: 
-  :base: The Thaumaturgist
-  :isUnique: false
-- :name: 
-  :base: The Throne
-  :isUnique: false
-- :name: 
-  :base: The Tower
-  :isUnique: false
-- :name: 
-  :base: The Traitor
-  :isUnique: false
-- :name: 
-  :base: The Trial
-  :isUnique: false
-- :name: 
-  :base: The Twins
-  :isUnique: false
-- :name: 
-  :base: The Tyrant
-  :isUnique: false
-- :name: 
-  :base: The Union
-  :isUnique: false
-- :name: 
-  :base: The Valkyrie
-  :isUnique: false
-- :name: 
-  :base: The Valley of Steel Boxes
-  :isUnique: false
-- :name: 
-  :base: The Vast
-  :isUnique: false
-- :name: 
-  :base: The Visionary
-  :isUnique: false
-- :name: 
-  :base: The Void
-  :isUnique: false
-- :name: 
-  :base: The Warden
-  :isUnique: false
-- :name: 
-  :base: The Warlord
-  :isUnique: false
-- :name: 
-  :base: The Watcher
-  :isUnique: false
-- :name: 
-  :base: The Web
-  :isUnique: false
-- :name: 
-  :base: The Wind
-  :isUnique: false
-- :name: 
-  :base: The Wolf
-  :isUnique: false
-- :name: 
-  :base: The Wolf's Shadow
-  :isUnique: false
-- :name: 
-  :base: The Wolven King's Bite
-  :isUnique: false
-- :name: 
-  :base: The Wolverine
-  :isUnique: false
-- :name: 
-  :base: The Wrath
-  :isUnique: false
-- :name: 
-  :base: The Wretched
-  :isUnique: false
-- :name: 
-  :base: Three Faces in the Dark
-  :isUnique: false
-- :name: 
-  :base: Thunderous Skies
-  :isUnique: false
-- :name: 
-  :base: Time-Lost Relic
-  :isUnique: false
-- :name: 
-  :base: Tranquillity
-  :isUnique: false
-- :name: 
-  :base: Treasure Hunter
-  :isUnique: false
-- :name: 
-  :base: Turn the Other Cheek
-  :isUnique: false
-- :name: 
-  :base: Vinia's Token
-  :isUnique: false
-- :name: 
-  :base: Volatile Power
-  :isUnique: false
-- :name: 
-  :base: Wealth and Power
-  :isUnique: false
-- :name: First Piece of the Arcane
-  :base: Legion Sword Piece
-  :isUnique: true
-- :name: First Piece of Brutality
-  :base: Imperial Staff Piece
-  :isUnique: true
-- :name: First Piece of Directions
-  :base: Blunt Arrow Quiver Piece
-  :isUnique: true
-- :name: First Piece of Focus
-  :base: Archon Kite Shield Piece
-  :isUnique: true
-- :name: First Piece of Storms
-  :base: Callous Mask Piece
-  :isUnique: true
-- :name: First Piece of Time
-  :base: Cloth Belt Piece
-  :isUnique: true
-- :name: Fourth Piece of Focus
-  :base: Archon Kite Shield Piece
-  :isUnique: true
-- :name: Second Piece of the Arcane
-  :base: Legion Sword Piece
-  :isUnique: true
-- :name: Second Piece of Brutality
-  :base: Imperial Staff Piece
-  :isUnique: true
-- :name: Second Piece of Directions
-  :base: Blunt Arrow Quiver Piece
-  :isUnique: true
-- :name: Second Piece of Focus
-  :base: Archon Kite Shield Piece
-  :isUnique: true
-- :name: Second Piece of Storms
-  :base: Callous Mask Piece
-  :isUnique: true
-- :name: Second Piece of Time
-  :base: Cloth Belt Piece
-  :isUnique: true
-- :name: Third Piece of the Arcane
-  :base: Legion Sword Piece
-  :isUnique: true
-- :name: Third Piece of Brutality
-  :base: Imperial Staff Piece
-  :isUnique: true
-- :name: Third Piece of Directions
-  :base: Blunt Arrow Quiver Piece
-  :isUnique: true
-- :name: Third Piece of Focus
-  :base: Archon Kite Shield Piece
-  :isUnique: true
-- :name: Third Piece of Storms
-  :base: Callous Mask Piece
-  :isUnique: true
-- :name: 
-  :base: Apprentice Cartographer's Sextant
-  :isUnique: false
-- :name: 
-  :base: Master Cartographer's Sextant
-  :isUnique: false
-- :name: 
-  :base: Journeyman Cartographer's Sextant
-  :isUnique: false
-- :name: 
-  :base: Orb of Augmentation
-  :isUnique: false
-- :name: 
-  :base: Exalted Orb
-  :isUnique: false
-- :name: 
-  :base: Exalted Shard
-  :isUnique: false
-- :name: 
-  :base: Armourer's Scrap
-  :isUnique: false
-- :name: 
-  :base: Splinter of Chayula
-  :isUnique: false
-- :name: 
-  :base: Splinter of Tul
-  :isUnique: false
-- :name: 
-  :base: Splinter of Xoph
-  :isUnique: false
-- :name: 
-  :base: Splinter of Esh
-  :isUnique: false
-- :name: 
-  :base: Splinter of Uul-Netol
-  :isUnique: false
-- :name: 
-  :base: Blessing of Chayula
-  :isUnique: false
-- :name: 
-  :base: Blessing of Tul
-  :isUnique: false
-- :name: 
-  :base: Blessing of Xoph
-  :isUnique: false
-- :name: 
-  :base: Blessing of Esh
-  :isUnique: false
-- :name: 
-  :base: Blessing of Uul-Netol
-  :isUnique: false
-- :name: 
-  :base: Orb of Scouring
-  :isUnique: false
-- :name: 
-  :base: Vaal Orb
-  :isUnique: false
-- :name: 
-  :base: Remnant of Corruption
-  :isUnique: false
-- :name: 
-  :base: Mirror of Kalandra
-  :isUnique: false
-- :name: 
-  :base: Mirror Shard
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Anger
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Anger
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Anger
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Anger
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Anger
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Anger
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Anguish
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Anguish
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Anguish
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Anguish
-  :isUnique: false
-- :name: 
-  :base: Whispering Essence of Contempt
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Contempt
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Contempt
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Contempt
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Contempt
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Contempt
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Contempt
-  :isUnique: false
-- :name: 
-  :base: Essence of Delirium
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Doubt
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Doubt
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Doubt
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Doubt
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Doubt
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Dread
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Dread
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Dread
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Envy
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Envy
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Envy
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Fear
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Fear
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Fear
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Fear
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Fear
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Fear
-  :isUnique: false
-- :name: 
-  :base: Whispering Essence of Greed
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Greed
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Greed
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Greed
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Greed
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Greed
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Greed
-  :isUnique: false
-- :name: 
-  :base: Whispering Essence of Hatred
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Hatred
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Hatred
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Hatred
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Hatred
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Hatred
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Hatred
-  :isUnique: false
-- :name: 
-  :base: Essence of Horror
-  :isUnique: false
-- :name: 
-  :base: Essence of Hysteria
-  :isUnique: false
-- :name: 
-  :base: Essence of Insanity
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Loathing
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Loathing
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Loathing
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Loathing
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Misery
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Misery
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Misery
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Rage
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Rage
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Rage
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Rage
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Rage
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Scorn
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Scorn
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Scorn
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Sorrow
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Sorrow
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Sorrow
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Sorrow
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Sorrow
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Sorrow
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Spite
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Spite
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Spite
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Spite
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Suffering
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Suffering
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Suffering
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Suffering
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Suffering
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Torment
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Torment
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Torment
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Torment
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Torment
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Torment
-  :isUnique: false
-- :name: 
-  :base: Whispering Essence of Woe
-  :isUnique: false
-- :name: 
-  :base: Muttering Essence of Woe
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Woe
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Woe
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Woe
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Woe
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Woe
-  :isUnique: false
-- :name: 
-  :base: Weeping Essence of Wrath
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Wrath
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Wrath
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Wrath
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Wrath
-  :isUnique: false
-- :name: 
-  :base: Wailing Essence of Zeal
-  :isUnique: false
-- :name: 
-  :base: Screaming Essence of Zeal
-  :isUnique: false
-- :name: 
-  :base: Shrieking Essence of Zeal
-  :isUnique: false
-- :name: 
-  :base: Deafening Essence of Zeal
-  :isUnique: false
-- :name: 
-  :base: Glassblower's Bauble
-  :isUnique: false
-- :name: 
-  :base: Gemcutter's Prism
-  :isUnique: false
-- :name: 
-  :base: Scroll of Wisdom
-  :isUnique: false
-- :name: 
-  :base: Scroll Fragment
-  :isUnique: false
-- :name: 
-  :base: Imprint
-  :isUnique: false
-- :name: 
-  :base: Eternal Orb
-  :isUnique: false
-- :name: 
-  :base: Cartographer's Chisel
-  :isUnique: false
-- :name: 
-  :base: Divine Orb
-  :isUnique: false
-- :name: 
-  :base: Orb of Regret
-  :isUnique: false
-- :name: 
-  :base: Perandus Coin
-  :isUnique: false
-- :name: 
-  :base: Portal Scroll
-  :isUnique: false
-- :name: 
-  :base: Orb of Annulment
-  :isUnique: false
-- :name: 
-  :base: Annulment Shard
-  :isUnique: false
-- :name: 
-  :base: Blessed Orb
-  :isUnique: false
-- :name: 
-  :base: Orb of Alteration
-  :isUnique: false
-- :name: 
-  :base: Alteration Shard
-  :isUnique: false
-- :name: 
-  :base: Orb of Horizons
-  :isUnique: false
-- :name: 
-  :base: Horizon Shard
-  :isUnique: false
-- :name: 
-  :base: Chaos Orb
-  :isUnique: false
-- :name: 
-  :base: Chaos Shard
-  :isUnique: false
-- :name: 
-  :base: Chromatic Orb
-  :isUnique: false
-- :name: 
-  :base: Orb of Fusing
-  :isUnique: false
-- :name: 
-  :base: Jeweller's Orb
-  :isUnique: false
-- :name: 
-  :base: Ancient Orb
-  :isUnique: false
-- :name: 
-  :base: Ancient Shard
-  :isUnique: false
-- :name: 
-  :base: Unshaping Orb
-  :isUnique: false
-- :name: 
-  :base: Albino Rhoa Feather
-  :isUnique: false
-- :name: 
-  :base: Master Cartographer's Seal
-  :isUnique: false
-- :name: 
-  :base: Apprentice Cartographer's Seal
-  :isUnique: false
-- :name: 
-  :base: Journeyman Cartographer's Seal
-  :isUnique: false
-- :name: 
-  :base: Silver Coin
-  :isUnique: false
-- :name: 
-  :base: Engineer's Orb
-  :isUnique: false
-- :name: 
-  :base: Engineer's Shard
-  :isUnique: false
-- :name: 
-  :base: Regal Orb
-  :isUnique: false
-- :name: 
-  :base: Regal Shard
-  :isUnique: false
-- :name: 
-  :base: Harbinger's Orb
-  :isUnique: false
-- :name: 
-  :base: Harbinger's Shard
-  :isUnique: false
-- :name: 
-  :base: Orb of Chance
-  :isUnique: false
-- :name: 
-  :base: Orb of Transmutation
-  :isUnique: false
-- :name: 
-  :base: Transmutation Shard
-  :isUnique: false
-- :name: 
-  :base: Orb of Alchemy
-  :isUnique: false
-- :name: 
-  :base: Orb of Binding
-  :isUnique: false
-- :name: 
-  :base: Binding Shard
-  :isUnique: false
-- :name: 
-  :base: Alchemy Shard
-  :isUnique: false
-- :name: 
-  :base: Blacksmith's Whetstone
-  :isUnique: false
-- :name: 
-  :base: Stacked Deck
-  :isUnique: false
-- :name: 
-  :base: Cloth Belt Piece
-  :isUnique: false
-- :name: 
-  :base: Callous Mask Piece
-  :isUnique: false
-- :name: 
-  :base: Blunt Arrow Quiver Piece
-  :isUnique: false
-- :name: 
-  :base: Archon Kite Shield Piece
-  :isUnique: false
-- :name: 
-  :base: Imperial Staff Piece
-  :isUnique: false
-- :name: 
-  :base: Legion Sword Piece
+- :name: Darktongue's Shriek
+  :base: Prophecy
+  :isUnique: false
+- :name: Greed's Folly
+  :base: Prophecy
   :isUnique: false
