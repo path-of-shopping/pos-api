@@ -104,7 +104,6 @@ module OfficialPoeTrade
         poe_query['filters']['trade_filters'] = {}
         poe_query['filters']['trade_filters']['filters'] = {}
         poe_query['filters']['trade_filters']['filters']['account'] = {input: @query['trade']['account']} if @query['trade']['account'].present?
-        poe_query['filters']['trade_filters']['filters']['sale_type'] = {option: @query['trade']['saleType']} if @query['trade']['saleType'].present?
 
         if @query['trade']['price'].present?
           poe_query['filters']['trade_filters']['filters']['price'] = {}
