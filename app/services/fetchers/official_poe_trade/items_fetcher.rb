@@ -14,14 +14,29 @@ module OfficialPoeTrade
         req.url ITEMS_JSON_URI
       end
 
-      raw_items = JSON.parse(response.body)['result'].map { |result| result['entries'] }
-      raw_items.flatten!
+      items = JSON.parse(response.body)['result'].map { |result| result['entries'] }
+      items.flatten!
 
-      raw_items.map! { |item| { name: item['name'], base: item['type'], isUnique: item['flags'].present? ? item['flags'].keys.include?(UNIQUE_FLAG) : false } }
+      items.map! { |item| {
+          id: generate_id_for(item['name'], item['type']),
+          name: item['name'],
+          base: item['type'],
+          isUnique: item['flags'].present? ? item['flags'].keys.include?(UNIQUE_FLAG) : false
+      }}
 
-      # Retains uniq
-      # slug an id
-      raw_items.sort_by { |item| "#{item[:base]}_#{item[:name]}" }
+      #items.uniq! { |item| item[:id] }
+      
+      items.sort_by { |item| "#{item[:base]}_#{item[:name]}" }
+    end
+
+  private
+
+    def generate_id_for(name, base)
+      parts = []
+      parts << name if name
+      parts << base if base
+
+      parts.join('-').downcase.gsub(' ', '-').gsub(/[^a-z\-]/, '')
     end
   end
 end
