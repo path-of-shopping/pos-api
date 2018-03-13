@@ -24,7 +24,7 @@ module OfficialPoeTrade
           isUnique: item['flags'].present? ? item['flags'].keys.include?(UNIQUE_FLAG) : false
       }}
 
-      #items.uniq! { |item| item[:id] }
+      items.uniq! { |item| item[:id] }
       
       items.sort_by { |item| "#{item[:base]}_#{item[:name]}" }
     end

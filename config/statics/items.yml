@@ -27,22 +27,6 @@
   :name: 
   :base: Academy Map
   :isUnique: false
-- :id: academy-map
-  :name: 
-  :base: Academy Map
-  :isUnique: false
-- :id: academy-map
-  :name: 
-  :base: Academy Map
-  :isUnique: false
-- :id: academy-map
-  :name: 
-  :base: Academy Map
-  :isUnique: false
-- :id: acid-lakes-map
-  :name: 
-  :base: Acid Lakes Map
-  :isUnique: false
 - :id: acid-lakes-map
   :name: 
   :base: Acid Lakes Map
@@ -199,10 +183,6 @@
   :name: 
   :base: Ancient City Map
   :isUnique: false
-- :id: ancient-city-map
-  :name: 
-  :base: Ancient City Map
-  :isUnique: false
 - :id: ancient-gauntlets
   :name: 
   :base: Ancient Gauntlets
@@ -295,22 +275,6 @@
   :name: 
   :base: Arachnid Nest Map
   :isUnique: false
-- :id: arachnid-nest-map
-  :name: 
-  :base: Arachnid Nest Map
-  :isUnique: false
-- :id: arachnid-nest-map
-  :name: 
-  :base: Arachnid Nest Map
-  :isUnique: false
-- :id: arachnid-nest-map
-  :name: 
-  :base: Arachnid Nest Map
-  :isUnique: false
-- :id: arachnid-tomb-map
-  :name: 
-  :base: Arachnid Tomb Map
-  :isUnique: false
 - :id: arachnid-tomb-map
   :name: 
   :base: Arachnid Tomb Map
@@ -318,18 +282,6 @@
 - :id: arc
   :name: 
   :base: Arc
-  :isUnique: false
-- :id: arcade-map
-  :name: 
-  :base: Arcade Map
-  :isUnique: false
-- :id: arcade-map
-  :name: 
-  :base: Arcade Map
-  :isUnique: false
-- :id: arcade-map
-  :name: 
-  :base: Arcade Map
   :isUnique: false
 - :id: arcade-map
   :name: 
@@ -407,29 +359,9 @@
   :name: 
   :base: Arena Map
   :isUnique: false
-- :id: arena-map
-  :name: 
-  :base: Arena Map
-  :isUnique: false
-- :id: arena-map
-  :name: 
-  :base: Arena Map
-  :isUnique: false
 - :id: arena-plate
   :name: 
   :base: Arena Plate
-  :isUnique: false
-- :id: arid-lake-map
-  :name: 
-  :base: Arid Lake Map
-  :isUnique: false
-- :id: arid-lake-map
-  :name: 
-  :base: Arid Lake Map
-  :isUnique: false
-- :id: arid-lake-map
-  :name: 
-  :base: Arid Lake Map
   :isUnique: false
 - :id: arid-lake-map
   :name: 
@@ -447,37 +379,9 @@
   :name: 
   :base: Armoury Map
   :isUnique: false
-- :id: armoury-map
-  :name: 
-  :base: Armoury Map
-  :isUnique: false
 - :id: arsenal-map
   :name: 
   :base: Arsenal Map
-  :isUnique: false
-- :id: arsenal-map
-  :name: 
-  :base: Arsenal Map
-  :isUnique: false
-- :id: arsenal-map
-  :name: 
-  :base: Arsenal Map
-  :isUnique: false
-- :id: arsenal-map
-  :name: 
-  :base: Arsenal Map
-  :isUnique: false
-- :id: ashen-wood-map
-  :name: 
-  :base: Ashen Wood Map
-  :isUnique: false
-- :id: ashen-wood-map
-  :name: 
-  :base: Ashen Wood Map
-  :isUnique: false
-- :id: ashen-wood-map
-  :name: 
-  :base: Ashen Wood Map
   :isUnique: false
 - :id: ashen-wood-map
   :name: 
@@ -551,26 +455,6 @@
   :name: 
   :base: Atoll Map
   :isUnique: false
-- :id: atoll-map
-  :name: 
-  :base: Atoll Map
-  :isUnique: false
-- :id: atoll-map
-  :name: 
-  :base: Atoll Map
-  :isUnique: false
-- :id: atoll-map
-  :name: 
-  :base: Atoll Map
-  :isUnique: false
-- :id: maelstrm-of-chaos-atoll-map
-  :name: Maelström of Chaos
-  :base: Atoll Map
-  :isUnique: true
-- :id: maelstrm-of-chaos-atoll-map
-  :name: Maelström of Chaos
-  :base: Atoll Map
-  :isUnique: true
 - :id: maelstrm-of-chaos-atoll-map
   :name: Maelström of Chaos
   :base: Atoll Map
@@ -639,10 +523,6 @@
   :name: 
   :base: Barrows Map
   :isUnique: false
-- :id: barrows-map
-  :name: 
-  :base: Barrows Map
-  :isUnique: false
 - :id: basalt-flask
   :name: 
   :base: Basalt Flask
@@ -702,22 +582,6 @@
 - :id: bazaar-map
   :name: 
   :base: Bazaar Map
-  :isUnique: false
-- :id: bazaar-map
-  :name: 
-  :base: Bazaar Map
-  :isUnique: false
-- :id: bazaar-map
-  :name: 
-  :base: Bazaar Map
-  :isUnique: false
-- :id: bazaar-map
-  :name: 
-  :base: Bazaar Map
-  :isUnique: false
-- :id: beach-map
-  :name: 
-  :base: Beach Map
   :isUnique: false
 - :id: beach-map
   :name: 
@@ -923,18 +787,6 @@
   :name: 
   :base: Bog Map
   :isUnique: false
-- :id: bog-map
-  :name: 
-  :base: Bog Map
-  :isUnique: false
-- :id: bog-map
-  :name: 
-  :base: Bog Map
-  :isUnique: false
-- :id: bog-map
-  :name: 
-  :base: Bog Map
-  :isUnique: false
 - :id: bone-armour
   :name: 
   :base: Bone Armour
@@ -963,26 +815,6 @@
   :name: 
   :base: Bone Crypt Map
   :isUnique: false
-- :id: bone-crypt-map
-  :name: 
-  :base: Bone Crypt Map
-  :isUnique: false
-- :id: bone-crypt-map
-  :name: 
-  :base: Bone Crypt Map
-  :isUnique: false
-- :id: bone-crypt-map
-  :name: 
-  :base: Bone Crypt Map
-  :isUnique: false
-- :id: olmecs-sanctum-bone-crypt-map
-  :name: Olmec's Sanctum
-  :base: Bone Crypt Map
-  :isUnique: true
-- :id: olmecs-sanctum-bone-crypt-map
-  :name: Olmec's Sanctum
-  :base: Bone Crypt Map
-  :isUnique: true
 - :id: olmecs-sanctum-bone-crypt-map
   :name: Olmec's Sanctum
   :base: Bone Crypt Map
@@ -1147,10 +979,6 @@
   :name: 
   :base: Burial Chambers Map
   :isUnique: false
-- :id: burial-chambers-map
-  :name: 
-  :base: Burial Chambers Map
-  :isUnique: false
 - :id: burning-arrow
   :name: 
   :base: Burning Arrow
@@ -1195,14 +1023,6 @@
   :name: 
   :base: Caldera Map
   :isUnique: false
-- :id: caldera-map
-  :name: 
-  :base: Caldera Map
-  :isUnique: false
-- :id: caldera-map
-  :name: 
-  :base: Caldera Map
-  :isUnique: false
 - :id: call-to-the-first-ones
   :name: 
   :base: Call to the First Ones
@@ -1231,18 +1051,6 @@
   :name: The Tempest's Binding
   :base: Callous Mask
   :isUnique: true
-- :id: canyon-map
-  :name: 
-  :base: Canyon Map
-  :isUnique: false
-- :id: canyon-map
-  :name: 
-  :base: Canyon Map
-  :isUnique: false
-- :id: canyon-map
-  :name: 
-  :base: Canyon Map
-  :isUnique: false
 - :id: canyon-map
   :name: 
   :base: Canyon Map
@@ -1347,14 +1155,6 @@
   :name: 
   :base: Castle Ruins Map
   :isUnique: false
-- :id: castle-ruins-map
-  :name: 
-  :base: Castle Ruins Map
-  :isUnique: false
-- :id: castle-ruins-map
-  :name: 
-  :base: Castle Ruins Map
-  :isUnique: false
 - :id: skullhead-castle-ruins-map
   :name: Skullhead
   :base: Castle Ruins Map
@@ -1378,30 +1178,6 @@
 - :id: cells-map
   :name: 
   :base: Cells Map
-  :isUnique: false
-- :id: cells-map
-  :name: 
-  :base: Cells Map
-  :isUnique: false
-- :id: cells-map
-  :name: 
-  :base: Cells Map
-  :isUnique: false
-- :id: cells-map
-  :name: 
-  :base: Cells Map
-  :isUnique: false
-- :id: cemetery-map
-  :name: 
-  :base: Cemetery Map
-  :isUnique: false
-- :id: cemetery-map
-  :name: 
-  :base: Cemetery Map
-  :isUnique: false
-- :id: cemetery-map
-  :name: 
-  :base: Cemetery Map
   :isUnique: false
 - :id: cemetery-map
   :name: 
@@ -1499,14 +1275,6 @@
   :name: 
   :base: Channel Map
   :isUnique: false
-- :id: channel-map
-  :name: 
-  :base: Channel Map
-  :isUnique: false
-- :id: channel-map
-  :name: 
-  :base: Channel Map
-  :isUnique: false
 - :id: chaos-orb
   :name: 
   :base: Chaos Orb
@@ -1535,18 +1303,6 @@
   :name: 
   :base: Chateau Map
   :isUnique: false
-- :id: chateau-map
-  :name: 
-  :base: Chateau Map
-  :isUnique: false
-- :id: chateau-map
-  :name: 
-  :base: Chateau Map
-  :isUnique: false
-- :id: the-perandus-manor-chateau-map
-  :name: The Perandus Manor
-  :base: Chateau Map
-  :isUnique: true
 - :id: the-perandus-manor-chateau-map
   :name: The Perandus Manor
   :base: Chateau Map
@@ -1887,18 +1643,6 @@
   :name: 
   :base: Colonnade Map
   :isUnique: false
-- :id: colonnade-map
-  :name: 
-  :base: Colonnade Map
-  :isUnique: false
-- :id: colonnade-map
-  :name: 
-  :base: Colonnade Map
-  :isUnique: false
-- :id: colonnade-map
-  :name: 
-  :base: Colonnade Map
-  :isUnique: false
 - :id: colossal-hybrid-flask
   :name: 
   :base: Colossal Hybrid Flask
@@ -1919,14 +1663,6 @@
   :name: Ahn's Heritage
   :base: Colossal Tower Shield
   :isUnique: true
-- :id: colosseum-map
-  :name: 
-  :base: Colosseum Map
-  :isUnique: false
-- :id: colosseum-map
-  :name: 
-  :base: Colosseum Map
-  :isUnique: false
 - :id: colosseum-map
   :name: 
   :base: Colosseum Map
@@ -2095,14 +1831,6 @@
   :name: 
   :base: Core Map
   :isUnique: false
-- :id: core-map
-  :name: 
-  :base: Core Map
-  :isUnique: false
-- :id: core-map
-  :name: 
-  :base: Core Map
-  :isUnique: false
 - :id: coronal-leather
   :name: 
   :base: Coronal Leather
@@ -2151,38 +1879,10 @@
   :name: 
   :base: Courtyard Map
   :isUnique: false
-- :id: courtyard-map
-  :name: 
-  :base: Courtyard Map
-  :isUnique: false
-- :id: courtyard-map
-  :name: 
-  :base: Courtyard Map
-  :isUnique: false
-- :id: courtyard-map
-  :name: 
-  :base: Courtyard Map
-  :isUnique: false
 - :id: the-vinktar-square-courtyard-map
   :name: The Vinktar Square
   :base: Courtyard Map
   :isUnique: true
-- :id: the-vinktar-square-courtyard-map
-  :name: The Vinktar Square
-  :base: Courtyard Map
-  :isUnique: true
-- :id: coves-map
-  :name: 
-  :base: Coves Map
-  :isUnique: false
-- :id: coves-map
-  :name: 
-  :base: Coves Map
-  :isUnique: false
-- :id: coves-map
-  :name: 
-  :base: Coves Map
-  :isUnique: false
 - :id: coves-map
   :name: 
   :base: Coves Map
@@ -2431,18 +2131,6 @@
   :name: 
   :base: Crystal Ore Map
   :isUnique: false
-- :id: crystal-ore-map
-  :name: 
-  :base: Crystal Ore Map
-  :isUnique: false
-- :id: crystal-ore-map
-  :name: 
-  :base: Crystal Ore Map
-  :isUnique: false
-- :id: crystal-ore-map
-  :name: 
-  :base: Crystal Ore Map
-  :isUnique: false
 - :id: crystal-sceptre
   :name: 
   :base: Crystal Sceptre
@@ -2479,26 +2167,6 @@
   :name: 
   :base: Cursed Crypt Map
   :isUnique: false
-- :id: cursed-crypt-map
-  :name: 
-  :base: Cursed Crypt Map
-  :isUnique: false
-- :id: cursed-crypt-map
-  :name: 
-  :base: Cursed Crypt Map
-  :isUnique: false
-- :id: cursed-crypt-map
-  :name: 
-  :base: Cursed Crypt Map
-  :isUnique: false
-- :id: the-cowards-trial-cursed-crypt-map
-  :name: The Coward's Trial
-  :base: Cursed Crypt Map
-  :isUnique: true
-- :id: the-cowards-trial-cursed-crypt-map
-  :name: The Coward's Trial
-  :base: Cursed Crypt Map
-  :isUnique: true
 - :id: the-cowards-trial-cursed-crypt-map
   :name: The Coward's Trial
   :base: Cursed Crypt Map
@@ -2538,18 +2206,6 @@
 - :id: damage-on-full-life-support
   :name: 
   :base: Damage on Full Life Support
-  :isUnique: false
-- :id: dark-forest-map
-  :name: 
-  :base: Dark Forest Map
-  :isUnique: false
-- :id: dark-forest-map
-  :name: 
-  :base: Dark Forest Map
-  :isUnique: false
-- :id: dark-forest-map
-  :name: 
-  :base: Dark Forest Map
   :isUnique: false
 - :id: dark-forest-map
   :name: 
@@ -2762,18 +2418,6 @@
 - :id: desert-map
   :name: 
   :base: Desert Map
-  :isUnique: false
-- :id: desert-map
-  :name: 
-  :base: Desert Map
-  :isUnique: false
-- :id: desert-map
-  :name: 
-  :base: Desert Map
-  :isUnique: false
-- :id: desert-spring-map
-  :name: 
-  :base: Desert Spring Map
   :isUnique: false
 - :id: desert-spring-map
   :name: 
@@ -2991,34 +2635,10 @@
   :name: 
   :base: Dunes Map
   :isUnique: false
-- :id: dunes-map
-  :name: 
-  :base: Dunes Map
-  :isUnique: false
-- :id: dunes-map
-  :name: 
-  :base: Dunes Map
-  :isUnique: false
-- :id: dunes-map
-  :name: 
-  :base: Dunes Map
-  :isUnique: false
 - :id: pillars-of-arun-dunes-map
   :name: Pillars of Arun
   :base: Dunes Map
   :isUnique: true
-- :id: dungeon-map
-  :name: 
-  :base: Dungeon Map
-  :isUnique: false
-- :id: dungeon-map
-  :name: 
-  :base: Dungeon Map
-  :isUnique: false
-- :id: dungeon-map
-  :name: 
-  :base: Dungeon Map
-  :isUnique: false
 - :id: dungeon-map
   :name: 
   :base: Dungeon Map
@@ -3255,10 +2875,6 @@
   :name: 
   :base: Estuary Map
   :isUnique: false
-- :id: estuary-map
-  :name: 
-  :base: Estuary Map
-  :isUnique: false
 - :id: etched-greatsword
   :name: 
   :base: Etched Greatsword
@@ -3322,14 +2938,6 @@
 - :id: exalted-shard
   :name: 
   :base: Exalted Shard
-  :isUnique: false
-- :id: excavation-map
-  :name: 
-  :base: Excavation Map
-  :isUnique: false
-- :id: excavation-map
-  :name: 
-  :base: Excavation Map
   :isUnique: false
 - :id: excavation-map
   :name: 
@@ -3411,10 +3019,6 @@
   :name: The Surrender
   :base: Ezomyte Tower Shield
   :isUnique: true
-- :id: factory-map
-  :name: 
-  :base: Factory Map
-  :isUnique: false
 - :id: factory-map
   :name: 
   :base: Factory Map
@@ -3579,18 +3183,6 @@
   :name: 
   :base: Flooded Mine Map
   :isUnique: false
-- :id: flooded-mine-map
-  :name: 
-  :base: Flooded Mine Map
-  :isUnique: false
-- :id: flooded-mine-map
-  :name: 
-  :base: Flooded Mine Map
-  :isUnique: false
-- :id: flooded-mine-map
-  :name: 
-  :base: Flooded Mine Map
-  :isUnique: false
 - :id: fluted-bascinet
   :name: 
   :base: Fluted Bascinet
@@ -3602,10 +3194,6 @@
 - :id: forbidden-power
   :name: 
   :base: Forbidden Power
-  :isUnique: false
-- :id: forge-of-the-phoenix-map
-  :name: 
-  :base: Forge of the Phoenix Map
   :isUnique: false
 - :id: forge-of-the-phoenix-map
   :name: 
@@ -3735,18 +3323,6 @@
   :name: 
   :base: Gardens Map
   :isUnique: false
-- :id: gardens-map
-  :name: 
-  :base: Gardens Map
-  :isUnique: false
-- :id: gardens-map
-  :name: 
-  :base: Gardens Map
-  :isUnique: false
-- :id: gardens-map
-  :name: 
-  :base: Gardens Map
-  :isUnique: false
 - :id: gavel
   :name: 
   :base: Gavel
@@ -3791,29 +3367,9 @@
   :name: 
   :base: Geode Map
   :isUnique: false
-- :id: geode-map
-  :name: 
-  :base: Geode Map
-  :isUnique: false
-- :id: geode-map
-  :name: 
-  :base: Geode Map
-  :isUnique: false
 - :id: ghastly-eye-jewel
   :name: 
   :base: Ghastly Eye Jewel
-  :isUnique: false
-- :id: ghetto-map
-  :name: 
-  :base: Ghetto Map
-  :isUnique: false
-- :id: ghetto-map
-  :name: 
-  :base: Ghetto Map
-  :isUnique: false
-- :id: ghetto-map
-  :name: 
-  :base: Ghetto Map
   :isUnique: false
 - :id: ghetto-map
   :name: 
@@ -4115,18 +3671,6 @@
   :name: 
   :base: Gorge Map
   :isUnique: false
-- :id: gorge-map
-  :name: 
-  :base: Gorge Map
-  :isUnique: false
-- :id: gorge-map
-  :name: 
-  :base: Gorge Map
-  :isUnique: false
-- :id: gorge-map
-  :name: 
-  :base: Gorge Map
-  :isUnique: false
 - :id: gouger
   :name: 
   :base: Gouger
@@ -4170,18 +3714,6 @@
 - :id: grave-knowledge
   :name: 
   :base: Grave Knowledge
-  :isUnique: false
-- :id: graveyard-map
-  :name: 
-  :base: Graveyard Map
-  :isUnique: false
-- :id: graveyard-map
-  :name: 
-  :base: Graveyard Map
-  :isUnique: false
-- :id: graveyard-map
-  :name: 
-  :base: Graveyard Map
   :isUnique: false
 - :id: graveyard-map
   :name: 
@@ -4263,18 +3795,6 @@
   :name: 
   :base: Grotto Map
   :isUnique: false
-- :id: grotto-map
-  :name: 
-  :base: Grotto Map
-  :isUnique: false
-- :id: grotto-map
-  :name: 
-  :base: Grotto Map
-  :isUnique: false
-- :id: grotto-map
-  :name: 
-  :base: Grotto Map
-  :isUnique: false
 - :id: ground-slam
   :name: 
   :base: Ground Slam
@@ -4331,10 +3851,6 @@
   :name: Slivertongue
   :base: Harbinger Bow
   :isUnique: true
-- :id: harbinger-map
-  :name: 
-  :base: Harbinger Map
-  :isUnique: false
 - :id: harbinger-map
   :name: 
   :base: Harbinger Map
@@ -4959,10 +4475,6 @@
   :name: 
   :base: Ivory Temple Map
   :isUnique: false
-- :id: ivory-temple-map
-  :name: 
-  :base: Ivory Temple Map
-  :isUnique: false
 - :id: jack-in-the-box
   :name: 
   :base: Jack in the Box
@@ -5095,18 +4607,6 @@
   :name: 
   :base: Jungle Valley Map
   :isUnique: false
-- :id: jungle-valley-map
-  :name: 
-  :base: Jungle Valley Map
-  :isUnique: false
-- :id: jungle-valley-map
-  :name: 
-  :base: Jungle Valley Map
-  :isUnique: false
-- :id: jungle-valley-map
-  :name: 
-  :base: Jungle Valley Map
-  :isUnique: false
 - :id: karui-axe
   :name: 
   :base: Karui Axe
@@ -5195,14 +4695,6 @@
   :name: 
   :base: Lair Map
   :isUnique: false
-- :id: lair-map
-  :name: 
-  :base: Lair Map
-  :isUnique: false
-- :id: lair-of-the-hydra-map
-  :name: 
-  :base: Lair of the Hydra Map
-  :isUnique: false
 - :id: lair-of-the-hydra-map
   :name: 
   :base: Lair of the Hydra Map
@@ -5283,18 +4775,6 @@
   :name: Icetomb
   :base: Latticed Ringmail
   :isUnique: true
-- :id: lava-chamber-map
-  :name: 
-  :base: Lava Chamber Map
-  :isUnique: false
-- :id: lava-chamber-map
-  :name: 
-  :base: Lava Chamber Map
-  :isUnique: false
-- :id: lava-chamber-map
-  :name: 
-  :base: Lava Chamber Map
-  :isUnique: false
 - :id: lava-chamber-map
   :name: 
   :base: Lava Chamber Map
@@ -5431,10 +4911,6 @@
   :name: 
   :base: Leyline Map
   :isUnique: false
-- :id: leyline-map
-  :name: 
-  :base: Leyline Map
-  :isUnique: false
 - :id: life-gain-on-hit-support
   :name: 
   :base: Life Gain on Hit Support
@@ -5454,10 +4930,6 @@
 - :id: light-and-truth
   :name: 
   :base: Light and Truth
-  :isUnique: false
-- :id: lighthouse-map
-  :name: 
-  :base: Lighthouse Map
   :isUnique: false
 - :id: lighthouse-map
   :name: 
@@ -5639,14 +5111,6 @@
   :name: 
   :base: Malformation Map
   :isUnique: false
-- :id: malformation-map
-  :name: 
-  :base: Malformation Map
-  :isUnique: false
-- :id: malformation-map
-  :name: 
-  :base: Malformation Map
-  :isUnique: false
 - :id: mallet
   :name: 
   :base: Mallet
@@ -5679,10 +5143,6 @@
   :name: 
   :base: Marshes Map
   :isUnique: false
-- :id: marshes-map
-  :name: 
-  :base: Marshes Map
-  :isUnique: false
 - :id: master-cartographers-seal
   :name: 
   :base: Master Cartographer's Seal
@@ -5702,22 +5162,6 @@
 - :id: maze-map
   :name: 
   :base: Maze Map
-  :isUnique: false
-- :id: maze-map
-  :name: 
-  :base: Maze Map
-  :isUnique: false
-- :id: maze-map
-  :name: 
-  :base: Maze Map
-  :isUnique: false
-- :id: maze-map
-  :name: 
-  :base: Maze Map
-  :isUnique: false
-- :id: maze-of-the-minotaur-map
-  :name: 
-  :base: Maze of the Minotaur Map
   :isUnique: false
 - :id: maze-of-the-minotaur-map
   :name: 
@@ -5754,10 +5198,6 @@
 - :id: merciless-armament
   :name: 
   :base: Merciless Armament
-  :isUnique: false
-- :id: mesa-map
-  :name: 
-  :base: Mesa Map
   :isUnique: false
 - :id: mesa-map
   :name: 
@@ -5818,10 +5258,6 @@
 - :id: minefield-support
   :name: 
   :base: Minefield Support
-  :isUnique: false
-- :id: mineral-pools-map
-  :name: 
-  :base: Mineral Pools Map
   :isUnique: false
 - :id: mineral-pools-map
   :name: 
@@ -5955,18 +5391,6 @@
   :name: 
   :base: Mud Geyser Map
   :isUnique: false
-- :id: mud-geyser-map
-  :name: 
-  :base: Mud Geyser Map
-  :isUnique: false
-- :id: mud-geyser-map
-  :name: 
-  :base: Mud Geyser Map
-  :isUnique: false
-- :id: mud-geyser-map
-  :name: 
-  :base: Mud Geyser Map
-  :isUnique: false
 - :id: multiple-traps-support
   :name: 
   :base: Multiple Traps Support
@@ -6007,22 +5431,6 @@
   :name: 
   :base: Museum Map
   :isUnique: false
-- :id: museum-map
-  :name: 
-  :base: Museum Map
-  :isUnique: false
-- :id: museum-map
-  :name: 
-  :base: Museum Map
-  :isUnique: false
-- :id: museum-map
-  :name: 
-  :base: Museum Map
-  :isUnique: false
-- :id: the-putrid-cloister-museum-map
-  :name: The Putrid Cloister
-  :base: Museum Map
-  :isUnique: true
 - :id: the-putrid-cloister-museum-map
   :name: The Putrid Cloister
   :base: Museum Map
@@ -6095,26 +5503,6 @@
   :name: 
   :base: Necropolis Map
   :isUnique: false
-- :id: necropolis-map
-  :name: 
-  :base: Necropolis Map
-  :isUnique: false
-- :id: necropolis-map
-  :name: 
-  :base: Necropolis Map
-  :isUnique: false
-- :id: necropolis-map
-  :name: 
-  :base: Necropolis Map
-  :isUnique: false
-- :id: death-and-taxes-necropolis-map
-  :name: Death and Taxes
-  :base: Necropolis Map
-  :isUnique: true
-- :id: death-and-taxes-necropolis-map
-  :name: Death and Taxes
-  :base: Necropolis Map
-  :isUnique: true
 - :id: death-and-taxes-necropolis-map
   :name: Death and Taxes
   :base: Necropolis Map
@@ -6327,18 +5715,6 @@
   :name: 
   :base: Orchard Map
   :isUnique: false
-- :id: orchard-map
-  :name: 
-  :base: Orchard Map
-  :isUnique: false
-- :id: orchard-map
-  :name: 
-  :base: Orchard Map
-  :isUnique: false
-- :id: orchard-map
-  :name: 
-  :base: Orchard Map
-  :isUnique: false
 - :id: ornate-mace
   :name: 
   :base: Ornate Mace
@@ -6375,42 +5751,10 @@
   :name: 
   :base: Overgrown Ruin Map
   :isUnique: false
-- :id: overgrown-ruin-map
-  :name: 
-  :base: Overgrown Ruin Map
-  :isUnique: false
-- :id: overgrown-ruin-map
-  :name: 
-  :base: Overgrown Ruin Map
-  :isUnique: false
-- :id: overgrown-ruin-map
-  :name: 
-  :base: Overgrown Ruin Map
-  :isUnique: false
 - :id: overgrown-shrine-map
   :name: 
   :base: Overgrown Shrine Map
   :isUnique: false
-- :id: overgrown-shrine-map
-  :name: 
-  :base: Overgrown Shrine Map
-  :isUnique: false
-- :id: overgrown-shrine-map
-  :name: 
-  :base: Overgrown Shrine Map
-  :isUnique: false
-- :id: overgrown-shrine-map
-  :name: 
-  :base: Overgrown Shrine Map
-  :isUnique: false
-- :id: actons-nightmare-overgrown-shrine-map
-  :name: Acton's Nightmare
-  :base: Overgrown Shrine Map
-  :isUnique: true
-- :id: actons-nightmare-overgrown-shrine-map
-  :name: Acton's Nightmare
-  :base: Overgrown Shrine Map
-  :isUnique: true
 - :id: actons-nightmare-overgrown-shrine-map
   :name: Acton's Nightmare
   :base: Overgrown Shrine Map
@@ -6447,18 +5791,6 @@
   :name: Redblade Banner
   :base: Painted Tower Shield
   :isUnique: true
-- :id: palace-map
-  :name: 
-  :base: Palace Map
-  :isUnique: false
-- :id: palace-map
-  :name: 
-  :base: Palace Map
-  :isUnique: false
-- :id: palace-map
-  :name: 
-  :base: Palace Map
-  :isUnique: false
 - :id: palace-map
   :name: 
   :base: Palace Map
@@ -6519,18 +5851,6 @@
   :name: 
   :base: Peninsula Map
   :isUnique: false
-- :id: peninsula-map
-  :name: 
-  :base: Peninsula Map
-  :isUnique: false
-- :id: peninsula-map
-  :name: 
-  :base: Peninsula Map
-  :isUnique: false
-- :id: peninsula-map
-  :name: 
-  :base: Peninsula Map
-  :isUnique: false
 - :id: perandus-coin
   :name: 
   :base: Perandus Coin
@@ -6551,14 +5871,6 @@
   :name: 
   :base: Phantasmagoria Map
   :isUnique: false
-- :id: phantasmagoria-map
-  :name: 
-  :base: Phantasmagoria Map
-  :isUnique: false
-- :id: phantasmagoria-map
-  :name: 
-  :base: Phantasmagoria Map
-  :isUnique: false
 - :id: phantom-mace
   :name: 
   :base: Phantom Mace
@@ -6574,18 +5886,6 @@
 - :id: physical-to-lightning-support
   :name: 
   :base: Physical to Lightning Support
-  :isUnique: false
-- :id: pier-map
-  :name: 
-  :base: Pier Map
-  :isUnique: false
-- :id: pier-map
-  :name: 
-  :base: Pier Map
-  :isUnique: false
-- :id: pier-map
-  :name: 
-  :base: Pier Map
   :isUnique: false
 - :id: pier-map
   :name: 
@@ -6627,18 +5927,6 @@
   :name: 
   :base: Pit Map
   :isUnique: false
-- :id: pit-map
-  :name: 
-  :base: Pit Map
-  :isUnique: false
-- :id: pit-map
-  :name: 
-  :base: Pit Map
-  :isUnique: false
-- :id: pit-of-the-chimera-map
-  :name: 
-  :base: Pit of the Chimera Map
-  :isUnique: false
 - :id: pit-of-the-chimera-map
   :name: 
   :base: Pit of the Chimera Map
@@ -6671,18 +5959,6 @@
   :name: Wall of Brambles
   :base: Plate Vest
   :isUnique: true
-- :id: plateau-map
-  :name: 
-  :base: Plateau Map
-  :isUnique: false
-- :id: plateau-map
-  :name: 
-  :base: Plateau Map
-  :isUnique: false
-- :id: plateau-map
-  :name: 
-  :base: Plateau Map
-  :isUnique: false
 - :id: plateau-map
   :name: 
   :base: Plateau Map
@@ -6723,14 +5999,6 @@
   :name: 
   :base: Plaza Map
   :isUnique: false
-- :id: plaza-map
-  :name: 
-  :base: Plaza Map
-  :isUnique: false
-- :id: plaza-map
-  :name: 
-  :base: Plaza Map
-  :isUnique: false
 - :id: poachers-mark
   :name: 
   :base: Poacher's Mark
@@ -6758,10 +6026,6 @@
 - :id: polished-spiked-shield
   :name: 
   :base: Polished Spiked Shield
-  :isUnique: false
-- :id: port-map
-  :name: 
-  :base: Port Map
   :isUnique: false
 - :id: port-map
   :name: 
@@ -6807,18 +6071,6 @@
   :name: 
   :base: Precinct Map
   :isUnique: false
-- :id: precinct-map
-  :name: 
-  :base: Precinct Map
-  :isUnique: false
-- :id: precinct-map
-  :name: 
-  :base: Precinct Map
-  :isUnique: false
-- :id: precinct-map
-  :name: 
-  :base: Precinct Map
-  :isUnique: false
 - :id: prehistoric-claw
   :name: 
   :base: Prehistoric Claw
@@ -6838,10 +6090,6 @@
 - :id: primitive-staff
   :name: 
   :base: Primitive Staff
-  :isUnique: false
-- :id: primordial-pool-map
-  :name: 
-  :base: Primordial Pool Map
   :isUnique: false
 - :id: primordial-pool-map
   :name: 
@@ -6899,26 +6147,6 @@
   :name: 
   :base: Promenade Map
   :isUnique: false
-- :id: promenade-map
-  :name: 
-  :base: Promenade Map
-  :isUnique: false
-- :id: promenade-map
-  :name: 
-  :base: Promenade Map
-  :isUnique: false
-- :id: promenade-map
-  :name: 
-  :base: Promenade Map
-  :isUnique: false
-- :id: hall-of-grandmasters-promenade-map
-  :name: Hall of Grandmasters
-  :base: Promenade Map
-  :isUnique: true
-- :id: hall-of-grandmasters-promenade-map
-  :name: Hall of Grandmasters
-  :base: Promenade Map
-  :isUnique: true
 - :id: hall-of-grandmasters-promenade-map
   :name: Hall of Grandmasters
   :base: Promenade Map
@@ -6957,30 +6185,6 @@
   :isUnique: false
 - :id: a-gracious-master-prophecy
   :name: A Gracious Master
-  :base: Prophecy
-  :isUnique: false
-- :id: a-master-seeks-help-prophecy
-  :name: A Master Seeks Help
-  :base: Prophecy
-  :isUnique: false
-- :id: a-master-seeks-help-prophecy
-  :name: A Master Seeks Help
-  :base: Prophecy
-  :isUnique: false
-- :id: a-master-seeks-help-prophecy
-  :name: A Master Seeks Help
-  :base: Prophecy
-  :isUnique: false
-- :id: a-master-seeks-help-prophecy
-  :name: A Master Seeks Help
-  :base: Prophecy
-  :isUnique: false
-- :id: a-master-seeks-help-prophecy
-  :name: A Master Seeks Help
-  :base: Prophecy
-  :isUnique: false
-- :id: a-master-seeks-help-prophecy
-  :name: A Master Seeks Help
   :base: Prophecy
   :isUnique: false
 - :id: a-master-seeks-help-prophecy
@@ -7991,10 +7195,6 @@
   :name: 
   :base: Racecourse Map
   :isUnique: false
-- :id: racecourse-map
-  :name: 
-  :base: Racecourse Map
-  :isUnique: false
 - :id: rain-tempter
   :name: 
   :base: Rain Tempter
@@ -8022,10 +7222,6 @@
 - :id: rampage-leaguestone
   :name: 
   :base: Rampage Leaguestone
-  :isUnique: false
-- :id: ramparts-map
-  :name: 
-  :base: Ramparts Map
   :isUnique: false
 - :id: ramparts-map
   :name: 
@@ -8135,22 +7331,6 @@
   :name: 
   :base: Reef Map
   :isUnique: false
-- :id: reef-map
-  :name: 
-  :base: Reef Map
-  :isUnique: false
-- :id: reef-map
-  :name: 
-  :base: Reef Map
-  :isUnique: false
-- :id: reef-map
-  :name: 
-  :base: Reef Map
-  :isUnique: false
-- :id: mao-kun-reef-map
-  :name: Mao Kun
-  :base: Reef Map
-  :isUnique: true
 - :id: mao-kun-reef-map
   :name: Mao Kun
   :base: Reef Map
@@ -8234,18 +7414,6 @@
 - :id: remote-mine-support
   :name: 
   :base: Remote Mine Support
-  :isUnique: false
-- :id: residence-map
-  :name: 
-  :base: Residence Map
-  :isUnique: false
-- :id: residence-map
-  :name: 
-  :base: Residence Map
-  :isUnique: false
-- :id: residence-map
-  :name: 
-  :base: Residence Map
   :isUnique: false
 - :id: residence-map
   :name: 
@@ -8779,10 +7947,6 @@
   :name: 
   :base: Scriptorium Map
   :isUnique: false
-- :id: scriptorium-map
-  :name: 
-  :base: Scriptorium Map
-  :isUnique: false
 - :id: scroll-fragment
   :name: 
   :base: Scroll Fragment
@@ -9239,18 +8403,6 @@
   :name: 
   :base: Shipyard Map
   :isUnique: false
-- :id: shipyard-map
-  :name: 
-  :base: Shipyard Map
-  :isUnique: false
-- :id: shipyard-map
-  :name: 
-  :base: Shipyard Map
-  :isUnique: false
-- :id: shipyard-map
-  :name: 
-  :base: Shipyard Map
-  :isUnique: false
 - :id: shock-nova
   :name: 
   :base: Shock Nova
@@ -9258,18 +8410,6 @@
 - :id: shockwave-totem
   :name: 
   :base: Shockwave Totem
-  :isUnique: false
-- :id: shore-map
-  :name: 
-  :base: Shore Map
-  :isUnique: false
-- :id: shore-map
-  :name: 
-  :base: Shore Map
-  :isUnique: false
-- :id: shore-map
-  :name: 
-  :base: Shore Map
   :isUnique: false
 - :id: shore-map
   :name: 
@@ -9370,18 +8510,6 @@
 - :id: shrieking-essence-of-zeal
   :name: 
   :base: Shrieking Essence of Zeal
-  :isUnique: false
-- :id: shrine-map
-  :name: 
-  :base: Shrine Map
-  :isUnique: false
-- :id: shrine-map
-  :name: 
-  :base: Shrine Map
-  :isUnique: false
-- :id: shrine-map
-  :name: 
-  :base: Shrine Map
   :isUnique: false
 - :id: shrine-map
   :name: 
@@ -9695,30 +8823,6 @@
   :name: 
   :base: Spider Forest Map
   :isUnique: false
-- :id: spider-forest-map
-  :name: 
-  :base: Spider Forest Map
-  :isUnique: false
-- :id: spider-forest-map
-  :name: 
-  :base: Spider Forest Map
-  :isUnique: false
-- :id: spider-forest-map
-  :name: 
-  :base: Spider Forest Map
-  :isUnique: false
-- :id: spider-lair-map
-  :name: 
-  :base: Spider Lair Map
-  :isUnique: false
-- :id: spider-lair-map
-  :name: 
-  :base: Spider Lair Map
-  :isUnique: false
-- :id: spider-lair-map
-  :name: 
-  :base: Spider Lair Map
-  :isUnique: false
 - :id: spider-lair-map
   :name: 
   :base: Spider Lair Map
@@ -9850,18 +8954,6 @@
 - :id: splitnewt-talisman
   :name: 
   :base: Splitnewt Talisman
-  :isUnique: false
-- :id: springs-map
-  :name: 
-  :base: Springs Map
-  :isUnique: false
-- :id: springs-map
-  :name: 
-  :base: Springs Map
-  :isUnique: false
-- :id: springs-map
-  :name: 
-  :base: Springs Map
   :isUnique: false
 - :id: springs-map
   :name: 
@@ -9999,26 +9091,6 @@
   :name: 
   :base: Strand Map
   :isUnique: false
-- :id: strand-map
-  :name: 
-  :base: Strand Map
-  :isUnique: false
-- :id: strand-map
-  :name: 
-  :base: Strand Map
-  :isUnique: false
-- :id: strand-map
-  :name: 
-  :base: Strand Map
-  :isUnique: false
-- :id: whakawairua-tuahu-strand-map
-  :name: Whakawairua Tuahu
-  :base: Strand Map
-  :isUnique: true
-- :id: whakawairua-tuahu-strand-map
-  :name: Whakawairua Tuahu
-  :base: Strand Map
-  :isUnique: true
 - :id: whakawairua-tuahu-strand-map
   :name: Whakawairua Tuahu
   :base: Strand Map
@@ -10243,26 +9315,6 @@
   :name: 
   :base: Temple Map
   :isUnique: false
-- :id: temple-map
-  :name: 
-  :base: Temple Map
-  :isUnique: false
-- :id: temple-map
-  :name: 
-  :base: Temple Map
-  :isUnique: false
-- :id: temple-map
-  :name: 
-  :base: Temple Map
-  :isUnique: false
-- :id: poorjoys-asylum-temple-map
-  :name: Poorjoy's Asylum
-  :base: Temple Map
-  :isUnique: true
-- :id: poorjoys-asylum-temple-map
-  :name: Poorjoy's Asylum
-  :base: Temple Map
-  :isUnique: true
 - :id: poorjoys-asylum-temple-map
   :name: Poorjoy's Asylum
   :base: Temple Map
@@ -10274,10 +9326,6 @@
 - :id: tenderizer
   :name: 
   :base: Tenderizer
-  :isUnique: false
-- :id: terrace-map
-  :name: 
-  :base: Terrace Map
   :isUnique: false
 - :id: terrace-map
   :name: 
@@ -10831,18 +9879,6 @@
   :name: 
   :base: Thicket Map
   :isUnique: false
-- :id: thicket-map
-  :name: 
-  :base: Thicket Map
-  :isUnique: false
-- :id: thicket-map
-  :name: 
-  :base: Thicket Map
-  :isUnique: false
-- :id: thicket-map
-  :name: 
-  :base: Thicket Map
-  :isUnique: false
 - :id: thiefs-garb
   :name: 
   :base: Thief's Garb
@@ -11015,26 +10051,6 @@
   :name: 
   :base: Torture Chamber Map
   :isUnique: false
-- :id: torture-chamber-map
-  :name: 
-  :base: Torture Chamber Map
-  :isUnique: false
-- :id: torture-chamber-map
-  :name: 
-  :base: Torture Chamber Map
-  :isUnique: false
-- :id: torture-chamber-map
-  :name: 
-  :base: Torture Chamber Map
-  :isUnique: false
-- :id: obas-cursed-trove-torture-chamber-map
-  :name: Oba's Cursed Trove
-  :base: Torture Chamber Map
-  :isUnique: true
-- :id: obas-cursed-trove-torture-chamber-map
-  :name: Oba's Cursed Trove
-  :base: Torture Chamber Map
-  :isUnique: true
 - :id: obas-cursed-trove-torture-chamber-map
   :name: Oba's Cursed Trove
   :base: Torture Chamber Map
@@ -11046,22 +10062,6 @@
 - :id: tower-map
   :name: 
   :base: Tower Map
-  :isUnique: false
-- :id: tower-map
-  :name: 
-  :base: Tower Map
-  :isUnique: false
-- :id: toxic-sewer-map
-  :name: 
-  :base: Toxic Sewer Map
-  :isUnique: false
-- :id: toxic-sewer-map
-  :name: 
-  :base: Toxic Sewer Map
-  :isUnique: false
-- :id: toxic-sewer-map
-  :name: 
-  :base: Toxic Sewer Map
   :isUnique: false
 - :id: toxic-sewer-map
   :name: 
@@ -11147,18 +10147,6 @@
   :name: Farrul's Fur
   :base: Triumphant Lamellar
   :isUnique: true
-- :id: tropical-island-map
-  :name: 
-  :base: Tropical Island Map
-  :isUnique: false
-- :id: tropical-island-map
-  :name: 
-  :base: Tropical Island Map
-  :isUnique: false
-- :id: tropical-island-map
-  :name: 
-  :base: Tropical Island Map
-  :isUnique: false
 - :id: tropical-island-map
   :name: 
   :base: Tropical Island Map
@@ -11267,42 +10255,10 @@
   :name: 
   :base: Underground River Map
   :isUnique: false
-- :id: underground-river-map
-  :name: 
-  :base: Underground River Map
-  :isUnique: false
-- :id: underground-river-map
-  :name: 
-  :base: Underground River Map
-  :isUnique: false
-- :id: underground-river-map
-  :name: 
-  :base: Underground River Map
-  :isUnique: false
 - :id: caer-blaidd-wolfpacks-den-underground-river-map
   :name: Caer Blaidd, Wolfpack's Den
   :base: Underground River Map
   :isUnique: true
-- :id: caer-blaidd-wolfpacks-den-underground-river-map
-  :name: Caer Blaidd, Wolfpack's Den
-  :base: Underground River Map
-  :isUnique: true
-- :id: caer-blaidd-wolfpacks-den-underground-river-map
-  :name: Caer Blaidd, Wolfpack's Den
-  :base: Underground River Map
-  :isUnique: true
-- :id: underground-sea-map
-  :name: 
-  :base: Underground Sea Map
-  :isUnique: false
-- :id: underground-sea-map
-  :name: 
-  :base: Underground Sea Map
-  :isUnique: false
-- :id: underground-sea-map
-  :name: 
-  :base: Underground Sea Map
-  :isUnique: false
 - :id: underground-sea-map
   :name: 
   :base: Underground Sea Map
@@ -11555,26 +10511,6 @@
   :name: 
   :base: Vaal Pyramid Map
   :isUnique: false
-- :id: vaal-pyramid-map
-  :name: 
-  :base: Vaal Pyramid Map
-  :isUnique: false
-- :id: vaal-pyramid-map
-  :name: 
-  :base: Vaal Pyramid Map
-  :isUnique: false
-- :id: vaal-pyramid-map
-  :name: 
-  :base: Vaal Pyramid Map
-  :isUnique: false
-- :id: vaults-of-atziri-vaal-pyramid-map
-  :name: Vaults of Atziri
-  :base: Vaal Pyramid Map
-  :isUnique: true
-- :id: vaults-of-atziri-vaal-pyramid-map
-  :name: Vaults of Atziri
-  :base: Vaal Pyramid Map
-  :isUnique: true
 - :id: vaults-of-atziri-vaal-pyramid-map
   :name: Vaults of Atziri
   :base: Vaal Pyramid Map
@@ -11643,18 +10579,6 @@
   :name: 
   :base: Vaal Temple Map
   :isUnique: false
-- :id: vaal-temple-map
-  :name: 
-  :base: Vaal Temple Map
-  :isUnique: false
-- :id: vaal-temple-map
-  :name: 
-  :base: Vaal Temple Map
-  :isUnique: false
-- :id: vaal-temple-map
-  :name: 
-  :base: Vaal Temple Map
-  :isUnique: false
 - :id: vanguard-belt
   :name: 
   :base: Vanguard Belt
@@ -11675,10 +10599,6 @@
   :name: Carcass Jack
   :base: Varnished Coat
   :isUnique: true
-- :id: vault-map
-  :name: 
-  :base: Vault Map
-  :isUnique: false
 - :id: vault-map
   :name: 
   :base: Vault Map
@@ -11726,18 +10646,6 @@
 - :id: vile-toxins-support
   :name: 
   :base: Vile Toxins Support
-  :isUnique: false
-- :id: villa-map
-  :name: 
-  :base: Villa Map
-  :isUnique: false
-- :id: villa-map
-  :name: 
-  :base: Villa Map
-  :isUnique: false
-- :id: villa-map
-  :name: 
-  :base: Villa Map
   :isUnique: false
 - :id: villa-map
   :name: 
@@ -11971,14 +10879,6 @@
   :name: 
   :base: Volcano Map
   :isUnique: false
-- :id: volcano-map
-  :name: 
-  :base: Volcano Map
-  :isUnique: false
-- :id: volcano-map
-  :name: 
-  :base: Volcano Map
-  :isUnique: false
 - :id: volkuurs-key
   :name: 
   :base: Volkuur's Key
@@ -12115,37 +11015,9 @@
   :name: 
   :base: Waste Pool Map
   :isUnique: false
-- :id: waste-pool-map
-  :name: 
-  :base: Waste Pool Map
-  :isUnique: false
-- :id: waste-pool-map
-  :name: 
-  :base: Waste Pool Map
-  :isUnique: false
-- :id: waste-pool-map
-  :name: 
-  :base: Waste Pool Map
-  :isUnique: false
 - :id: wasteland-map
   :name: 
   :base: Wasteland Map
-  :isUnique: false
-- :id: wasteland-map
-  :name: 
-  :base: Wasteland Map
-  :isUnique: false
-- :id: wasteland-map
-  :name: 
-  :base: Wasteland Map
-  :isUnique: false
-- :id: waterways-map
-  :name: 
-  :base: Waterways Map
-  :isUnique: false
-- :id: waterways-map
-  :name: 
-  :base: Waterways Map
   :isUnique: false
 - :id: waterways-map
   :name: 
@@ -12227,18 +11099,6 @@
   :name: Tipua Kaikohuru
   :base: Whalebone Rapier
   :isUnique: true
-- :id: wharf-map
-  :name: 
-  :base: Wharf Map
-  :isUnique: false
-- :id: wharf-map
-  :name: 
-  :base: Wharf Map
-  :isUnique: false
-- :id: wharf-map
-  :name: 
-  :base: Wharf Map
-  :isUnique: false
 - :id: wharf-map
   :name: 
   :base: Wharf Map
