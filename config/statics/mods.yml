@@ -7210,6 +7210,9 @@
 - :id: explicit.stat_4077035099
   :name: Passives in Radius can be Allocated without being connected to your tree
   :type: explicit
+- :id: explicit.stat_4077843608
+  :name: Has 1 Socket
+  :type: explicit
 - :id: explicit.stat_4077883829
   :name: A Monster in this Area will summon a Unique Monster from Beyond when Slain
   :type: explicit
@@ -8288,6 +8291,9 @@
   :type: explicit
 - :id: explicit.stat_798111687
   :name: You cannot be Shocked while at maximum Endurance Charges
+  :type: explicit
+- :id: explicit.stat_798767971
+  :name: 'Your Maximum Resistances are #%'
   :type: explicit
 - :id: explicit.stat_798853218
   :name: You cannot be Shocked while Frozen

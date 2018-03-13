@@ -19,7 +19,9 @@ module OfficialPoeTrade
 
       raw_items.map! { |item| { name: item['name'], base: item['type'], isUnique: item['flags'].present? ? item['flags'].keys.include?(UNIQUE_FLAG) : false } }
 
-      raw_items.sort_by { |item| item[:name] || "_#{item[:base]}" }
+      # Retains uniq
+      # slug an id
+      raw_items.sort_by { |item| "#{item[:base]}_#{item[:name]}" }
     end
   end
 end
