@@ -3,6 +3,7 @@ module OfficialPoeTrade
     # Constants
     MODS_JSON_BASE_URL = 'https://www.pathofexile.com'.freeze
     MODS_JSON_URI = '/api/trade/data/stats'.freeze
+    MODS_TYPE_ORDER = %w(pseudo explicit implicit crafted enchant monster)
 
     def initialize
       @faraday = Faraday.new(url: MODS_JSON_BASE_URL)
@@ -18,7 +19,7 @@ module OfficialPoeTrade
 
       raw_mods.map! { |mod| { id: mod['id'], name: mod['text'], type: mod['type'] } }
 
-      raw_mods.sort_by { |mod| mod[:id] }
+      raw_mods.sort_by { |mod| "#{MODS_TYPE_ORDER.index(mod[:type])}#{mod[:id]}" }
     end
 
   private

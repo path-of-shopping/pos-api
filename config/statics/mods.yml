@@ -1,1828 +1,256 @@
 ---
-- :id: crafted.stat_1037193709
-  :name: 'Adds # to # Cold Damage (Local)'
-  :type: crafted
-- :id: crafted.stat_1050105434
-  :name: "# to maximum Mana"
-  :type: crafted
-- :id: crafted.stat_1062208444
-  :name: "#% increased Armour (Local)"
-  :type: crafted
-- :id: crafted.stat_1073942215
-  :name: "#% increased Freeze Duration on Enemies"
-  :type: crafted
-- :id: crafted.stat_1086147743
-  :name: "#% increased Ignite Duration on Enemies"
-  :type: crafted
-- :id: crafted.stat_1101403182
-  :name: "#% increased Damage taken from Damage Over Time"
-  :type: crafted
-- :id: crafted.stat_1133016593
-  :name: 'Adds # to # Fire Damage to Spells'
-  :type: crafted
-- :id: crafted.stat_1149326139
-  :name: Cannot roll Caster Mods
-  :type: crafted
-- :id: crafted.stat_118398748
-  :name: "#% increased Trap Throwing Speed"
-  :type: crafted
-- :id: crafted.stat_124859000
-  :name: "#% increased Evasion Rating (Local)"
-  :type: crafted
-- :id: crafted.stat_1335054179
-  :name: "#% chance to Ignite"
-  :type: crafted
-- :id: crafted.stat_1379411836
-  :name: "# to all Attributes"
-  :type: crafted
-- :id: crafted.stat_1412217137
-  :name: "#% increased Flask Mana Recovery rate"
-  :type: crafted
-- :id: crafted.stat_1445684883
-  :name: 'Reflects # Physical Damage to Attackers on Block'
-  :type: crafted
-- :id: crafted.stat_1514829491
-  :name: "#% chance to Avoid being Frozen"
-  :type: crafted
-- :id: crafted.stat_1519615863
-  :name: "#% chance to cause Bleeding on Hit"
-  :type: crafted
-- :id: crafted.stat_1538773178
-  :name: "#% chance to Shock"
-  :type: crafted
-- :id: crafted.stat_1573130764
-  :name: 'Adds # to # Fire Damage to Attacks'
-  :type: crafted
-- :id: crafted.stat_1578737937
-  :name: Attack Projectiles Return to You after hitting targets
-  :type: crafted
-- :id: crafted.stat_1589917703
-  :name: 'Minions deal #% increased Damage'
-  :type: crafted
-- :id: crafted.stat_1652515349
-  :name: "# to maximum number of Zombies"
-  :type: crafted
-- :id: crafted.stat_1671376347
-  :name: "#% to Lightning Resistance"
-  :type: crafted
-- :id: crafted.stat_1702195217
-  :name: "#% additional Block Chance"
-  :type: crafted
-- :id: crafted.stat_1754445556
-  :name: 'Adds # to # Lightning Damage to Attacks'
-  :type: crafted
-- :id: crafted.stat_1782086450
-  :name: "#% faster start of Energy Shield Recharge"
-  :type: crafted
-- :id: crafted.stat_1783006896
-  :name: "#% chance to Avoid being Ignited"
-  :type: crafted
-- :id: crafted.stat_1805374733
-  :name: "#% increased Physical Damage (Local)"
-  :type: crafted
-- :id: crafted.stat_1859333175
-  :name: Can have multiple Crafted Mods
-  :type: crafted
-- :id: crafted.stat_1871765599
-  :name: "#% chance to Avoid being Shocked"
-  :type: crafted
-- :id: crafted.stat_1896971621
-  :name: "#% increased Mine Laying Speed"
-  :type: crafted
-- :id: crafted.stat_1940865751
-  :name: 'Adds # to # Physical Damage (Local)'
-  :type: crafted
-- :id: crafted.stat_1999113824
-  :name: "#% increased Evasion and Energy Shield"
-  :type: crafted
-- :id: crafted.stat_210067635
-  :name: "#% increased Attack Speed (Local)"
-  :type: crafted
-- :id: crafted.stat_2106365538
-  :name: "#% increased Evasion Rating"
-  :type: crafted
-- :id: crafted.stat_2137912951
-  :name: "#% increased Mine Damage"
-  :type: crafted
-- :id: crafted.stat_2166444903
-  :name: "#% additional Block Chance while Dual Wielding"
-  :type: crafted
-- :id: crafted.stat_2231156303
-  :name: "#% increased Lightning Damage"
-  :type: crafted
-- :id: crafted.stat_2250533757
-  :name: "#% increased Movement Speed"
-  :type: crafted
-- :id: crafted.stat_2309614417
-  :name: "#% chance to Freeze"
-  :type: crafted
-- :id: crafted.stat_2362265695
-  :name: "#% chance to Avoid being Knocked Back"
-  :type: crafted
-- :id: crafted.stat_2375316951
-  :name: "#% increased Critical Strike Chance"
-  :type: crafted
-- :id: crafted.stat_238314698
-  :name: 'Cannot roll Mods with Required Level above #'
-  :type: crafted
-- :id: crafted.stat_2428829184
-  :name: "# to maximum number of Skeletons"
-  :type: crafted
-- :id: crafted.stat_2451402625
-  :name: "#% increased Armour and Evasion"
-  :type: crafted
-- :id: crafted.stat_2469416729
-  :name: 'Adds # to # Cold Damage to Spells'
-  :type: crafted
-- :id: crafted.stat_2477381238
-  :name: "#% reduced Enemy Block Chance"
-  :type: crafted
-- :id: crafted.stat_2482852589
-  :name: "#% increased maximum Energy Shield"
-  :type: crafted
-- :id: crafted.stat_2517001139
-  :name: "#% increased Stun Duration on Enemies"
-  :type: crafted
-- :id: crafted.stat_2797971005
-  :name: "# Life gained for each Enemy hit by your Attacks"
-  :type: crafted
-- :id: crafted.stat_2831165374
-  :name: 'Adds # to # Lightning Damage to Spells'
-  :type: crafted
-- :id: crafted.stat_2866361420
-  :name: "#% increased Armour"
-  :type: crafted
-- :id: crafted.stat_2879723104
-  :name: Prefixes Cannot Be Changed
-  :type: crafted
-- :id: crafted.stat_2891184298
-  :name: "#% increased Cast Speed"
-  :type: crafted
-- :id: crafted.stat_2901986750
-  :name: "#% to all Elemental Resistances"
-  :type: crafted
-- :id: crafted.stat_2915988346
-  :name: "#% to Fire and Cold Resistances"
-  :type: crafted
-- :id: crafted.stat_2941585404
-  :name: "#% increased Trap Damage"
-  :type: crafted
-- :id: crafted.stat_2974417149
-  :name: "#% increased Spell Damage"
-  :type: crafted
-- :id: crafted.stat_301104070
-  :name: Flasks gain a Charge when you take a Critical Strike
-  :type: crafted
-- :id: crafted.stat_3032590688
-  :name: 'Adds # to # Physical Damage to Attacks'
-  :type: crafted
-- :id: crafted.stat_3237948413
-  :name: "#% of Physical Attack Damage Leeched as Mana"
-  :type: crafted
-- :id: crafted.stat_3261801346
-  :name: "# to Dexterity"
-  :type: crafted
-- :id: crafted.stat_328541901
-  :name: "# to Intelligence"
-  :type: crafted
-- :id: crafted.stat_3291658075
-  :name: "#% increased Cold Damage"
-  :type: crafted
-- :id: crafted.stat_3299347043
-  :name: "# to maximum Life"
-  :type: crafted
-- :id: crafted.stat_3321629045
-  :name: "#% increased Armour and Energy Shield"
-  :type: crafted
-- :id: crafted.stat_3336890334
-  :name: 'Adds # to # Lightning Damage (Local)'
-  :type: crafted
-- :id: crafted.stat_3372524247
-  :name: "#% to Fire Resistance"
-  :type: crafted
-- :id: crafted.stat_3441501978
-  :name: "#% to Fire and Lightning Resistances"
-  :type: crafted
-- :id: crafted.stat_3464137628
-  :name: Suffixes Cannot Be Changed
-  :type: crafted
-- :id: crafted.stat_3483999943
-  :name: "#% chance to Avoid being Chilled"
-  :type: crafted
-- :id: crafted.stat_3484657501
-  :name: "# to Armour (Local)"
-  :type: crafted
-- :id: crafted.stat_3485067555
-  :name: "#% increased Chill Duration on Enemies"
-  :type: crafted
-- :id: crafted.stat_3489782002
-  :name: "# to maximum Energy Shield"
-  :type: crafted
-- :id: crafted.stat_350598685
-  :name: "# to Weapon range"
-  :type: crafted
-- :id: crafted.stat_3556824919
-  :name: "#% to Global Critical Strike Multiplier"
-  :type: crafted
-- :id: crafted.stat_3593843976
-  :name: "#% of Physical Attack Damage Leeched as Life"
-  :type: crafted
-- :id: crafted.stat_3668351662
-  :name: "#% increased Shock Duration on Enemies"
-  :type: crafted
-- :id: crafted.stat_3741323227
-  :name: "#% increased Flask effect duration"
-  :type: crafted
-- :id: crafted.stat_3759663284
-  :name: "#% increased Projectile Speed"
-  :type: crafted
-- :id: crafted.stat_3767873853
-  :name: 'Reflects # Physical Damage to Melee Attackers'
-  :type: crafted
-- :id: crafted.stat_3824372849
-  :name: "#% increased Curse Duration"
-  :type: crafted
-- :id: crafted.stat_3848282610
-  :name: "#% of Fire Damage Leeched as Life"
-  :type: crafted
-- :id: crafted.stat_387439868
-  :name: "#% increased Elemental Damage with Attack Skills"
-  :type: crafted
-- :id: crafted.stat_3909846940
-  :name: Item drops on Death if Equipped by an Animated Guardian
-  :type: crafted
-- :id: crafted.stat_3917489142
-  :name: "#% increased Rarity of Items found"
-  :type: crafted
-- :id: crafted.stat_3922006600
-  :name: 'Socketed Gems are Supported by Level # Blood Magic'
-  :type: crafted
-- :id: crafted.stat_3962278098
-  :name: "#% increased Fire Damage"
-  :type: crafted
-- :id: crafted.stat_3999401129
-  :name: "#% of Cold Damage Leeched as Life"
-  :type: crafted
-- :id: crafted.stat_4015621042
-  :name: "#% increased Energy Shield"
-  :type: crafted
-- :id: crafted.stat_4052037485
-  :name: "# to maximum Energy Shield (Local)"
-  :type: crafted
-- :id: crafted.stat_4067062424
-  :name: 'Adds # to # Cold Damage to Attacks'
-  :type: crafted
-- :id: crafted.stat_4080418644
-  :name: "# to Strength"
-  :type: crafted
-- :id: crafted.stat_4122424929
-  :name: Cannot roll Attack Mods
-  :type: crafted
-- :id: crafted.stat_4220027924
-  :name: "#% to Cold Resistance"
-  :type: crafted
-- :id: crafted.stat_4253454700
-  :name: "#% Chance to Block (Shields)"
-  :type: crafted
-- :id: crafted.stat_4262448838
-  :name: "#% chance to Avoid being Stunned"
-  :type: crafted
-- :id: crafted.stat_4277795662
-  :name: "#% to Cold and Lightning Resistances"
-  :type: crafted
-- :id: crafted.stat_51994685
-  :name: "#% increased Flask Life Recovery rate"
-  :type: crafted
-- :id: crafted.stat_53045048
-  :name: "# to Evasion Rating (Local)"
-  :type: crafted
-- :id: crafted.stat_587431675
-  :name: "#% increased Global Critical Strike Chance"
-  :type: crafted
-- :id: crafted.stat_674553446
+- :id: pseudo.pseudo_adds_chaos_damage
+  :name: 'Adds # to # Chaos Damage'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_chaos_damage_to_attacks
   :name: 'Adds # to # Chaos Damage to Attacks'
-  :type: crafted
-- :id: crafted.stat_681332047
-  :name: "#% increased Attack Speed"
-  :type: crafted
-- :id: crafted.stat_691932474
-  :name: "# to Accuracy Rating (Local)"
-  :type: crafted
-- :id: crafted.stat_709508406
-  :name: 'Adds # to # Fire Damage (Local)'
-  :type: crafted
-- :id: crafted.stat_737908626
-  :name: "#% increased Critical Strike Chance for Spells"
-  :type: crafted
-- :id: crafted.stat_770672621
-  :name: 'Minions have #% increased maximum Life'
-  :type: crafted
-- :id: crafted.stat_789117908
+  :type: pseudo
+- :id: pseudo.pseudo_adds_chaos_damage_to_spells
+  :name: 'Adds # to # Chaos Damage to Spells'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_cold_damage
+  :name: 'Adds # to # Cold Damage'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_cold_damage_to_attacks
+  :name: 'Adds # to # Cold Damage to Attacks'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_cold_damage_to_spells
+  :name: 'Adds # to # Cold Damage to Spells'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_damage
+  :name: 'Adds # to # Damage'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_damage_to_attacks
+  :name: 'Adds # to # Damage to Attacks'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_damage_to_spells
+  :name: 'Adds # to # Damage to Spells'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_elemental_damage
+  :name: 'Adds # to # Elemental Damage'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_elemental_damage_to_attacks
+  :name: 'Adds # to # Elemental Damage to Attacks'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_elemental_damage_to_spells
+  :name: 'Adds # to # Elemental Damage to Spells'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_fire_damage
+  :name: 'Adds # to # Fire Damage'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_fire_damage_to_attacks
+  :name: 'Adds # to # Fire Damage to Attacks'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_fire_damage_to_spells
+  :name: 'Adds # to # Fire Damage to Spells'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_lightning_damage
+  :name: 'Adds # to # Lightning Damage'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_lightning_damage_to_attacks
+  :name: 'Adds # to # Lightning Damage to Attacks'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_lightning_damage_to_spells
+  :name: 'Adds # to # Lightning Damage to Spells'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_physical_damage
+  :name: 'Adds # to # Physical Damage'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_physical_damage_to_attacks
+  :name: 'Adds # to # Physical Damage to Attacks'
+  :type: pseudo
+- :id: pseudo.pseudo_adds_physical_damage_to_spells
+  :name: 'Adds # to # Physical Damage to Spells'
+  :type: pseudo
+- :id: pseudo.pseudo_count_elemental_resistances
+  :name: "# total Elemental Resistances"
+  :type: pseudo
+- :id: pseudo.pseudo_count_resistances
+  :name: "# total Resistances"
+  :type: pseudo
+- :id: pseudo.pseudo_critical_strike_chance_for_spells
+  :name: "+#% total Critical Strike Chance for Spells"
+  :type: pseudo
+- :id: pseudo.pseudo_global_critical_strike_chance
+  :name: "+#% Global Critical Strike Chance"
+  :type: pseudo
+- :id: pseudo.pseudo_global_critical_strike_multiplier
+  :name: "+#% Global Critical Strike Multiplier"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_burning_damage
+  :name: "#% increased Burning Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_cold_damage
+  :name: "#% increased Cold Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_cold_damage_with_attack_skills
+  :name: "#% increased Cold Damage with Attack Skills"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_cold_spell_damage
+  :name: "#% increased Cold Spell Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_elemental_damage
+  :name: "#% increased Elemental Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_elemental_damage_with_attack_skills
+  :name: "#% increased Elemental Damage with Attack Skills"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_energy_shield
+  :name: "#% total increased maximum Energy Shield"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_fire_damage
+  :name: "#% increased Fire Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_fire_damage_with_attack_skills
+  :name: "#% increased Fire Damage with Attack Skills"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_fire_spell_damage
+  :name: "#% increased Fire Spell Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_lightning_damage
+  :name: "#% increased Lightning Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_lightning_damage_with_attack_skills
+  :name: "#% increased Lightning Damage with Attack Skills"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_lightning_spell_damage
+  :name: "#% increased Lightning Spell Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_mana_regen
   :name: "#% increased Mana Regeneration Rate"
-  :type: crafted
-- :id: crafted.stat_80079005
-  :name: "#% of Lightning Damage Leeched as Life"
-  :type: crafted
-- :id: crafted.stat_803737631
-  :name: "# to Accuracy Rating"
-  :type: crafted
-- :id: crafted.stat_832404842
-  :name: "#% reduced Enemy Stun Threshold with this Weapon"
-  :type: crafted
-- :id: crafted.stat_967627487
-  :name: "#% increased Damage over Time"
-  :type: crafted
-- :id: enchant.stat_1007135105
-  :name: "#% increased Kinetic Blast Damage"
-  :type: enchant
-- :id: enchant.stat_101788216
-  :name: "#% increased Flesh Offering Duration"
-  :type: enchant
-- :id: enchant.stat_1028884162
-  :name: "#% increased Split Arrow Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_1030003515
-  :name: "#% increased Flame Surge Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_103922739
-  :name: "#% increased Spark Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_1040958896
-  :name: "#% chance to Summon an additional Skeleton Warrior with Summon Skeleton"
-  :type: enchant
-- :id: enchant.stat_1041365824
-  :name: "#% increased Explosive Arrow Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1050563950
-  :name: "#% increased Ice Trap Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_1056396846
-  :name: "#% increased Contagion Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1062615953
-  :name: "#% increased Spectral Throw Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_1063173946
-  :name: "#% increased Spirit Offering Duration"
-  :type: enchant
-- :id: enchant.stat_1065909420
-  :name: "#% increased Vulnerability Curse Effect"
-  :type: enchant
-- :id: enchant.stat_1086309398
-  :name: "#% increased Ice Nova Damage"
-  :type: enchant
-- :id: enchant.stat_1087923932
-  :name: "#% increased Frost Blades Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_108883700
-  :name: "#% increased Ground Slam Damage"
-  :type: enchant
-- :id: enchant.stat_1106926438
-  :name: "#% chance to Trigger Decree of War on Kill"
-  :type: enchant
-- :id: enchant.stat_1122074043
-  :name: "#% increased Vitality Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_1151217691
-  :name: "#% increased Elemental Hit Attack Speed"
-  :type: enchant
-- :id: enchant.stat_1153159301
-  :name: "#% increased Shockwave Totem Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1153637043
-  :name: "#% chance to Trigger Edict of Fury on Hit"
-  :type: enchant
-- :id: enchant.stat_1154155584
-  :name: "#% of Glacial Cascade Physical Damage Converted to Cold Damage"
-  :type: enchant
-- :id: enchant.stat_1162506883
-  :name: "#% chance to Trigger Word of Force on Hit"
-  :type: enchant
-- :id: enchant.stat_1171483499
-  :name: 'Stone Golems deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_1201942540
-  :name: "#% increased Double Strike Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_1208019382
-  :name: "#% increased Spark Damage"
-  :type: enchant
-- :id: enchant.stat_1212590278
-  :name: "#% increased Volatile Dead Damage"
-  :type: enchant
-- :id: enchant.stat_1213035889
-  :name: Lightning Strike fires an additional Projectile
-  :type: enchant
-- :id: enchant.stat_1220207954
-  :name: "#% to Ancestral Protector Totem Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_1222329688
-  :name: |-
-    #% chance to Dodge Spell Damage if you've
-    taken Spell Damage Recently
-  :type: enchant
-- :id: enchant.stat_1230050013
-  :name: "#% increased Lightning Tendrils Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1243906675
-  :name: "#% increased Ball Lightning Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_1255310381
-  :name: "#% increased Frenzy Damage per Frenzy Charge"
-  :type: enchant
-- :id: enchant.stat_1259277978
-  :name: "#% chance to Trigger Commandment of Spite when Hit"
-  :type: enchant
-- :id: enchant.stat_1265055278
-  :name: "#% increased Charged Dash Damage"
-  :type: enchant
-- :id: enchant.stat_1268512925
-  :name: "#% chance to Trigger Decree of Frost on Kill"
-  :type: enchant
-- :id: enchant.stat_12756171
-  :name: "#% increased Lightning Tendrils Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_1285430327
-  :name: "#% increased Purity of Lightning Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_1293597434
-  :name: 'Adds # to # Lightning Damage if you haven''t Killed Recently'
-  :type: enchant
-- :id: enchant.stat_1298820272
-  :name: "#% to increased Flame Golem Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_1303996723
-  :name: 'Ancestral Protector Totem grants #% increased Attack Speed while Active'
-  :type: enchant
-- :id: enchant.stat_131320052
-  :name: 'Converted Enemies have #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_1322030222
-  :name: "#% increased Lightning Trap Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_1336543283
-  :name: "#% increased Immortal Call Duration"
-  :type: enchant
-- :id: enchant.stat_1347575155
-  :name: "#% increased Lightning Warp Cast Speed"
-  :type: enchant
-- :id: enchant.stat_1350605126
-  :name: "#% chance to Trigger Word of Thunder on Kill"
-  :type: enchant
-- :id: enchant.stat_1354248411
-  :name: "#% chance to Trigger Word of Winter when Hit"
-  :type: enchant
-- :id: enchant.stat_1359058534
-  :name: "#% increased Cleave Damage"
-  :type: enchant
-- :id: enchant.stat_1366391108
-  :name: "#% chance to Trigger Decree of Inferno on Kill"
-  :type: enchant
-- :id: enchant.stat_1374371477
-  :name: "#% chance to Trigger Commandment of the Grave when your Skills or Minions
-    Kill"
-  :type: enchant
-- :id: enchant.stat_1381908541
-  :name: 'Summon Raging Spirit has #% chance to summon an extra Minion'
-  :type: enchant
-- :id: enchant.stat_1398394628
-  :name: "#% increased Flicker Strike Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_1433838252
-  :name: "#% chance to Dodge Attacks at Maximum Blade Flurry stages"
-  :type: enchant
-- :id: enchant.stat_1440798870
-  :name: "#% increased Flame Dash Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_1443215722
-  :name: "#% increased Frostbite Curse Effect"
-  :type: enchant
-- :id: enchant.stat_1447427508
-  :name: "#% increased Vengeance Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_1451372148
-  :name: "#% increased Frost Bomb Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1454162553
-  :name: "#% increased Cyclone Damage"
-  :type: enchant
-- :id: enchant.stat_147678606
-  :name: "#% chance to Trigger Edict of Winter when Hit"
-  :type: enchant
-- :id: enchant.stat_147952811
-  :name: "#% chance to Trigger Commandment of Blades on Hit"
-  :type: enchant
-- :id: enchant.stat_1486490067
-  :name: "#% increased Reave Radius"
-  :type: enchant
-- :id: enchant.stat_1491182794
-  :name: "#% increased Flame Surge Damage"
-  :type: enchant
-- :id: enchant.stat_1496334795
-  :name: "#% increased Caustic Arrow Damage"
-  :type: enchant
-- :id: enchant.stat_1528965411
-  :name: "#% increased Warlord's Mark Curse Effect"
-  :type: enchant
-- :id: enchant.stat_1532964880
-  :name: "#% increased Flameblast Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1539846779
-  :name: 'Detonate Dead has a #% chance to detonate an additional Corpse'
-  :type: enchant
-- :id: enchant.stat_1549594869
-  :name: "#% increased Dark Pact Cast Speed"
-  :type: enchant
-- :id: enchant.stat_1549898151
-  :name: "#% increased Grace Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_1554500307
-  :name: "#% chance to Trigger Commandment of Fury on Hit"
-  :type: enchant
-- :id: enchant.stat_1554597333
-  :name: 'Blink Arrow and Blink Arrow Clones have #% increased Attack Speed'
-  :type: enchant
-- :id: enchant.stat_1561141582
-  :name: "#% increased Spectral Shield Throw Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_1573799461
-  :name: "#% increased Dark Pact Damage"
-  :type: enchant
-- :id: enchant.stat_1575282859
-  :name: 'Flame Golems have #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_1580810115
-  :name: Tornado Shot fires an additional secondary Projectile
-  :type: enchant
-- :id: enchant.stat_1588572574
-  :name: "#% increased Rejuvenation Totem Aura Effect"
-  :type: enchant
-- :id: enchant.stat_1601558321
-  :name: "#% to Stone Golem Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_1607493537
-  :name: "#% increased Bone Offering Duration"
-  :type: enchant
-- :id: enchant.stat_1609523492
-  :name: "#% increased Assassin's Mark Duration"
-  :type: enchant
-- :id: enchant.stat_1623552446
-  :name: "#% increased Blight Damage"
-  :type: enchant
-- :id: enchant.stat_1631824124
-  :name: "#% increased Decoy Totem Life"
-  :type: enchant
-- :id: enchant.stat_1646093658
-  :name: "#% increased Magma Orb Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1648511635
-  :name: "#% increased Effect of the Buff granted by your Chaos Golems"
-  :type: enchant
-- :id: enchant.stat_1654191578
-  :name: "#% increased Projectile Weakness Duration"
-  :type: enchant
-- :id: enchant.stat_165958462
-  :name: "#% chance to Trigger Decree of Blades on Hit"
-  :type: enchant
-- :id: enchant.stat_1660758870
-  :name: "#% increased Kinetic Blast Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1662974426
-  :name: "#% increased Temporal Chains Curse Effect"
-  :type: enchant
-- :id: enchant.stat_1666713639
-  :name: "#% increased Wild Strike Damage"
-  :type: enchant
-- :id: enchant.stat_1671985305
-  :name: "#% chance to Trigger Decree of the Tempest on Hit"
-  :type: enchant
-- :id: enchant.stat_168538372
-  :name: "#% increased Orb of Storms Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_1686675991
-  :name: "#% increased Decoy Totem Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1691710359
-  :name: "#% increased Firestorm Duration"
-  :type: enchant
-- :id: enchant.stat_1692615507
-  :name: "#% increased Fire Trap Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_169405468
-  :name: "#% increased Flameblast Damage"
-  :type: enchant
-- :id: enchant.stat_1697080607
-  :name: "#% increased Earthquake Damage"
-  :type: enchant
-- :id: enchant.stat_1711789839
-  :name: "#% chance to Trigger Edict of the Tempest on Hit"
-  :type: enchant
-- :id: enchant.stat_1730614496
-  :name: "#% increased Vortex Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1743954272
-  :name: "#% increased Discharge Radius"
-  :type: enchant
-- :id: enchant.stat_1781106044
-  :name: "#% increased Mirror Arrow Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_1783696476
-  :name: "#% increased Frostbite Duration"
-  :type: enchant
-- :id: enchant.stat_1792647120
-  :name: "#% chance to Trigger Decree of Reflection when Hit"
-  :type: enchant
-- :id: enchant.stat_1794090421
-  :name: "#% increased Ice Crash Damage"
-  :type: enchant
-- :id: enchant.stat_1803063132
-  :name: 'Gain #% of Rejuvenation Totem Life Regeneration as extra Mana Regeneration'
-  :type: enchant
-- :id: enchant.stat_1809965314
-  :name: "#% increased Double Strike Damage"
-  :type: enchant
-- :id: enchant.stat_1810898461
-  :name: "#% increased Wither Area of Effect"
-  :type: enchant
-- :id: enchant.stat_181307038
-  :name: "#% increased Fire Trap Damage"
-  :type: enchant
-- :id: enchant.stat_1815368527
-  :name: "#% increased Tornado Shot Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_1818525360
-  :name: "#% chance to Trigger Decree of Ire when Hit"
-  :type: enchant
-- :id: enchant.stat_1819674879
-  :name: 'Animated Weapons deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_1833626118
-  :name: "#% chance for Discharge not to consume Charges"
-  :type: enchant
-- :id: enchant.stat_1843506018
-  :name: "#% increased Storm Call Duration"
-  :type: enchant
-- :id: enchant.stat_1844721010
-  :name: "#% increased Lacerate Damage"
-  :type: enchant
-- :id: enchant.stat_1849664701
-  :name: "#% increased Purity of Elements Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_186513618
-  :name: Spark fires an additional Projectile
-  :type: enchant
-- :id: enchant.stat_1877374369
-  :name: "#% chance to Trigger Commandment of Frost on Kill"
-  :type: enchant
-- :id: enchant.stat_1877863115
-  :name: "#% increased Bear Trap Damage"
-  :type: enchant
-- :id: enchant.stat_1891516164
-  :name: "#% increased Spectral Shield Throw Damage"
-  :type: enchant
-- :id: enchant.stat_1894493605
-  :name: "#% increased Freezing Pulse Cast Speed"
-  :type: enchant
-- :id: enchant.stat_1901955093
-  :name: Lightning Arrow hits an additional Enemy
-  :type: enchant
-- :id: enchant.stat_1902197291
-  :name: "#% increased Whirling Blades Attack Speed"
-  :type: enchant
-- :id: enchant.stat_1906144841
-  :name: "#% chance to Trigger Word of War on Kill"
-  :type: enchant
-- :id: enchant.stat_1917107304
-  :name: "#% increased Dual Strike Attack Speed"
-  :type: enchant
-- :id: enchant.stat_1924239636
-  :name: "#% increased Punishment Duration"
-  :type: enchant
-- :id: enchant.stat_1934891174
-  :name: "#% increased Abyssal Cry Duration"
-  :type: enchant
-- :id: enchant.stat_1935930829
-  :name: "#% increased Discharge Damage"
-  :type: enchant
-- :id: enchant.stat_1943147282
-  :name: "#% of Shrapnel Shot Physical Damage gained as extra Lightning Damage"
-  :type: enchant
-- :id: enchant.stat_1946386823
-  :name: "#% to Chaos Golem Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_1949390531
-  :name: "#% increased Molten Shell Buff Effect"
-  :type: enchant
-- :id: enchant.stat_1953644681
-  :name: "#% chance for Immortal Call to not consume Endurance Charges"
-  :type: enchant
-- :id: enchant.stat_195463427
-  :name: Arc Always Shocks
-  :type: enchant
-- :id: enchant.stat_1961975107
-  :name: "#% increased Assassin's Mark Curse Effect"
-  :type: enchant
-- :id: enchant.stat_1962401751
-  :name: "#% increased Ice Shot Area of Effect"
-  :type: enchant
-- :id: enchant.stat_1967878868
-  :name: 'Blink Arrow and Blink Arrow Clones have #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_1972101281
-  :name: "#% increased Vengeance Damage"
-  :type: enchant
-- :id: enchant.stat_1988467615
-  :name: "#% chance to Trigger Commandment of Thunder on Kill"
-  :type: enchant
-- :id: enchant.stat_1999307054
-  :name: "#% increased Sunder Attack Speed"
-  :type: enchant
-- :id: enchant.stat_2003026405
-  :name: "#% increased Freezing Pulse Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_2003753577
-  :name: "#% increased Anger Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_200942664
-  :name: "#% increased Vortex Damage"
-  :type: enchant
-- :id: enchant.stat_2020183428
-  :name: "#% chance to Trigger Commandment of Inferno on Kill"
-  :type: enchant
-- :id: enchant.stat_2033463878
-  :name: "#% chance to Trigger Edict of War on Kill"
-  :type: enchant
-- :id: enchant.stat_2035168499
-  :name: "#% increased Freeze Mine Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2038865857
-  :name: "#% increased Molten Strike Damage"
-  :type: enchant
-- :id: enchant.stat_2054059315
-  :name: "#% increased Convocation Buff Effect"
-  :type: enchant
-- :id: enchant.stat_2070247068
-  :name: "#% increased Storm Call Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2078274993
-  :name: "#% increased Frostbolt Damage"
-  :type: enchant
-- :id: enchant.stat_2085855914
-  :name: 'Raging Spirits have #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_209345940
-  :name: "#% increased Lightning Warp Damage"
-  :type: enchant
-- :id: enchant.stat_2094069860
-  :name: "#% increased Dual Strike Damage"
-  :type: enchant
-- :id: enchant.stat_2094281311
-  :name: "#% to Animated Guardian Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_2098790581
-  :name: Fireball Always Ignites
-  :type: enchant
-- :id: enchant.stat_2121581717
-  :name: "#% increased Tempest Shield Damage"
-  :type: enchant
-- :id: enchant.stat_2143519574
-  :name: "#% increased Conversion Trap Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_2160886943
-  :name: "#% chance to Trigger Edict of Blades on Hit"
-  :type: enchant
-- :id: enchant.stat_2165542662
-  :name: "#% of Damage Leeched as Life and Mana if you've Killed Recently"
-  :type: enchant
-- :id: enchant.stat_2166622264
-  :name: "#% increased Flammability Duration"
-  :type: enchant
-- :id: enchant.stat_2187415468
-  :name: "#% chance to Trigger Decree of the Grave when your Skills or Minions Kill"
-  :type: enchant
-- :id: enchant.stat_2200030809
-  :name: "#% increased Discipline Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_2201904285
-  :name: "#% increased Firestorm Damage"
-  :type: enchant
-- :id: enchant.stat_2205814812
-  :name: "#% increased Rain of Arrows Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2226973351
-  :name: Burning Arrow Always Ignites
-  :type: enchant
-- :id: enchant.stat_2228518621
-  :name: 'Zombies deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_2231403318
-  :name: "#% increased Fireball Cast Speed"
-  :type: enchant
-- :id: enchant.stat_2233726619
-  :name: "#% increased Arctic Armour Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_2246143608
-  :name: "#% chance to Trigger Edict of Inferno on Kill"
-  :type: enchant
-- :id: enchant.stat_2246425134
-  :name: "#% increased Incinerate Damage"
-  :type: enchant
-- :id: enchant.stat_2250111474
-  :name: "#% increased Effect of the Buff granted by your Ice Golems"
-  :type: enchant
-- :id: enchant.stat_2252338738
-  :name: "#% chance to Trigger Decree of Fury on Hit"
-  :type: enchant
-- :id: enchant.stat_2259906777
-  :name: "#% increased Shockwave Totem Cast Speed"
-  :type: enchant
-- :id: enchant.stat_2275055843
-  :name: "#% increased Vigilant Strike Fortify Duration"
-  :type: enchant
-- :id: enchant.stat_2278715446
-  :name: Split Arrow fires an additional Projectile
-  :type: enchant
-- :id: enchant.stat_2284801675
-  :name: "#% increased Effect of the Buff granted by your Stone Golems"
-  :type: enchant
-- :id: enchant.stat_2287764959
-  :name: "#% increased Vigilant Strike Damage"
-  :type: enchant
-- :id: enchant.stat_2287986752
-  :name: "#% increased Riposte Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_2289367813
-  :name: "#% increased Cold Snap Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_2298223148
-  :name: "#% increased Searing Bond Damage"
-  :type: enchant
-- :id: enchant.stat_2328234364
-  :name: "#% increased Herald of Ash Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_2338484156
-  :name: "#% to Lightning Golem Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_2380598805
-  :name: "#% increased Frost Bomb Damage"
-  :type: enchant
-- :id: enchant.stat_2387717928
-  :name: "#% increased Unearth Cast Speed"
-  :type: enchant
-- :id: enchant.stat_2413715772
-  :name: "#% increased Bladefall Area of Effect"
-  :type: enchant
-- :id: enchant.stat_241781316
-  :name: "#% increased Enduring Cry Buff Effect"
-  :type: enchant
-- :id: enchant.stat_2420287129
-  :name: 'Regenerate #% of Life and Mana per second if you were Hit Recently'
-  :type: enchant
-- :id: enchant.stat_2423221070
-  :name: "#% increased Ice Spear Damage"
-  :type: enchant
-- :id: enchant.stat_242838571
-  :name: "#% increased Infernal Blow Damage"
-  :type: enchant
-- :id: enchant.stat_2430635444
-  :name: "#% increased Righteous Fire Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2440551805
-  :name: "#% increased Shockwave Totem Damage"
-  :type: enchant
-- :id: enchant.stat_244125450
-  :name: "#% Chance for Puncture to Maim on hit"
-  :type: enchant
-- :id: enchant.stat_2447447843
-  :name: Wild Strike Chains an additional time
-  :type: enchant
-- :id: enchant.stat_2461552986
-  :name: Arc Chains an additional time
-  :type: enchant
-- :id: enchant.stat_2472584898
-  :name: "#% chance to Trigger Word of Ire when Hit"
-  :type: enchant
-- :id: enchant.stat_2479762395
-  :name: "#% increased Frost Wall Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_2484188706
-  :name: "#% of Infernal Blow Physical Damage gained as Extra Fire Damage"
-  :type: enchant
-- :id: enchant.stat_2499559911
-  :name: 'Zombies have #% increased Attack Speed'
-  :type: enchant
-- :id: enchant.stat_2505115650
-  :name: 'Chaos Golems deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_2511915418
-  :name: "#% increased Blight Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2515273888
-  :name: "#% chance to Trigger Decree of Winter when Hit"
-  :type: enchant
-- :id: enchant.stat_2519689029
-  :name: "#% increased Searing Bond Totem Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_2520825974
-  :name: "#% to Ice Golem Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_2523298357
-  :name: "#% increased Barrage Attack Speed"
-  :type: enchant
-- :id: enchant.stat_2524620107
-  :name: "#% increased Molten Strike Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2527140156
-  :name: "#% chance to Trigger Word of the Grave when your Skills or Minions Kill"
-  :type: enchant
-- :id: enchant.stat_2527931375
-  :name: "#% increased Effect of the Buff granted by your Lightning Golems"
-  :type: enchant
-- :id: enchant.stat_253870897
-  :name: "#% increased Sweep Damage"
-  :type: enchant
-- :id: enchant.stat_2555366825
-  :name: "#% of Glacial Hammer Physical Damage gained as Extra Cold Damage"
-  :type: enchant
-- :id: enchant.stat_2555469486
-  :name: "#% increased Split Arrow Damage"
-  :type: enchant
-- :id: enchant.stat_2556095677
-  :name: "#% increased Phase Run Duration"
-  :type: enchant
-- :id: enchant.stat_2565809961
-  :name: "#% increased Contagion Duration"
-  :type: enchant
-- :id: enchant.stat_257027296
-  :name: "#% chance to Trigger Edict of Spite when Hit"
-  :type: enchant
-- :id: enchant.stat_2575601188
-  :name: "#% increased Fire Nova Mine Damage"
-  :type: enchant
-- :id: enchant.stat_2585271359
-  :name: "#% increased Viper Strike Damage"
-  :type: enchant
-- :id: enchant.stat_2589980605
-  :name: Magma Orb Chains an additional time
-  :type: enchant
-- :id: enchant.stat_2596239449
-  :name: 'Ancestral Protector Totem deals #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_2600498881
-  :name: "#% increased Fireball Damage"
-  :type: enchant
-- :id: enchant.stat_2600949388
-  :name: "#% increased Ice Shot Duration"
-  :type: enchant
-- :id: enchant.stat_2614099660
-  :name: 'Fire Nova Mine repeats an additional # times'
-  :type: enchant
-- :id: enchant.stat_2634094270
-  :name: "#% chance to Trigger Word of Reflection when Hit"
-  :type: enchant
-- :id: enchant.stat_2634945088
-  :name: "#% increased Shrapnel Shot Damage"
-  :type: enchant
-- :id: enchant.stat_2661979205
-  :name: "#% increased Dominating Blow Damage"
-  :type: enchant
-- :id: enchant.stat_2666843091
-  :name: "#% chance to Trigger Commandment of Force on Hit"
-  :type: enchant
-- :id: enchant.stat_2680060124
-  :name: "#% increased Convocation Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_2685860927
-  :name: "#% increased Static Strike Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2690620076
-  :name: "#% increased Elemental Weakness Duration"
-  :type: enchant
-- :id: enchant.stat_269930125
-  :name: "#% increased Effect of the Buff granted by your Flame Golems"
-  :type: enchant
-- :id: enchant.stat_271342637
-  :name: "#% chance to Trigger Edict of Light when you take a Critical Strike"
-  :type: enchant
-- :id: enchant.stat_2729530556
-  :name: "#% increased Dual Strike Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_2732675053
-  :name: "#% increased Glacial Hammer Damage"
-  :type: enchant
-- :id: enchant.stat_2740567252
-  :name: "#% increased Arc Damage"
-  :type: enchant
-- :id: enchant.stat_2746213081
-  :name: "#% increased Blade Flurry Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2748553775
-  :name: "#% increased Blade Vortex Area of Effect"
-  :type: enchant
-- :id: enchant.stat_2753191013
-  :name: "#% increased Power Siphon Attack Speed"
-  :type: enchant
-- :id: enchant.stat_2760193888
-  :name: "#% chance to Trigger Edict of Force on Hit"
-  :type: enchant
-- :id: enchant.stat_27640220
-  :name: "#% to Raised Spectre Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_277116504
-  :name: "#% increased Contagion Damage"
-  :type: enchant
-- :id: enchant.stat_2774873427
-  :name: Frostbolt Always Freezes
-  :type: enchant
-- :id: enchant.stat_2779309910
-  :name: "#% increased Double Strike Attack Speed"
-  :type: enchant
-- :id: enchant.stat_2789561878
-  :name: "#% increased Projectile Weakness Curse Effect"
-  :type: enchant
-- :id: enchant.stat_2801853811
-  :name: "#% increased Flame Totem Damage"
-  :type: enchant
-- :id: enchant.stat_281254371
-  :name: 'Damage Penetrates #% of Enemy Elemental Resistances if you haven''t Killed
-    Recently'
-  :type: enchant
-- :id: enchant.stat_282417259
-  :name: "#% increased Flammability Curse Effect"
-  :type: enchant
-- :id: enchant.stat_2833482311
-  :name: "#% increased Bladefall Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_2844206732
-  :name: "#% increased Punishment Curse Effect"
-  :type: enchant
-- :id: enchant.stat_2846773529
-  :name: "#% increased Arctic Breath Damage"
-  :type: enchant
-- :id: enchant.stat_2871777604
-  :name: "#% to Raised Zombie Elemental Resistances"
-  :type: enchant
-- :id: enchant.stat_2875508213
-  :name: "#% increased Orb of Storms Area of Effect"
-  :type: enchant
-- :id: enchant.stat_288248772
-  :name: Glacial Hammer Always Freezes
-  :type: enchant
-- :id: enchant.stat_2896357741
-  :name: "#% increased Siege Ballista Totem Placement Speed"
-  :type: enchant
-- :id: enchant.stat_2896672990
-  :name: "#% increased Lightning Arrow Damage"
-  :type: enchant
-- :id: enchant.stat_2898302567
-  :name: "# Radius of Charged Dash's final Damage Area"
-  :type: enchant
-- :id: enchant.stat_2906742892
-  :name: "#% increased Static Strike Duration"
-  :type: enchant
-- :id: enchant.stat_2925650365
-  :name: "#% chance to Trigger Decree of Force on Hit"
-  :type: enchant
-- :id: enchant.stat_2933995134
-  :name: 'Freeze Mine causes Enemies to lose an additional #% Cold Resistance while
-    Frozen'
-  :type: enchant
-- :id: enchant.stat_2938856716
-  :name: "#% increased Cremation Cast Speed"
-  :type: enchant
-- :id: enchant.stat_2948719994
-  :name: "#% increased Storm Burst Damage"
-  :type: enchant
-- :id: enchant.stat_2953109663
-  :name: "#% chance to Dodge Attacks if you have finished Channelling Charged Dash
-    Recently"
-  :type: enchant
-- :id: enchant.stat_297308603
-  :name: 'Blast Rain has a #% chance for an additional blast'
-  :type: enchant
-- :id: enchant.stat_2983274404
-  :name: "#% increased Blink Arrow Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_3009270704
-  :name: Barrage fires an additional Projectile
-  :type: enchant
-- :id: enchant.stat_3010587200
-  :name: "#% increased Critical Strike Chance if you haven't Crit Recently"
-  :type: enchant
-- :id: enchant.stat_3012437250
-  :name: "#% chance to Trigger Word of Fury on Hit"
-  :type: enchant
-- :id: enchant.stat_3013068851
-  :name: "#% increased Flame Dash Damage"
-  :type: enchant
-- :id: enchant.stat_3024867180
-  :name: "#% increased Blade Vortex Duration"
-  :type: enchant
-- :id: enchant.stat_3026752303
-  :name: "#% increased Ice Shot Damage"
-  :type: enchant
-- :id: enchant.stat_3034788766
-  :name: 'Volatile Dead destroys up to # additional Corpse'
-  :type: enchant
-- :id: enchant.stat_3036365740
-  :name: "#% chance to Trigger Commandment of Reflection when Hit"
-  :type: enchant
-- :id: enchant.stat_3053448465
-  :name: "#% increased Flameblast Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_3059357595
-  :name: 'Skeletons deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_3061969105
-  :name: "#% increased Ground Slam Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3069740560
-  :name: "#% increased Bladefall Damage"
-  :type: enchant
-- :id: enchant.stat_3072232736
-  :name: "#% increased Determination Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_3077703716
-  :name: 'Adds # to # Fire Damage if you''ve Killed Recently'
-  :type: enchant
-- :id: enchant.stat_308154324
-  :name: "#% chance to Trigger Edict of the Grave when your Skills or Minions Kill"
-  :type: enchant
-- :id: enchant.stat_308326229
-  :name: "#% increased Reckoning Damage"
-  :type: enchant
-- :id: enchant.stat_308396001
-  :name: "#% increased Movement Speed if you haven't been Hit Recently"
-  :type: enchant
-- :id: enchant.stat_3087527696
-  :name: "#% increased Detonate Dead Damage"
-  :type: enchant
-- :id: enchant.stat_3096183736
-  :name: Tempest Shield chains an additional time
-  :type: enchant
-- :id: enchant.stat_3105097589
-  :name: 'Kinetic Blast has a #% chance for an additional explosion'
-  :type: enchant
-- :id: enchant.stat_3106577499
-  :name: "#% increased Cleave Attack Speed"
-  :type: enchant
-- :id: enchant.stat_3109915337
-  :name: "#% chance to Trigger Commandment of Light when you take a Critical Strike"
-  :type: enchant
-- :id: enchant.stat_3111060801
-  :name: "#% chance to Trigger Word of Light when you take a Critical Strike"
-  :type: enchant
-- :id: enchant.stat_3131492956
-  :name: "#% increased Lightning Trap Damage"
-  :type: enchant
-- :id: enchant.stat_3134777190
-  :name: Lightning Strike pierces an additional Target
-  :type: enchant
-- :id: enchant.stat_3152806535
-  :name: 'Blood Rage grants additional #% chance to gain a Frenzy Charge on Kill'
-  :type: enchant
-- :id: enchant.stat_3152812191
-  :name: "#% increased Ball Lightning Damage"
-  :type: enchant
-- :id: enchant.stat_3172519570
-  :name: "#% increased Cleave Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3179781611
-  :name: "#% increased Volatile Dead Cast Speed"
-  :type: enchant
-- :id: enchant.stat_3185156108
-  :name: "#% increased Despair Curse Effect"
-  :type: enchant
-- :id: enchant.stat_3186938438
-  :name: "#% increased Puncture Duration"
-  :type: enchant
-- :id: enchant.stat_3192966873
-  :name: "#% increased Purity of Ice Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_3205997967
-  :name: Elemental Hit Always Freezes, Shocks and Ignites
-  :type: enchant
-- :id: enchant.stat_3208939528
-  :name: "#% increased Shield Charge Damage per Enemy Hit"
-  :type: enchant
-- :id: enchant.stat_3211417111
-  :name: "#% increased Fire Nova Cast Speed"
-  :type: enchant
-- :id: enchant.stat_3215042347
-  :name: "#% increased Purity of Fire Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_3222886961
-  :name: "#% chance to Trigger Commandment of Winter when Hit"
-  :type: enchant
-- :id: enchant.stat_3229261553
-  :name: 'Spirit Offering grants #% of Physical Damage as Extra Chaos Damage'
-  :type: enchant
-- :id: enchant.stat_3229580299
-  :name: "#% of Burning Arrow Physical Damage gained as Extra Fire Damage"
-  :type: enchant
-- :id: enchant.stat_3229878341
-  :name: "#% increased Vulnerability Duration"
-  :type: enchant
-- :id: enchant.stat_3232905239
-  :name: "#% Chance to gain a Power Charge on Critical Strike with Ice Spear"
-  :type: enchant
-- :id: enchant.stat_3233607638
-  :name: 'Bone Offering grants an additional #% Block Chance'
-  :type: enchant
-- :id: enchant.stat_3269321994
-  :name: Ice Nova Always Freezes
-  :type: enchant
-- :id: enchant.stat_3278819254
-  :name: "#% increased Poacher's Mark Curse Effect"
-  :type: enchant
-- :id: enchant.stat_3279758713
-  :name: "#% increased Scorching Ray Cast Speed"
-  :type: enchant
-- :id: enchant.stat_3280107027
-  :name: 'Lightning Golems deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_3285719520
-  :name: "#% chance to Trigger Edict of Ire when Hit"
-  :type: enchant
-- :id: enchant.stat_3293830776
-  :name: "#% increased Enfeeble Curse Effect"
-  :type: enchant
-- :id: enchant.stat_3302747233
-  :name: "#% chance to Trigger Word of Frost on Kill"
-  :type: enchant
-- :id: enchant.stat_3316767657
-  :name: "#% increased Sunder Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3316822388
-  :name: 'Righteous Fire grants #% increased Spell Damage'
-  :type: enchant
-- :id: enchant.stat_3317752680
-  :name: "#% increased Devouring Totem Leech per second"
-  :type: enchant
-- :id: enchant.stat_3320271130
-  :name: "#% increased Ancestral Warchief Totem Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3338074370
-  :name: "#% increased Animate Weapon Duration"
-  :type: enchant
-- :id: enchant.stat_3348324479
-  :name: "#% increased Elemental Weakness Curse Effect"
-  :type: enchant
-- :id: enchant.stat_3359178310
-  :name: "#% increased Righteous Fire Damage"
-  :type: enchant
-- :id: enchant.stat_3359777583
-  :name: "#% increased Storm Call Damage"
-  :type: enchant
-- :id: enchant.stat_3367298564
-  :name: "#% increased Ice Trap Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3367800526
-  :name: "#% increased Leap Slam Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3371538704
-  :name: "#% increased Cold Snap Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3395096718
-  :name: "#% increased Scorching Ray Damage"
-  :type: enchant
-- :id: enchant.stat_3395908304
-  :name: "#% increased Conductivity Curse Effect"
-  :type: enchant
-- :id: enchant.stat_340193547
-  :name: "#% increased Tectonic Slam Area of Effect"
-  :type: enchant
-- :id: enchant.stat_341054435
-  :name: "#% increased Bodyswap Damage"
-  :type: enchant
-- :id: enchant.stat_3414398924
-  :name: "#% Chance to Dodge if you've taken a Critical Strike Recently"
-  :type: enchant
-- :id: enchant.stat_3418033798
-  :name: 'Blood Rage grants additional #% increased Attack Speed'
-  :type: enchant
-- :id: enchant.stat_3432170876
-  :name: "#% increased Rain of Arrows Damage"
-  :type: enchant
-- :id: enchant.stat_343849491
-  :name: "#% increased Heavy Strike Attack Speed"
-  :type: enchant
-- :id: enchant.stat_3449510470
-  :name: "#% increased Frost Blades Damage"
-  :type: enchant
-- :id: enchant.stat_345703394
-  :name: "#% increased Fire Trap Burning Damage"
-  :type: enchant
-- :id: enchant.stat_3465202861
-  :name: "#% of Ice Crash Physical Damage gained as Extra Cold Damage"
-  :type: enchant
-- :id: enchant.stat_3469967347
-  :name: "#% increased Essence Drain Damage"
-  :type: enchant
-- :id: enchant.stat_3490662882
-  :name: "#% increased Shield Charge Damage"
-  :type: enchant
-- :id: enchant.stat_3496292484
-  :name: "#% increased Puncture Damage"
-  :type: enchant
-- :id: enchant.stat_3503624267
-  :name: 'Cremation can have up to # additional Geyser at a time'
-  :type: enchant
-- :id: enchant.stat_3510848926
-  :name: "#% increased Ice Spear Critical Strike Chance in second form"
-  :type: enchant
-- :id: enchant.stat_3514973342
-  :name: "#% increased Ethereal Knives Damage"
-  :type: enchant
-- :id: enchant.stat_3524326896
-  :name: "#% increased Frost Bomb Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_3537762266
-  :name: "#% increased Herald of Ice Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_3543257184
-  :name: 'Ancestral Warchief Totem grants #% increased Melee Damage while Active'
-  :type: enchant
-- :id: enchant.stat_354556858
-  :name: "#% increased Shrapnel Shot Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3555919553
-  :name: "#% increased Tornado Shot Damage"
-  :type: enchant
-- :id: enchant.stat_3564777492
-  :name: 'Smoke Mine grants additional #% increased Movement Speed'
-  :type: enchant
-- :id: enchant.stat_3600749521
-  :name: "#% increased Wrath Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_3608981617
-  :name: Spectral Shield Throw fires an additional Shard Projectile
-  :type: enchant
-- :id: enchant.stat_3609207587
-  :name: "#% Chance to gain an additional Power Charge on Kill with Power Siphon"
-  :type: enchant
-- :id: enchant.stat_3610104224
-  :name: "#% chance to Trigger Word of the Tempest on Hit"
-  :type: enchant
-- :id: enchant.stat_3617955571
-  :name: "#% increased Enduring Cry Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_3628984170
-  :name: "#% increased Explosive Arrow Damage"
-  :type: enchant
-- :id: enchant.stat_3630274354
-  :name: "#% increased Lightning Strike Damage"
-  :type: enchant
-- :id: enchant.stat_3641868987
-  :name: "#% chance to Trigger Decree of Light when you take a Critical Strike"
-  :type: enchant
-- :id: enchant.stat_3645693773
-  :name: 'Spectres have #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_3652051346
-  :name: 'Shock Nova ring deals #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_3653459847
-  :name: 'Mirror Arrow and Mirror Arrow Clones have #% increased Attack Speed'
-  :type: enchant
-- :id: enchant.stat_3655654928
-  :name: Desecrate summons an additional corpse
-  :type: enchant
-- :id: enchant.stat_3685345485
-  :name: "#% increased Barrage Damage"
-  :type: enchant
-- :id: enchant.stat_3693451031
-  :name: "#% increased Mana Cost of Skills if you've been Hit Recently"
-  :type: enchant
-- :id: enchant.stat_3698833303
-  :name: "#% increased Essence Drain Duration"
-  :type: enchant
-- :id: enchant.stat_3701991680
-  :name: "#% increased Flicker Strike Damage per Frenzy Charge"
-  :type: enchant
-- :id: enchant.stat_3703722637
-  :name: "#% chance to Trigger Commandment of Flames on Hit"
-  :type: enchant
-- :id: enchant.stat_3711386843
-  :name: "#% chance to create an additional Animate Weapon copy"
-  :type: enchant
-- :id: enchant.stat_3719728947
-  :name: "#% increased Smoke Mine Duration"
-  :type: enchant
-- :id: enchant.stat_3723124286
-  :name: "#% increased Whirling Blades Damage"
-  :type: enchant
-- :id: enchant.stat_3729006707
-  :name: "#% increased Cold Snap Damage"
-  :type: enchant
-- :id: enchant.stat_3730999759
-  :name: "#% increased Leap Slam Attack Speed"
-  :type: enchant
-- :id: enchant.stat_3734756042
-  :name: "#% increased Viper Strike Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_3738398726
-  :name: "#% increased Clarity Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_3755794090
-  :name: "#% increased Spectral Throw Damage"
-  :type: enchant
-- :id: enchant.stat_3760588941
-  :name: 'Heavy Strike has a #% chance to deal Double Damage'
-  :type: enchant
-- :id: enchant.stat_3764410821
-  :name: Lightning Trap pierces an additional Target
-  :type: enchant
-- :id: enchant.stat_3766479096
-  :name: "#% increased Warlord's Mark Duration"
-  :type: enchant
-- :id: enchant.stat_3772643988
-  :name: "#% increased Dominating Blow Duration"
-  :type: enchant
-- :id: enchant.stat_3804575865
-  :name: "#% increased Arctic Breath Duration"
-  :type: enchant
-- :id: enchant.stat_3816022821
-  :name: "#% increased Arctic Breath Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3816405721
-  :name: 'Ice Golems deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_3825617457
-  :name: "#% increased Rain of Arrows Attack Speed"
-  :type: enchant
-- :id: enchant.stat_3835483564
-  :name: "#% increased Hatred Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_3850775143
-  :name: "#% increased Leap Slam Damage"
-  :type: enchant
-- :id: enchant.stat_3854556792
-  :name: "#% increased Caustic Arrow Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3854723321
-  :name: "#% increased Lacerate Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3869217625
-  :name: "#% increased Viper Strike Duration"
-  :type: enchant
-- :id: enchant.stat_38715141
-  :name: "#% increased Summon Raging Spirit Duration"
-  :type: enchant
-- :id: enchant.stat_387490713
-  :name: "#% increased Caustic Arrow Duration"
-  :type: enchant
-- :id: enchant.stat_3901337328
-  :name: "#% chance to Trigger Word of Inferno on Kill"
-  :type: enchant
-- :id: enchant.stat_3910961021
-  :name: "#% increased Herald of Ice Damage"
-  :type: enchant
-- :id: enchant.stat_3915210550
-  :name: "#% chance to Freeze, Shock and Ignite if you haven't Crit Recently"
-  :type: enchant
-- :id: enchant.stat_391609701
-  :name: 'Adds # to # Chaos Damage if you''ve taken a Critical Strike Recently'
-  :type: enchant
-- :id: enchant.stat_3917881666
-  :name: "#% increased Earthquake Duration"
-  :type: enchant
-- :id: enchant.stat_3930497977
-  :name: "#% increased Ice Crash Area of Effect"
-  :type: enchant
-- :id: enchant.stat_3931013900
-  :name: "#% increased Firestorm explosion Area of Effect"
-  :type: enchant
-- :id: enchant.stat_39356080
-  :name: "#% increased Lightning Tendrils Damage"
-  :type: enchant
-- :id: enchant.stat_3948894096
-  :name: "#% increased Shock Nova Damage"
-  :type: enchant
-- :id: enchant.stat_3949159285
-  :name: "#% increased Explosive Arrow Attack Speed"
-  :type: enchant
-- :id: enchant.stat_3953599026
-  :name: "#% increased Unearth Damage"
-  :type: enchant
-- :id: enchant.stat_3961497709
-  :name: "#% increased Storm Burst Area of Effect"
-  :type: enchant
-- :id: enchant.stat_397438226
-  :name: "#% increased Bodyswap Cast Speed"
-  :type: enchant
-- :id: enchant.stat_3992962185
-  :name: "#% chance to Trigger Word of Spite when Hit"
-  :type: enchant
-- :id: enchant.stat_3995612171
-  :name: "#% increased Arctic Armour Buff Effect"
-  :type: enchant
-- :id: enchant.stat_3999206457
-  :name: "#% increased Tectonic Slam Damage"
-  :type: enchant
-- :id: enchant.stat_4006050359
-  :name: Volatile Dead destroys up to 1 additional Corpse
-  :type: enchant
-- :id: enchant.stat_4014289250
-  :name: "#% increased Blast Rain Damage"
-  :type: enchant
-- :id: enchant.stat_4031295671
-  :name: "#% increased Infernal Blow Area of Effect"
-  :type: enchant
-- :id: enchant.stat_4033078288
-  :name: "#% increased Sunder Damage"
-  :type: enchant
-- :id: enchant.stat_4040760803
-  :name: 'Dominated Minions deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_4071708873
-  :name: "#% increased Riposte Damage"
-  :type: enchant
-- :id: enchant.stat_4074562940
-  :name: "#% increased Vortex Duration"
-  :type: enchant
-- :id: enchant.stat_4082863126
-  :name: "#% increased Flame Totem Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_4084540709
-  :name: "#% increased Orb of Storms Damage"
-  :type: enchant
-- :id: enchant.stat_4109038270
-  :name: "#% increased Elemental Hit Damage"
-  :type: enchant
-- :id: enchant.stat_4118537428
-  :name: "#% Sweep Knockback Chance"
-  :type: enchant
-- :id: enchant.stat_412905518
-  :name: "#% chance to Avoid being Stunned if you've Killed Recently"
-  :type: enchant
-- :id: enchant.stat_4129421630
-  :name: "#% increased Lightning Arrow Area of Effect"
-  :type: enchant
-- :id: enchant.stat_4135304575
-  :name: "#% increased Attack and Cast Speed if you've Killed Recently"
-  :type: enchant
-- :id: enchant.stat_4136186767
-  :name: 'Mirror Arrow and Mirror Arrow Clones deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_4137556603
-  :name: 'Spectres have #% increased Attack and Cast Speed'
-  :type: enchant
-- :id: enchant.stat_4147277532
-  :name: "#% increased Rallying Cry Buff Effect"
-  :type: enchant
-- :id: enchant.stat_4151555126
-  :name: "#% increased Incinerate Damage for each stage"
-  :type: enchant
-- :id: enchant.stat_4152292551
-  :name: "#% chance to Trigger Decree of Thunder on Kill"
-  :type: enchant
-- :id: enchant.stat_4157143640
-  :name: 'Animated Guardians deal #% increased Damage'
-  :type: enchant
-- :id: enchant.stat_4166834934
-  :name: "#% increased Ancestral Blademaster Totem Damage"
-  :type: enchant
-- :id: enchant.stat_4170725899
-  :name: 'Blight has #% increased Hinder Duration'
-  :type: enchant
-- :id: enchant.stat_4175469673
-  :name: "#% increased Cremation Damage"
-  :type: enchant
-- :id: enchant.stat_4189505564
-  :name: "#% increased Chance to consume an additional Corpse with Devouring Totem"
-  :type: enchant
-- :id: enchant.stat_4199670252
-  :name: "#% increased Rallying Cry Duration"
-  :type: enchant
-- :id: enchant.stat_4202548383
-  :name: "#% increased Sweep Area of Effect"
-  :type: enchant
-- :id: enchant.stat_4203647216
-  :name: "#% chance to Trigger Commandment of the Tempest on Hit"
-  :type: enchant
-- :id: enchant.stat_4221797807
-  :name: "#% increased Blade Vortex Spell Damage"
-  :type: enchant
-- :id: enchant.stat_4224384031
-  :name: "#% increased Ice Trap Damage"
-  :type: enchant
-- :id: enchant.stat_4227497218
-  :name: "#% increased Poacher's Mark Duration"
-  :type: enchant
-- :id: enchant.stat_4228580629
-  :name: "#% chance to Trigger Edict of Reflection when Hit"
-  :type: enchant
-- :id: enchant.stat_4231484190
-  :name: "#% increased Frostbolt Cast Speed"
-  :type: enchant
-- :id: enchant.stat_4243904146
-  :name: "#% Chance on Frenzy to gain an additional Frenzy Charge"
-  :type: enchant
-- :id: enchant.stat_4259029320
-  :name: "#% chance for Phase Run to not consume Frenzy Charges"
-  :type: enchant
-- :id: enchant.stat_430890565
-  :name: "#% increased Flame Surge Damage against Burning Enemies"
-  :type: enchant
-- :id: enchant.stat_444686294
-  :name: "#% increased Spectral Throw Projectile Deceleration"
-  :type: enchant
-- :id: enchant.stat_444858149
-  :name: "#% increased Siege Ballista Attack Speed"
-  :type: enchant
-- :id: enchant.stat_447560345
-  :name: "#% increased Wither Duration"
-  :type: enchant
-- :id: enchant.stat_451037529
-  :name: "#% increased Glacial Cascade Damage"
-  :type: enchant
-- :id: enchant.stat_464448327
-  :name: "#% increased Flicker Strike Damage"
-  :type: enchant
-- :id: enchant.stat_464512091
-  :name: "#% chance for Tectonic Slam to not consume an Endurance Charge"
-  :type: enchant
-- :id: enchant.stat_482660590
-  :name: "#% increased Detonate Dead Area of Effect"
-  :type: enchant
-- :id: enchant.stat_488494964
-  :name: "#% increased Incinerate Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_494477497
-  :name: "#% chance to Trigger Commandment of War on Kill"
-  :type: enchant
-- :id: enchant.stat_513715594
-  :name: 'Flesh Offering grants an additional #% increased Attack Speed'
-  :type: enchant
-- :id: enchant.stat_516587640
-  :name: "#% increased Enfeeble Duration"
-  :type: enchant
-- :id: enchant.stat_522780692
-  :name: "#% increased Frenzy Damage"
-  :type: enchant
-- :id: enchant.stat_524936200
-  :name: "#% increased Wild Strike Area of Effect"
-  :type: enchant
-- :id: enchant.stat_551375258
-  :name: "#% increased Static Strike Damage"
-  :type: enchant
-- :id: enchant.stat_558298545
-  :name: "#% increased Herald of Thunder Damage"
-  :type: enchant
-- :id: enchant.stat_565901339
-  :name: "#% increased Shock Nova Area of Effect"
-  :type: enchant
-- :id: enchant.stat_574378310
-  :name: "#% increased Blast Rain Area of Effect"
-  :type: enchant
-- :id: enchant.stat_578067404
-  :name: "#% increased Lacerate Critical Strike Chance"
-  :type: enchant
-- :id: enchant.stat_586167247
-  :name: 'Unearth Creates Corpses with # Level'
-  :type: enchant
-- :id: enchant.stat_592861938
-  :name: "#% increased Ancestral Protector Totem Placement Speed"
-  :type: enchant
-- :id: enchant.stat_600891507
-  :name: "#% increased Magma Orb Damage"
-  :type: enchant
-- :id: enchant.stat_603658709
-  :name: "#% chance to Trigger Edict of Thunder on Kill"
-  :type: enchant
-- :id: enchant.stat_609478942
-  :name: "#% increased Lightning Warp Duration"
-  :type: enchant
-- :id: enchant.stat_620045439
-  :name: "#% chance to Trigger Commandment of Ire when Hit"
-  :type: enchant
-- :id: enchant.stat_634375806
-  :name: 20% chance to Summon an additional Skeleton Warrior with Summon Skeleton
-  :type: enchant
-- :id: enchant.stat_648343221
-  :name: "#% increased Shield Charge Attack Speed"
-  :type: enchant
-- :id: enchant.stat_648647905
-  :name: 'Ground Slam has a #% increased angle'
-  :type: enchant
-- :id: enchant.stat_683073695
-  :name: "#% increased Despair Duration"
-  :type: enchant
-- :id: enchant.stat_684174846
-  :name: "#% increased Earthquake Area of Effect"
-  :type: enchant
-- :id: enchant.stat_68809719
-  :name: "#% increased Ice Nova Area of Effect"
-  :type: enchant
-- :id: enchant.stat_696995312
-  :name: "#% increased Burning Arrow Damage"
-  :type: enchant
-- :id: enchant.stat_702909553
-  :name: "#% increased Scorching Ray beam length"
-  :type: enchant
-- :id: enchant.stat_708179348
-  :name: "#% increased Searing Bond Totem Placement Speed"
-  :type: enchant
-- :id: enchant.stat_740609357
-  :name: "#% increased Desecrate Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_754797886
-  :name: "#% increased Blade Flurry Damage"
-  :type: enchant
-- :id: enchant.stat_756653426
-  :name: "#% chance to Trigger Word of Blades on Hit"
-  :type: enchant
-- :id: enchant.stat_760994068
-  :name: "#% increased Ethereal Knives Projectile Speed"
-  :type: enchant
-- :id: enchant.stat_767884542
-  :name: "#% increased Herald of Ash Damage"
-  :type: enchant
-- :id: enchant.stat_775034903
-  :name: "#% increased Frost Wall Duration"
-  :type: enchant
-- :id: enchant.stat_775200811
-  :name: Flame Totem fires an additional Projectile
-  :type: enchant
-- :id: enchant.stat_780453137
-  :name: "#% increased Abyssal Cry Damage"
-  :type: enchant
-- :id: enchant.stat_78239163
-  :name: "#% increased Ancestral Warchief Totem Damage"
-  :type: enchant
-- :id: enchant.stat_786149615
-  :name: "#% chance to Trigger Edict of Flames on Hit"
-  :type: enchant
-- :id: enchant.stat_78767457
-  :name: "#% increased Power Siphon Damage"
-  :type: enchant
-- :id: enchant.stat_788307702
-  :name: "#% increased Ball Lightning Area of Effect"
-  :type: enchant
-- :id: enchant.stat_804983774
-  :name: "#% increased Reckoning Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_815390778
-  :name: "#% increased Molten Shell Damage"
-  :type: enchant
-- :id: enchant.stat_819852672
-  :name: "#% increased Freezing Pulse Damage"
-  :type: enchant
-- :id: enchant.stat_819890745
-  :name: "#% increased Conductivity Duration"
-  :type: enchant
-- :id: enchant.stat_835592326
-  :name: "#% increased Cyclone Attack Speed"
-  :type: enchant
-- :id: enchant.stat_840189382
-  :name: "#% increased Siege Ballista Damage"
-  :type: enchant
-- :id: enchant.stat_862824495
-  :name: "#% increased Reave Damage"
-  :type: enchant
-- :id: enchant.stat_884220218
-  :name: "#% chance to Avoid interruption from Stuns while Casting Storm Burst"
-  :type: enchant
-- :id: enchant.stat_884399432
-  :name: 'Adds # to # Cold Damage if you''ve been Hit Recently'
-  :type: enchant
-- :id: enchant.stat_88796379
-  :name: "#% increased Glacial Cascade Area of Effect"
-  :type: enchant
-- :id: enchant.stat_888039248
-  :name: "#% increased Temporal Chains Duration"
-  :type: enchant
-- :id: enchant.stat_889695873
-  :name: "#% chance to Trigger Decree of Spite when Hit"
-  :type: enchant
-- :id: enchant.stat_891161612
-  :name: "#% chance to Trigger Word of Flames on Hit"
-  :type: enchant
-- :id: enchant.stat_90942364
-  :name: "#% chance to Trigger Edict of Frost on Kill"
-  :type: enchant
-- :id: enchant.stat_91821600
-  :name: "#% increased Haste Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_918308703
-  :name: "#% increased Bear Trap Cooldown Recovery Speed"
-  :type: enchant
-- :id: enchant.stat_954135826
-  :name: "#% increased Heavy Strike Damage"
-  :type: enchant
-- :id: enchant.stat_957864706
-  :name: "#% increased Dark Pact Area of Effect"
-  :type: enchant
-- :id: enchant.stat_966400988
-  :name: "#% increased Herald of Thunder Mana Reservation"
-  :type: enchant
-- :id: enchant.stat_990408262
-  :name: "#% chance to Trigger Decree of Flames on Hit"
-  :type: enchant
-- :id: enchant.stat_995860222
-  :name: Molten Strike an additional Projectile
-  :type: enchant
+  :type: pseudo
+- :id: pseudo.pseudo_increased_physical_damage
+  :name: "#% total increased Physical Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_rarity
+  :name: "#% increased Rarity of Items found"
+  :type: pseudo
+- :id: pseudo.pseudo_increased_spell_damage
+  :name: "#% increased Spell Damage"
+  :type: pseudo
+- :id: pseudo.pseudo_percent_life_regen
+  :name: "#% of Life Regenerated per Second"
+  :type: pseudo
+- :id: pseudo.pseudo_physical_attack_damage_leeched_as_life
+  :name: "#% of Physical Attack Damage Leeched as Life"
+  :type: pseudo
+- :id: pseudo.pseudo_physical_attack_damage_leeched_as_mana
+  :name: "#% of Physical Attack Damage Leeched as Mana"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_aura_gem_levels
+  :name: "+# total to Level of Socketed Aura Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_bow_gem_levels
+  :name: "+# total to Level of Socketed Bow Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_chaos_gem_levels
+  :name: "+# total to Level of Socketed Chaos Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_cold_gem_levels
+  :name: "+# total to Level of Socketed Cold Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_curse_gem_levels
+  :name: "+# total to Level of Socketed Curse Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_dexterity_gem_levels
+  :name: "+# total to Level of Socketed Dexterity Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_elemental_gem_levels
+  :name: "+# total to Level of Socketed Elemental Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_fire_gem_levels
+  :name: "+# total to Level of Socketed Fire Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_gem_levels
+  :name: "+# total to Level of Socketed Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_golem_gem_levels
+  :name: "+# total to Level of Socketed Golem Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_intelligence_gem_levels
+  :name: "+# total to Level of Socketed Intelligence Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_lightning_gem_levels
+  :name: "+# total to Level of Socketed Lightning Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_melee_gem_levels
+  :name: "+# total to Level of Socketed Melee Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_minion_gem_levels
+  :name: "+# total to Level of Socketed Minion Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_movement_gem_levels
+  :name: "+# total to Level of Socketed Movement Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_projectile_gem_levels
+  :name: "+# total to Level of Socketed Projectile Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_skill_gem_levels
+  :name: "+# total to Level of Socketed Skill Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_spell_gem_levels
+  :name: "+# total to Level of Socketed Spell Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_strength_gem_levels
+  :name: "+# total to Level of Socketed Strength Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_support_gem_levels
+  :name: "+# total to Level of Socketed Support Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_vaal_gem_levels
+  :name: "+# total to Level of Socketed Vaal Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_additional_warcry_gem_levels
+  :name: "+# total to Level of Socketed Warcry Gems"
+  :type: pseudo
+- :id: pseudo.pseudo_total_all_attributes
+  :name: "+# total to all Attributes"
+  :type: pseudo
+- :id: pseudo.pseudo_total_all_elemental_resistances
+  :name: "+#% total to all Elemental Resistances"
+  :type: pseudo
+- :id: pseudo.pseudo_total_attack_speed
+  :name: "+#% total Attack Speed"
+  :type: pseudo
+- :id: pseudo.pseudo_total_cast_speed
+  :name: "+#% total Cast Speed"
+  :type: pseudo
+- :id: pseudo.pseudo_total_cold_resistance
+  :name: "+#% total to Cold Resistance"
+  :type: pseudo
+- :id: pseudo.pseudo_total_dexterity
+  :name: "+# total to Dexterity"
+  :type: pseudo
+- :id: pseudo.pseudo_total_elemental_resistance
+  :name: "+#% total Elemental Resistance"
+  :type: pseudo
+- :id: pseudo.pseudo_total_energy_shield
+  :name: "+# total maximum Energy Shield"
+  :type: pseudo
+- :id: pseudo.pseudo_total_fire_resistance
+  :name: "+#% total to Fire Resistance"
+  :type: pseudo
+- :id: pseudo.pseudo_total_intelligence
+  :name: "+# total to Intelligence"
+  :type: pseudo
+- :id: pseudo.pseudo_total_life
+  :name: "+# total maximum Life"
+  :type: pseudo
+- :id: pseudo.pseudo_total_life_regen
+  :name: "# Life Regenerated per Second"
+  :type: pseudo
+- :id: pseudo.pseudo_total_lightning_resistance
+  :name: "+#% total to Lightning Resistance"
+  :type: pseudo
+- :id: pseudo.pseudo_total_mana
+  :name: "+# total maximum Mana"
+  :type: pseudo
+- :id: pseudo.pseudo_total_resistance
+  :name: "+#% total Resistance"
+  :type: pseudo
+- :id: pseudo.pseudo_total_strength
+  :name: "+# total to Strength"
+  :type: pseudo
 - :id: explicit.stat_1000591322
   :name: Area contains many Totems
   :type: explicit
@@ -5524,6 +3952,9 @@
   :type: explicit
 - :id: explicit.stat_3152982863
   :name: 'Minions deal # to # additional Cold Damage'
+  :type: explicit
+- :id: explicit.stat_3155072742
+  :name: 'Socketed Gems are Supported by Level # Summon Phantasm on Kill'
   :type: explicit
 - :id: explicit.stat_3158958938
   :name: "#% increased Reflected Physical Damage taken"
@@ -9324,255 +7755,2355 @@
 - :id: implicit.stat_99927264
   :name: "#% reduced Shock Duration on You"
   :type: implicit
-- :id: pseudo.pseudo_adds_chaos_damage
-  :name: 'Adds # to # Chaos Damage'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_chaos_damage_to_attacks
-  :name: 'Adds # to # Chaos Damage to Attacks'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_chaos_damage_to_spells
-  :name: 'Adds # to # Chaos Damage to Spells'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_cold_damage
-  :name: 'Adds # to # Cold Damage'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_cold_damage_to_attacks
-  :name: 'Adds # to # Cold Damage to Attacks'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_cold_damage_to_spells
-  :name: 'Adds # to # Cold Damage to Spells'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_damage
-  :name: 'Adds # to # Damage'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_damage_to_attacks
-  :name: 'Adds # to # Damage to Attacks'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_damage_to_spells
-  :name: 'Adds # to # Damage to Spells'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_elemental_damage
-  :name: 'Adds # to # Elemental Damage'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_elemental_damage_to_attacks
-  :name: 'Adds # to # Elemental Damage to Attacks'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_elemental_damage_to_spells
-  :name: 'Adds # to # Elemental Damage to Spells'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_fire_damage
-  :name: 'Adds # to # Fire Damage'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_fire_damage_to_attacks
-  :name: 'Adds # to # Fire Damage to Attacks'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_fire_damage_to_spells
+- :id: crafted.stat_1037193709
+  :name: 'Adds # to # Cold Damage (Local)'
+  :type: crafted
+- :id: crafted.stat_1050105434
+  :name: "# to maximum Mana"
+  :type: crafted
+- :id: crafted.stat_1062208444
+  :name: "#% increased Armour (Local)"
+  :type: crafted
+- :id: crafted.stat_1073942215
+  :name: "#% increased Freeze Duration on Enemies"
+  :type: crafted
+- :id: crafted.stat_1086147743
+  :name: "#% increased Ignite Duration on Enemies"
+  :type: crafted
+- :id: crafted.stat_1101403182
+  :name: "#% increased Damage taken from Damage Over Time"
+  :type: crafted
+- :id: crafted.stat_1133016593
   :name: 'Adds # to # Fire Damage to Spells'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_lightning_damage
-  :name: 'Adds # to # Lightning Damage'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_lightning_damage_to_attacks
+  :type: crafted
+- :id: crafted.stat_1149326139
+  :name: Cannot roll Caster Mods
+  :type: crafted
+- :id: crafted.stat_118398748
+  :name: "#% increased Trap Throwing Speed"
+  :type: crafted
+- :id: crafted.stat_124859000
+  :name: "#% increased Evasion Rating (Local)"
+  :type: crafted
+- :id: crafted.stat_1335054179
+  :name: "#% chance to Ignite"
+  :type: crafted
+- :id: crafted.stat_1379411836
+  :name: "# to all Attributes"
+  :type: crafted
+- :id: crafted.stat_1412217137
+  :name: "#% increased Flask Mana Recovery rate"
+  :type: crafted
+- :id: crafted.stat_1445684883
+  :name: 'Reflects # Physical Damage to Attackers on Block'
+  :type: crafted
+- :id: crafted.stat_1514829491
+  :name: "#% chance to Avoid being Frozen"
+  :type: crafted
+- :id: crafted.stat_1519615863
+  :name: "#% chance to cause Bleeding on Hit"
+  :type: crafted
+- :id: crafted.stat_1538773178
+  :name: "#% chance to Shock"
+  :type: crafted
+- :id: crafted.stat_1573130764
+  :name: 'Adds # to # Fire Damage to Attacks'
+  :type: crafted
+- :id: crafted.stat_1578737937
+  :name: Attack Projectiles Return to You after hitting targets
+  :type: crafted
+- :id: crafted.stat_1589917703
+  :name: 'Minions deal #% increased Damage'
+  :type: crafted
+- :id: crafted.stat_1652515349
+  :name: "# to maximum number of Zombies"
+  :type: crafted
+- :id: crafted.stat_1671376347
+  :name: "#% to Lightning Resistance"
+  :type: crafted
+- :id: crafted.stat_1702195217
+  :name: "#% additional Block Chance"
+  :type: crafted
+- :id: crafted.stat_1754445556
   :name: 'Adds # to # Lightning Damage to Attacks'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_lightning_damage_to_spells
-  :name: 'Adds # to # Lightning Damage to Spells'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_physical_damage
-  :name: 'Adds # to # Physical Damage'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_physical_damage_to_attacks
-  :name: 'Adds # to # Physical Damage to Attacks'
-  :type: pseudo
-- :id: pseudo.pseudo_adds_physical_damage_to_spells
-  :name: 'Adds # to # Physical Damage to Spells'
-  :type: pseudo
-- :id: pseudo.pseudo_count_elemental_resistances
-  :name: "# total Elemental Resistances"
-  :type: pseudo
-- :id: pseudo.pseudo_count_resistances
-  :name: "# total Resistances"
-  :type: pseudo
-- :id: pseudo.pseudo_critical_strike_chance_for_spells
-  :name: "+#% total Critical Strike Chance for Spells"
-  :type: pseudo
-- :id: pseudo.pseudo_global_critical_strike_chance
-  :name: "+#% Global Critical Strike Chance"
-  :type: pseudo
-- :id: pseudo.pseudo_global_critical_strike_multiplier
-  :name: "+#% Global Critical Strike Multiplier"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_burning_damage
-  :name: "#% increased Burning Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_cold_damage
-  :name: "#% increased Cold Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_cold_damage_with_attack_skills
-  :name: "#% increased Cold Damage with Attack Skills"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_cold_spell_damage
-  :name: "#% increased Cold Spell Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_elemental_damage
-  :name: "#% increased Elemental Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_elemental_damage_with_attack_skills
-  :name: "#% increased Elemental Damage with Attack Skills"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_energy_shield
-  :name: "#% total increased maximum Energy Shield"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_fire_damage
-  :name: "#% increased Fire Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_fire_damage_with_attack_skills
-  :name: "#% increased Fire Damage with Attack Skills"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_fire_spell_damage
-  :name: "#% increased Fire Spell Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_lightning_damage
+  :type: crafted
+- :id: crafted.stat_1782086450
+  :name: "#% faster start of Energy Shield Recharge"
+  :type: crafted
+- :id: crafted.stat_1783006896
+  :name: "#% chance to Avoid being Ignited"
+  :type: crafted
+- :id: crafted.stat_1805374733
+  :name: "#% increased Physical Damage (Local)"
+  :type: crafted
+- :id: crafted.stat_1859333175
+  :name: Can have multiple Crafted Mods
+  :type: crafted
+- :id: crafted.stat_1871765599
+  :name: "#% chance to Avoid being Shocked"
+  :type: crafted
+- :id: crafted.stat_1896971621
+  :name: "#% increased Mine Laying Speed"
+  :type: crafted
+- :id: crafted.stat_1940865751
+  :name: 'Adds # to # Physical Damage (Local)'
+  :type: crafted
+- :id: crafted.stat_1999113824
+  :name: "#% increased Evasion and Energy Shield"
+  :type: crafted
+- :id: crafted.stat_210067635
+  :name: "#% increased Attack Speed (Local)"
+  :type: crafted
+- :id: crafted.stat_2106365538
+  :name: "#% increased Evasion Rating"
+  :type: crafted
+- :id: crafted.stat_2137912951
+  :name: "#% increased Mine Damage"
+  :type: crafted
+- :id: crafted.stat_2166444903
+  :name: "#% additional Block Chance while Dual Wielding"
+  :type: crafted
+- :id: crafted.stat_2231156303
   :name: "#% increased Lightning Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_lightning_damage_with_attack_skills
-  :name: "#% increased Lightning Damage with Attack Skills"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_lightning_spell_damage
-  :name: "#% increased Lightning Spell Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_mana_regen
-  :name: "#% increased Mana Regeneration Rate"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_physical_damage
-  :name: "#% total increased Physical Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_rarity
-  :name: "#% increased Rarity of Items found"
-  :type: pseudo
-- :id: pseudo.pseudo_increased_spell_damage
+  :type: crafted
+- :id: crafted.stat_2250533757
+  :name: "#% increased Movement Speed"
+  :type: crafted
+- :id: crafted.stat_2309614417
+  :name: "#% chance to Freeze"
+  :type: crafted
+- :id: crafted.stat_2362265695
+  :name: "#% chance to Avoid being Knocked Back"
+  :type: crafted
+- :id: crafted.stat_2375316951
+  :name: "#% increased Critical Strike Chance"
+  :type: crafted
+- :id: crafted.stat_238314698
+  :name: 'Cannot roll Mods with Required Level above #'
+  :type: crafted
+- :id: crafted.stat_2428829184
+  :name: "# to maximum number of Skeletons"
+  :type: crafted
+- :id: crafted.stat_2451402625
+  :name: "#% increased Armour and Evasion"
+  :type: crafted
+- :id: crafted.stat_2469416729
+  :name: 'Adds # to # Cold Damage to Spells'
+  :type: crafted
+- :id: crafted.stat_2477381238
+  :name: "#% reduced Enemy Block Chance"
+  :type: crafted
+- :id: crafted.stat_2482852589
+  :name: "#% increased maximum Energy Shield"
+  :type: crafted
+- :id: crafted.stat_2517001139
+  :name: "#% increased Stun Duration on Enemies"
+  :type: crafted
+- :id: crafted.stat_2797971005
+  :name: "# Life gained for each Enemy hit by your Attacks"
+  :type: crafted
+- :id: crafted.stat_2831165374
+  :name: 'Adds # to # Lightning Damage to Spells'
+  :type: crafted
+- :id: crafted.stat_2866361420
+  :name: "#% increased Armour"
+  :type: crafted
+- :id: crafted.stat_2879723104
+  :name: Prefixes Cannot Be Changed
+  :type: crafted
+- :id: crafted.stat_2891184298
+  :name: "#% increased Cast Speed"
+  :type: crafted
+- :id: crafted.stat_2901986750
+  :name: "#% to all Elemental Resistances"
+  :type: crafted
+- :id: crafted.stat_2915988346
+  :name: "#% to Fire and Cold Resistances"
+  :type: crafted
+- :id: crafted.stat_2941585404
+  :name: "#% increased Trap Damage"
+  :type: crafted
+- :id: crafted.stat_2974417149
   :name: "#% increased Spell Damage"
-  :type: pseudo
-- :id: pseudo.pseudo_percent_life_regen
-  :name: "#% of Life Regenerated per Second"
-  :type: pseudo
-- :id: pseudo.pseudo_physical_attack_damage_leeched_as_life
-  :name: "#% of Physical Attack Damage Leeched as Life"
-  :type: pseudo
-- :id: pseudo.pseudo_physical_attack_damage_leeched_as_mana
+  :type: crafted
+- :id: crafted.stat_301104070
+  :name: Flasks gain a Charge when you take a Critical Strike
+  :type: crafted
+- :id: crafted.stat_3032590688
+  :name: 'Adds # to # Physical Damage to Attacks'
+  :type: crafted
+- :id: crafted.stat_3237948413
   :name: "#% of Physical Attack Damage Leeched as Mana"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_aura_gem_levels
-  :name: "+# total to Level of Socketed Aura Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_bow_gem_levels
-  :name: "+# total to Level of Socketed Bow Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_chaos_gem_levels
-  :name: "+# total to Level of Socketed Chaos Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_cold_gem_levels
-  :name: "+# total to Level of Socketed Cold Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_curse_gem_levels
-  :name: "+# total to Level of Socketed Curse Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_dexterity_gem_levels
-  :name: "+# total to Level of Socketed Dexterity Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_elemental_gem_levels
-  :name: "+# total to Level of Socketed Elemental Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_fire_gem_levels
-  :name: "+# total to Level of Socketed Fire Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_gem_levels
-  :name: "+# total to Level of Socketed Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_golem_gem_levels
-  :name: "+# total to Level of Socketed Golem Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_intelligence_gem_levels
-  :name: "+# total to Level of Socketed Intelligence Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_lightning_gem_levels
-  :name: "+# total to Level of Socketed Lightning Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_melee_gem_levels
-  :name: "+# total to Level of Socketed Melee Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_minion_gem_levels
-  :name: "+# total to Level of Socketed Minion Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_movement_gem_levels
-  :name: "+# total to Level of Socketed Movement Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_projectile_gem_levels
-  :name: "+# total to Level of Socketed Projectile Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_skill_gem_levels
-  :name: "+# total to Level of Socketed Skill Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_spell_gem_levels
-  :name: "+# total to Level of Socketed Spell Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_strength_gem_levels
-  :name: "+# total to Level of Socketed Strength Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_support_gem_levels
-  :name: "+# total to Level of Socketed Support Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_vaal_gem_levels
-  :name: "+# total to Level of Socketed Vaal Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_additional_warcry_gem_levels
-  :name: "+# total to Level of Socketed Warcry Gems"
-  :type: pseudo
-- :id: pseudo.pseudo_total_all_attributes
-  :name: "+# total to all Attributes"
-  :type: pseudo
-- :id: pseudo.pseudo_total_all_elemental_resistances
-  :name: "+#% total to all Elemental Resistances"
-  :type: pseudo
-- :id: pseudo.pseudo_total_attack_speed
-  :name: "+#% total Attack Speed"
-  :type: pseudo
-- :id: pseudo.pseudo_total_cast_speed
-  :name: "+#% total Cast Speed"
-  :type: pseudo
-- :id: pseudo.pseudo_total_cold_resistance
-  :name: "+#% total to Cold Resistance"
-  :type: pseudo
-- :id: pseudo.pseudo_total_dexterity
-  :name: "+# total to Dexterity"
-  :type: pseudo
-- :id: pseudo.pseudo_total_elemental_resistance
-  :name: "+#% total Elemental Resistance"
-  :type: pseudo
-- :id: pseudo.pseudo_total_energy_shield
-  :name: "+# total maximum Energy Shield"
-  :type: pseudo
-- :id: pseudo.pseudo_total_fire_resistance
-  :name: "+#% total to Fire Resistance"
-  :type: pseudo
-- :id: pseudo.pseudo_total_intelligence
-  :name: "+# total to Intelligence"
-  :type: pseudo
-- :id: pseudo.pseudo_total_life
-  :name: "+# total maximum Life"
-  :type: pseudo
-- :id: pseudo.pseudo_total_life_regen
-  :name: "# Life Regenerated per Second"
-  :type: pseudo
-- :id: pseudo.pseudo_total_lightning_resistance
-  :name: "+#% total to Lightning Resistance"
-  :type: pseudo
-- :id: pseudo.pseudo_total_mana
-  :name: "+# total maximum Mana"
-  :type: pseudo
-- :id: pseudo.pseudo_total_resistance
-  :name: "+#% total Resistance"
-  :type: pseudo
-- :id: pseudo.pseudo_total_strength
-  :name: "+# total to Strength"
-  :type: pseudo
+  :type: crafted
+- :id: crafted.stat_3261801346
+  :name: "# to Dexterity"
+  :type: crafted
+- :id: crafted.stat_328541901
+  :name: "# to Intelligence"
+  :type: crafted
+- :id: crafted.stat_3291658075
+  :name: "#% increased Cold Damage"
+  :type: crafted
+- :id: crafted.stat_3299347043
+  :name: "# to maximum Life"
+  :type: crafted
+- :id: crafted.stat_3321629045
+  :name: "#% increased Armour and Energy Shield"
+  :type: crafted
+- :id: crafted.stat_3336890334
+  :name: 'Adds # to # Lightning Damage (Local)'
+  :type: crafted
+- :id: crafted.stat_3372524247
+  :name: "#% to Fire Resistance"
+  :type: crafted
+- :id: crafted.stat_3441501978
+  :name: "#% to Fire and Lightning Resistances"
+  :type: crafted
+- :id: crafted.stat_3464137628
+  :name: Suffixes Cannot Be Changed
+  :type: crafted
+- :id: crafted.stat_3483999943
+  :name: "#% chance to Avoid being Chilled"
+  :type: crafted
+- :id: crafted.stat_3484657501
+  :name: "# to Armour (Local)"
+  :type: crafted
+- :id: crafted.stat_3485067555
+  :name: "#% increased Chill Duration on Enemies"
+  :type: crafted
+- :id: crafted.stat_3489782002
+  :name: "# to maximum Energy Shield"
+  :type: crafted
+- :id: crafted.stat_350598685
+  :name: "# to Weapon range"
+  :type: crafted
+- :id: crafted.stat_3556824919
+  :name: "#% to Global Critical Strike Multiplier"
+  :type: crafted
+- :id: crafted.stat_3593843976
+  :name: "#% of Physical Attack Damage Leeched as Life"
+  :type: crafted
+- :id: crafted.stat_3668351662
+  :name: "#% increased Shock Duration on Enemies"
+  :type: crafted
+- :id: crafted.stat_3741323227
+  :name: "#% increased Flask effect duration"
+  :type: crafted
+- :id: crafted.stat_3759663284
+  :name: "#% increased Projectile Speed"
+  :type: crafted
+- :id: crafted.stat_3767873853
+  :name: 'Reflects # Physical Damage to Melee Attackers'
+  :type: crafted
+- :id: crafted.stat_3824372849
+  :name: "#% increased Curse Duration"
+  :type: crafted
+- :id: crafted.stat_3848282610
+  :name: "#% of Fire Damage Leeched as Life"
+  :type: crafted
+- :id: crafted.stat_387439868
+  :name: "#% increased Elemental Damage with Attack Skills"
+  :type: crafted
+- :id: crafted.stat_3909846940
+  :name: Item drops on Death if Equipped by an Animated Guardian
+  :type: crafted
+- :id: crafted.stat_3917489142
+  :name: "#% increased Rarity of Items found"
+  :type: crafted
+- :id: crafted.stat_3922006600
+  :name: 'Socketed Gems are Supported by Level # Blood Magic'
+  :type: crafted
+- :id: crafted.stat_3962278098
+  :name: "#% increased Fire Damage"
+  :type: crafted
+- :id: crafted.stat_3999401129
+  :name: "#% of Cold Damage Leeched as Life"
+  :type: crafted
+- :id: crafted.stat_4015621042
+  :name: "#% increased Energy Shield"
+  :type: crafted
+- :id: crafted.stat_4052037485
+  :name: "# to maximum Energy Shield (Local)"
+  :type: crafted
+- :id: crafted.stat_4067062424
+  :name: 'Adds # to # Cold Damage to Attacks'
+  :type: crafted
+- :id: crafted.stat_4080418644
+  :name: "# to Strength"
+  :type: crafted
+- :id: crafted.stat_4122424929
+  :name: Cannot roll Attack Mods
+  :type: crafted
+- :id: crafted.stat_4220027924
+  :name: "#% to Cold Resistance"
+  :type: crafted
+- :id: crafted.stat_4253454700
+  :name: "#% Chance to Block (Shields)"
+  :type: crafted
+- :id: crafted.stat_4262448838
+  :name: "#% chance to Avoid being Stunned"
+  :type: crafted
+- :id: crafted.stat_4277795662
+  :name: "#% to Cold and Lightning Resistances"
+  :type: crafted
+- :id: crafted.stat_51994685
+  :name: "#% increased Flask Life Recovery rate"
+  :type: crafted
+- :id: crafted.stat_53045048
+  :name: "# to Evasion Rating (Local)"
+  :type: crafted
+- :id: crafted.stat_587431675
+  :name: "#% increased Global Critical Strike Chance"
+  :type: crafted
+- :id: crafted.stat_674553446
+  :name: 'Adds # to # Chaos Damage to Attacks'
+  :type: crafted
+- :id: crafted.stat_681332047
+  :name: "#% increased Attack Speed"
+  :type: crafted
+- :id: crafted.stat_691932474
+  :name: "# to Accuracy Rating (Local)"
+  :type: crafted
+- :id: crafted.stat_709508406
+  :name: 'Adds # to # Fire Damage (Local)'
+  :type: crafted
+- :id: crafted.stat_737908626
+  :name: "#% increased Critical Strike Chance for Spells"
+  :type: crafted
+- :id: crafted.stat_770672621
+  :name: 'Minions have #% increased maximum Life'
+  :type: crafted
+- :id: crafted.stat_789117908
+  :name: "#% increased Mana Regeneration Rate"
+  :type: crafted
+- :id: crafted.stat_80079005
+  :name: "#% of Lightning Damage Leeched as Life"
+  :type: crafted
+- :id: crafted.stat_803737631
+  :name: "# to Accuracy Rating"
+  :type: crafted
+- :id: crafted.stat_832404842
+  :name: "#% reduced Enemy Stun Threshold with this Weapon"
+  :type: crafted
+- :id: crafted.stat_967627487
+  :name: "#% increased Damage over Time"
+  :type: crafted
+- :id: enchant.stat_1007135105
+  :name: "#% increased Kinetic Blast Damage"
+  :type: enchant
+- :id: enchant.stat_101788216
+  :name: "#% increased Flesh Offering Duration"
+  :type: enchant
+- :id: enchant.stat_1028884162
+  :name: "#% increased Split Arrow Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_1030003515
+  :name: "#% increased Flame Surge Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_103922739
+  :name: "#% increased Spark Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_1040958896
+  :name: "#% chance to Summon an additional Skeleton Warrior with Summon Skeleton"
+  :type: enchant
+- :id: enchant.stat_1041365824
+  :name: "#% increased Explosive Arrow Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1050563950
+  :name: "#% increased Ice Trap Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_1056396846
+  :name: "#% increased Contagion Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1062615953
+  :name: "#% increased Spectral Throw Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_1063173946
+  :name: "#% increased Spirit Offering Duration"
+  :type: enchant
+- :id: enchant.stat_1065909420
+  :name: "#% increased Vulnerability Curse Effect"
+  :type: enchant
+- :id: enchant.stat_1086309398
+  :name: "#% increased Ice Nova Damage"
+  :type: enchant
+- :id: enchant.stat_1087923932
+  :name: "#% increased Frost Blades Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_108883700
+  :name: "#% increased Ground Slam Damage"
+  :type: enchant
+- :id: enchant.stat_1106926438
+  :name: "#% chance to Trigger Decree of War on Kill"
+  :type: enchant
+- :id: enchant.stat_1122074043
+  :name: "#% increased Vitality Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_1151217691
+  :name: "#% increased Elemental Hit Attack Speed"
+  :type: enchant
+- :id: enchant.stat_1153159301
+  :name: "#% increased Shockwave Totem Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1153637043
+  :name: "#% chance to Trigger Edict of Fury on Hit"
+  :type: enchant
+- :id: enchant.stat_1154155584
+  :name: "#% of Glacial Cascade Physical Damage Converted to Cold Damage"
+  :type: enchant
+- :id: enchant.stat_1162506883
+  :name: "#% chance to Trigger Word of Force on Hit"
+  :type: enchant
+- :id: enchant.stat_1171483499
+  :name: 'Stone Golems deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_1201942540
+  :name: "#% increased Double Strike Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_1208019382
+  :name: "#% increased Spark Damage"
+  :type: enchant
+- :id: enchant.stat_1212590278
+  :name: "#% increased Volatile Dead Damage"
+  :type: enchant
+- :id: enchant.stat_1213035889
+  :name: Lightning Strike fires an additional Projectile
+  :type: enchant
+- :id: enchant.stat_1220207954
+  :name: "#% to Ancestral Protector Totem Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_1222329688
+  :name: |-
+    #% chance to Dodge Spell Damage if you've
+    taken Spell Damage Recently
+  :type: enchant
+- :id: enchant.stat_1230050013
+  :name: "#% increased Lightning Tendrils Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1243906675
+  :name: "#% increased Ball Lightning Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_1255310381
+  :name: "#% increased Frenzy Damage per Frenzy Charge"
+  :type: enchant
+- :id: enchant.stat_1259277978
+  :name: "#% chance to Trigger Commandment of Spite when Hit"
+  :type: enchant
+- :id: enchant.stat_1265055278
+  :name: "#% increased Charged Dash Damage"
+  :type: enchant
+- :id: enchant.stat_1268512925
+  :name: "#% chance to Trigger Decree of Frost on Kill"
+  :type: enchant
+- :id: enchant.stat_12756171
+  :name: "#% increased Lightning Tendrils Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_1285430327
+  :name: "#% increased Purity of Lightning Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_1293597434
+  :name: 'Adds # to # Lightning Damage if you haven''t Killed Recently'
+  :type: enchant
+- :id: enchant.stat_1298820272
+  :name: "#% to increased Flame Golem Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_1303996723
+  :name: 'Ancestral Protector Totem grants #% increased Attack Speed while Active'
+  :type: enchant
+- :id: enchant.stat_131320052
+  :name: 'Converted Enemies have #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_1322030222
+  :name: "#% increased Lightning Trap Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_1336543283
+  :name: "#% increased Immortal Call Duration"
+  :type: enchant
+- :id: enchant.stat_1347575155
+  :name: "#% increased Lightning Warp Cast Speed"
+  :type: enchant
+- :id: enchant.stat_1350605126
+  :name: "#% chance to Trigger Word of Thunder on Kill"
+  :type: enchant
+- :id: enchant.stat_1354248411
+  :name: "#% chance to Trigger Word of Winter when Hit"
+  :type: enchant
+- :id: enchant.stat_1359058534
+  :name: "#% increased Cleave Damage"
+  :type: enchant
+- :id: enchant.stat_1366391108
+  :name: "#% chance to Trigger Decree of Inferno on Kill"
+  :type: enchant
+- :id: enchant.stat_1374371477
+  :name: "#% chance to Trigger Commandment of the Grave when your Skills or Minions
+    Kill"
+  :type: enchant
+- :id: enchant.stat_1381908541
+  :name: 'Summon Raging Spirit has #% chance to summon an extra Minion'
+  :type: enchant
+- :id: enchant.stat_1398394628
+  :name: "#% increased Flicker Strike Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_1433838252
+  :name: "#% chance to Dodge Attacks at Maximum Blade Flurry stages"
+  :type: enchant
+- :id: enchant.stat_1440798870
+  :name: "#% increased Flame Dash Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_1443215722
+  :name: "#% increased Frostbite Curse Effect"
+  :type: enchant
+- :id: enchant.stat_1447427508
+  :name: "#% increased Vengeance Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_1451372148
+  :name: "#% increased Frost Bomb Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1454162553
+  :name: "#% increased Cyclone Damage"
+  :type: enchant
+- :id: enchant.stat_147678606
+  :name: "#% chance to Trigger Edict of Winter when Hit"
+  :type: enchant
+- :id: enchant.stat_147952811
+  :name: "#% chance to Trigger Commandment of Blades on Hit"
+  :type: enchant
+- :id: enchant.stat_1486490067
+  :name: "#% increased Reave Radius"
+  :type: enchant
+- :id: enchant.stat_1491182794
+  :name: "#% increased Flame Surge Damage"
+  :type: enchant
+- :id: enchant.stat_1496334795
+  :name: "#% increased Caustic Arrow Damage"
+  :type: enchant
+- :id: enchant.stat_1528965411
+  :name: "#% increased Warlord's Mark Curse Effect"
+  :type: enchant
+- :id: enchant.stat_1532964880
+  :name: "#% increased Flameblast Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1539846779
+  :name: 'Detonate Dead has a #% chance to detonate an additional Corpse'
+  :type: enchant
+- :id: enchant.stat_1549594869
+  :name: "#% increased Dark Pact Cast Speed"
+  :type: enchant
+- :id: enchant.stat_1549898151
+  :name: "#% increased Grace Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_1554500307
+  :name: "#% chance to Trigger Commandment of Fury on Hit"
+  :type: enchant
+- :id: enchant.stat_1554597333
+  :name: 'Blink Arrow and Blink Arrow Clones have #% increased Attack Speed'
+  :type: enchant
+- :id: enchant.stat_1561141582
+  :name: "#% increased Spectral Shield Throw Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_1573799461
+  :name: "#% increased Dark Pact Damage"
+  :type: enchant
+- :id: enchant.stat_1575282859
+  :name: 'Flame Golems have #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_1580810115
+  :name: Tornado Shot fires an additional secondary Projectile
+  :type: enchant
+- :id: enchant.stat_1588572574
+  :name: "#% increased Rejuvenation Totem Aura Effect"
+  :type: enchant
+- :id: enchant.stat_1601558321
+  :name: "#% to Stone Golem Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_1607493537
+  :name: "#% increased Bone Offering Duration"
+  :type: enchant
+- :id: enchant.stat_1609523492
+  :name: "#% increased Assassin's Mark Duration"
+  :type: enchant
+- :id: enchant.stat_1623552446
+  :name: "#% increased Blight Damage"
+  :type: enchant
+- :id: enchant.stat_1631824124
+  :name: "#% increased Decoy Totem Life"
+  :type: enchant
+- :id: enchant.stat_1646093658
+  :name: "#% increased Magma Orb Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1648511635
+  :name: "#% increased Effect of the Buff granted by your Chaos Golems"
+  :type: enchant
+- :id: enchant.stat_1654191578
+  :name: "#% increased Projectile Weakness Duration"
+  :type: enchant
+- :id: enchant.stat_165958462
+  :name: "#% chance to Trigger Decree of Blades on Hit"
+  :type: enchant
+- :id: enchant.stat_1660758870
+  :name: "#% increased Kinetic Blast Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1662974426
+  :name: "#% increased Temporal Chains Curse Effect"
+  :type: enchant
+- :id: enchant.stat_1666713639
+  :name: "#% increased Wild Strike Damage"
+  :type: enchant
+- :id: enchant.stat_1671985305
+  :name: "#% chance to Trigger Decree of the Tempest on Hit"
+  :type: enchant
+- :id: enchant.stat_168538372
+  :name: "#% increased Orb of Storms Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_1686675991
+  :name: "#% increased Decoy Totem Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1691710359
+  :name: "#% increased Firestorm Duration"
+  :type: enchant
+- :id: enchant.stat_1692615507
+  :name: "#% increased Fire Trap Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_169405468
+  :name: "#% increased Flameblast Damage"
+  :type: enchant
+- :id: enchant.stat_1697080607
+  :name: "#% increased Earthquake Damage"
+  :type: enchant
+- :id: enchant.stat_1711789839
+  :name: "#% chance to Trigger Edict of the Tempest on Hit"
+  :type: enchant
+- :id: enchant.stat_1730614496
+  :name: "#% increased Vortex Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1743954272
+  :name: "#% increased Discharge Radius"
+  :type: enchant
+- :id: enchant.stat_1781106044
+  :name: "#% increased Mirror Arrow Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_1783696476
+  :name: "#% increased Frostbite Duration"
+  :type: enchant
+- :id: enchant.stat_1792647120
+  :name: "#% chance to Trigger Decree of Reflection when Hit"
+  :type: enchant
+- :id: enchant.stat_1794090421
+  :name: "#% increased Ice Crash Damage"
+  :type: enchant
+- :id: enchant.stat_1803063132
+  :name: 'Gain #% of Rejuvenation Totem Life Regeneration as extra Mana Regeneration'
+  :type: enchant
+- :id: enchant.stat_1809965314
+  :name: "#% increased Double Strike Damage"
+  :type: enchant
+- :id: enchant.stat_1810898461
+  :name: "#% increased Wither Area of Effect"
+  :type: enchant
+- :id: enchant.stat_181307038
+  :name: "#% increased Fire Trap Damage"
+  :type: enchant
+- :id: enchant.stat_1815368527
+  :name: "#% increased Tornado Shot Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_1818525360
+  :name: "#% chance to Trigger Decree of Ire when Hit"
+  :type: enchant
+- :id: enchant.stat_1819674879
+  :name: 'Animated Weapons deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_1833626118
+  :name: "#% chance for Discharge not to consume Charges"
+  :type: enchant
+- :id: enchant.stat_1843506018
+  :name: "#% increased Storm Call Duration"
+  :type: enchant
+- :id: enchant.stat_1844721010
+  :name: "#% increased Lacerate Damage"
+  :type: enchant
+- :id: enchant.stat_1849664701
+  :name: "#% increased Purity of Elements Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_186513618
+  :name: Spark fires an additional Projectile
+  :type: enchant
+- :id: enchant.stat_1877374369
+  :name: "#% chance to Trigger Commandment of Frost on Kill"
+  :type: enchant
+- :id: enchant.stat_1877863115
+  :name: "#% increased Bear Trap Damage"
+  :type: enchant
+- :id: enchant.stat_1891516164
+  :name: "#% increased Spectral Shield Throw Damage"
+  :type: enchant
+- :id: enchant.stat_1894493605
+  :name: "#% increased Freezing Pulse Cast Speed"
+  :type: enchant
+- :id: enchant.stat_1901955093
+  :name: Lightning Arrow hits an additional Enemy
+  :type: enchant
+- :id: enchant.stat_1902197291
+  :name: "#% increased Whirling Blades Attack Speed"
+  :type: enchant
+- :id: enchant.stat_1906144841
+  :name: "#% chance to Trigger Word of War on Kill"
+  :type: enchant
+- :id: enchant.stat_1917107304
+  :name: "#% increased Dual Strike Attack Speed"
+  :type: enchant
+- :id: enchant.stat_1924239636
+  :name: "#% increased Punishment Duration"
+  :type: enchant
+- :id: enchant.stat_1934891174
+  :name: "#% increased Abyssal Cry Duration"
+  :type: enchant
+- :id: enchant.stat_1935930829
+  :name: "#% increased Discharge Damage"
+  :type: enchant
+- :id: enchant.stat_1943147282
+  :name: "#% of Shrapnel Shot Physical Damage gained as extra Lightning Damage"
+  :type: enchant
+- :id: enchant.stat_1946386823
+  :name: "#% to Chaos Golem Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_1949390531
+  :name: "#% increased Molten Shell Buff Effect"
+  :type: enchant
+- :id: enchant.stat_1953644681
+  :name: "#% chance for Immortal Call to not consume Endurance Charges"
+  :type: enchant
+- :id: enchant.stat_195463427
+  :name: Arc Always Shocks
+  :type: enchant
+- :id: enchant.stat_1961975107
+  :name: "#% increased Assassin's Mark Curse Effect"
+  :type: enchant
+- :id: enchant.stat_1962401751
+  :name: "#% increased Ice Shot Area of Effect"
+  :type: enchant
+- :id: enchant.stat_1967878868
+  :name: 'Blink Arrow and Blink Arrow Clones have #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_1972101281
+  :name: "#% increased Vengeance Damage"
+  :type: enchant
+- :id: enchant.stat_1988467615
+  :name: "#% chance to Trigger Commandment of Thunder on Kill"
+  :type: enchant
+- :id: enchant.stat_1999307054
+  :name: "#% increased Sunder Attack Speed"
+  :type: enchant
+- :id: enchant.stat_2003026405
+  :name: "#% increased Freezing Pulse Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_2003753577
+  :name: "#% increased Anger Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_200942664
+  :name: "#% increased Vortex Damage"
+  :type: enchant
+- :id: enchant.stat_2020183428
+  :name: "#% chance to Trigger Commandment of Inferno on Kill"
+  :type: enchant
+- :id: enchant.stat_2033463878
+  :name: "#% chance to Trigger Edict of War on Kill"
+  :type: enchant
+- :id: enchant.stat_2035168499
+  :name: "#% increased Freeze Mine Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2038865857
+  :name: "#% increased Molten Strike Damage"
+  :type: enchant
+- :id: enchant.stat_2054059315
+  :name: "#% increased Convocation Buff Effect"
+  :type: enchant
+- :id: enchant.stat_2070247068
+  :name: "#% increased Storm Call Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2078274993
+  :name: "#% increased Frostbolt Damage"
+  :type: enchant
+- :id: enchant.stat_2085855914
+  :name: 'Raging Spirits have #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_209345940
+  :name: "#% increased Lightning Warp Damage"
+  :type: enchant
+- :id: enchant.stat_2094069860
+  :name: "#% increased Dual Strike Damage"
+  :type: enchant
+- :id: enchant.stat_2094281311
+  :name: "#% to Animated Guardian Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_2098790581
+  :name: Fireball Always Ignites
+  :type: enchant
+- :id: enchant.stat_2121581717
+  :name: "#% increased Tempest Shield Damage"
+  :type: enchant
+- :id: enchant.stat_2143519574
+  :name: "#% increased Conversion Trap Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_2160886943
+  :name: "#% chance to Trigger Edict of Blades on Hit"
+  :type: enchant
+- :id: enchant.stat_2165542662
+  :name: "#% of Damage Leeched as Life and Mana if you've Killed Recently"
+  :type: enchant
+- :id: enchant.stat_2166622264
+  :name: "#% increased Flammability Duration"
+  :type: enchant
+- :id: enchant.stat_2187415468
+  :name: "#% chance to Trigger Decree of the Grave when your Skills or Minions Kill"
+  :type: enchant
+- :id: enchant.stat_2200030809
+  :name: "#% increased Discipline Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_2201904285
+  :name: "#% increased Firestorm Damage"
+  :type: enchant
+- :id: enchant.stat_2205814812
+  :name: "#% increased Rain of Arrows Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2226973351
+  :name: Burning Arrow Always Ignites
+  :type: enchant
+- :id: enchant.stat_2228518621
+  :name: 'Zombies deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_2231403318
+  :name: "#% increased Fireball Cast Speed"
+  :type: enchant
+- :id: enchant.stat_2233726619
+  :name: "#% increased Arctic Armour Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_2246143608
+  :name: "#% chance to Trigger Edict of Inferno on Kill"
+  :type: enchant
+- :id: enchant.stat_2246425134
+  :name: "#% increased Incinerate Damage"
+  :type: enchant
+- :id: enchant.stat_2250111474
+  :name: "#% increased Effect of the Buff granted by your Ice Golems"
+  :type: enchant
+- :id: enchant.stat_2252338738
+  :name: "#% chance to Trigger Decree of Fury on Hit"
+  :type: enchant
+- :id: enchant.stat_2259906777
+  :name: "#% increased Shockwave Totem Cast Speed"
+  :type: enchant
+- :id: enchant.stat_2275055843
+  :name: "#% increased Vigilant Strike Fortify Duration"
+  :type: enchant
+- :id: enchant.stat_2278715446
+  :name: Split Arrow fires an additional Projectile
+  :type: enchant
+- :id: enchant.stat_2284801675
+  :name: "#% increased Effect of the Buff granted by your Stone Golems"
+  :type: enchant
+- :id: enchant.stat_2287764959
+  :name: "#% increased Vigilant Strike Damage"
+  :type: enchant
+- :id: enchant.stat_2287986752
+  :name: "#% increased Riposte Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_2289367813
+  :name: "#% increased Cold Snap Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_2298223148
+  :name: "#% increased Searing Bond Damage"
+  :type: enchant
+- :id: enchant.stat_2328234364
+  :name: "#% increased Herald of Ash Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_2338484156
+  :name: "#% to Lightning Golem Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_2380598805
+  :name: "#% increased Frost Bomb Damage"
+  :type: enchant
+- :id: enchant.stat_2387717928
+  :name: "#% increased Unearth Cast Speed"
+  :type: enchant
+- :id: enchant.stat_2413715772
+  :name: "#% increased Bladefall Area of Effect"
+  :type: enchant
+- :id: enchant.stat_241781316
+  :name: "#% increased Enduring Cry Buff Effect"
+  :type: enchant
+- :id: enchant.stat_2420287129
+  :name: 'Regenerate #% of Life and Mana per second if you were Hit Recently'
+  :type: enchant
+- :id: enchant.stat_2423221070
+  :name: "#% increased Ice Spear Damage"
+  :type: enchant
+- :id: enchant.stat_242838571
+  :name: "#% increased Infernal Blow Damage"
+  :type: enchant
+- :id: enchant.stat_2430635444
+  :name: "#% increased Righteous Fire Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2440551805
+  :name: "#% increased Shockwave Totem Damage"
+  :type: enchant
+- :id: enchant.stat_244125450
+  :name: "#% Chance for Puncture to Maim on hit"
+  :type: enchant
+- :id: enchant.stat_2447447843
+  :name: Wild Strike Chains an additional time
+  :type: enchant
+- :id: enchant.stat_2461552986
+  :name: Arc Chains an additional time
+  :type: enchant
+- :id: enchant.stat_2472584898
+  :name: "#% chance to Trigger Word of Ire when Hit"
+  :type: enchant
+- :id: enchant.stat_2479762395
+  :name: "#% increased Frost Wall Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_2484188706
+  :name: "#% of Infernal Blow Physical Damage gained as Extra Fire Damage"
+  :type: enchant
+- :id: enchant.stat_2499559911
+  :name: 'Zombies have #% increased Attack Speed'
+  :type: enchant
+- :id: enchant.stat_2505115650
+  :name: 'Chaos Golems deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_2511915418
+  :name: "#% increased Blight Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2515273888
+  :name: "#% chance to Trigger Decree of Winter when Hit"
+  :type: enchant
+- :id: enchant.stat_2519689029
+  :name: "#% increased Searing Bond Totem Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_2520825974
+  :name: "#% to Ice Golem Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_2523298357
+  :name: "#% increased Barrage Attack Speed"
+  :type: enchant
+- :id: enchant.stat_2524620107
+  :name: "#% increased Molten Strike Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2527140156
+  :name: "#% chance to Trigger Word of the Grave when your Skills or Minions Kill"
+  :type: enchant
+- :id: enchant.stat_2527931375
+  :name: "#% increased Effect of the Buff granted by your Lightning Golems"
+  :type: enchant
+- :id: enchant.stat_253870897
+  :name: "#% increased Sweep Damage"
+  :type: enchant
+- :id: enchant.stat_2555366825
+  :name: "#% of Glacial Hammer Physical Damage gained as Extra Cold Damage"
+  :type: enchant
+- :id: enchant.stat_2555469486
+  :name: "#% increased Split Arrow Damage"
+  :type: enchant
+- :id: enchant.stat_2556095677
+  :name: "#% increased Phase Run Duration"
+  :type: enchant
+- :id: enchant.stat_2565809961
+  :name: "#% increased Contagion Duration"
+  :type: enchant
+- :id: enchant.stat_257027296
+  :name: "#% chance to Trigger Edict of Spite when Hit"
+  :type: enchant
+- :id: enchant.stat_2575601188
+  :name: "#% increased Fire Nova Mine Damage"
+  :type: enchant
+- :id: enchant.stat_2585271359
+  :name: "#% increased Viper Strike Damage"
+  :type: enchant
+- :id: enchant.stat_2589980605
+  :name: Magma Orb Chains an additional time
+  :type: enchant
+- :id: enchant.stat_2596239449
+  :name: 'Ancestral Protector Totem deals #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_2600498881
+  :name: "#% increased Fireball Damage"
+  :type: enchant
+- :id: enchant.stat_2600949388
+  :name: "#% increased Ice Shot Duration"
+  :type: enchant
+- :id: enchant.stat_2614099660
+  :name: 'Fire Nova Mine repeats an additional # times'
+  :type: enchant
+- :id: enchant.stat_2634094270
+  :name: "#% chance to Trigger Word of Reflection when Hit"
+  :type: enchant
+- :id: enchant.stat_2634945088
+  :name: "#% increased Shrapnel Shot Damage"
+  :type: enchant
+- :id: enchant.stat_2661979205
+  :name: "#% increased Dominating Blow Damage"
+  :type: enchant
+- :id: enchant.stat_2666843091
+  :name: "#% chance to Trigger Commandment of Force on Hit"
+  :type: enchant
+- :id: enchant.stat_2680060124
+  :name: "#% increased Convocation Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_2685860927
+  :name: "#% increased Static Strike Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2690620076
+  :name: "#% increased Elemental Weakness Duration"
+  :type: enchant
+- :id: enchant.stat_269930125
+  :name: "#% increased Effect of the Buff granted by your Flame Golems"
+  :type: enchant
+- :id: enchant.stat_271342637
+  :name: "#% chance to Trigger Edict of Light when you take a Critical Strike"
+  :type: enchant
+- :id: enchant.stat_2729530556
+  :name: "#% increased Dual Strike Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_2732675053
+  :name: "#% increased Glacial Hammer Damage"
+  :type: enchant
+- :id: enchant.stat_2740567252
+  :name: "#% increased Arc Damage"
+  :type: enchant
+- :id: enchant.stat_2746213081
+  :name: "#% increased Blade Flurry Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2748553775
+  :name: "#% increased Blade Vortex Area of Effect"
+  :type: enchant
+- :id: enchant.stat_2753191013
+  :name: "#% increased Power Siphon Attack Speed"
+  :type: enchant
+- :id: enchant.stat_2760193888
+  :name: "#% chance to Trigger Edict of Force on Hit"
+  :type: enchant
+- :id: enchant.stat_27640220
+  :name: "#% to Raised Spectre Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_277116504
+  :name: "#% increased Contagion Damage"
+  :type: enchant
+- :id: enchant.stat_2774873427
+  :name: Frostbolt Always Freezes
+  :type: enchant
+- :id: enchant.stat_2779309910
+  :name: "#% increased Double Strike Attack Speed"
+  :type: enchant
+- :id: enchant.stat_2789561878
+  :name: "#% increased Projectile Weakness Curse Effect"
+  :type: enchant
+- :id: enchant.stat_2801853811
+  :name: "#% increased Flame Totem Damage"
+  :type: enchant
+- :id: enchant.stat_281254371
+  :name: 'Damage Penetrates #% of Enemy Elemental Resistances if you haven''t Killed
+    Recently'
+  :type: enchant
+- :id: enchant.stat_282417259
+  :name: "#% increased Flammability Curse Effect"
+  :type: enchant
+- :id: enchant.stat_2833482311
+  :name: "#% increased Bladefall Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_2844206732
+  :name: "#% increased Punishment Curse Effect"
+  :type: enchant
+- :id: enchant.stat_2846773529
+  :name: "#% increased Arctic Breath Damage"
+  :type: enchant
+- :id: enchant.stat_2871777604
+  :name: "#% to Raised Zombie Elemental Resistances"
+  :type: enchant
+- :id: enchant.stat_2875508213
+  :name: "#% increased Orb of Storms Area of Effect"
+  :type: enchant
+- :id: enchant.stat_288248772
+  :name: Glacial Hammer Always Freezes
+  :type: enchant
+- :id: enchant.stat_2896357741
+  :name: "#% increased Siege Ballista Totem Placement Speed"
+  :type: enchant
+- :id: enchant.stat_2896672990
+  :name: "#% increased Lightning Arrow Damage"
+  :type: enchant
+- :id: enchant.stat_2898302567
+  :name: "# Radius of Charged Dash's final Damage Area"
+  :type: enchant
+- :id: enchant.stat_2906742892
+  :name: "#% increased Static Strike Duration"
+  :type: enchant
+- :id: enchant.stat_2925650365
+  :name: "#% chance to Trigger Decree of Force on Hit"
+  :type: enchant
+- :id: enchant.stat_2933995134
+  :name: 'Freeze Mine causes Enemies to lose an additional #% Cold Resistance while
+    Frozen'
+  :type: enchant
+- :id: enchant.stat_2938856716
+  :name: "#% increased Cremation Cast Speed"
+  :type: enchant
+- :id: enchant.stat_2948719994
+  :name: "#% increased Storm Burst Damage"
+  :type: enchant
+- :id: enchant.stat_2953109663
+  :name: "#% chance to Dodge Attacks if you have finished Channelling Charged Dash
+    Recently"
+  :type: enchant
+- :id: enchant.stat_297308603
+  :name: 'Blast Rain has a #% chance for an additional blast'
+  :type: enchant
+- :id: enchant.stat_2983274404
+  :name: "#% increased Blink Arrow Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_3009270704
+  :name: Barrage fires an additional Projectile
+  :type: enchant
+- :id: enchant.stat_3010587200
+  :name: "#% increased Critical Strike Chance if you haven't Crit Recently"
+  :type: enchant
+- :id: enchant.stat_3012437250
+  :name: "#% chance to Trigger Word of Fury on Hit"
+  :type: enchant
+- :id: enchant.stat_3013068851
+  :name: "#% increased Flame Dash Damage"
+  :type: enchant
+- :id: enchant.stat_3024867180
+  :name: "#% increased Blade Vortex Duration"
+  :type: enchant
+- :id: enchant.stat_3026752303
+  :name: "#% increased Ice Shot Damage"
+  :type: enchant
+- :id: enchant.stat_3034788766
+  :name: 'Volatile Dead destroys up to # additional Corpse'
+  :type: enchant
+- :id: enchant.stat_3036365740
+  :name: "#% chance to Trigger Commandment of Reflection when Hit"
+  :type: enchant
+- :id: enchant.stat_3053448465
+  :name: "#% increased Flameblast Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_3059357595
+  :name: 'Skeletons deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_3061969105
+  :name: "#% increased Ground Slam Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3069740560
+  :name: "#% increased Bladefall Damage"
+  :type: enchant
+- :id: enchant.stat_3072232736
+  :name: "#% increased Determination Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_3077703716
+  :name: 'Adds # to # Fire Damage if you''ve Killed Recently'
+  :type: enchant
+- :id: enchant.stat_308154324
+  :name: "#% chance to Trigger Edict of the Grave when your Skills or Minions Kill"
+  :type: enchant
+- :id: enchant.stat_308326229
+  :name: "#% increased Reckoning Damage"
+  :type: enchant
+- :id: enchant.stat_308396001
+  :name: "#% increased Movement Speed if you haven't been Hit Recently"
+  :type: enchant
+- :id: enchant.stat_3087527696
+  :name: "#% increased Detonate Dead Damage"
+  :type: enchant
+- :id: enchant.stat_3096183736
+  :name: Tempest Shield chains an additional time
+  :type: enchant
+- :id: enchant.stat_3105097589
+  :name: 'Kinetic Blast has a #% chance for an additional explosion'
+  :type: enchant
+- :id: enchant.stat_3106577499
+  :name: "#% increased Cleave Attack Speed"
+  :type: enchant
+- :id: enchant.stat_3109915337
+  :name: "#% chance to Trigger Commandment of Light when you take a Critical Strike"
+  :type: enchant
+- :id: enchant.stat_3111060801
+  :name: "#% chance to Trigger Word of Light when you take a Critical Strike"
+  :type: enchant
+- :id: enchant.stat_3131492956
+  :name: "#% increased Lightning Trap Damage"
+  :type: enchant
+- :id: enchant.stat_3134777190
+  :name: Lightning Strike pierces an additional Target
+  :type: enchant
+- :id: enchant.stat_3152806535
+  :name: 'Blood Rage grants additional #% chance to gain a Frenzy Charge on Kill'
+  :type: enchant
+- :id: enchant.stat_3152812191
+  :name: "#% increased Ball Lightning Damage"
+  :type: enchant
+- :id: enchant.stat_3172519570
+  :name: "#% increased Cleave Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3179781611
+  :name: "#% increased Volatile Dead Cast Speed"
+  :type: enchant
+- :id: enchant.stat_3185156108
+  :name: "#% increased Despair Curse Effect"
+  :type: enchant
+- :id: enchant.stat_3186938438
+  :name: "#% increased Puncture Duration"
+  :type: enchant
+- :id: enchant.stat_3192966873
+  :name: "#% increased Purity of Ice Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_3205997967
+  :name: Elemental Hit Always Freezes, Shocks and Ignites
+  :type: enchant
+- :id: enchant.stat_3208939528
+  :name: "#% increased Shield Charge Damage per Enemy Hit"
+  :type: enchant
+- :id: enchant.stat_3211417111
+  :name: "#% increased Fire Nova Cast Speed"
+  :type: enchant
+- :id: enchant.stat_3215042347
+  :name: "#% increased Purity of Fire Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_3222886961
+  :name: "#% chance to Trigger Commandment of Winter when Hit"
+  :type: enchant
+- :id: enchant.stat_3229261553
+  :name: 'Spirit Offering grants #% of Physical Damage as Extra Chaos Damage'
+  :type: enchant
+- :id: enchant.stat_3229580299
+  :name: "#% of Burning Arrow Physical Damage gained as Extra Fire Damage"
+  :type: enchant
+- :id: enchant.stat_3229878341
+  :name: "#% increased Vulnerability Duration"
+  :type: enchant
+- :id: enchant.stat_3232905239
+  :name: "#% Chance to gain a Power Charge on Critical Strike with Ice Spear"
+  :type: enchant
+- :id: enchant.stat_3233607638
+  :name: 'Bone Offering grants an additional #% Block Chance'
+  :type: enchant
+- :id: enchant.stat_3269321994
+  :name: Ice Nova Always Freezes
+  :type: enchant
+- :id: enchant.stat_3278819254
+  :name: "#% increased Poacher's Mark Curse Effect"
+  :type: enchant
+- :id: enchant.stat_3279758713
+  :name: "#% increased Scorching Ray Cast Speed"
+  :type: enchant
+- :id: enchant.stat_3280107027
+  :name: 'Lightning Golems deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_3285719520
+  :name: "#% chance to Trigger Edict of Ire when Hit"
+  :type: enchant
+- :id: enchant.stat_3293830776
+  :name: "#% increased Enfeeble Curse Effect"
+  :type: enchant
+- :id: enchant.stat_3302747233
+  :name: "#% chance to Trigger Word of Frost on Kill"
+  :type: enchant
+- :id: enchant.stat_3316767657
+  :name: "#% increased Sunder Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3316822388
+  :name: 'Righteous Fire grants #% increased Spell Damage'
+  :type: enchant
+- :id: enchant.stat_3317752680
+  :name: "#% increased Devouring Totem Leech per second"
+  :type: enchant
+- :id: enchant.stat_3320271130
+  :name: "#% increased Ancestral Warchief Totem Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3338074370
+  :name: "#% increased Animate Weapon Duration"
+  :type: enchant
+- :id: enchant.stat_3348324479
+  :name: "#% increased Elemental Weakness Curse Effect"
+  :type: enchant
+- :id: enchant.stat_3359178310
+  :name: "#% increased Righteous Fire Damage"
+  :type: enchant
+- :id: enchant.stat_3359777583
+  :name: "#% increased Storm Call Damage"
+  :type: enchant
+- :id: enchant.stat_3367298564
+  :name: "#% increased Ice Trap Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3367800526
+  :name: "#% increased Leap Slam Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3371538704
+  :name: "#% increased Cold Snap Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3395096718
+  :name: "#% increased Scorching Ray Damage"
+  :type: enchant
+- :id: enchant.stat_3395908304
+  :name: "#% increased Conductivity Curse Effect"
+  :type: enchant
+- :id: enchant.stat_340193547
+  :name: "#% increased Tectonic Slam Area of Effect"
+  :type: enchant
+- :id: enchant.stat_341054435
+  :name: "#% increased Bodyswap Damage"
+  :type: enchant
+- :id: enchant.stat_3414398924
+  :name: "#% Chance to Dodge if you've taken a Critical Strike Recently"
+  :type: enchant
+- :id: enchant.stat_3418033798
+  :name: 'Blood Rage grants additional #% increased Attack Speed'
+  :type: enchant
+- :id: enchant.stat_3432170876
+  :name: "#% increased Rain of Arrows Damage"
+  :type: enchant
+- :id: enchant.stat_343849491
+  :name: "#% increased Heavy Strike Attack Speed"
+  :type: enchant
+- :id: enchant.stat_3449510470
+  :name: "#% increased Frost Blades Damage"
+  :type: enchant
+- :id: enchant.stat_345703394
+  :name: "#% increased Fire Trap Burning Damage"
+  :type: enchant
+- :id: enchant.stat_3465202861
+  :name: "#% of Ice Crash Physical Damage gained as Extra Cold Damage"
+  :type: enchant
+- :id: enchant.stat_3469967347
+  :name: "#% increased Essence Drain Damage"
+  :type: enchant
+- :id: enchant.stat_3490662882
+  :name: "#% increased Shield Charge Damage"
+  :type: enchant
+- :id: enchant.stat_3496292484
+  :name: "#% increased Puncture Damage"
+  :type: enchant
+- :id: enchant.stat_3503624267
+  :name: 'Cremation can have up to # additional Geyser at a time'
+  :type: enchant
+- :id: enchant.stat_3510848926
+  :name: "#% increased Ice Spear Critical Strike Chance in second form"
+  :type: enchant
+- :id: enchant.stat_3514973342
+  :name: "#% increased Ethereal Knives Damage"
+  :type: enchant
+- :id: enchant.stat_3524326896
+  :name: "#% increased Frost Bomb Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_3537762266
+  :name: "#% increased Herald of Ice Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_3543257184
+  :name: 'Ancestral Warchief Totem grants #% increased Melee Damage while Active'
+  :type: enchant
+- :id: enchant.stat_354556858
+  :name: "#% increased Shrapnel Shot Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3555919553
+  :name: "#% increased Tornado Shot Damage"
+  :type: enchant
+- :id: enchant.stat_3564777492
+  :name: 'Smoke Mine grants additional #% increased Movement Speed'
+  :type: enchant
+- :id: enchant.stat_3600749521
+  :name: "#% increased Wrath Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_3608981617
+  :name: Spectral Shield Throw fires an additional Shard Projectile
+  :type: enchant
+- :id: enchant.stat_3609207587
+  :name: "#% Chance to gain an additional Power Charge on Kill with Power Siphon"
+  :type: enchant
+- :id: enchant.stat_3610104224
+  :name: "#% chance to Trigger Word of the Tempest on Hit"
+  :type: enchant
+- :id: enchant.stat_3617955571
+  :name: "#% increased Enduring Cry Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_3628984170
+  :name: "#% increased Explosive Arrow Damage"
+  :type: enchant
+- :id: enchant.stat_3630274354
+  :name: "#% increased Lightning Strike Damage"
+  :type: enchant
+- :id: enchant.stat_3641868987
+  :name: "#% chance to Trigger Decree of Light when you take a Critical Strike"
+  :type: enchant
+- :id: enchant.stat_3645693773
+  :name: 'Spectres have #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_3652051346
+  :name: 'Shock Nova ring deals #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_3653459847
+  :name: 'Mirror Arrow and Mirror Arrow Clones have #% increased Attack Speed'
+  :type: enchant
+- :id: enchant.stat_3655654928
+  :name: Desecrate summons an additional corpse
+  :type: enchant
+- :id: enchant.stat_3685345485
+  :name: "#% increased Barrage Damage"
+  :type: enchant
+- :id: enchant.stat_3693451031
+  :name: "#% increased Mana Cost of Skills if you've been Hit Recently"
+  :type: enchant
+- :id: enchant.stat_3698833303
+  :name: "#% increased Essence Drain Duration"
+  :type: enchant
+- :id: enchant.stat_3701991680
+  :name: "#% increased Flicker Strike Damage per Frenzy Charge"
+  :type: enchant
+- :id: enchant.stat_3703722637
+  :name: "#% chance to Trigger Commandment of Flames on Hit"
+  :type: enchant
+- :id: enchant.stat_3711386843
+  :name: "#% chance to create an additional Animate Weapon copy"
+  :type: enchant
+- :id: enchant.stat_3719728947
+  :name: "#% increased Smoke Mine Duration"
+  :type: enchant
+- :id: enchant.stat_3723124286
+  :name: "#% increased Whirling Blades Damage"
+  :type: enchant
+- :id: enchant.stat_3729006707
+  :name: "#% increased Cold Snap Damage"
+  :type: enchant
+- :id: enchant.stat_3730999759
+  :name: "#% increased Leap Slam Attack Speed"
+  :type: enchant
+- :id: enchant.stat_3734756042
+  :name: "#% increased Viper Strike Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_3738398726
+  :name: "#% increased Clarity Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_3755794090
+  :name: "#% increased Spectral Throw Damage"
+  :type: enchant
+- :id: enchant.stat_3760588941
+  :name: 'Heavy Strike has a #% chance to deal Double Damage'
+  :type: enchant
+- :id: enchant.stat_3764410821
+  :name: Lightning Trap pierces an additional Target
+  :type: enchant
+- :id: enchant.stat_3766479096
+  :name: "#% increased Warlord's Mark Duration"
+  :type: enchant
+- :id: enchant.stat_3772643988
+  :name: "#% increased Dominating Blow Duration"
+  :type: enchant
+- :id: enchant.stat_3804575865
+  :name: "#% increased Arctic Breath Duration"
+  :type: enchant
+- :id: enchant.stat_3816022821
+  :name: "#% increased Arctic Breath Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3816405721
+  :name: 'Ice Golems deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_3825617457
+  :name: "#% increased Rain of Arrows Attack Speed"
+  :type: enchant
+- :id: enchant.stat_3835483564
+  :name: "#% increased Hatred Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_3850775143
+  :name: "#% increased Leap Slam Damage"
+  :type: enchant
+- :id: enchant.stat_3854556792
+  :name: "#% increased Caustic Arrow Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3854723321
+  :name: "#% increased Lacerate Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3869217625
+  :name: "#% increased Viper Strike Duration"
+  :type: enchant
+- :id: enchant.stat_38715141
+  :name: "#% increased Summon Raging Spirit Duration"
+  :type: enchant
+- :id: enchant.stat_387490713
+  :name: "#% increased Caustic Arrow Duration"
+  :type: enchant
+- :id: enchant.stat_3901337328
+  :name: "#% chance to Trigger Word of Inferno on Kill"
+  :type: enchant
+- :id: enchant.stat_3910961021
+  :name: "#% increased Herald of Ice Damage"
+  :type: enchant
+- :id: enchant.stat_3915210550
+  :name: "#% chance to Freeze, Shock and Ignite if you haven't Crit Recently"
+  :type: enchant
+- :id: enchant.stat_391609701
+  :name: 'Adds # to # Chaos Damage if you''ve taken a Critical Strike Recently'
+  :type: enchant
+- :id: enchant.stat_3917881666
+  :name: "#% increased Earthquake Duration"
+  :type: enchant
+- :id: enchant.stat_3930497977
+  :name: "#% increased Ice Crash Area of Effect"
+  :type: enchant
+- :id: enchant.stat_3931013900
+  :name: "#% increased Firestorm explosion Area of Effect"
+  :type: enchant
+- :id: enchant.stat_39356080
+  :name: "#% increased Lightning Tendrils Damage"
+  :type: enchant
+- :id: enchant.stat_3948894096
+  :name: "#% increased Shock Nova Damage"
+  :type: enchant
+- :id: enchant.stat_3949159285
+  :name: "#% increased Explosive Arrow Attack Speed"
+  :type: enchant
+- :id: enchant.stat_3953599026
+  :name: "#% increased Unearth Damage"
+  :type: enchant
+- :id: enchant.stat_3961497709
+  :name: "#% increased Storm Burst Area of Effect"
+  :type: enchant
+- :id: enchant.stat_397438226
+  :name: "#% increased Bodyswap Cast Speed"
+  :type: enchant
+- :id: enchant.stat_3992962185
+  :name: "#% chance to Trigger Word of Spite when Hit"
+  :type: enchant
+- :id: enchant.stat_3995612171
+  :name: "#% increased Arctic Armour Buff Effect"
+  :type: enchant
+- :id: enchant.stat_3999206457
+  :name: "#% increased Tectonic Slam Damage"
+  :type: enchant
+- :id: enchant.stat_4006050359
+  :name: Volatile Dead destroys up to 1 additional Corpse
+  :type: enchant
+- :id: enchant.stat_4014289250
+  :name: "#% increased Blast Rain Damage"
+  :type: enchant
+- :id: enchant.stat_4031295671
+  :name: "#% increased Infernal Blow Area of Effect"
+  :type: enchant
+- :id: enchant.stat_4033078288
+  :name: "#% increased Sunder Damage"
+  :type: enchant
+- :id: enchant.stat_4040760803
+  :name: 'Dominated Minions deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_4071708873
+  :name: "#% increased Riposte Damage"
+  :type: enchant
+- :id: enchant.stat_4074562940
+  :name: "#% increased Vortex Duration"
+  :type: enchant
+- :id: enchant.stat_4082863126
+  :name: "#% increased Flame Totem Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_4084540709
+  :name: "#% increased Orb of Storms Damage"
+  :type: enchant
+- :id: enchant.stat_4109038270
+  :name: "#% increased Elemental Hit Damage"
+  :type: enchant
+- :id: enchant.stat_4118537428
+  :name: "#% Sweep Knockback Chance"
+  :type: enchant
+- :id: enchant.stat_412905518
+  :name: "#% chance to Avoid being Stunned if you've Killed Recently"
+  :type: enchant
+- :id: enchant.stat_4129421630
+  :name: "#% increased Lightning Arrow Area of Effect"
+  :type: enchant
+- :id: enchant.stat_4135304575
+  :name: "#% increased Attack and Cast Speed if you've Killed Recently"
+  :type: enchant
+- :id: enchant.stat_4136186767
+  :name: 'Mirror Arrow and Mirror Arrow Clones deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_4137556603
+  :name: 'Spectres have #% increased Attack and Cast Speed'
+  :type: enchant
+- :id: enchant.stat_4147277532
+  :name: "#% increased Rallying Cry Buff Effect"
+  :type: enchant
+- :id: enchant.stat_4151555126
+  :name: "#% increased Incinerate Damage for each stage"
+  :type: enchant
+- :id: enchant.stat_4152292551
+  :name: "#% chance to Trigger Decree of Thunder on Kill"
+  :type: enchant
+- :id: enchant.stat_4157143640
+  :name: 'Animated Guardians deal #% increased Damage'
+  :type: enchant
+- :id: enchant.stat_4166834934
+  :name: "#% increased Ancestral Blademaster Totem Damage"
+  :type: enchant
+- :id: enchant.stat_4170725899
+  :name: 'Blight has #% increased Hinder Duration'
+  :type: enchant
+- :id: enchant.stat_4175469673
+  :name: "#% increased Cremation Damage"
+  :type: enchant
+- :id: enchant.stat_4189505564
+  :name: "#% increased Chance to consume an additional Corpse with Devouring Totem"
+  :type: enchant
+- :id: enchant.stat_4199670252
+  :name: "#% increased Rallying Cry Duration"
+  :type: enchant
+- :id: enchant.stat_4202548383
+  :name: "#% increased Sweep Area of Effect"
+  :type: enchant
+- :id: enchant.stat_4203647216
+  :name: "#% chance to Trigger Commandment of the Tempest on Hit"
+  :type: enchant
+- :id: enchant.stat_4221797807
+  :name: "#% increased Blade Vortex Spell Damage"
+  :type: enchant
+- :id: enchant.stat_4224384031
+  :name: "#% increased Ice Trap Damage"
+  :type: enchant
+- :id: enchant.stat_4227497218
+  :name: "#% increased Poacher's Mark Duration"
+  :type: enchant
+- :id: enchant.stat_4228580629
+  :name: "#% chance to Trigger Edict of Reflection when Hit"
+  :type: enchant
+- :id: enchant.stat_4231484190
+  :name: "#% increased Frostbolt Cast Speed"
+  :type: enchant
+- :id: enchant.stat_4243904146
+  :name: "#% Chance on Frenzy to gain an additional Frenzy Charge"
+  :type: enchant
+- :id: enchant.stat_4259029320
+  :name: "#% chance for Phase Run to not consume Frenzy Charges"
+  :type: enchant
+- :id: enchant.stat_430890565
+  :name: "#% increased Flame Surge Damage against Burning Enemies"
+  :type: enchant
+- :id: enchant.stat_444686294
+  :name: "#% increased Spectral Throw Projectile Deceleration"
+  :type: enchant
+- :id: enchant.stat_444858149
+  :name: "#% increased Siege Ballista Attack Speed"
+  :type: enchant
+- :id: enchant.stat_447560345
+  :name: "#% increased Wither Duration"
+  :type: enchant
+- :id: enchant.stat_451037529
+  :name: "#% increased Glacial Cascade Damage"
+  :type: enchant
+- :id: enchant.stat_464448327
+  :name: "#% increased Flicker Strike Damage"
+  :type: enchant
+- :id: enchant.stat_464512091
+  :name: "#% chance for Tectonic Slam to not consume an Endurance Charge"
+  :type: enchant
+- :id: enchant.stat_482660590
+  :name: "#% increased Detonate Dead Area of Effect"
+  :type: enchant
+- :id: enchant.stat_488494964
+  :name: "#% increased Incinerate Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_494477497
+  :name: "#% chance to Trigger Commandment of War on Kill"
+  :type: enchant
+- :id: enchant.stat_513715594
+  :name: 'Flesh Offering grants an additional #% increased Attack Speed'
+  :type: enchant
+- :id: enchant.stat_516587640
+  :name: "#% increased Enfeeble Duration"
+  :type: enchant
+- :id: enchant.stat_522780692
+  :name: "#% increased Frenzy Damage"
+  :type: enchant
+- :id: enchant.stat_524936200
+  :name: "#% increased Wild Strike Area of Effect"
+  :type: enchant
+- :id: enchant.stat_551375258
+  :name: "#% increased Static Strike Damage"
+  :type: enchant
+- :id: enchant.stat_558298545
+  :name: "#% increased Herald of Thunder Damage"
+  :type: enchant
+- :id: enchant.stat_565901339
+  :name: "#% increased Shock Nova Area of Effect"
+  :type: enchant
+- :id: enchant.stat_574378310
+  :name: "#% increased Blast Rain Area of Effect"
+  :type: enchant
+- :id: enchant.stat_578067404
+  :name: "#% increased Lacerate Critical Strike Chance"
+  :type: enchant
+- :id: enchant.stat_586167247
+  :name: 'Unearth Creates Corpses with # Level'
+  :type: enchant
+- :id: enchant.stat_592861938
+  :name: "#% increased Ancestral Protector Totem Placement Speed"
+  :type: enchant
+- :id: enchant.stat_600891507
+  :name: "#% increased Magma Orb Damage"
+  :type: enchant
+- :id: enchant.stat_603658709
+  :name: "#% chance to Trigger Edict of Thunder on Kill"
+  :type: enchant
+- :id: enchant.stat_609478942
+  :name: "#% increased Lightning Warp Duration"
+  :type: enchant
+- :id: enchant.stat_620045439
+  :name: "#% chance to Trigger Commandment of Ire when Hit"
+  :type: enchant
+- :id: enchant.stat_634375806
+  :name: 20% chance to Summon an additional Skeleton Warrior with Summon Skeleton
+  :type: enchant
+- :id: enchant.stat_648343221
+  :name: "#% increased Shield Charge Attack Speed"
+  :type: enchant
+- :id: enchant.stat_648647905
+  :name: 'Ground Slam has a #% increased angle'
+  :type: enchant
+- :id: enchant.stat_683073695
+  :name: "#% increased Despair Duration"
+  :type: enchant
+- :id: enchant.stat_684174846
+  :name: "#% increased Earthquake Area of Effect"
+  :type: enchant
+- :id: enchant.stat_68809719
+  :name: "#% increased Ice Nova Area of Effect"
+  :type: enchant
+- :id: enchant.stat_696995312
+  :name: "#% increased Burning Arrow Damage"
+  :type: enchant
+- :id: enchant.stat_702909553
+  :name: "#% increased Scorching Ray beam length"
+  :type: enchant
+- :id: enchant.stat_708179348
+  :name: "#% increased Searing Bond Totem Placement Speed"
+  :type: enchant
+- :id: enchant.stat_740609357
+  :name: "#% increased Desecrate Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_754797886
+  :name: "#% increased Blade Flurry Damage"
+  :type: enchant
+- :id: enchant.stat_756653426
+  :name: "#% chance to Trigger Word of Blades on Hit"
+  :type: enchant
+- :id: enchant.stat_760994068
+  :name: "#% increased Ethereal Knives Projectile Speed"
+  :type: enchant
+- :id: enchant.stat_767884542
+  :name: "#% increased Herald of Ash Damage"
+  :type: enchant
+- :id: enchant.stat_775034903
+  :name: "#% increased Frost Wall Duration"
+  :type: enchant
+- :id: enchant.stat_775200811
+  :name: Flame Totem fires an additional Projectile
+  :type: enchant
+- :id: enchant.stat_780453137
+  :name: "#% increased Abyssal Cry Damage"
+  :type: enchant
+- :id: enchant.stat_78239163
+  :name: "#% increased Ancestral Warchief Totem Damage"
+  :type: enchant
+- :id: enchant.stat_786149615
+  :name: "#% chance to Trigger Edict of Flames on Hit"
+  :type: enchant
+- :id: enchant.stat_78767457
+  :name: "#% increased Power Siphon Damage"
+  :type: enchant
+- :id: enchant.stat_788307702
+  :name: "#% increased Ball Lightning Area of Effect"
+  :type: enchant
+- :id: enchant.stat_804983774
+  :name: "#% increased Reckoning Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_815390778
+  :name: "#% increased Molten Shell Damage"
+  :type: enchant
+- :id: enchant.stat_819852672
+  :name: "#% increased Freezing Pulse Damage"
+  :type: enchant
+- :id: enchant.stat_819890745
+  :name: "#% increased Conductivity Duration"
+  :type: enchant
+- :id: enchant.stat_835592326
+  :name: "#% increased Cyclone Attack Speed"
+  :type: enchant
+- :id: enchant.stat_840189382
+  :name: "#% increased Siege Ballista Damage"
+  :type: enchant
+- :id: enchant.stat_862824495
+  :name: "#% increased Reave Damage"
+  :type: enchant
+- :id: enchant.stat_884220218
+  :name: "#% chance to Avoid interruption from Stuns while Casting Storm Burst"
+  :type: enchant
+- :id: enchant.stat_884399432
+  :name: 'Adds # to # Cold Damage if you''ve been Hit Recently'
+  :type: enchant
+- :id: enchant.stat_88796379
+  :name: "#% increased Glacial Cascade Area of Effect"
+  :type: enchant
+- :id: enchant.stat_888039248
+  :name: "#% increased Temporal Chains Duration"
+  :type: enchant
+- :id: enchant.stat_889695873
+  :name: "#% chance to Trigger Decree of Spite when Hit"
+  :type: enchant
+- :id: enchant.stat_891161612
+  :name: "#% chance to Trigger Word of Flames on Hit"
+  :type: enchant
+- :id: enchant.stat_90942364
+  :name: "#% chance to Trigger Edict of Frost on Kill"
+  :type: enchant
+- :id: enchant.stat_91821600
+  :name: "#% increased Haste Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_918308703
+  :name: "#% increased Bear Trap Cooldown Recovery Speed"
+  :type: enchant
+- :id: enchant.stat_954135826
+  :name: "#% increased Heavy Strike Damage"
+  :type: enchant
+- :id: enchant.stat_957864706
+  :name: "#% increased Dark Pact Area of Effect"
+  :type: enchant
+- :id: enchant.stat_966400988
+  :name: "#% increased Herald of Thunder Mana Reservation"
+  :type: enchant
+- :id: enchant.stat_990408262
+  :name: "#% chance to Trigger Decree of Flames on Hit"
+  :type: enchant
+- :id: enchant.stat_995860222
+  :name: Molten Strike an additional Projectile
+  :type: enchant
+- :id: monster.mod_11877
+  :name: ''
+  :type: monster
+- :id: monster.mod_12170
+  :name: Storm Cultist's Grip
+  :type: monster
+- :id: monster.mod_12757
+  :name: Hexfont
+  :type: monster
+- :id: monster.mod_13230
+  :name: Winter Bloom
+  :type: monster
+- :id: monster.mod_13745
+  :name: Churning Claws
+  :type: monster
+- :id: monster.mod_15063
+  :name: ''
+  :type: monster
+- :id: monster.mod_1514
+  :name: Erupting Winds
+  :type: monster
+- :id: monster.mod_15939
+  :name: Corrupted Bloodline
+  :type: monster
+- :id: monster.mod_16533
+  :name: Medium Physical Damage Aura
+  :type: monster
+- :id: monster.mod_16706
+  :name: Berserk Fury
+  :type: monster
+- :id: monster.mod_16967
+  :name: Infested Earth
+  :type: monster
+- :id: monster.mod_17358
+  :name: Vile Touch
+  :type: monster
+- :id: monster.mod_17583
+  :name: Shared Boon
+  :type: monster
+- :id: monster.mod_17986
+  :name: Elemental Thorns
+  :type: monster
+- :id: monster.mod_18332
+  :name: ''
+  :type: monster
+- :id: monster.mod_18559
+  :name: Thug's Grip
+  :type: monster
+- :id: monster.mod_19216
+  :name: ''
+  :type: monster
+- :id: monster.mod_19561
+  :name: Fertile Presence
+  :type: monster
+- :id: monster.mod_20348
+  :name: Flame Bearers
+  :type: monster
+- :id: monster.mod_21318
+  :name: Bringer of Weakness
+  :type: monster
+- :id: monster.mod_21452
+  :name: Proximity Shield
+  :type: monster
+- :id: monster.mod_2159
+  :name: Physical Thorns
+  :type: monster
+- :id: monster.mod_21664
+  :name: ''
+  :type: monster
+- :id: monster.mod_21921
+  :name: ''
+  :type: monster
+- :id: monster.mod_22110
+  :name: Spy's Grip
+  :type: monster
+- :id: monster.mod_23641
+  :name: Slow Aura
+  :type: monster
+- :id: monster.mod_23766
+  :name: Seditionist's Grip
+  :type: monster
+- :id: monster.mod_24093
+  :name: Warlord's Grip
+  :type: monster
+- :id: monster.mod_2564
+  :name: Satyr Storm
+  :type: monster
+- :id: monster.mod_26138
+  :name: ''
+  :type: monster
+- :id: monster.mod_26581
+  :name: Bringer of Fragility
+  :type: monster
+- :id: monster.mod_26640
+  :name: Otherworldly
+  :type: monster
+- :id: monster.mod_26910
+  :name: Cutthroat's Grip
+  :type: monster
+- :id: monster.mod_28778
+  :name: Shroud Walker
+  :type: monster
+- :id: monster.mod_28794
+  :name: Aspect of the Hellion
+  :type: monster
+- :id: monster.mod_29163
+  :name: Frost Bearers
+  :type: monster
+- :id: monster.mod_29164
+  :name: Mutilator's Grip
+  :type: monster
+- :id: monster.mod_29247
+  :name: Raven Caller
+  :type: monster
+- :id: monster.mod_29315
+  :name: Apparition
+  :type: monster
+- :id: monster.mod_29511
+  :name: Elemental Thorns
+  :type: monster
+- :id: monster.mod_30027
+  :name: Inner Treasure
+  :type: monster
+- :id: monster.mod_30537
+  :name: Vaal Cultist's Grip
+  :type: monster
+- :id: monster.mod_30703
+  :name: Energy Shield Aura
+  :type: monster
+- :id: monster.mod_30844
+  :name: Soul Eater
+  :type: monster
+- :id: monster.mod_31872
+  :name: Rogue's Grip
+  :type: monster
+- :id: monster.mod_32204
+  :name: Corrupting Blood
+  :type: monster
+- :id: monster.mod_32370
+  :name: ''
+  :type: monster
+- :id: monster.mod_32661
+  :name: Large Physical Damage Aura
+  :type: monster
+- :id: monster.mod_33358
+  :name: Fractured
+  :type: monster
+- :id: monster.mod_33605
+  :name: Vile Hatchery
+  :type: monster
+- :id: monster.mod_33612
+  :name: Life Regen Aura
+  :type: monster
+- :id: monster.mod_3415
+  :name: Crimson Flock
+  :type: monster
+- :id: monster.mod_34612
+  :name: Physical Thorns
+  :type: monster
+- :id: monster.mod_35159
+  :name: Craicic Presence
+  :type: monster
+- :id: monster.mod_3557
+  :name: Spectral Stampede
+  :type: monster
+- :id: monster.mod_3572
+  :name: Forger's Grip
+  :type: monster
+- :id: monster.mod_36046
+  :name: Whispering Essence of Contempt
+  :type: monster
+- :id: monster.mod_36831
+  :name: Alchemist's Grip
+  :type: monster
+- :id: monster.mod_37114
+  :name: Aurora Cultist's Grip
+  :type: monster
+- :id: monster.mod_38000
+  :name: Berserker
+  :type: monster
+- :id: monster.mod_38173
+  :name: Accuracy and Crits Aura
+  :type: monster
+- :id: monster.mod_38390
+  :name: Cutthroat's Touch
+  :type: monster
+- :id: monster.mod_38512
+  :name: Blessing of Elements
+  :type: monster
+- :id: monster.mod_38907
+  :name: Deep One's Presence
+  :type: monster
+- :id: monster.mod_38966
+  :name: Order of the Frozen Sky
+  :type: monster
+- :id: monster.mod_39074
+  :name: Mark of Cannibalism
+  :type: monster
+- :id: monster.mod_40368
+  :name: ''
+  :type: monster
+- :id: monster.mod_40421
+  :name: Storm Herald
+  :type: monster
+- :id: monster.mod_40707
+  :name: Cannibal's Grip
+  :type: monster
+- :id: monster.mod_40977
+  :name: Soul Eater
+  :type: monster
+- :id: monster.mod_41365
+  :name: Crushing Claws
+  :type: monster
+- :id: monster.mod_41788
+  :name: Soul Conduit
+  :type: monster
+- :id: monster.mod_45249
+  :name: ''
+  :type: monster
+- :id: monster.mod_46606
+  :name: Embezzler's Grip
+  :type: monster
+- :id: monster.mod_46909
+  :name: Blood Geyser
+  :type: monster
+- :id: monster.mod_47747
+  :name: Saqawine Presence
+  :type: monster
+- :id: monster.mod_48207
+  :name: Tiger Prey
+  :type: monster
+- :id: monster.mod_49331
+  :name: Union of Souls
+  :type: monster
+- :id: monster.mod_5014
+  :name: Blasphemer's Grip
+  :type: monster
+- :id: monster.mod_5137
+  :name: Speed Aura
+  :type: monster
+- :id: monster.mod_5248
+  :name: ''
+  :type: monster
+- :id: monster.mod_5352
+  :name: Spectral Swipe
+  :type: monster
+- :id: monster.mod_53689
+  :name: Shared Boon
+  :type: monster
+- :id: monster.mod_54
+  :name: Incendiary Mite
+  :type: monster
+- :id: monster.mod_54055
+  :name: ''
+  :type: monster
+- :id: monster.mod_54864
+  :name: Arsonist's Grip
+  :type: monster
+- :id: monster.mod_54880
+  :name: Legacy of Zeal
+  :type: monster
+- :id: monster.mod_56948
+  :name: Hadal Dive
+  :type: monster
+- :id: monster.mod_57368
+  :name: Heralds of the Obelisk
+  :type: monster
+- :id: monster.mod_5801
+  :name: Smuggler's Grip
+  :type: monster
+- :id: monster.mod_58214
+  :name: Resists Aura
+  :type: monster
+- :id: monster.mod_58233
+  :name: Charlatan's Grip
+  :type: monster
+- :id: monster.mod_58290
+  :name: Ancestral Power
+  :type: monster
+- :id: monster.mod_58374
+  :name: Cannot Die Aura
+  :type: monster
+- :id: monster.mod_59027
+  :name: Necromancer's Grip
+  :type: monster
+- :id: monster.mod_59633
+  :name: Bringer of Bones
+  :type: monster
+- :id: monster.mod_60010
+  :name: Unstable Swarm
+  :type: monster
+- :id: monster.mod_61014
+  :name: Fenumal Presence
+  :type: monster
+- :id: monster.mod_62067
+  :name: Soul Eater
+  :type: monster
+- :id: monster.mod_62248
+  :name: Storm Bearers
+  :type: monster
+- :id: monster.mod_62528
+  :name: Volatile Flameblood
+  :type: monster
+- :id: monster.mod_63935
+  :name: Putrid Flight
+  :type: monster
+- :id: monster.mod_64459
+  :name: ''
+  :type: monster
+- :id: monster.mod_6986
+  :name: Farric Presence
+  :type: monster
+- :id: monster.mod_7219
+  :name: Martyr's Grip
+  :type: monster
+- :id: monster.mod_7580
+  :name: ''
+  :type: monster
+- :id: monster.mod_8054
+  :name: Chronophage
+  :type: monster
+- :id: monster.mod_8652
+  :name: Nullifier
+  :type: monster
+- :id: monster.stat_1141539811
+  :name: Casts Firestorm
+  :type: monster
+- :id: monster.stat_1167887378
+  :name: Enrages on Low Life
+  :type: monster
+- :id: monster.stat_1219356446
+  :name: Empowers Allies
+  :type: monster
+- :id: monster.stat_1238236699
+  :name: Casts Arctic Breath
+  :type: monster
+- :id: monster.stat_1244473441
+  :name: Uses Lightning Strike
+  :type: monster
+- :id: monster.stat_1299025240
+  :name: Ice Spears on Death
+  :type: monster
+- :id: monster.stat_1313732471
+  :name: Casts Spark
+  :type: monster
+- :id: monster.stat_1453197917
+  :name: Gains Power Charges
+  :type: monster
+- :id: monster.stat_1533563525
+  :name: Fire Damage
+  :type: monster
+- :id: monster.stat_1539436716
+  :name: Wealthy
+  :type: monster
+- :id: monster.stat_1626294226
+  :name: Casts Fireball
+  :type: monster
+- :id: monster.stat_1660674933
+  :name: Uses Phase Run
+  :type: monster
+- :id: monster.stat_1694106311
+  :name: Unwavering
+  :type: monster
+- :id: monster.stat_1737219367
+  :name: Uses Cleave
+  :type: monster
+- :id: monster.stat_1826297223
+  :name: May inflict Vulnerability on Hit
+  :type: monster
+- :id: monster.stat_1885314436
+  :name: Frenzy as Damaged
+  :type: monster
+- :id: monster.stat_1956060300
+  :name: Undead
+  :type: monster
+- :id: monster.stat_1977090126
+  :name: Uses Flicker Strike
+  :type: monster
+- :id: monster.stat_1984580888
+  :name: Summons Exploding Spawn
+  :type: monster
+- :id: monster.stat_2087475423
+  :name: Gains Endurance Charges
+  :type: monster
+- :id: monster.stat_2106365538
+  :name: Evasive
+  :type: monster
+- :id: monster.stat_2133341901
+  :name: Cold Damage
+  :type: monster
+- :id: monster.stat_2145517058
+  :name: Hexproof
+  :type: monster
+- :id: monster.stat_2154246560
+  :name: Extra Damage
+  :type: monster
+- :id: monster.stat_219391121
+  :name: Extra Lightning Damage
+  :type: monster
+- :id: monster.stat_2250533757
+  :name: Quick
+  :type: monster
+- :id: monster.stat_2323242761
+  :name: Gains Frenzy Charges
+  :type: monster
+- :id: monster.stat_2454994155
+  :name: Suppressing Fire
+  :type: monster
+- :id: monster.stat_2468161584
+  :name: Spikes on Death
+  :type: monster
+- :id: monster.stat_2482852589
+  :name: Bonus Energy Shield
+  :type: monster
+- :id: monster.stat_2669606477
+  :name: Uses Enduring Cry
+  :type: monster
+- :id: monster.stat_2671003372
+  :name: Frenzies Allies
+  :type: monster
+- :id: monster.stat_28484361
+  :name: Far Shot
+  :type: monster
+- :id: monster.stat_2866361420
+  :name: Armoured
+  :type: monster
+- :id: monster.stat_2941193745
+  :name: Explodes
+  :type: monster
+- :id: monster.stat_2982534026
+  :name: Uses Viper Strike
+  :type: monster
+- :id: monster.stat_3029947560
+  :name: Devours Corpses
+  :type: monster
+- :id: monster.stat_3037020365
+  :name: Leaps
+  :type: monster
+- :id: monster.stat_3108675677
+  :name: Casts Lightning Warp
+  :type: monster
+- :id: monster.stat_3240769289
+  :name: Lightning Damage
+  :type: monster
+- :id: monster.stat_3307030558
+  :name: Releases Caustic Cloud on Death
+  :type: monster
+- :id: monster.stat_3342485563
+  :name: Group Frenzy on Death
+  :type: monster
+- :id: monster.stat_3593843976
+  :name: Leeches Life
+  :type: monster
+- :id: monster.stat_3638129110
+  :name: Casts Shock Nova
+  :type: monster
+- :id: monster.stat_369494213
+  :name: Extra Fire Damage
+  :type: monster
+- :id: monster.stat_3816382471
+  :name: Cannot be fully Slowed
+  :type: monster
+- :id: monster.stat_3894059897
+  :name: Uses Puncture
+  :type: monster
+- :id: monster.stat_4034862423
+  :name: Casts Molten Shell
+  :type: monster
+- :id: monster.stat_4046518611
+  :name: Casts Temporal Chains
+  :type: monster
+- :id: monster.stat_4170480412
+  :name: Summons Apes from Trees
+  :type: monster
+- :id: monster.stat_417410872
+  :name: Casts Vulnerability
+  :type: monster
+- :id: monster.stat_464656196
+  :name: Casts Ice Spear
+  :type: monster
+- :id: monster.stat_490098963
+  :name: Chaos Damage
+  :type: monster
+- :id: monster.stat_554969462
+  :name: Burns Ground on Death
+  :type: monster
+- :id: monster.stat_587431675
+  :name: Powerful Crits
+  :type: monster
+- :id: monster.stat_589332591
+  :name: Charges
+  :type: monster
+- :id: monster.stat_624954515
+  :name: Accurate
+  :type: monster
+- :id: monster.stat_628716294
+  :name: Cannot be Slowed
+  :type: monster
+- :id: monster.stat_654274615
+  :name: Flammability on Hit
+  :type: monster
+- :id: monster.stat_681332047
+  :name: Fast Attacks
+  :type: monster
+- :id: monster.stat_74338099
+  :name: Extra Projectiles
+  :type: monster
+- :id: monster.stat_836936635
+  :name: Life Regen
+  :type: monster
+- :id: monster.stat_886988403
+  :name: May inflict Bleeding
+  :type: monster
+- :id: monster.stat_906247834
+  :name: Summons Spawn
+  :type: monster
+- :id: monster.stat_915849330
+  :name: May inflict Maim
+  :type: monster
+- :id: monster.stat_937951865
+  :name: Frenzy as Kin Slain
+  :type: monster
+- :id: monster.stat_979246511
+  :name: Extra Cold Damage
+  :type: monster
+- :id: monster.stat_983749596
+  :name: Extra Life
+  :type: monster
