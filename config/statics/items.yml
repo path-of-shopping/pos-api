@@ -31,6 +31,10 @@
   :name: 
   :base: Acid Lakes Map
   :isUnique: false
+- :id: acid-slitherer
+  :name: 
+  :base: Acid Slitherer
+  :isUnique: false
 - :id: added-chaos-damage-support
   :name: 
   :base: Added Chaos Damage Support
@@ -50,6 +54,10 @@
 - :id: additional-accuracy-support
   :name: 
   :base: Additional Accuracy Support
+  :isUnique: false
+- :id: adolescent-rhex
+  :name: 
+  :base: Adolescent Rhex
   :isUnique: false
 - :id: agate-amulet
   :name: 
@@ -71,9 +79,17 @@
   :name: Voll's Devotion
   :base: Agate Amulet
   :isUnique: true
+- :id: aidan-the-frenzied
+  :name: 
+  :base: Aidan the Frenzied
+  :isUnique: false
 - :id: albino-rhoa-feather
   :name: 
   :base: Albino Rhoa Feather
+  :isUnique: false
+- :id: albino-rhoa
+  :name: 
+  :base: Albino Rhoa
   :isUnique: false
 - :id: alchemy-shard
   :name: 
@@ -91,9 +107,25 @@
   :name: 
   :base: Alloyed Spiked Shield
   :isUnique: false
+- :id: alpha-paradisae
+  :name: 
+  :base: Alpha Paradisae
+  :isUnique: false
+- :id: alpine-devil
+  :name: 
+  :base: Alpine Devil
+  :isUnique: false
+- :id: alpine-shaman
+  :name: 
+  :base: Alpine Shaman
+  :isUnique: false
 - :id: alteration-shard
   :name: 
   :base: Alteration Shard
+  :isUnique: false
+- :id: amarissa-daughter-of-merveil
+  :name: 
+  :base: Amarissa, Daughter of Merveil
   :isUnique: false
 - :id: amber-amulet
   :name: 
@@ -115,6 +147,10 @@
   :name: Xoph's Heart
   :base: Amber Amulet
   :isUnique: true
+- :id: ambrosia-daughter-of-merveil
+  :name: 
+  :base: Ambrosia, Daughter of Merveil
+  :isUnique: false
 - :id: ambush-boots
   :name: 
   :base: Ambush Boots
@@ -182,6 +218,10 @@
 - :id: ancient-city-map
   :name: 
   :base: Ancient City Map
+  :isUnique: false
+- :id: ancient-devourer
+  :name: 
+  :base: Ancient Devourer
   :isUnique: false
 - :id: ancient-gauntlets
   :name: 
@@ -279,6 +319,10 @@
   :name: 
   :base: Arachnid Tomb Map
   :isUnique: false
+- :id: arakaalis-daughter
+  :name: 
+  :base: Arakaali's Daughter
+  :isUnique: false
 - :id: arc
   :name: 
   :base: Arc
@@ -355,6 +399,10 @@
   :name: 
   :base: Arctic Breath
   :isUnique: false
+- :id: arctic-wolf
+  :name: 
+  :base: Arctic Wolf
+  :isUnique: false
 - :id: arena-map
   :name: 
   :base: Arena Map
@@ -370,6 +418,10 @@
 - :id: arming-axe
   :name: 
   :base: Arming Axe
+  :isUnique: false
+- :id: armour-cruncher
+  :name: 
+  :base: Armour Cruncher
   :isUnique: false
 - :id: armourers-scrap
   :name: 
@@ -475,6 +527,10 @@
   :name: Callinellus Malleus
   :base: Auric Mace
   :isUnique: true
+- :id: avalanche-rider
+  :name: 
+  :base: Avalanche Rider
+  :isUnique: false
 - :id: aventail-helmet
   :name: 
   :base: Aventail Helmet
@@ -483,6 +539,10 @@
   :name: Mindspiral
   :base: Aventail Helmet
   :isUnique: true
+- :id: avian-retch
+  :name: 
+  :base: Avian Retch
+  :isUnique: false
 - :id: avian-twins-talisman
   :name: 
   :base: Avian Twins Talisman
@@ -495,9 +555,17 @@
   :name: Wildslash
   :base: Awl
   :isUnique: true
+- :id: balah-duke
+  :name: 
+  :base: Balah, Duke
+  :isUnique: false
 - :id: ball-lightning
   :name: 
   :base: Ball Lightning
+  :isUnique: false
+- :id: barb-serpent
+  :name: 
+  :base: Barb Serpent
   :isUnique: false
 - :id: barbed-club
   :name: 
@@ -518,6 +586,10 @@
 - :id: barrage
   :name: 
   :base: Barrage
+  :isUnique: false
+- :id: barrow-ape
+  :name: 
+  :base: Barrow Ape
   :isUnique: false
 - :id: barrows-map
   :name: 
@@ -591,6 +663,18 @@
   :name: 
   :base: Bear Trap
   :isUnique: false
+- :id: bearded-devil
+  :name: 
+  :base: Bearded Devil
+  :isUnique: false
+- :id: bearded-shaman
+  :name: 
+  :base: Bearded Shaman
+  :isUnique: false
+- :id: bearded-skycaller
+  :name: 
+  :base: Bearded Skycaller
+  :isUnique: false
 - :id: behemoth-mace
   :name: 
   :base: Behemoth Mace
@@ -598,6 +682,14 @@
 - :id: belfry-map
   :name: 
   :base: Belfry Map
+  :isUnique: false
+- :id: bestial-maw
+  :name: 
+  :base: Bestial Maw
+  :isUnique: false
+- :id: bestiary-orb
+  :name: 
+  :base: Bestiary Orb
   :isUnique: false
 - :id: beyond-leaguestone
   :name: 
@@ -619,6 +711,10 @@
   :name: The Wise Oak
   :base: Bismuth Flask
   :isUnique: true
+- :id: black-death
+  :name: 
+  :base: Black Death
+  :isUnique: false
 - :id: black-maw-talisman
   :name: 
   :base: Black Maw Talisman
@@ -627,6 +723,10 @@
   :name: Night's Hold
   :base: Black Maw Talisman
   :isUnique: true
+- :id: black-scorpion
+  :name: 
+  :base: Black Scorpion
+  :isUnique: false
 - :id: blacksmiths-whetstone
   :name: 
   :base: Blacksmith's Whetstone
@@ -638,6 +738,10 @@
 - :id: blade-vortex
   :name: 
   :base: Blade Vortex
+  :isUnique: false
+- :id: bladeback-guardian
+  :name: 
+  :base: Bladeback Guardian
   :isUnique: false
 - :id: bladed-mace
   :name: 
@@ -654,6 +758,14 @@
 - :id: blast-rain
   :name: 
   :base: Blast Rain
+  :isUnique: false
+- :id: bleached-crawler
+  :name: 
+  :base: Bleached Crawler
+  :isUnique: false
+- :id: bleached-crustacean
+  :name: 
+  :base: Bleached Crustacean
   :isUnique: false
 - :id: blessed-orb
   :name: 
@@ -711,6 +823,14 @@
   :name: 
   :base: Block Chance Reduction Support
   :isUnique: false
+- :id: blood-ape
+  :name: 
+  :base: Blood Ape
+  :isUnique: false
+- :id: blood-chieftain
+  :name: 
+  :base: Blood Chieftain
+  :isUnique: false
 - :id: blood-magic-support
   :name: 
   :base: Blood Magic Support
@@ -738,6 +858,10 @@
 - :id: bloodlust-support
   :name: 
   :base: Bloodlust Support
+  :isUnique: false
+- :id: blue-frog
+  :name: 
+  :base: Blue Frog
   :isUnique: false
 - :id: blue-pearl-amulet
   :name: 
@@ -811,6 +935,10 @@
   :name: Wraithlord
   :base: Bone Circlet
   :isUnique: true
+- :id: bone-cruncher
+  :name: 
+  :base: Bone Cruncher
+  :isUnique: false
 - :id: bone-crypt-map
   :name: 
   :base: Bone Crypt Map
@@ -826,6 +954,10 @@
 - :id: bone-offering
   :name: 
   :base: Bone Offering
+  :isUnique: false
+- :id: bone-rhoa
+  :name: 
+  :base: Bone Rhoa
   :isUnique: false
 - :id: bone-spirit-shield
   :name: 
@@ -851,6 +983,10 @@
   :name: Ungil's Gauche
   :base: Boot Knife
   :isUnique: true
+- :id: boulderback
+  :name: 
+  :base: Boulderback
+  :isUnique: false
 - :id: boundless-realms
   :name: 
   :base: Boundless Realms
@@ -858,6 +994,10 @@
 - :id: bowyers-dream
   :name: 
   :base: Bowyer's Dream
+  :isUnique: false
+- :id: bramble-cobra
+  :name: 
+  :base: Bramble Cobra
   :isUnique: false
 - :id: branded-kite-shield
   :name: 
@@ -898,6 +1038,14 @@
 - :id: breakrib-talisman
   :name: 
   :base: Breakrib Talisman
+  :isUnique: false
+- :id: brine-vassal
+  :name: 
+  :base: Brine Vassal
+  :isUnique: false
+- :id: brinecrack
+  :name: 
+  :base: Brinecrack
   :isUnique: false
 - :id: broad-axe
   :name: 
@@ -959,6 +1107,14 @@
   :name: Vaal Caress
   :base: Bronzescale Gauntlets
   :isUnique: true
+- :id: brood-princess
+  :name: 
+  :base: Brood Princess
+  :isUnique: false
+- :id: brooding-tarantula
+  :name: 
+  :base: Brooding Tarantula
+  :isUnique: false
 - :id: brutality-support
   :name: 
   :base: Brutality Support
@@ -978,6 +1134,10 @@
 - :id: burial-chambers-map
   :name: 
   :base: Burial Chambers Map
+  :isUnique: false
+- :id: buried-tarantula
+  :name: 
+  :base: Buried Tarantula
   :isUnique: false
 - :id: burning-arrow
   :name: 
@@ -1067,6 +1227,14 @@
   :name: Vix Lunaris
   :base: Cardinal Round Shield
   :isUnique: true
+- :id: carnage-ape
+  :name: 
+  :base: Carnage Ape
+  :isUnique: false
+- :id: carnage-chieftain
+  :name: 
+  :base: Carnage Chieftain
+  :isUnique: false
 - :id: carnal-armour
   :name: 
   :base: Carnal Armour
@@ -1103,6 +1271,18 @@
   :name: Breath of the Council
   :base: Carnal Sceptre
   :isUnique: true
+- :id: carrion-burrower
+  :name: 
+  :base: Carrion Burrower
+  :isUnique: false
+- :id: carrion-queen
+  :name: 
+  :base: Carrion Queen
+  :isUnique: false
+- :id: carrion-swarmer
+  :name: 
+  :base: Carrion Swarmer
+  :isUnique: false
 - :id: cartographers-chisel
   :name: 
   :base: Cartographer's Chisel
@@ -1166,6 +1346,22 @@
 - :id: caustic-arrow
   :name: 
   :base: Caustic Arrow
+  :isUnique: false
+- :id: cave-beast
+  :name: 
+  :base: Cave Beast
+  :isUnique: false
+- :id: cave-crustacean
+  :name: 
+  :base: Cave Crustacean
+  :isUnique: false
+- :id: cave-skitterer
+  :name: 
+  :base: Cave Skitterer
+  :isUnique: false
+- :id: cavern-drifter
+  :name: 
+  :base: Cavern Drifter
   :isUnique: false
 - :id: cedar-tower-shield
   :name: 
@@ -1319,6 +1515,10 @@
   :name: 
   :base: Chestplate
   :isUnique: false
+- :id: chimeric-croaker
+  :name: 
+  :base: Chimeric Croaker
+  :isUnique: false
 - :id: chiming-spirit-shield
   :name: 
   :base: Chiming Spirit Shield
@@ -1327,9 +1527,37 @@
   :name: 
   :base: Chromatic Orb
   :isUnique: false
+- :id: chrome-infused-chimeral
+  :name: 
+  :base: Chrome-infused Chimeral
+  :isUnique: false
+- :id: chrome-infused-croaker
+  :name: 
+  :base: Chrome-infused Croaker
+  :isUnique: false
+- :id: chrome-infused-goliath
+  :name: 
+  :base: Chrome-infused Goliath
+  :isUnique: false
+- :id: chrome-touched-chimeral
+  :name: 
+  :base: Chrome-touched Chimeral
+  :isUnique: false
+- :id: chrome-touched-croaker
+  :name: 
+  :base: Chrome-touched Croaker
+  :isUnique: false
+- :id: chrome-touched-goliath
+  :name: 
+  :base: Chrome-touched Goliath
+  :isUnique: false
 - :id: chrysalis-talisman
   :name: 
   :base: Chrysalis Talisman
+  :isUnique: false
+- :id: cintiq-the-inescapable
+  :name: 
+  :base: Cintiq, the Inescapable
   :isUnique: false
 - :id: citadel-bow
   :name: 
@@ -1671,6 +1899,10 @@
   :name: 
   :base: Colosseum Plate
   :isUnique: false
+- :id: colossus-crusher
+  :name: 
+  :base: Colossus Crusher
+  :isUnique: false
 - :id: colossus-mallet
   :name: 
   :base: Colossus Mallet
@@ -1678,6 +1910,10 @@
 - :id: commanders-brigandine
   :name: 
   :base: Commander's Brigandine
+  :isUnique: false
+- :id: common-frog
+  :name: 
+  :base: Common Frog
   :isUnique: false
 - :id: composite-bow
   :name: 
@@ -1859,6 +2095,22 @@
   :name: Great Old One's Ward
   :base: Corrugated Buckler
   :isUnique: true
+- :id: corrupted-arach
+  :name: 
+  :base: Corrupted Arach
+  :isUnique: false
+- :id: corrupted-beast
+  :name: 
+  :base: Corrupted Beast
+  :isUnique: false
+- :id: corrupted-rhoa
+  :name: 
+  :base: Corrupted Rhoa
+  :isUnique: false
+- :id: corrupted-spitter
+  :name: 
+  :base: Corrupted Spitter
+  :isUnique: false
 - :id: corsair-sword
   :name: 
   :base: Corsair Sword
@@ -1890,6 +2142,50 @@
 - :id: coveted-possession
   :name: 
   :base: Coveted Possession
+  :isUnique: false
+- :id: craiceann-first-of-the-deep
+  :name: 
+  :base: Craiceann, First of the Deep
+  :isUnique: false
+- :id: craicic-chimeral
+  :name: 
+  :base: Craicic Chimeral
+  :isUnique: false
+- :id: craicic-maw
+  :name: 
+  :base: Craicic Maw
+  :isUnique: false
+- :id: craicic-sand-spitter
+  :name: 
+  :base: Craicic Sand Spitter
+  :isUnique: false
+- :id: craicic-savage-crab
+  :name: 
+  :base: Craicic Savage Crab
+  :isUnique: false
+- :id: craicic-shield-crab
+  :name: 
+  :base: Craicic Shield Crab
+  :isUnique: false
+- :id: craicic-spider-crab
+  :name: 
+  :base: Craicic Spider Crab
+  :isUnique: false
+- :id: craicic-squid
+  :name: 
+  :base: Craicic Squid
+  :isUnique: false
+- :id: craicic-vassal
+  :name: 
+  :base: Craicic Vassal
+  :isUnique: false
+- :id: craicic-watcher
+  :name: 
+  :base: Craicic Watcher
+  :isUnique: false
+- :id: crazed-chieftain
+  :name: 
+  :base: Crazed Chieftain
   :isUnique: false
 - :id: cremation
   :name: 
@@ -2119,9 +2415,25 @@
   :name: Lioneye's Vision
   :base: Crusader Plate
   :isUnique: true
+- :id: crustacean-pelter
+  :name: 
+  :base: Crustacean Pelter
+  :isUnique: false
+- :id: crustacean-sniper
+  :name: 
+  :base: Crustacean Sniper
+  :isUnique: false
+- :id: crypt-ambusher
+  :name: 
+  :base: Crypt Ambusher
+  :isUnique: false
 - :id: crypt-armour
   :name: 
   :base: Crypt Armour
+  :isUnique: false
+- :id: crypt-weaver
+  :name: 
+  :base: Crypt Weaver
   :isUnique: false
 - :id: crystal-belt
   :name: 
@@ -2171,6 +2483,10 @@
   :name: The Coward's Trial
   :base: Cursed Crypt Map
   :isUnique: true
+- :id: cursed-spawn
+  :name: 
+  :base: Cursed Spawn
+  :isUnique: false
 - :id: curved-blade
   :name: 
   :base: Curved Blade
@@ -2226,6 +2542,10 @@
 - :id: deadly-ailments-support
   :name: 
   :base: Deadly Ailments Support
+  :isUnique: false
+- :id: deadly-tarantula
+  :name: 
+  :base: Deadly Tarantula
   :isUnique: false
 - :id: deafening-essence-of-anger
   :name: 
@@ -2355,6 +2675,10 @@
   :name: 
   :base: Decurve Bow
   :isUnique: false
+- :id: deep-crustacean
+  :name: 
+  :base: Deep Crustacean
+  :isUnique: false
 - :id: deep-one-talisman
   :name: 
   :base: Deep One Talisman
@@ -2471,6 +2795,10 @@
   :name: 
   :base: Detonate Mines
   :isUnique: false
+- :id: devourer
+  :name: 
+  :base: Devourer
+  :isUnique: false
 - :id: devouring-totem
   :name: 
   :base: Devouring Totem
@@ -2507,6 +2835,14 @@
   :name: 
   :base: Dig Map
   :isUnique: false
+- :id: dire-wolf
+  :name: 
+  :base: Dire Wolf
+  :isUnique: false
+- :id: dirt-scrabbler
+  :name: 
+  :base: Dirt Scrabbler
+  :isUnique: false
 - :id: discharge
   :name: 
   :base: Discharge
@@ -2514,6 +2850,10 @@
 - :id: discipline
   :name: 
   :base: Discipline
+  :isUnique: false
+- :id: diseased-arachnid
+  :name: 
+  :base: Diseased Arachnid
   :isUnique: false
 - :id: divine-life-flask
   :name: 
@@ -2595,6 +2935,10 @@
   :name: Voidhome
   :base: Dread Maul
   :isUnique: true
+- :id: dread-primate
+  :name: 
+  :base: Dread Primate
+  :isUnique: false
 - :id: dream-mace
   :name: 
   :base: Dream Mace
@@ -2603,6 +2947,10 @@
   :name: Flesh-Eater
   :base: Dream Mace
   :isUnique: true
+- :id: drifting-eye
+  :name: 
+  :base: Drifting Eye
+  :isUnique: false
 - :id: driftwood-club
   :name: 
   :base: Driftwood Club
@@ -2631,6 +2979,10 @@
   :name: 
   :base: Dual Strike
   :isUnique: false
+- :id: dune-hellion
+  :name: 
+  :base: Dune Hellion
+  :isUnique: false
 - :id: dunes-map
   :name: 
   :base: Dunes Map
@@ -2651,6 +3003,10 @@
   :name: Ephemeral Edge
   :base: Dusk Blade
   :isUnique: true
+- :id: dust-scrabbler
+  :name: 
+  :base: Dust Scrabbler
+  :isUnique: false
 - :id: dying-anguish
   :name: 
   :base: Dying Anguish
@@ -2683,6 +3039,10 @@
   :name: Tukohama's Fortress
   :base: Ebony Tower Shield
   :isUnique: true
+- :id: echo-of-the-verdant
+  :name: 
+  :base: Echo of the Verdant
+  :isUnique: false
 - :id: eclipse-staff
   :name: 
   :base: Eclipse Staff
@@ -2711,6 +3071,26 @@
   :name: Innsbury Edge
   :base: Elder Sword
   :isUnique: true
+- :id: elder-blessed-cobra
+  :name: 
+  :base: Elder-Blessed Cobra
+  :isUnique: false
+- :id: elder-blessed-goatman
+  :name: 
+  :base: Elder-Blessed Goatman
+  :isUnique: false
+- :id: elder-blessed-hellion
+  :name: 
+  :base: Elder-Blessed Hellion
+  :isUnique: false
+- :id: elder-blessed-retch
+  :name: 
+  :base: Elder-Blessed Retch
+  :isUnique: false
+- :id: elder-blessed-rhoa
+  :name: 
+  :base: Elder-Blessed Rhoa
+  :isUnique: false
 - :id: elegant-foil
   :name: 
   :base: Elegant Foil
@@ -2834,6 +3214,26 @@
 - :id: enlighten-support
   :name: 
   :base: Enlighten Support
+  :isUnique: false
+- :id: enraptured-arachnid
+  :name: 
+  :base: Enraptured Arachnid
+  :isUnique: false
+- :id: enraptured-beast
+  :name: 
+  :base: Enraptured Beast
+  :isUnique: false
+- :id: enraptured-crab
+  :name: 
+  :base: Enraptured Crab
+  :isUnique: false
+- :id: enslaved-hellion
+  :name: 
+  :base: Enslaved Hellion
+  :isUnique: false
+- :id: escaped-rhex
+  :name: 
+  :base: Escaped Rhex
   :isUnique: false
 - :id: eshs-breachstone
   :name: 
@@ -2971,6 +3371,10 @@
   :name: Essentia Sanguis
   :base: Eye Gouger
   :isUnique: true
+- :id: eyepecker
+  :name: 
+  :base: Eyepecker
+  :isUnique: false
 - :id: ezomyte-axe
   :name: 
   :base: Ezomyte Axe
@@ -3031,6 +3435,66 @@
   :name: 
   :base: Fangjaw Talisman
   :isUnique: false
+- :id: farric-ape
+  :name: 
+  :base: Farric Ape
+  :isUnique: false
+- :id: farric-chieftain
+  :name: 
+  :base: Farric Chieftain
+  :isUnique: false
+- :id: farric-flame-hellion-alpha
+  :name: 
+  :base: Farric Flame Hellion Alpha
+  :isUnique: false
+- :id: farric-frost-hellion-alpha
+  :name: 
+  :base: Farric Frost Hellion Alpha
+  :isUnique: false
+- :id: farric-gargantuan
+  :name: 
+  :base: Farric Gargantuan
+  :isUnique: false
+- :id: farric-goatman
+  :name: 
+  :base: Farric Goatman
+  :isUnique: false
+- :id: farric-goliath
+  :name: 
+  :base: Farric Goliath
+  :isUnique: false
+- :id: farric-lynx-alpha
+  :name: 
+  :base: Farric Lynx Alpha
+  :isUnique: false
+- :id: farric-magma-hound
+  :name: 
+  :base: Farric Magma Hound
+  :isUnique: false
+- :id: farric-pit-hound
+  :name: 
+  :base: Farric Pit Hound
+  :isUnique: false
+- :id: farric-taurus
+  :name: 
+  :base: Farric Taurus
+  :isUnique: false
+- :id: farric-tiger-alpha
+  :name: 
+  :base: Farric Tiger Alpha
+  :isUnique: false
+- :id: farric-ursa
+  :name: 
+  :base: Farric Ursa
+  :isUnique: false
+- :id: farric-wolf-alpha
+  :name: 
+  :base: Farric Wolf Alpha
+  :isUnique: false
+- :id: farrul-first-of-the-plains
+  :name: 
+  :base: Farrul, First of the Plains
+  :isUnique: false
 - :id: faster-attacks-support
   :name: 
   :base: Faster Attacks Support
@@ -3043,6 +3507,14 @@
   :name: 
   :base: Faster Projectiles Support
   :isUnique: false
+- :id: fated-siren
+  :name: 
+  :base: Fated Siren
+  :isUnique: false
+- :id: fathom-screamer
+  :name: 
+  :base: Fathom Screamer
+  :isUnique: false
 - :id: fauns-horn
   :name: 
   :base: Faun's Horn
@@ -3050,6 +3522,46 @@
 - :id: fencer-helm
   :name: 
   :base: Fencer Helm
+  :isUnique: false
+- :id: fenumal-devourer
+  :name: 
+  :base: Fenumal Devourer
+  :isUnique: false
+- :id: fenumal-hybrid-arachnid
+  :name: 
+  :base: Fenumal Hybrid Arachnid
+  :isUnique: false
+- :id: fenumal-plagued-arachnid
+  :name: 
+  :base: Fenumal Plagued Arachnid
+  :isUnique: false
+- :id: fenumal-queen
+  :name: 
+  :base: Fenumal Queen
+  :isUnique: false
+- :id: fenumal-scorpion
+  :name: 
+  :base: Fenumal Scorpion
+  :isUnique: false
+- :id: fenumal-scrabbler
+  :name: 
+  :base: Fenumal Scrabbler
+  :isUnique: false
+- :id: fenumal-widow
+  :name: 
+  :base: Fenumal Widow
+  :isUnique: false
+- :id: fenumus-first-of-the-night
+  :name: 
+  :base: Fenumus, First of the Night
+  :isUnique: false
+- :id: feral-chimeral
+  :name: 
+  :base: Feral Chimeral
+  :isUnique: false
+- :id: feral-fowl
+  :name: 
+  :base: Feral Fowl
   :isUnique: false
 - :id: festival-mask
   :name: 
@@ -3059,6 +3571,10 @@
   :name: Leer Cast
   :base: Festival Mask
   :isUnique: true
+- :id: fetid-maw
+  :name: 
+  :base: Fetid Maw
+  :isUnique: false
 - :id: field-lamellar
   :name: 
   :base: Field Lamellar
@@ -3079,6 +3595,14 @@
   :name: The Consuming Dark
   :base: Fiend Dagger
   :isUnique: true
+- :id: fighting-bull
+  :name: 
+  :base: Fighting Bull
+  :isUnique: false
+- :id: filth-maw
+  :name: 
+  :base: Filth Maw
+  :isUnique: false
 - :id: fingerless-silk-gloves
   :name: 
   :base: Fingerless Silk Gloves
@@ -3139,6 +3663,10 @@
   :name: 
   :base: Flame Dash
   :isUnique: false
+- :id: flame-hellion
+  :name: 
+  :base: Flame Hellion
+  :isUnique: false
 - :id: flame-surge
   :name: 
   :base: Flame Surge
@@ -3195,6 +3723,14 @@
   :name: 
   :base: Forbidden Power
   :isUnique: false
+- :id: foreseen-spawn
+  :name: 
+  :base: Foreseen Spawn
+  :isUnique: false
+- :id: forest-beast
+  :name: 
+  :base: Forest Beast
+  :isUnique: false
 - :id: forge-of-the-phoenix-map
   :name: 
   :base: Forge of the Phoenix Map
@@ -3206,6 +3742,10 @@
 - :id: fortify-support
   :name: 
   :base: Fortify Support
+  :isUnique: false
+- :id: fossil-eater
+  :name: 
+  :base: Fossil Eater
   :isUnique: false
 - :id: fossilised-spirit-shield
   :name: 
@@ -3238,6 +3778,10 @@
 - :id: freezing-pulse
   :name: 
   :base: Freezing Pulse
+  :isUnique: false
+- :id: freezing-wolf
+  :name: 
+  :base: Freezing Wolf
   :isUnique: false
 - :id: frenzy
   :name: 
@@ -3319,6 +3863,14 @@
   :name: Belly of the Beast
   :base: Full Wyrmscale
   :isUnique: true
+- :id: fury-hound
+  :name: 
+  :base: Fury Hound
+  :isUnique: false
+- :id: fused-crawler
+  :name: 
+  :base: Fused Crawler
+  :isUnique: false
 - :id: gardens-map
   :name: 
   :base: Gardens Map
@@ -3362,6 +3914,10 @@
 - :id: generosity-support
   :name: 
   :base: Generosity Support
+  :isUnique: false
+- :id: genesis-paradisae
+  :name: 
+  :base: Genesis Paradisae
   :isUnique: false
 - :id: geode-map
   :name: 
@@ -3419,6 +3975,10 @@
   :name: 
   :base: Glacial Hammer
   :isUnique: false
+- :id: glade-mamba
+  :name: 
+  :base: Glade Mamba
+  :isUnique: false
 - :id: gladiator-helmet
   :name: 
   :base: Gladiator Helmet
@@ -3463,6 +4023,10 @@
   :name: Kaom's Heart
   :base: Glorious Plate
   :isUnique: true
+- :id: gluttonous-gull
+  :name: 
+  :base: Gluttonous Gull
+  :isUnique: false
 - :id: gnarled-branch
   :name: 
   :base: Gnarled Branch
@@ -3515,6 +4079,22 @@
   :name: Hrimsorrow
   :base: Goathide Gloves
   :isUnique: true
+- :id: goatman-fire-raiser
+  :name: 
+  :base: Goatman Fire-raiser
+  :isUnique: false
+- :id: goatman-shaman
+  :name: 
+  :base: Goatman Shaman
+  :isUnique: false
+- :id: goatman-stomper
+  :name: 
+  :base: Goatman Stomper
+  :isUnique: false
+- :id: goatman
+  :name: 
+  :base: Goatman
+  :isUnique: false
 - :id: gold-amulet
   :name: 
   :base: Gold Amulet
@@ -3695,6 +4275,10 @@
   :name: Zerphi's Last Breath
   :base: Grand Mana Flask
   :isUnique: true
+- :id: granite-eater
+  :name: 
+  :base: Granite Eater
+  :isUnique: false
 - :id: granite-flask
   :name: 
   :base: Granite Flask
@@ -3715,6 +4299,10 @@
   :name: 
   :base: Grave Knowledge
   :isUnique: false
+- :id: gravel-eater
+  :name: 
+  :base: Gravel Eater
+  :isUnique: false
 - :id: graveyard-map
   :name: 
   :base: Graveyard Map
@@ -3723,6 +4311,10 @@
   :name: Hallowed Ground
   :base: Graveyard Map
   :isUnique: true
+- :id: grazing-taurus
+  :name: 
+  :base: Grazing Taurus
+  :isUnique: false
 - :id: great-crown
   :name: 
   :base: Great Crown
@@ -3755,6 +4347,10 @@
   :name: Trypanon
   :base: Great Mallet
   :isUnique: true
+- :id: great-rhoa
+  :name: 
+  :base: Great Rhoa
+  :isUnique: false
 - :id: great-white-claw
   :name: 
   :base: Great White Claw
@@ -3818,6 +4414,10 @@
 - :id: gutting-knife
   :name: 
   :base: Gutting Knife
+  :isUnique: false
+- :id: hairy-bonecruncher
+  :name: 
+  :base: Hairy Bonecruncher
   :isUnique: false
 - :id: hallowed-hybrid-flask
   :name: 
@@ -3894,6 +4494,10 @@
 - :id: haste
   :name: 
   :base: Haste
+  :isUnique: false
+- :id: hatchling
+  :name: 
+  :base: Hatchling
   :isUnique: false
 - :id: hatred
   :name: 
@@ -4007,6 +4611,14 @@
   :name: Rigwald's Charge
   :base: Highland Blade
   :isUnique: true
+- :id: hill-devil
+  :name: 
+  :base: Hill Devil
+  :isUnique: false
+- :id: hollowskull-the-willing-host
+  :name: 
+  :base: Hollowskull, the Willing Host
+  :isUnique: false
 - :id: holy-chainmail
   :name: 
   :base: Holy Chainmail
@@ -4034,6 +4646,18 @@
 - :id: horned-talisman
   :name: 
   :base: Horned Talisman
+  :isUnique: false
+- :id: host-adder
+  :name: 
+  :base: Host Adder
+  :isUnique: false
+- :id: host-chieftain
+  :name: 
+  :base: Host Chieftain
+  :isUnique: false
+- :id: host-cobra
+  :name: 
+  :base: Host Cobra
   :isUnique: false
 - :id: house-of-mirrors
   :name: 
@@ -4082,6 +4706,10 @@
 - :id: hussar-brigandine
   :name: 
   :base: Hussar Brigandine
+  :isUnique: false
+- :id: hybrid-arachnid
+  :name: 
+  :base: Hybrid Arachnid
   :isUnique: false
 - :id: hydrascale-boots
   :name: 
@@ -4283,6 +4911,22 @@
   :name: 
   :base: Infantry Brigandine
   :isUnique: false
+- :id: infected-ambusher
+  :name: 
+  :base: Infected Ambusher
+  :isUnique: false
+- :id: infected-beast
+  :name: 
+  :base: Infected Beast
+  :isUnique: false
+- :id: infected-spiker
+  :name: 
+  :base: Infected Spiker
+  :isUnique: false
+- :id: infected-watcher
+  :name: 
+  :base: Infected Watcher
+  :isUnique: false
 - :id: infernal-axe
   :name: 
   :base: Infernal Axe
@@ -4311,13 +4955,73 @@
   :name: Voidforge
   :base: Infernal Sword
   :isUnique: true
+- :id: infested-ape
+  :name: 
+  :base: Infested Ape
+  :isUnique: false
+- :id: infested-crab
+  :name: 
+  :base: Infested Crab
+  :isUnique: false
+- :id: infested-crawler
+  :name: 
+  :base: Infested Crawler
+  :isUnique: false
+- :id: infested-crustacean
+  :name: 
+  :base: Infested Crustacean
+  :isUnique: false
+- :id: infested-maw
+  :name: 
+  :base: Infested Maw
+  :isUnique: false
+- :id: infested-rhoa
+  :name: 
+  :base: Infested Rhoa
+  :isUnique: false
+- :id: infested-serpent
+  :name: 
+  :base: Infested Serpent
+  :isUnique: false
+- :id: infested-skitterer
+  :name: 
+  :base: Infested Skitterer
+  :isUnique: false
+- :id: infested-sniper
+  :name: 
+  :base: Infested Sniper
+  :isUnique: false
+- :id: infested-tunnelfiend
+  :name: 
+  :base: Infested Tunnelfiend
+  :isUnique: false
+- :id: infested-ursa
+  :name: 
+  :base: Infested Ursa
+  :isUnique: false
 - :id: infested-valley-map
   :name: 
   :base: Infested Valley Map
   :isUnique: false
+- :id: infested-vulture
+  :name: 
+  :base: Infested Vulture
+  :isUnique: false
+- :id: ink-spinner
+  :name: 
+  :base: Ink Spinner
+  :isUnique: false
 - :id: innervate-support
   :name: 
   :base: Innervate Support
+  :isUnique: false
+- :id: inti-of-the-blood-moon
+  :name: 
+  :base: Inti of the Blood Moon
+  :isUnique: false
+- :id: invading-crustacean
+  :name: 
+  :base: Invading Crustacean
   :isUnique: false
 - :id: invasion-leaguestone
   :name: 
@@ -4607,6 +5311,10 @@
   :name: 
   :base: Jungle Valley Map
   :isUnique: false
+- :id: kamaq-soilmaker
+  :name: 
+  :base: Kamaq, Soilmaker
+  :isUnique: false
 - :id: karui-axe
   :name: 
   :base: Karui Axe
@@ -4642,6 +5350,10 @@
 - :id: knockback-support
   :name: 
   :base: Knockback Support
+  :isUnique: false
+- :id: konu-maker-of-wind
+  :name: 
+  :base: Konu, Maker of Wind
   :isUnique: false
 - :id: laboratory-map
   :name: 
@@ -4794,6 +5506,10 @@
 - :id: leap-slam
   :name: 
   :base: Leap Slam
+  :isUnique: false
+- :id: leaping-spider
+  :name: 
+  :base: Leaping Spider
   :isUnique: false
 - :id: leather-belt
   :name: 
@@ -4987,6 +5703,10 @@
   :name: 
   :base: Lithe Blade
   :isUnique: false
+- :id: lola-the-fierce
+  :name: 
+  :base: Lola, the Fierce
+  :isUnique: false
 - :id: lone-antler-talisman
   :name: 
   :base: Lone Antler Talisman
@@ -5039,6 +5759,10 @@
   :name: 
   :base: Lost Worlds
   :isUnique: false
+- :id: lowlands-hopper
+  :name: 
+  :base: Lowlands Hopper
+  :isUnique: false
 - :id: loyalty
   :name: 
   :base: Loyalty
@@ -5059,6 +5783,10 @@
   :name: Doedre's Scorn
   :base: Lunaris Circlet
   :isUnique: true
+- :id: lurking-venom
+  :name: 
+  :base: Lurking Venom
+  :isUnique: false
 - :id: lysahs-respite
   :name: 
   :base: Lysah's Respite
@@ -5111,6 +5839,14 @@
   :name: 
   :base: Malformation Map
   :isUnique: false
+- :id: maligaros-inspiration
+  :name: 
+  :base: Maligaro's Inspiration
+  :isUnique: false
+- :id: maligaros-muse
+  :name: 
+  :base: Maligaro's Muse
+  :isUnique: false
 - :id: mallet
   :name: 
   :base: Mallet
@@ -5151,6 +5887,10 @@
   :name: 
   :base: Master Cartographer's Sextant
   :isUnique: false
+- :id: maternal-rhex
+  :name: 
+  :base: Maternal Rhex
+  :isUnique: false
 - :id: mausoleum-map
   :name: 
   :base: Mausoleum Map
@@ -5159,9 +5899,25 @@
   :name: 
   :base: Mawr Blaidd
   :isUnique: false
+- :id: maze-hatchling
+  :name: 
+  :base: Maze Hatchling
+  :isUnique: false
 - :id: maze-map
   :name: 
   :base: Maze Map
+  :isUnique: false
+- :id: maze-needleback
+  :name: 
+  :base: Maze Needleback
+  :isUnique: false
+- :id: maze-slitherer
+  :name: 
+  :base: Maze Slitherer
+  :isUnique: false
+- :id: maze-webspinner
+  :name: 
+  :base: Maze Webspinner
   :isUnique: false
 - :id: maze-of-the-minotaur-map
   :name: 
@@ -5198,6 +5954,30 @@
 - :id: merciless-armament
   :name: 
   :base: Merciless Armament
+  :isUnique: false
+- :id: merveils-attendant
+  :name: 
+  :base: Merveil's Attendant
+  :isUnique: false
+- :id: merveils-blessed
+  :name: 
+  :base: Merveil's Blessed
+  :isUnique: false
+- :id: merveils-chosen
+  :name: 
+  :base: Merveil's Chosen
+  :isUnique: false
+- :id: merveils-daughter
+  :name: 
+  :base: Merveil's Daughter
+  :isUnique: false
+- :id: merveils-favoured
+  :name: 
+  :base: Merveil's Favoured
+  :isUnique: false
+- :id: merveils-retainer
+  :name: 
+  :base: Merveil's Retainer
   :isUnique: false
 - :id: mesa-map
   :name: 
@@ -5255,6 +6035,10 @@
   :name: Scold's Bridle
   :base: Mind Cage
   :isUnique: true
+- :id: mindless-scavenger
+  :name: 
+  :base: Mindless Scavenger
+  :isUnique: false
 - :id: minefield-support
   :name: 
   :base: Minefield Support
@@ -5387,6 +6171,26 @@
   :name: Rise of the Phoenix
   :base: Mosaic Kite Shield
   :isUnique: true
+- :id: mother-of-the-hive
+  :name: 
+  :base: Mother of the Hive
+  :isUnique: false
+- :id: mother-of-the-swarm
+  :name: 
+  :base: Mother of the Swarm
+  :isUnique: false
+- :id: mountain-hellion-alpha
+  :name: 
+  :base: Mountain Hellion Alpha
+  :isUnique: false
+- :id: mountain-hellion
+  :name: 
+  :base: Mountain Hellion
+  :isUnique: false
+- :id: mountain-lynx
+  :name: 
+  :base: Mountain Lynx
+  :isUnique: false
 - :id: mud-geyser-map
   :name: 
   :base: Mud Geyser Map
@@ -5427,6 +6231,10 @@
   :name: 
   :base: Murderous Eye Jewel
   :isUnique: false
+- :id: murk-runner
+  :name: 
+  :base: Murk Runner
+  :isUnique: false
 - :id: museum-map
   :name: 
   :base: Museum Map
@@ -5435,6 +6243,42 @@
   :name: The Putrid Cloister
   :base: Museum Map
   :isUnique: true
+- :id: mutant-arach
+  :name: 
+  :base: Mutant Arach
+  :isUnique: false
+- :id: mutated-broodqueen
+  :name: 
+  :base: Mutated Broodqueen
+  :isUnique: false
+- :id: mutated-chieftain
+  :name: 
+  :base: Mutated Chieftain
+  :isUnique: false
+- :id: mutated-croaker
+  :name: 
+  :base: Mutated Croaker
+  :isUnique: false
+- :id: mutated-flamebeast
+  :name: 
+  :base: Mutated Flamebeast
+  :isUnique: false
+- :id: mutated-maw
+  :name: 
+  :base: Mutated Maw
+  :isUnique: false
+- :id: mutated-rhoa
+  :name: 
+  :base: Mutated Rhoa
+  :isUnique: false
+- :id: mutated-winterclaw
+  :name: 
+  :base: Mutated Winterclaw
+  :isUnique: false
+- :id: mutewind-lynx
+  :name: 
+  :base: Mutewind Lynx
+  :isUnique: false
 - :id: muttering-essence-of-anger
   :name: 
   :base: Muttering Essence of Anger
@@ -5466,6 +6310,14 @@
 - :id: muttering-essence-of-woe
   :name: 
   :base: Muttering Essence of Woe
+  :isUnique: false
+- :id: mystic-devourer
+  :name: 
+  :base: Mystic Devourer
+  :isUnique: false
+- :id: nadia-the-soothing
+  :name: 
+  :base: Nadia the Soothing
   :isUnique: false
 - :id: nailed-fist
   :name: 
@@ -5511,6 +6363,10 @@
   :name: 
   :base: Nemesis Leaguestone
   :isUnique: false
+- :id: night-adder
+  :name: 
+  :base: Night Adder
+  :isUnique: false
 - :id: nightmare-bascinet
   :name: 
   :base: Nightmare Bascinet
@@ -5531,6 +6387,10 @@
   :name: Nebuloch
   :base: Nightmare Mace
   :isUnique: true
+- :id: nightmarish-carrion
+  :name: 
+  :base: Nightmarish Carrion
+  :isUnique: false
 - :id: no-traces
   :name: 
   :base: No Traces
@@ -5546,6 +6406,10 @@
 - :id: noble-tricorne
   :name: 
   :base: Noble Tricorne
+  :isUnique: false
+- :id: noxious-tarantula
+  :name: 
+  :base: Noxious Tarantula
   :isUnique: false
 - :id: nubuck-boots
   :name: 
@@ -5566,6 +6430,10 @@
 - :id: oak-buckler
   :name: 
   :base: Oak Buckler
+  :isUnique: false
+- :id: obsidian-eater
+  :name: 
+  :base: Obsidian Eater
   :isUnique: false
 - :id: occultists-vestment
   :name: 
@@ -5635,6 +6503,10 @@
   :name: Yoke of Suffering
   :base: Onyx Amulet
   :isUnique: true
+- :id: oozeback-bloom
+  :name: 
+  :base: Oozeback Bloom
+  :isUnique: false
 - :id: opal-ring
   :name: 
   :base: Opal Ring
@@ -5795,6 +6667,14 @@
   :name: 
   :base: Palace Map
   :isUnique: false
+- :id: paradisae-venenum
+  :name: 
+  :base: Paradisae Venenum
+  :isUnique: false
+- :id: parasite
+  :name: 
+  :base: Parasite
+  :isUnique: false
 - :id: park-map
   :name: 
   :base: Park Map
@@ -5867,6 +6747,10 @@
   :name: 
   :base: Petrified Club
   :isUnique: false
+- :id: pewterfang
+  :name: 
+  :base: Pewterfang
+  :isUnique: false
 - :id: phantasmagoria-map
   :name: 
   :base: Phantasmagoria Map
@@ -5931,9 +6815,17 @@
   :name: 
   :base: Pit of the Chimera Map
   :isUnique: false
+- :id: pitbull-demon
+  :name: 
+  :base: Pitbull Demon
+  :isUnique: false
 - :id: plague-mask
   :name: 
   :base: Plague Mask
+  :isUnique: false
+- :id: plagued-arachnid
+  :name: 
+  :base: Plagued Arachnid
   :isUnique: false
 - :id: plank-kite-shield
   :name: 
@@ -5979,6 +6871,10 @@
   :name: 
   :base: Plated Maul
   :isUnique: false
+- :id: plated-parasite
+  :name: 
+  :base: Plated Parasite
+  :isUnique: false
 - :id: platinum-kris
   :name: 
   :base: Platinum Kris
@@ -5999,6 +6895,14 @@
   :name: 
   :base: Plaza Map
   :isUnique: false
+- :id: plumed-chimeral
+  :name: 
+  :base: Plumed Chimeral
+  :isUnique: false
+- :id: plummeting-ursa
+  :name: 
+  :base: Plummeting Ursa
+  :isUnique: false
 - :id: poachers-mark
   :name: 
   :base: Poacher's Mark
@@ -6015,6 +6919,10 @@
   :name: 
   :base: Poison Support
   :isUnique: false
+- :id: poisonous-parasite
+  :name: 
+  :base: Poisonous Parasite
+  :isUnique: false
 - :id: poleaxe
   :name: 
   :base: Poleaxe
@@ -6026,6 +6934,10 @@
 - :id: polished-spiked-shield
   :name: 
   :base: Polished Spiked Shield
+  :isUnique: false
+- :id: porcupine-goliath
+  :name: 
+  :base: Porcupine Goliath
   :isUnique: false
 - :id: port-map
   :name: 
@@ -6071,6 +6983,10 @@
   :name: 
   :base: Precinct Map
   :isUnique: false
+- :id: predatory-scorpion
+  :name: 
+  :base: Predatory Scorpion
+  :isUnique: false
 - :id: prehistoric-claw
   :name: 
   :base: Prehistoric Claw
@@ -6078,6 +6994,10 @@
 - :id: pride-before-the-fall
   :name: 
   :base: Pride Before the Fall
+  :isUnique: false
+- :id: primal-beast
+  :name: 
+  :base: Primal Beast
   :isUnique: false
 - :id: primal-skull-talisman
   :name: 
@@ -6094,6 +7014,10 @@
 - :id: primordial-pool-map
   :name: 
   :base: Primordial Pool Map
+  :isUnique: false
+- :id: primordial-rhoa
+  :name: 
+  :base: Primordial Rhoa
   :isUnique: false
 - :id: primordial-staff
   :name: 
@@ -7139,6 +8063,10 @@
   :name: 
   :base: Punishment
   :isUnique: false
+- :id: purge-hound
+  :name: 
+  :base: Purge Hound
+  :isUnique: false
 - :id: purity-of-elements
   :name: 
   :base: Purity of Elements
@@ -7154,6 +8082,10 @@
 - :id: purity-of-lightning
   :name: 
   :base: Purity of Lightning
+  :isUnique: false
+- :id: quru
+  :name: 
+  :base: Q'uru
   :isUnique: false
 - :id: quarterstaff
   :name: 
@@ -7179,6 +8111,10 @@
   :name: Ashcaller
   :base: Quartz Wand
   :isUnique: true
+- :id: quetzerxi
+  :name: 
+  :base: Quetzerxi
+  :isUnique: false
 - :id: quicksilver-flask
   :name: 
   :base: Quicksilver Flask
@@ -7191,9 +8127,21 @@
   :name: 
   :base: Quilted Jacket
   :isUnique: false
+- :id: rabid-maw
+  :name: 
+  :base: Rabid Maw
+  :isUnique: false
+- :id: rabid-minion
+  :name: 
+  :base: Rabid Minion
+  :isUnique: false
 - :id: racecourse-map
   :name: 
   :base: Racecourse Map
+  :isUnique: false
+- :id: raihara-tukohamas-loyal
+  :name: 
+  :base: Raihara, Tukohama's Loyal
   :isUnique: false
 - :id: rain-tempter
   :name: 
@@ -7255,6 +8203,10 @@
   :name: The Gull
   :base: Raven Mask
   :isUnique: true
+- :id: ravenous-parasite
+  :name: 
+  :base: Ravenous Parasite
+  :isUnique: false
 - :id: rawhide-boots
   :name: 
   :base: Rawhide Boots
@@ -7419,9 +8371,17 @@
   :name: 
   :base: Residence Map
   :isUnique: false
+- :id: rhoa-scavenger
+  :name: 
+  :base: Rhoa Scavenger
+  :isUnique: false
 - :id: righteous-fire
   :name: 
   :base: Righteous Fire
+  :isUnique: false
+- :id: rima-deep-temptress
+  :name: 
+  :base: Rima, Deep Temptress
   :isUnique: false
 - :id: ringmail-boots
   :name: 
@@ -7438,6 +8398,10 @@
 - :id: riposte
   :name: 
   :base: Riposte
+  :isUnique: false
+- :id: risen-infested-beast
+  :name: 
+  :base: Risen Infested Beast
   :isUnique: false
 - :id: ritual-sceptre
   :name: 
@@ -7459,6 +8423,10 @@
   :name: 
   :base: Riveted Gloves
   :isUnique: false
+- :id: rocco-the-bloodthirsty
+  :name: 
+  :base: Rocco, the Bloodthirsty
+  :isUnique: false
 - :id: rock-breaker
   :name: 
   :base: Rock Breaker
@@ -7467,6 +8435,18 @@
   :name: Clayshaper
   :base: Rock Breaker
   :isUnique: true
+- :id: rock-spitter
+  :name: 
+  :base: Rock Spitter
+  :isUnique: false
+- :id: rooster-demon
+  :name: 
+  :base: Rooster Demon
+  :isUnique: false
+- :id: rooster-fiend
+  :name: 
+  :base: Rooster Fiend
+  :isUnique: false
 - :id: rot-head-talisman
   :name: 
   :base: Rot Head Talisman
@@ -7487,6 +8467,10 @@
   :name: Wheel of the Stormsail
   :base: Rotted Round Shield
   :isUnique: true
+- :id: rotting-vulture
+  :name: 
+  :base: Rotting Vulture
+  :isUnique: false
 - :id: royal-axe
   :name: 
   :base: Royal Axe
@@ -7578,6 +8562,10 @@
 - :id: rugged-quiver
   :name: 
   :base: Rugged Quiver
+  :isUnique: false
+- :id: ruins-hellion
+  :name: 
+  :base: Ruins Hellion
   :isUnique: false
 - :id: runic-hatchet
   :name: 
@@ -7771,6 +8759,22 @@
   :name: Lavianga's Spirit
   :base: Sanctified Mana Flask
   :isUnique: true
+- :id: sand-leaper
+  :name: 
+  :base: Sand Leaper
+  :isUnique: false
+- :id: sand-scorpion
+  :name: 
+  :base: Sand Scorpion
+  :isUnique: false
+- :id: sand-serpent
+  :name: 
+  :base: Sand Serpent
+  :isUnique: false
+- :id: sand-skitterer
+  :name: 
+  :base: Sand Skitterer
+  :isUnique: false
 - :id: sapphire-flask
   :name: 
   :base: Sapphire Flask
@@ -7799,6 +8803,38 @@
   :name: Tasalio's Sign
   :base: Sapphire Ring
   :isUnique: true
+- :id: saqawal-first-of-the-sky
+  :name: 
+  :base: Saqawal, First of the Sky
+  :isUnique: false
+- :id: saqawine-blood-viper
+  :name: 
+  :base: Saqawine Blood Viper
+  :isUnique: false
+- :id: saqawine-chimeral
+  :name: 
+  :base: Saqawine Chimeral
+  :isUnique: false
+- :id: saqawine-cobra
+  :name: 
+  :base: Saqawine Cobra
+  :isUnique: false
+- :id: saqawine-retch
+  :name: 
+  :base: Saqawine Retch
+  :isUnique: false
+- :id: saqawine-rhex
+  :name: 
+  :base: Saqawine Rhex
+  :isUnique: false
+- :id: saqawine-rhoa
+  :name: 
+  :base: Saqawine Rhoa
+  :isUnique: false
+- :id: saqawine-vulture
+  :name: 
+  :base: Saqawine Vulture
+  :isUnique: false
 - :id: satin-gloves
   :name: 
   :base: Satin Gloves
@@ -7806,6 +8842,10 @@
 - :id: satin-slippers
   :name: 
   :base: Satin Slippers
+  :isUnique: false
+- :id: savage-crab
+  :name: 
+  :base: Savage Crab
   :isUnique: false
 - :id: savants-robe
   :name: 
@@ -7815,6 +8855,10 @@
   :name: Cloak of Tawm'r Isley
   :base: Savant's Robe
   :isUnique: true
+- :id: scalding-arachnid
+  :name: 
+  :base: Scalding Arachnid
+  :isUnique: false
 - :id: scale-doublet
   :name: 
   :base: Scale Doublet
@@ -7834,6 +8878,10 @@
 - :id: scarlet-round-shield
   :name: 
   :base: Scarlet Round Shield
+  :isUnique: false
+- :id: scavenging-vulture
+  :name: 
+  :base: Scavenging Vulture
   :isUnique: false
 - :id: scholar-boots
   :name: 
@@ -7862,6 +8910,14 @@
 - :id: scorching-ray
   :name: 
   :base: Scorching Ray
+  :isUnique: false
+- :id: scrabbling-menace
+  :name: 
+  :base: Scrabbling Menace
+  :isUnique: false
+- :id: scrabbling-spitter
+  :name: 
+  :base: Scrabbling Spitter
   :isUnique: false
 - :id: screaming-essence-of-anger
   :name: 
@@ -7955,6 +9011,10 @@
   :name: 
   :base: Scroll of Wisdom
   :isUnique: false
+- :id: scum-crawler
+  :name: 
+  :base: Scum Crawler
+  :isUnique: false
 - :id: searching-eye-jewel
   :name: 
   :base: Searching Eye Jewel
@@ -8031,6 +9091,14 @@
   :name: 
   :base: Serrated Foil
   :isUnique: false
+- :id: sewage-crawler
+  :name: 
+  :base: Sewage Crawler
+  :isUnique: false
+- :id: sewer-drifter
+  :name: 
+  :base: Sewer Drifter
+  :isUnique: false
 - :id: shabby-jerkin
   :name: 
   :base: Shabby Jerkin
@@ -8038,6 +9106,10 @@
 - :id: shackled-boots
   :name: 
   :base: Shackled Boots
+  :isUnique: false
+- :id: shackled-hellion
+  :name: 
+  :base: Shackled Hellion
   :isUnique: false
 - :id: shadow-axe
   :name: 
@@ -8059,6 +9131,10 @@
   :name: The Dark Seer
   :base: Shadow Sceptre
   :isUnique: true
+- :id: shaggy-monstrosity
+  :name: 
+  :base: Shaggy Monstrosity
+  :isUnique: false
 - :id: shagreen-boots
   :name: 
   :base: Shagreen Boots
@@ -8395,9 +9471,17 @@
   :name: 
   :base: Sharktooth Claw
   :isUnique: false
+- :id: sheaq-maker-of-floods
+  :name: 
+  :base: Sheaq, Maker of Floods
+  :isUnique: false
 - :id: shield-charge
   :name: 
   :base: Shield Charge
+  :isUnique: false
+- :id: shield-crab
+  :name: 
+  :base: Shield Crab
   :isUnique: false
 - :id: shipyard-map
   :name: 
@@ -8595,6 +9679,10 @@
   :name: Kiara's Determination
   :base: Silver Flask
   :isUnique: true
+- :id: simi-the-nature-touched
+  :name: 
+  :base: Simi, the Nature Touched
+  :isUnique: false
 - :id: simple-iron-net
   :name: 
   :base: Simple Iron Net
@@ -8627,6 +9715,10 @@
   :name: 
   :base: Simple Steel Net
   :isUnique: false
+- :id: singing-siren
+  :name: 
+  :base: Singing Siren
+  :isUnique: false
 - :id: sinner-tricorne
   :name: 
   :base: Sinner Tricorne
@@ -8635,9 +9727,17 @@
   :name: Alpha's Howl
   :base: Sinner Tricorne
   :isUnique: true
+- :id: sirens-spawn
+  :name: 
+  :base: Siren's Spawn
+  :isUnique: false
 - :id: skean
   :name: 
   :base: Skean
+  :isUnique: false
+- :id: skeletal-beast
+  :name: 
+  :base: Skeletal Beast
   :isUnique: false
 - :id: skinning-knife
   :name: 
@@ -8674,6 +9774,14 @@
 - :id: sleek-coat
   :name: 
   :base: Sleek Coat
+  :isUnique: false
+- :id: slimy-bloodsucker
+  :name: 
+  :base: Slimy Bloodsucker
+  :isUnique: false
+- :id: slimy-nemesis
+  :name: 
+  :base: Slimy Nemesis
   :isUnique: false
 - :id: slink-boots
   :name: 
@@ -8718,6 +9826,10 @@
 - :id: sniper-bow
   :name: 
   :base: Sniper Bow
+  :isUnique: false
+- :id: snow-wolf
+  :name: 
+  :base: Snow Wolf
   :isUnique: false
 - :id: solar-maul
   :name: 
@@ -8779,6 +9891,10 @@
   :name: Allelopathy
   :base: Sorcerer Gloves
   :isUnique: true
+- :id: soulless-watcher
+  :name: 
+  :base: Soulless Watcher
+  :isUnique: false
 - :id: sovereign-spiked-shield
   :name: 
   :base: Sovereign Spiked Shield
@@ -8871,6 +9987,10 @@
   :name: 
   :base: Spiked Round Shield
   :isUnique: false
+- :id: spindle-spider
+  :name: 
+  :base: Spindle Spider
+  :isUnique: false
 - :id: spine-bow
   :name: 
   :base: Spine Bow
@@ -8883,6 +10003,10 @@
   :name: Voltaxic Rift
   :base: Spine Bow
   :isUnique: true
+- :id: spine-serpent
+  :name: 
+  :base: Spine Serpent
+  :isUnique: false
 - :id: spinefuse-talisman
   :name: 
   :base: Spinefuse Talisman
@@ -8918,6 +10042,18 @@
 - :id: spirit-offering
   :name: 
   :base: Spirit Offering
+  :isUnique: false
+- :id: spirit-of-aidan
+  :name: 
+  :base: Spirit of Aidan
+  :isUnique: false
+- :id: spirit-of-nadia
+  :name: 
+  :base: Spirit of Nadia
+  :isUnique: false
+- :id: spitting-parasite
+  :name: 
+  :base: Spitting Parasite
   :isUnique: false
 - :id: splendid-round-shield
   :name: 
@@ -9019,6 +10155,10 @@
   :name: Mark of the Elder
   :base: Steel Ring
   :isUnique: true
+- :id: steelchaw
+  :name: 
+  :base: Steelchaw
+  :isUnique: false
 - :id: steelhead
   :name: 
   :base: Steelhead
@@ -9095,6 +10235,14 @@
   :name: Whakawairua Tuahu
   :base: Strand Map
   :isUnique: true
+- :id: strange-frog
+  :name: 
+  :base: Strange Frog
+  :isUnique: false
+- :id: strangledrift
+  :name: 
+  :base: Strangledrift
+  :isUnique: false
 - :id: strapped-boots
   :name: 
   :base: Strapped Boots
@@ -9171,6 +10319,14 @@
   :name: 
   :base: Stun Support
   :isUnique: false
+- :id: stygian-ape
+  :name: 
+  :base: Stygian Ape
+  :isUnique: false
+- :id: stygian-silverback
+  :name: 
+  :base: Stygian Silverback
+  :isUnique: false
 - :id: stygian-vise
   :name: 
   :base: Stygian Vise
@@ -9194,6 +10350,14 @@
 - :id: sulphur-vents-map
   :name: 
   :base: Sulphur Vents Map
+  :isUnique: false
+- :id: sulphuric-scorpion
+  :name: 
+  :base: Sulphuric Scorpion
+  :isUnique: false
+- :id: sulphurspawn
+  :name: 
+  :base: Sulphurspawn
   :isUnique: false
 - :id: summit-map
   :name: 
@@ -9263,6 +10427,10 @@
   :name: Jaws of Agony
   :base: Supreme Spiked Shield
   :isUnique: true
+- :id: swarthy-mollusc
+  :name: 
+  :base: Swarthy Mollusc
+  :isUnique: false
 - :id: sweep
   :name: 
   :base: Sweep
@@ -9275,9 +10443,21 @@
   :name: 
   :base: Talisman Leaguestone
   :isUnique: false
+- :id: talon-archer
+  :name: 
+  :base: Talon Archer
+  :isUnique: false
 - :id: talon-axe
   :name: 
   :base: Talon Axe
+  :isUnique: false
+- :id: tamipin
+  :name: 
+  :base: Tamipin
+  :isUnique: false
+- :id: tamulus
+  :name: 
+  :base: Tamulus
   :isUnique: false
 - :id: tarnished-spirit-shield
   :name: 
@@ -9359,6 +10539,10 @@
   :name: 
   :base: The Aesthete
   :isUnique: false
+- :id: the-all-seeing-eye
+  :name: 
+  :base: The All-seeing Eye
+  :isUnique: false
 - :id: the-arena-champion
   :name: 
   :base: The Arena Champion
@@ -9370,6 +10554,10 @@
 - :id: the-avenger
   :name: 
   :base: The Avenger
+  :isUnique: false
+- :id: the-basilisk
+  :name: 
+  :base: The Basilisk
   :isUnique: false
 - :id: the-battle-born
   :name: 
@@ -9394,6 +10582,10 @@
 - :id: the-brittle-emperor
   :name: 
   :base: The Brittle Emperor
+  :isUnique: false
+- :id: the-burning-menace
+  :name: 
+  :base: The Burning Menace
   :isUnique: false
 - :id: the-calling
   :name: 
@@ -9431,6 +10623,10 @@
   :name: 
   :base: The Conduit
   :isUnique: false
+- :id: the-conqueror-wurm
+  :name: 
+  :base: The Conqueror Wurm
+  :isUnique: false
 - :id: the-cursed-king
   :name: 
   :base: The Cursed King
@@ -9446,6 +10642,10 @@
 - :id: the-deceiver
   :name: 
   :base: The Deceiver
+  :isUnique: false
+- :id: the-deep-dweller
+  :name: 
+  :base: The Deep Dweller
   :isUnique: false
 - :id: the-demoness
   :name: 
@@ -9475,6 +10675,10 @@
   :name: 
   :base: The Drunken Aristocrat
   :isUnique: false
+- :id: the-encephelophage
+  :name: 
+  :base: The Encephelophage
+  :isUnique: false
 - :id: the-encroaching-darkness
   :name: 
   :base: The Encroaching Darkness
@@ -9498,6 +10702,10 @@
 - :id: the-eye-of-the-dragon
   :name: 
   :base: The Eye of the Dragon
+  :isUnique: false
+- :id: the-faun
+  :name: 
+  :base: The Faun
   :isUnique: false
 - :id: the-feast
   :name: 
@@ -9547,6 +10755,14 @@
   :name: 
   :base: The Gladiator
   :isUnique: false
+- :id: the-great-white-beast
+  :name: 
+  :base: The Great White Beast
+  :isUnique: false
+- :id: the-great-white-bones
+  :name: 
+  :base: The Great White Bones
+  :isUnique: false
 - :id: the-harvester
   :name: 
   :base: The Harvester
@@ -9558,6 +10774,10 @@
 - :id: the-hoarder
   :name: 
   :base: The Hoarder
+  :isUnique: false
+- :id: the-hundred-foot-shadow
+  :name: 
+  :base: The Hundred Foot Shadow
   :isUnique: false
 - :id: the-hunger
   :name: 
@@ -9759,6 +10979,10 @@
   :name: 
   :base: The Sun
   :isUnique: false
+- :id: the-sunburst-queen
+  :name: 
+  :base: The Sunburst Queen
+  :isUnique: false
 - :id: the-surgeon
   :name: 
   :base: The Surgeon
@@ -9835,6 +11059,10 @@
   :name: 
   :base: The Watcher
   :isUnique: false
+- :id: the-weaver
+  :name: 
+  :base: The Weaver
+  :isUnique: false
 - :id: the-web
   :name: 
   :base: The Web
@@ -9875,6 +11103,10 @@
   :name: 
   :base: Thicket Bow
   :isUnique: false
+- :id: thicket-hulk
+  :name: 
+  :base: Thicket Hulk
+  :isUnique: false
 - :id: thicket-map
   :name: 
   :base: Thicket Map
@@ -9882,6 +11114,10 @@
 - :id: thiefs-garb
   :name: 
   :base: Thief's Garb
+  :isUnique: false
+- :id: thistlesage
+  :name: 
+  :base: Thistlesage
   :isUnique: false
 - :id: thorium-spirit-shield
   :name: 
@@ -9894,6 +11130,10 @@
 - :id: thorn-rapier
   :name: 
   :base: Thorn Rapier
+  :isUnique: false
+- :id: thornrunner
+  :name: 
+  :base: Thornrunner
   :isUnique: false
 - :id: three-faces-in-the-dark
   :name: 
@@ -10063,6 +11303,10 @@
   :name: 
   :base: Tower Map
   :isUnique: false
+- :id: toxic-crawler
+  :name: 
+  :base: Toxic Crawler
+  :isUnique: false
 - :id: toxic-sewer-map
   :name: 
   :base: Toxic Sewer Map
@@ -10155,6 +11399,14 @@
   :name: 
   :base: Tul's Breachstone
   :isUnique: false
+- :id: tunnelfiend
+  :name: 
+  :base: Tunnelfiend
+  :isUnique: false
+- :id: tunnelworm
+  :name: 
+  :base: Tunnelworm
+  :isUnique: false
 - :id: turn-the-other-cheek
   :name: 
   :base: Turn the Other Cheek
@@ -10194,6 +11446,10 @@
 - :id: twin-claw
   :name: 
   :base: Twin Claw
+  :isUnique: false
+- :id: twisted-chimeral
+  :name: 
+  :base: Twisted Chimeral
   :isUnique: false
 - :id: two-handed-sword
   :name: 
@@ -10243,6 +11499,10 @@
   :name: 
   :base: Two-Toned Boots
   :isUnique: false
+- :id: tyrannursus-maximus
+  :name: 
+  :base: Tyrannursus Maximus
+  :isUnique: false
 - :id: tyrants-sekhem
   :name: 
   :base: Tyrant's Sekhem
@@ -10270,6 +11530,10 @@
 - :id: unearth
   :name: 
   :base: Unearth
+  :isUnique: false
+- :id: ungulath
+  :name: 
+  :base: Ungulath
   :isUnique: false
 - :id: unset-ring
   :name: 
@@ -10318,6 +11582,10 @@
 - :id: unshaping-orb
   :name: 
   :base: Unshaping Orb
+  :isUnique: false
+- :id: unstable-larva
+  :name: 
+  :base: Unstable Larva
   :isUnique: false
 - :id: ursine-pelt
   :name: 
@@ -10527,6 +11795,10 @@
   :name: 
   :base: Vaal Reave
   :isUnique: false
+- :id: vaal-recluse
+  :name: 
+  :base: Vaal Recluse
+  :isUnique: false
 - :id: vaal-regalia
   :name: 
   :base: Vaal Regalia
@@ -10603,6 +11875,10 @@
   :name: 
   :base: Vault Map
   :isUnique: false
+- :id: vaulting-croaker
+  :name: 
+  :base: Vaulting Croaker
+  :isUnique: false
 - :id: velvet-gloves
   :name: 
   :base: Velvet Gloves
@@ -10630,6 +11906,22 @@
 - :id: vengeance
   :name: 
   :base: Vengeance
+  :isUnique: false
+- :id: venomous-spawn
+  :name: 
+  :base: Venomous Spawn
+  :isUnique: false
+- :id: ventarus
+  :name: 
+  :base: Ventarus
+  :isUnique: false
+- :id: vicious-hound
+  :name: 
+  :base: Vicious Hound
+  :isUnique: false
+- :id: vicious-parasite
+  :name: 
+  :base: Vicious Parasite
   :isUnique: false
 - :id: vigilant-strike
   :name: 
@@ -10831,6 +12123,10 @@
   :name: Weight of Sin
   :base: Viridian Jewel
   :isUnique: true
+- :id: virulent-spider
+  :name: 
+  :base: Virulent Spider
+  :isUnique: false
 - :id: visored-sallet
   :name: 
   :base: Visored Sallet
@@ -10991,6 +12287,10 @@
   :name: Lavianga's Wisdom
   :base: War Hammer
   :isUnique: true
+- :id: war-hound
+  :name: 
+  :base: War Hound
+  :isUnique: false
 - :id: war-plate
   :name: 
   :base: War Plate
@@ -11011,6 +12311,10 @@
   :name: 
   :base: Warlord's Mark
   :isUnique: false
+- :id: waste-lurcher
+  :name: 
+  :base: Waste Lurcher
+  :isUnique: false
 - :id: waste-pool-map
   :name: 
   :base: Waste Pool Map
@@ -11030,6 +12334,10 @@
 - :id: wealth-and-power
   :name: 
   :base: Wealth and Power
+  :isUnique: false
+- :id: webbed-spider
+  :name: 
+  :base: Webbed Spider
   :isUnique: false
 - :id: weeping-essence-of-anger
   :name: 
@@ -11139,6 +12447,10 @@
   :name: Infernal Mantle
   :base: Widowsilk Robe
   :isUnique: true
+- :id: wild-chimeral
+  :name: 
+  :base: Wild Chimeral
+  :isUnique: false
 - :id: wild-leather
   :name: 
   :base: Wild Leather
@@ -11151,6 +12463,10 @@
   :name: Foxshade
   :base: Wild Leather
   :isUnique: true
+- :id: wild-rhex
+  :name: 
+  :base: Wild Rhex
+  :isUnique: false
 - :id: wild-strike
   :name: 
   :base: Wild Strike
@@ -11166,6 +12482,10 @@
 - :id: woodful-staff
   :name: 
   :base: Woodful Staff
+  :isUnique: false
+- :id: woods-ursa
+  :name: 
+  :base: Woods Ursa
   :isUnique: false
 - :id: woodsplitter
   :name: 
@@ -11299,3 +12619,11 @@
   :name: The Perfect Form
   :base: Zodiac Leather
   :isUnique: true
+- :id: zombie-rhoa
+  :name: 
+  :base: Zombie Rhoa
+  :isUnique: false
+- :id: ''
+  :name: 
+  :base: 
+  :isUnique: false
