@@ -101,8 +101,13 @@ module OfficialPoeTrade
       end
 
       if @query['trade'].present?
-        poe_query['filters']['trade_filters'] = {}
-        poe_query['filters']['trade_filters']['filters'] = {}
+        poe_query['status'] = {option: @query['trade']['status']} if @query['trade']['status'].present?
+
+        if @query['trade']['account'].present? || @query['trade']['price'].present?
+          poe_query['filters']['trade_filters'] = {}
+          poe_query['filters']['trade_filters']['filters'] = {}
+        end
+
         poe_query['filters']['trade_filters']['filters']['account'] = {input: @query['trade']['account']} if @query['trade']['account'].present?
 
         if @query['trade']['price'].present?
@@ -113,9 +118,42 @@ module OfficialPoeTrade
         end
       end
 
+      if @query['mod'].present?
+        poe_query['stats'] = @query['mod'].map do |mod_block|
+          converted_mod_block = {}
+          converted_mod_block['type'] = mod_block['type'] if mod_block['type'].present?
+          converted_mod_block['min'] = mod_block['min'] if mod_block['min'].present?
+          converted_mod_block['max'] = mod_block['max'] if mod_block['max'].present?
+          
+          converted_mod_block['filters'] = mod_block['mods'].map do |item|
+            converted_item = {}
+            converted_item['id'] = item['mod']
+
+            converted_item['value'] = {}
+            converted_item['value']['min'] = item['min'] if item['min'].present?
+            converted_item['value']['max'] = item['max'] if item['max'].present?
+            converted_item['value']['weight'] = item['weight'] if item['weight'].present?
+            converted_item
+          end
+
+          converted_mod_block
+        end
+
+        puts '#################################'
+        puts '#################################'
+        puts poe_query['stats']
+        puts '#################################'
+        puts '#################################'
+      end
+
+
+      puts '###'
+      puts poe_query.to_json
+      puts '###'
       poe_query
     end
-
+    #{"query":{"status":{"option":"online"},"stats":[{"type":"and","filters":[{"id":"pseudo.pseudo_total_life","value":{"min":100},"disabled":false}],"disabled":false}],"filters":{"type_filters":{"filters":{"category":{"option":"armour.helmet"}},"disabled":false}}},"sort":{"price":"asc"}}
+    #"mod":[{"type":"and","mods":[{"mod":"pseudo.pseudo_total_life","min":"60"},{"mod":"pseudo.pseudo_
   private
 
     def convert_min_max(min_max)
