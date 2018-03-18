@@ -78,12 +78,11 @@ module OfficialPoeTrade
     end
 
     def pseudo_mod_ids_from(query)
-      # TODO: Adapt to the custom format
-      return [] unless query['stats'].present?
+      return [] unless query['mod'].present?
       mod_ids = []
-      query['stats'].each do |stat|
-        stat['filters'].each do |filter|
-          mod_ids << filter['id'] if filter['id'].start_with?(PSEUDO_MOD_PREFIX)
+      query['mod'].each do |mod_block|
+        mod_block['mods'].each do |mod_item|
+          mod_ids << mod_item['mod'] if mod_item['mod'].start_with?(PSEUDO_MOD_PREFIX)
         end
       end
       mod_ids

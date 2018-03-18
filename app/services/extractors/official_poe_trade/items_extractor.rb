@@ -38,6 +38,7 @@ module OfficialPoeTrade
       item_hash['isIdentified'] = item['identified'] if item['identified'].present?
       item_hash['isVerified'] = item['verified'] if item['verified'].present?
 
+      item_hash['pseudoMods'] = item['pseudoMods'].map {|mod| {value: mod}} if item['pseudoMods'].present?
       item_hash['implicitMods'] = item['implicitMods'].map {|mod| {value: mod}} if item['implicitMods'].present?
       item_hash['explicitMods'] = item['explicitMods'].map {|mod| {value: mod}} if item['explicitMods'].present?
       item_hash['properties'] = item['properties'].map {|property| {name: property['name'], value: property['values'].any? ? property['values'].first.first : nil}} if item['properties'].present?
