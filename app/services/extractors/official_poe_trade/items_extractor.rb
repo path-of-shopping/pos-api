@@ -18,8 +18,8 @@ module OfficialPoeTrade
           id: item['id'],
           indexedAt: item['source']['indexed'],
           trade: {
-              priceAmount: item['info']['price']['amount'],
-              priceCurrency: item['info']['price']['currency'],
+              priceAmount: item['info'].present? ? item['info']['price']['amount'] : nil,
+              priceCurrency: item['info'].present? ? item['info']['price']['currency']: nil,
               whisper: item['account']['whisper'],
               accountName: item['account']['name'],
               characterName: item['account']['lastCharacterName'],

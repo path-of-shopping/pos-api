@@ -141,18 +141,7 @@ module OfficialPoeTrade
 
           converted_mod_block
         end
-
-        puts '#################################'
-        puts '#################################'
-        puts poe_query['stats']
-        puts '#################################'
-        puts '#################################'
       end
-
-
-      puts '###'
-      puts poe_query.to_json
-      puts '###'
       poe_query
     end
     #{"query":{"status":{"option":"online"},"stats":[{"type":"and","filters":[{"id":"pseudo.pseudo_total_life","value":{"min":100},"disabled":false}],"disabled":false}],"filters":{"type_filters":{"filters":{"category":{"option":"armour.helmet"}},"disabled":false}}},"sort":{"price":"asc"}}
