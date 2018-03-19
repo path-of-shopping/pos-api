@@ -44,9 +44,12 @@ module OfficialPoeTrade
         poe_query['filters']['armour_filters']['filters']['block'] = convert_min_max(@query['armour']['block']) if @query['armour']['block'].present?
       end
 
-      if @query['socket'].present? && @query['socket']['sockets'].present?
+      if @query['socket'].present?
         poe_query['filters']['socket_filters'] = {}
         poe_query['filters']['socket_filters']['filters'] = {}
+      end
+
+      if @query['socket'].present? && @query['socket']['sockets'].present?
         poe_query['filters']['socket_filters']['filters']['sockets'] = {}
         poe_query['filters']['socket_filters']['filters']['sockets']['r'] = @query['socket']['sockets']['red'].to_i if @query['socket']['sockets']['red'].present?
         poe_query['filters']['socket_filters']['filters']['sockets']['g'] = @query['socket']['sockets']['green'].to_i if @query['socket']['sockets']['green'].present?
