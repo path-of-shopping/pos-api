@@ -7,6 +7,10 @@
   :name: 
   :base: Abandoned Wealth
   :isUnique: false
+- :id: aboriginal-chieftain
+  :name: 
+  :base: Aboriginal Chieftain
+  :isUnique: false
 - :id: abyssal-axe
   :name: 
   :base: Abyssal Axe
@@ -851,6 +855,10 @@
   :name: 
   :base: Blood Sceptre
   :isUnique: false
+- :id: blood-stasis-
+  :name: 
+  :base: 'Blood Stasis '
+  :isUnique: false
 - :id: bloodlines-leaguestone
   :name: 
   :base: Bloodlines Leaguestone
@@ -958,6 +966,10 @@
 - :id: bone-rhoa
   :name: 
   :base: Bone Rhoa
+  :isUnique: false
+- :id: bone-scavenger
+  :name: 
+  :base: Bone Scavenger
   :isUnique: false
 - :id: bone-spirit-shield
   :name: 
@@ -1274,6 +1286,10 @@
 - :id: carrion-burrower
   :name: 
   :base: Carrion Burrower
+  :isUnique: false
+- :id: carrion-minion
+  :name: 
+  :base: Carrion Minion
   :isUnique: false
 - :id: carrion-queen
   :name: 
@@ -2187,6 +2203,10 @@
   :name: 
   :base: Crazed Chieftain
   :isUnique: false
+- :id: crazed-flamebeast
+  :name: 
+  :base: Crazed Flamebeast
+  :isUnique: false
 - :id: cremation
   :name: 
   :base: Cremation
@@ -2439,6 +2459,10 @@
   :name: 
   :base: Crystal Belt
   :isUnique: false
+- :id: auxium-crystal-belt
+  :name: Auxium
+  :base: Crystal Belt
+  :isUnique: true
 - :id: crystal-ore-map
   :name: 
   :base: Crystal Ore Map
@@ -2471,6 +2495,14 @@
   :name: 
   :base: Cured Quiver
   :isUnique: false
+- :id: blackgleam-cured-quiver
+  :name: Blackgleam
+  :base: Cured Quiver
+  :isUnique: true
+- :id: the-signal-fire-cured-quiver
+  :name: The Signal Fire
+  :base: Cured Quiver
+  :isUnique: true
 - :id: curse-on-hit-support
   :name: 
   :base: Curse On Hit Support
@@ -4911,6 +4943,10 @@
   :name: 
   :base: Infantry Brigandine
   :isUnique: false
+- :id: infected-adder
+  :name: 
+  :base: Infected Adder
+  :isUnique: false
 - :id: infected-ambusher
   :name: 
   :base: Infected Ambusher
@@ -4918,6 +4954,10 @@
 - :id: infected-beast
   :name: 
   :base: Infected Beast
+  :isUnique: false
+- :id: infected-rhoa
+  :name: 
+  :base: Infected Rhoa
   :isUnique: false
 - :id: infected-spiker
   :name: 
@@ -5311,6 +5351,10 @@
   :name: 
   :base: Jungle Valley Map
   :isUnique: false
+- :id: junglemare
+  :name: 
+  :base: Junglemare
+  :isUnique: false
 - :id: kamaq-soilmaker
   :name: 
   :base: Kamaq, Soilmaker
@@ -5559,6 +5603,14 @@
   :name: 
   :base: Leatherscale Boots
   :isUnique: false
+- :id: duskblight-leatherscale-boots
+  :name: Duskblight
+  :base: Leatherscale Boots
+  :isUnique: true
+- :id: dusktoe-leatherscale-boots
+  :name: Dusktoe
+  :base: Leatherscale Boots
+  :isUnique: true
 - :id: left-to-fate
   :name: 
   :base: Left to Fate
@@ -5907,6 +5959,10 @@
   :name: 
   :base: Maze Map
   :isUnique: false
+- :id: olmecs-sanctum-maze-map
+  :name: Olmec's Sanctum
+  :base: Maze Map
+  :isUnique: true
 - :id: maze-needleback
   :name: 
   :base: Maze Needleback
@@ -6247,6 +6303,10 @@
   :name: 
   :base: Mutant Arach
   :isUnique: false
+- :id: mutated-adder
+  :name: 
+  :base: Mutated Adder
+  :isUnique: false
 - :id: mutated-broodqueen
   :name: 
   :base: Mutated Broodqueen
@@ -6270,6 +6330,14 @@
 - :id: mutated-rhoa
   :name: 
   :base: Mutated Rhoa
+  :isUnique: false
+- :id: mutated-ursa
+  :name: 
+  :base: Mutated Ursa
+  :isUnique: false
+- :id: mutated-watcher
+  :name: 
+  :base: Mutated Watcher
   :isUnique: false
 - :id: mutated-winterclaw
   :name: 
@@ -6391,6 +6459,10 @@
   :name: 
   :base: Nightmarish Carrion
   :isUnique: false
+- :id: nightmarish-crawler
+  :name: 
+  :base: Nightmarish Crawler
+  :isUnique: false
 - :id: no-traces
   :name: 
   :base: No Traces
@@ -6439,6 +6511,10 @@
   :name: 
   :base: Occultist's Vestment
   :isUnique: false
+- :id: infernal-mantle-occultists-vestment
+  :name: Infernal Mantle
+  :base: Occultist's Vestment
+  :isUnique: true
 - :id: shavronnes-wrappings-occultists-vestment
   :name: Shavronne's Wrappings
   :base: Occultist's Vestment
@@ -7006,6 +7082,10 @@
 - :id: primeval-rapier
   :name: 
   :base: Primeval Rapier
+  :isUnique: false
+- :id: primitive-ape
+  :name: 
+  :base: Primitive Ape
   :isUnique: false
 - :id: primitive-staff
   :name: 
@@ -8083,6 +8163,14 @@
   :name: 
   :base: Purity of Lightning
   :isUnique: false
+- :id: putrid-serpent
+  :name: 
+  :base: Putrid Serpent
+  :isUnique: false
+- :id: putrid-weaver
+  :name: 
+  :base: Putrid Weaver
+  :isUnique: false
 - :id: quru
   :name: 
   :base: Q'uru
@@ -8127,6 +8215,10 @@
   :name: 
   :base: Quilted Jacket
   :isUnique: false
+- :id: rabid-broodqueen
+  :name: 
+  :base: Rabid Broodqueen
+  :isUnique: false
 - :id: rabid-maw
   :name: 
   :base: Rabid Maw
@@ -8134,6 +8226,10 @@
 - :id: rabid-minion
   :name: 
   :base: Rabid Minion
+  :isUnique: false
+- :id: rabid-rhoa
+  :name: 
+  :base: Rabid Rhoa
   :isUnique: false
 - :id: racecourse-map
   :name: 
@@ -9487,6 +9583,10 @@
   :name: 
   :base: Shipyard Map
   :isUnique: false
+- :id: shivershell
+  :name: 
+  :base: Shivershell
+  :isUnique: false
 - :id: shock-nova
   :name: 
   :base: Shock Nova
@@ -10010,6 +10110,10 @@
 - :id: spinefuse-talisman
   :name: 
   :base: Spinefuse Talisman
+  :isUnique: false
+- :id: spinesnap
+  :name: 
+  :base: Spinesnap
   :isUnique: false
 - :id: spiny-maul
   :name: 
@@ -10587,6 +10691,10 @@
   :name: 
   :base: The Burning Menace
   :isUnique: false
+- :id: the-cadaver-bull
+  :name: 
+  :base: The Cadaver Bull
+  :isUnique: false
 - :id: the-calling
   :name: 
   :base: The Calling
@@ -10674,6 +10782,10 @@
 - :id: the-drunken-aristocrat
   :name: 
   :base: The Drunken Aristocrat
+  :isUnique: false
+- :id: the-duchess
+  :name: 
+  :base: The Duchess
   :isUnique: false
 - :id: the-encephelophage
   :name: 
@@ -12622,8 +12734,4 @@
 - :id: zombie-rhoa
   :name: 
   :base: Zombie Rhoa
-  :isUnique: false
-- :id: ''
-  :name: 
-  :base: 
   :isUnique: false

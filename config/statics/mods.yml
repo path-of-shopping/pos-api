@@ -9579,531 +9579,570 @@
 - :id: enchant.stat_995860222
   :name: Molten Strike an additional Projectile
   :type: enchant
+- :id: monster.mod_11564
+  :name: Thief's Grip (Captured Beast)
+  :type: monster
 - :id: monster.mod_11877
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_12170
-  :name: Storm Cultist's Grip
+  :name: Storm Cultist's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_12757
-  :name: Hexfont
+  :name: Hexfont (Captured Beast)
   :type: monster
 - :id: monster.mod_13230
-  :name: Winter Bloom
+  :name: Winter Bloom (Captured Beast)
   :type: monster
 - :id: monster.mod_13745
-  :name: Churning Claws
+  :name: Churning Claws (Captured Beast)
   :type: monster
 - :id: monster.mod_15063
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_1514
-  :name: Erupting Winds
+  :name: Erupting Winds (Captured Beast)
   :type: monster
 - :id: monster.mod_15939
-  :name: Corrupted Bloodline
+  :name: Corrupted Bloodline (Captured Beast)
   :type: monster
 - :id: monster.mod_16533
-  :name: Medium Physical Damage Aura
+  :name: Medium Physical Damage Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_16706
-  :name: Berserk Fury
+  :name: Berserk Fury (Captured Beast)
   :type: monster
 - :id: monster.mod_16967
-  :name: Infested Earth
+  :name: Infested Earth (Captured Beast)
   :type: monster
 - :id: monster.mod_17358
-  :name: Vile Touch
+  :name: Vile Touch (Captured Beast)
   :type: monster
 - :id: monster.mod_17583
-  :name: Shared Boon
+  :name: Shared Boon (Captured Beast)
   :type: monster
 - :id: monster.mod_17986
-  :name: Elemental Thorns
+  :name: Elemental Thorns (Captured Beast)
+  :type: monster
+- :id: monster.mod_18240
+  :name: Wailing Essence of Woe (Captured Beast)
   :type: monster
 - :id: monster.mod_18332
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_18559
-  :name: Thug's Grip
+  :name: Thug's Grip (Captured Beast)
+  :type: monster
+- :id: monster.mod_19018
+  :name: Aurora Cultist's Touch (Captured Beast)
   :type: monster
 - :id: monster.mod_19216
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_19561
-  :name: Fertile Presence
+  :name: Fertile Presence (Captured Beast)
   :type: monster
 - :id: monster.mod_20348
-  :name: Flame Bearers
+  :name: Flame Bearers (Captured Beast)
   :type: monster
 - :id: monster.mod_21318
-  :name: Bringer of Weakness
+  :name: Bringer of Weakness (Captured Beast)
   :type: monster
 - :id: monster.mod_21452
-  :name: Proximity Shield
+  :name: Proximity Shield (Captured Beast)
   :type: monster
 - :id: monster.mod_2159
-  :name: Physical Thorns
+  :name: Physical Thorns (Captured Beast)
   :type: monster
 - :id: monster.mod_21664
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_21921
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_22110
-  :name: Spy's Grip
+  :name: Spy's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_23641
-  :name: Slow Aura
+  :name: Slow Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_23766
-  :name: Seditionist's Grip
+  :name: Seditionist's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_24093
-  :name: Warlord's Grip
+  :name: Warlord's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_2564
-  :name: Satyr Storm
+  :name: Satyr Storm (Captured Beast)
   :type: monster
 - :id: monster.mod_26138
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_26581
-  :name: Bringer of Fragility
+  :name: Bringer of Fragility (Captured Beast)
   :type: monster
 - :id: monster.mod_26640
-  :name: Otherworldly
+  :name: Otherworldly (Captured Beast)
   :type: monster
 - :id: monster.mod_26910
-  :name: Cutthroat's Grip
+  :name: Cutthroat's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_28778
-  :name: Shroud Walker
+  :name: Shroud Walker (Captured Beast)
   :type: monster
 - :id: monster.mod_28794
-  :name: Aspect of the Hellion
+  :name: Aspect of the Hellion (Captured Beast)
   :type: monster
 - :id: monster.mod_29163
-  :name: Frost Bearers
+  :name: Frost Bearers (Captured Beast)
   :type: monster
 - :id: monster.mod_29164
-  :name: Mutilator's Grip
+  :name: Mutilator's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_29247
-  :name: Raven Caller
+  :name: Raven Caller (Captured Beast)
   :type: monster
 - :id: monster.mod_29315
-  :name: Apparition
+  :name: Apparition (Captured Beast)
   :type: monster
 - :id: monster.mod_29511
-  :name: Elemental Thorns
+  :name: Elemental Thorns (Captured Beast)
   :type: monster
 - :id: monster.mod_30027
-  :name: Inner Treasure
+  :name: Inner Treasure (Captured Beast)
   :type: monster
 - :id: monster.mod_30537
-  :name: Vaal Cultist's Grip
+  :name: Vaal Cultist's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_30703
-  :name: Energy Shield Aura
+  :name: Energy Shield Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_30844
-  :name: Soul Eater
+  :name: Soul Eater (Captured Beast)
   :type: monster
 - :id: monster.mod_31872
-  :name: Rogue's Grip
+  :name: Rogue's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_32204
-  :name: Corrupting Blood
+  :name: Corrupting Blood (Captured Beast)
   :type: monster
 - :id: monster.mod_32370
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_32661
-  :name: Large Physical Damage Aura
+  :name: Large Physical Damage Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_33358
-  :name: Fractured
+  :name: Fractured (Captured Beast)
   :type: monster
 - :id: monster.mod_33605
-  :name: Vile Hatchery
+  :name: Vile Hatchery (Captured Beast)
   :type: monster
 - :id: monster.mod_33612
-  :name: Life Regen Aura
+  :name: Life Regen Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_3415
-  :name: Crimson Flock
+  :name: Crimson Flock (Captured Beast)
   :type: monster
 - :id: monster.mod_34612
-  :name: Physical Thorns
+  :name: Physical Thorns (Captured Beast)
   :type: monster
 - :id: monster.mod_35159
-  :name: Craicic Presence
+  :name: Craicic Presence (Captured Beast)
   :type: monster
 - :id: monster.mod_3557
-  :name: Spectral Stampede
+  :name: Spectral Stampede (Captured Beast)
   :type: monster
 - :id: monster.mod_3572
-  :name: Forger's Grip
+  :name: Forger's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_36046
-  :name: Whispering Essence of Contempt
+  :name: Whispering Essence of Contempt (Captured Beast)
   :type: monster
 - :id: monster.mod_36831
-  :name: Alchemist's Grip
+  :name: Alchemist's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_37114
-  :name: Aurora Cultist's Grip
+  :name: Aurora Cultist's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_38000
-  :name: Berserker
+  :name: Berserker (Captured Beast)
   :type: monster
 - :id: monster.mod_38173
-  :name: Accuracy and Crits Aura
+  :name: Accuracy and Crits Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_38390
-  :name: Cutthroat's Touch
+  :name: Cutthroat's Touch (Captured Beast)
   :type: monster
 - :id: monster.mod_38512
-  :name: Blessing of Elements
+  :name: Blessing of Elements (Captured Beast)
   :type: monster
 - :id: monster.mod_38907
-  :name: Deep One's Presence
+  :name: Deep One's Presence (Captured Beast)
   :type: monster
 - :id: monster.mod_38966
-  :name: Order of the Frozen Sky
+  :name: Order of the Frozen Sky (Captured Beast)
   :type: monster
 - :id: monster.mod_39074
-  :name: Mark of Cannibalism
+  :name: Mark of Cannibalism (Captured Beast)
   :type: monster
 - :id: monster.mod_40368
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_40421
-  :name: Storm Herald
+  :name: Storm Herald (Captured Beast)
   :type: monster
 - :id: monster.mod_40707
-  :name: Cannibal's Grip
+  :name: Cannibal's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_40977
-  :name: Soul Eater
+  :name: Soul Eater (Captured Beast)
   :type: monster
 - :id: monster.mod_41365
-  :name: Crushing Claws
+  :name: Crushing Claws (Captured Beast)
+  :type: monster
+- :id: monster.mod_41537
+  :name: Screaming Essence of Rage (Captured Beast)
   :type: monster
 - :id: monster.mod_41788
-  :name: Soul Conduit
+  :name: Soul Conduit (Captured Beast)
+  :type: monster
+- :id: monster.mod_4201
+  :name: Legacy of Vigour (Captured Beast)
   :type: monster
 - :id: monster.mod_45249
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_46606
-  :name: Embezzler's Grip
+  :name: Embezzler's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_46909
-  :name: Blood Geyser
+  :name: Blood Geyser (Captured Beast)
   :type: monster
 - :id: monster.mod_47747
-  :name: Saqawine Presence
+  :name: Saqawine Presence (Captured Beast)
   :type: monster
 - :id: monster.mod_48207
-  :name: Tiger Prey
+  :name: Tiger Prey (Captured Beast)
   :type: monster
 - :id: monster.mod_49331
-  :name: Union of Souls
+  :name: Union of Souls (Captured Beast)
   :type: monster
 - :id: monster.mod_5014
-  :name: Blasphemer's Grip
+  :name: Blasphemer's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_5137
-  :name: Speed Aura
+  :name: Speed Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_5248
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_5352
-  :name: Spectral Swipe
+  :name: Spectral Swipe (Captured Beast)
   :type: monster
 - :id: monster.mod_53689
-  :name: Shared Boon
+  :name: Shared Boon (Captured Beast)
   :type: monster
 - :id: monster.mod_54
-  :name: Incendiary Mite
+  :name: Incendiary Mite (Captured Beast)
   :type: monster
 - :id: monster.mod_54055
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_54864
-  :name: Arsonist's Grip
+  :name: Arsonist's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_54880
-  :name: Legacy of Zeal
+  :name: Legacy of Zeal (Captured Beast)
+  :type: monster
+- :id: monster.mod_5553
+  :name: " (Captured Beast)"
+  :type: monster
+- :id: monster.mod_56546
+  :name: Wailing Essence of Loathing (Captured Beast)
   :type: monster
 - :id: monster.mod_56948
-  :name: Hadal Dive
+  :name: Hadal Dive (Captured Beast)
   :type: monster
 - :id: monster.mod_57368
-  :name: Heralds of the Obelisk
+  :name: Heralds of the Obelisk (Captured Beast)
   :type: monster
 - :id: monster.mod_5801
-  :name: Smuggler's Grip
+  :name: Smuggler's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_58214
-  :name: Resists Aura
+  :name: Resists Aura (Captured Beast)
   :type: monster
 - :id: monster.mod_58233
-  :name: Charlatan's Grip
+  :name: Charlatan's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_58290
-  :name: Ancestral Power
+  :name: Ancestral Power (Captured Beast)
   :type: monster
 - :id: monster.mod_58374
-  :name: Cannot Die Aura
+  :name: Cannot Die Aura (Captured Beast)
+  :type: monster
+- :id: monster.mod_58765
+  :name: Spirit Walkers (Captured Beast)
   :type: monster
 - :id: monster.mod_59027
-  :name: Necromancer's Grip
+  :name: Necromancer's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_59633
-  :name: Bringer of Bones
+  :name: Bringer of Bones (Captured Beast)
   :type: monster
 - :id: monster.mod_60010
-  :name: Unstable Swarm
+  :name: Unstable Swarm (Captured Beast)
+  :type: monster
+- :id: monster.mod_60520
+  :name: Wailing Essence of Contempt (Captured Beast)
   :type: monster
 - :id: monster.mod_61014
-  :name: Fenumal Presence
+  :name: Fenumal Presence (Captured Beast)
+  :type: monster
+- :id: monster.mod_61659
+  :name: Screaming Essence of Hatred (Captured Beast)
   :type: monster
 - :id: monster.mod_62067
-  :name: Soul Eater
+  :name: Soul Eater (Captured Beast)
   :type: monster
 - :id: monster.mod_62248
-  :name: Storm Bearers
+  :name: Storm Bearers (Captured Beast)
   :type: monster
 - :id: monster.mod_62528
-  :name: Volatile Flameblood
+  :name: Volatile Flameblood (Captured Beast)
   :type: monster
 - :id: monster.mod_63935
-  :name: Putrid Flight
+  :name: Putrid Flight (Captured Beast)
   :type: monster
 - :id: monster.mod_64459
-  :name: ''
+  :name: " (Captured Beast)"
+  :type: monster
+- :id: monster.mod_6764
+  :name: Weeping Essence of Sorrow (Captured Beast)
   :type: monster
 - :id: monster.mod_6986
-  :name: Farric Presence
+  :name: Farric Presence (Captured Beast)
   :type: monster
 - :id: monster.mod_7219
-  :name: Martyr's Grip
+  :name: Martyr's Grip (Captured Beast)
   :type: monster
 - :id: monster.mod_7580
-  :name: ''
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.mod_8054
-  :name: Chronophage
+  :name: Chronophage (Captured Beast)
   :type: monster
 - :id: monster.mod_8652
-  :name: Nullifier
+  :name: Nullifier (Captured Beast)
+  :type: monster
+- :id: monster.mod_9590
+  :name: " (Captured Beast)"
   :type: monster
 - :id: monster.stat_1141539811
-  :name: Casts Firestorm
+  :name: Casts Firestorm (Captured Beast)
   :type: monster
 - :id: monster.stat_1167887378
-  :name: Enrages on Low Life
+  :name: Enrages on Low Life (Captured Beast)
   :type: monster
 - :id: monster.stat_1219356446
-  :name: Empowers Allies
+  :name: Empowers Allies (Captured Beast)
   :type: monster
 - :id: monster.stat_1238236699
-  :name: Casts Arctic Breath
+  :name: Casts Arctic Breath (Captured Beast)
   :type: monster
 - :id: monster.stat_1244473441
-  :name: Uses Lightning Strike
+  :name: Uses Lightning Strike (Captured Beast)
   :type: monster
 - :id: monster.stat_1299025240
-  :name: Ice Spears on Death
+  :name: Ice Spears on Death (Captured Beast)
   :type: monster
 - :id: monster.stat_1313732471
-  :name: Casts Spark
+  :name: Casts Spark (Captured Beast)
   :type: monster
 - :id: monster.stat_1453197917
-  :name: Gains Power Charges
+  :name: Gains Power Charges (Captured Beast)
   :type: monster
 - :id: monster.stat_1533563525
-  :name: Fire Damage
+  :name: Fire Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_1539436716
-  :name: Wealthy
+  :name: Wealthy (Captured Beast)
   :type: monster
 - :id: monster.stat_1626294226
-  :name: Casts Fireball
+  :name: Casts Fireball (Captured Beast)
   :type: monster
 - :id: monster.stat_1660674933
-  :name: Uses Phase Run
+  :name: Uses Phase Run (Captured Beast)
   :type: monster
 - :id: monster.stat_1694106311
-  :name: Unwavering
+  :name: Unwavering (Captured Beast)
   :type: monster
 - :id: monster.stat_1737219367
-  :name: Uses Cleave
+  :name: Uses Cleave (Captured Beast)
   :type: monster
 - :id: monster.stat_1826297223
-  :name: May inflict Vulnerability on Hit
+  :name: May inflict Vulnerability on Hit (Captured Beast)
   :type: monster
 - :id: monster.stat_1885314436
-  :name: Frenzy as Damaged
+  :name: Frenzy as Damaged (Captured Beast)
   :type: monster
 - :id: monster.stat_1956060300
-  :name: Undead
+  :name: Undead (Captured Beast)
   :type: monster
 - :id: monster.stat_1977090126
-  :name: Uses Flicker Strike
+  :name: Uses Flicker Strike (Captured Beast)
   :type: monster
 - :id: monster.stat_1984580888
-  :name: Summons Exploding Spawn
+  :name: Summons Exploding Spawn (Captured Beast)
+  :type: monster
+- :id: monster.stat_2025417002
+  :name: Casts Vaal Detonate Dead (Captured Beast)
   :type: monster
 - :id: monster.stat_2087475423
-  :name: Gains Endurance Charges
+  :name: Gains Endurance Charges (Captured Beast)
   :type: monster
 - :id: monster.stat_2106365538
-  :name: Evasive
+  :name: Evasive (Captured Beast)
   :type: monster
 - :id: monster.stat_2133341901
-  :name: Cold Damage
+  :name: Cold Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_2145517058
-  :name: Hexproof
+  :name: Hexproof (Captured Beast)
   :type: monster
 - :id: monster.stat_2154246560
-  :name: Extra Damage
+  :name: Extra Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_219391121
-  :name: Extra Lightning Damage
+  :name: Extra Lightning Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_2250533757
-  :name: Quick
+  :name: Quick (Captured Beast)
   :type: monster
 - :id: monster.stat_2323242761
-  :name: Gains Frenzy Charges
+  :name: Gains Frenzy Charges (Captured Beast)
   :type: monster
 - :id: monster.stat_2454994155
-  :name: Suppressing Fire
+  :name: Suppressing Fire (Captured Beast)
   :type: monster
 - :id: monster.stat_2468161584
-  :name: Spikes on Death
+  :name: Spikes on Death (Captured Beast)
   :type: monster
 - :id: monster.stat_2482852589
-  :name: Bonus Energy Shield
+  :name: Bonus Energy Shield (Captured Beast)
   :type: monster
 - :id: monster.stat_2669606477
-  :name: Uses Enduring Cry
+  :name: Uses Enduring Cry (Captured Beast)
   :type: monster
 - :id: monster.stat_2671003372
-  :name: Frenzies Allies
+  :name: Frenzies Allies (Captured Beast)
   :type: monster
 - :id: monster.stat_28484361
-  :name: Far Shot
+  :name: Far Shot (Captured Beast)
   :type: monster
 - :id: monster.stat_2866361420
-  :name: Armoured
+  :name: Armoured (Captured Beast)
   :type: monster
 - :id: monster.stat_2941193745
-  :name: Explodes
+  :name: Explodes (Captured Beast)
   :type: monster
 - :id: monster.stat_2982534026
-  :name: Uses Viper Strike
+  :name: Uses Viper Strike (Captured Beast)
   :type: monster
 - :id: monster.stat_3029947560
-  :name: Devours Corpses
+  :name: Devours Corpses (Captured Beast)
   :type: monster
 - :id: monster.stat_3037020365
-  :name: Leaps
+  :name: Leaps (Captured Beast)
   :type: monster
 - :id: monster.stat_3108675677
-  :name: Casts Lightning Warp
+  :name: Casts Lightning Warp (Captured Beast)
   :type: monster
 - :id: monster.stat_3240769289
-  :name: Lightning Damage
+  :name: Lightning Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_3307030558
-  :name: Releases Caustic Cloud on Death
+  :name: Releases Caustic Cloud on Death (Captured Beast)
   :type: monster
 - :id: monster.stat_3342485563
-  :name: Group Frenzy on Death
+  :name: Group Frenzy on Death (Captured Beast)
   :type: monster
 - :id: monster.stat_3593843976
-  :name: Leeches Life
+  :name: Leeches Life (Captured Beast)
   :type: monster
 - :id: monster.stat_3638129110
-  :name: Casts Shock Nova
+  :name: Casts Shock Nova (Captured Beast)
   :type: monster
 - :id: monster.stat_369494213
-  :name: Extra Fire Damage
+  :name: Extra Fire Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_3816382471
-  :name: Cannot be fully Slowed
+  :name: Cannot be fully Slowed (Captured Beast)
   :type: monster
 - :id: monster.stat_3894059897
-  :name: Uses Puncture
+  :name: Uses Puncture (Captured Beast)
   :type: monster
 - :id: monster.stat_4034862423
-  :name: Casts Molten Shell
+  :name: Casts Molten Shell (Captured Beast)
   :type: monster
 - :id: monster.stat_4046518611
-  :name: Casts Temporal Chains
+  :name: Casts Temporal Chains (Captured Beast)
   :type: monster
 - :id: monster.stat_4170480412
-  :name: Summons Apes from Trees
+  :name: Summons Apes from Trees (Captured Beast)
   :type: monster
 - :id: monster.stat_417410872
-  :name: Casts Vulnerability
+  :name: Casts Vulnerability (Captured Beast)
   :type: monster
 - :id: monster.stat_464656196
-  :name: Casts Ice Spear
+  :name: Casts Ice Spear (Captured Beast)
   :type: monster
 - :id: monster.stat_490098963
-  :name: Chaos Damage
+  :name: Chaos Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_554969462
-  :name: Burns Ground on Death
+  :name: Burns Ground on Death (Captured Beast)
   :type: monster
 - :id: monster.stat_587431675
-  :name: Powerful Crits
+  :name: Powerful Crits (Captured Beast)
   :type: monster
 - :id: monster.stat_589332591
-  :name: Charges
+  :name: Charges (Captured Beast)
   :type: monster
 - :id: monster.stat_624954515
-  :name: Accurate
+  :name: Accurate (Captured Beast)
   :type: monster
 - :id: monster.stat_628716294
-  :name: Cannot be Slowed
+  :name: Cannot be Slowed (Captured Beast)
   :type: monster
 - :id: monster.stat_654274615
-  :name: Flammability on Hit
+  :name: Flammability on Hit (Captured Beast)
   :type: monster
 - :id: monster.stat_681332047
-  :name: Fast Attacks
+  :name: Fast Attacks (Captured Beast)
   :type: monster
 - :id: monster.stat_74338099
-  :name: Extra Projectiles
+  :name: Extra Projectiles (Captured Beast)
   :type: monster
 - :id: monster.stat_836936635
-  :name: Life Regen
+  :name: Life Regen (Captured Beast)
   :type: monster
 - :id: monster.stat_886988403
-  :name: May inflict Bleeding
+  :name: May inflict Bleeding (Captured Beast)
   :type: monster
 - :id: monster.stat_906247834
-  :name: Summons Spawn
+  :name: Summons Spawn (Captured Beast)
   :type: monster
 - :id: monster.stat_915849330
-  :name: May inflict Maim
+  :name: May inflict Maim (Captured Beast)
   :type: monster
 - :id: monster.stat_937951865
-  :name: Frenzy as Kin Slain
+  :name: Frenzy as Kin Slain (Captured Beast)
   :type: monster
 - :id: monster.stat_979246511
-  :name: Extra Cold Damage
+  :name: Extra Cold Damage (Captured Beast)
   :type: monster
 - :id: monster.stat_983749596
-  :name: Extra Life
+  :name: Extra Life (Captured Beast)
   :type: monster
