@@ -35,8 +35,11 @@ module OfficialPoeTrade
       item_hash['base'] = item['typeLine'] if item['typeLine'].present?
       item_hash['itemLevel'] = item['ilvl'] if item['ilvl'].present?
       item_hash['image'] = item['icon'] if item['icon'].present?
-      item_hash['isIdentified'] = item['identified'] if item['identified'].present?
-      item_hash['isVerified'] = item['verified'] if item['verified'].present?
+      item_hash['isIdentified'] = item['identified'].present? ? item['identified'] : true
+      item_hash['isVerified'] = item['verified'].present?
+      item_hash['isCorrupted'] = item['corrupted'].present?
+      item_hash['isElder'] = item['elder'].present?
+      item_hash['isShaper'] = item['shaper'].present?
 
       item_hash['pseudoMods'] = item['pseudoMods'].map {|mod| {value: mod}} if item['pseudoMods'].present?
       item_hash['implicitMods'] = item['implicitMods'].map {|mod| {value: mod}} if item['implicitMods'].present?
