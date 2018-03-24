@@ -2,6 +2,7 @@ module OfficialPoeTrade
   class TradeApi
     # Constants
     RATE_LIMIT_STATUS = 429.freeze
+    MAINTENANCE_STATUS = 405.freeze
     POE_TRADE_BASE_URL = 'https://www.pathofexile.com'.freeze
     POE_TRADE_QUERY_URL = '/api/trade/search'.freeze
     POE_TRADE_FETCH_URL = '/api/trade/fetch'.freeze
@@ -21,7 +22,9 @@ module OfficialPoeTrade
         req.body = {query: OfficialPoeTrade::QueryConverter.new(query).convert, sort: DEFAULT_QUERY_SORT}.to_json
       end
 
-      if is_rate_limited(response)
+      return false if is_maintenance_downed?(response)
+
+      if is_rate_limited?(response)
         return retry_after_limit(response) do
           query(query)
         end
@@ -38,7 +41,9 @@ module OfficialPoeTrade
         req.headers['X-Real-IP'] = @origin_ip if @origin_ip.present?
       end
 
-      if is_rate_limited(response)
+      return false if is_maintenance_downed?(response)
+
+      if is_rate_limited?(response)
         return retry_after_limit(response) do
           fetch_items(item_ids, query)
         end
@@ -50,7 +55,11 @@ module OfficialPoeTrade
 
   private
 
-    def is_rate_limited(response)
+    def is_maintenance_downed?(response)
+      response.status == MAINTENANCE_STATUS
+    end
+
+    def is_rate_limited?(response)
       response.status == RATE_LIMIT_STATUS
     end
 

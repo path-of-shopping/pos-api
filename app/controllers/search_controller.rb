@@ -1,6 +1,8 @@
 class SearchController < ApplicationController
   # Constants
   ITEMS_PER_QUERY = 10.freeze
+  MAINTENANCE_STATUS = 503.freeze
+  SUCCESS_STATUS = 200.freeze
 
   # Filters
   before_action :load_search, only: %i(reload items)
@@ -9,8 +11,10 @@ class SearchController < ApplicationController
   def create
     query = params[:query]
 
-    itemIds, total = @poe_trade.query(query)
+    response = @poe_trade.query(query)
+    return render json: nil, status: MAINTENANCE_STATUS if response == false
 
+    itemIds, total = response
     @search = Search.new(key: SecureRandom.uuid, query_json: query.to_json, saw_at: Time.zone.now)
     @search.save
 
@@ -21,15 +25,17 @@ class SearchController < ApplicationController
       summary: {
         total: total
       }
-    }, status: 200
+    }, status: SUCCESS_STATUS
   end
 
   def reload
+    response = @poe_trade.query(@search.query)
+    return render json: nil, status: MAINTENANCE_STATUS if response == false
+
     @search.saw_at = Time.zone.now
     @search.save
 
-    itemIds, total = @poe_trade.query(@search.query)
-
+    itemIds, total = response
     render json: {
         key: @search.key,
         itemIds: itemIds,
@@ -37,11 +43,14 @@ class SearchController < ApplicationController
         summary: {
             total: total
         }
-    }, status: 200
+    }, status: SUCCESS_STATUS
   end
 
   def items
-    render json: {items: @poe_trade.fetch_items(params[:item_ids], @search.query)}, status: 200
+    response = @poe_trade.fetch_items(params[:item_ids],@search.query)
+    return render json: nil, status: MAINTENANCE_STATUS if response == false
+
+    render json: {items: response}, status: SUCCESS_STATUS
   end
 
 private
