@@ -1,0 +1,3 @@
+class MaintenanceException < StandardError
+
+end

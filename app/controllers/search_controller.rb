@@ -12,7 +12,7 @@ class SearchController < ApplicationController
 
     begin
       itemIds, total =  OfficialPoeTrade::QueryFetcher.new(request.remote_ip).fetch(query)
-    rescue OfficialPoeTrade::MaintenanceException
+    rescue MaintenanceException
       return render_maintenance
     end
 
@@ -32,7 +32,7 @@ class SearchController < ApplicationController
   def reload
     begin
       itemIds, total = OfficialPoeTrade::QueryFetcher.new(request.remote_ip).fetch(@search.query)
-    rescue OfficialPoeTrade::MaintenanceException
+    rescue MaintenanceException
       return render_maintenance
     end
 
@@ -52,7 +52,7 @@ class SearchController < ApplicationController
   def items
     begin
       items = OfficialPoeTrade::ItemsFetcher.new(request.remote_ip).fetch(params[:item_ids], @search.query)
-    rescue OfficialPoeTrade::MaintenanceException
+    rescue MaintenanceException
       return render_maintenance
     end
 

@@ -1,7 +1,4 @@
 module OfficialPoeTrade
-  class MaintenanceException < StandardError
-  end
-
   class BaseTradeApiFetcher
     # Constants
     RATE_LIMIT_STATUS = 429.freeze
