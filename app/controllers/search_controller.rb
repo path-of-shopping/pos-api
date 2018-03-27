@@ -6,15 +6,16 @@ class SearchController < ApplicationController
 
   # Filters
   before_action :load_search, only: %i(reload items)
-  before_action :initialize_poe_trade_api
 
   def create
     query = params[:query]
 
-    response = @poe_trade.query(query)
-    return render json: nil, status: MAINTENANCE_STATUS if response == false
+    begin
+      itemIds, total =  OfficialPoeTrade::QueryFetcher.new(request.remote_ip).fetch(query)
+    rescue OfficialPoeTrade::MaintenanceException
+      return render_maintenance
+    end
 
-    itemIds, total = response
     @search = Search.new(key: SecureRandom.uuid, query_json: query.to_json, saw_at: Time.zone.now)
     @search.save
 
@@ -29,13 +30,15 @@ class SearchController < ApplicationController
   end
 
   def reload
-    response = @poe_trade.query(@search.query)
-    return render json: nil, status: MAINTENANCE_STATUS if response == false
+    begin
+      itemIds, total = OfficialPoeTrade::QueryFetcher.new(request.remote_ip).fetch(@search.query)
+    rescue OfficialPoeTrade::MaintenanceException
+      return render_maintenance
+    end
 
     @search.saw_at = Time.zone.now
     @search.save
 
-    itemIds, total = response
     render json: {
         key: @search.key,
         itemIds: itemIds,
@@ -47,10 +50,13 @@ class SearchController < ApplicationController
   end
 
   def items
-    response = @poe_trade.fetch_items(params[:item_ids],@search.query)
-    return render json: nil, status: MAINTENANCE_STATUS if response == false
+    begin
+      items = OfficialPoeTrade::ItemsFetcher.new(request.remote_ip).fetch(params[:item_ids], @search.query)
+    rescue OfficialPoeTrade::MaintenanceException
+      return render_maintenance
+    end
 
-    render json: {items: response}, status: SUCCESS_STATUS
+    render json: {items: items}, status: SUCCESS_STATUS
   end
 
 private
@@ -61,7 +67,7 @@ private
     render json: {error: 'Search object not found.'}, status: 404 unless @search.present?
   end
 
-  def initialize_poe_trade_api
-    @poe_trade = OfficialPoeTrade::TradeApi.new(request.remote_ip)
+  def render_maintenance
+    render json: nil, status: MAINTENANCE_STATUS
   end
 end

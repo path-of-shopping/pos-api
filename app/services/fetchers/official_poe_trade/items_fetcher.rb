@@ -1,42 +1,52 @@
 module OfficialPoeTrade
-  class ItemsFetcher
+  class ItemsFetcher < BaseTradeApiFetcher
     # Constants
-    ITEMS_JSON_BASE_URL = 'https://www.pathofexile.com'.freeze
-    ITEMS_JSON_URI = '/api/trade/data/items'.freeze
-    UNIQUE_FLAG = 'unique'.freeze
+    POE_TRADE_ITEMS_URL = '/api/trade/fetch'.freeze
+    PSEUDO_MOD_PREFIX = 'pseudo'.freeze
+    DEFAULT_QUERY_SORT = {price: 'asc'}.freeze
 
-    def initialize
-      @faraday = Faraday.new(url: ITEMS_JSON_BASE_URL)
-    end
-
-    def fetch
-      response = @faraday.get do |req|
-        req.url ITEMS_JSON_URI
+    def fetch(item_ids, query)
+      @response = @faraday.get do |req|
+        req.url hydrated_fetch_url(item_ids, query)
+        req.headers['Content-Type'] = 'application/json'
+        req.headers['X-Real-IP'] = @origin_ip if @origin_ip.present?
       end
 
-      items = JSON.parse(response.body)['result'].map { |result| result['entries'] }
-      items.flatten!
+      maintenance_check!
 
-      items.map! { |item| {
-          id: generate_id_for(item['name'], item['type']),
-          name: item['name'],
-          base: item['type'],
-          isUnique: item['flags'].present? ? item['flags'].keys.include?(UNIQUE_FLAG) : false
-      }}
+      if is_rate_limited?
+        return retry_after_limit do
+          fetch_items(item_ids, query)
+        end
+      end
 
-      items.uniq! { |item| item[:id] }
-      
-      items.sort_by { |item| "#{item[:base]}_#{item[:name]}" }
+      parsed_response = JSON.parse(@response.body)
+      return OfficialPoeTrade::ItemsExtractor.new(parsed_response['result']).extract
     end
 
   private
 
-    def generate_id_for(name, base)
-      parts = []
-      parts << name if name
-      parts << base if base
+    def hydrated_fetch_url(item_ids, query)
+      item_ids = item_ids.join(',') if item_ids.is_a? Array
+      base_url = "#{POE_TRADE_ITEMS_URL}/#{item_ids}"
 
-      parts.join('-').downcase.gsub(' ', '-').gsub(/[^a-z\-]/, '')
+      pseudo_mod_ids = pseudo_mod_ids_from(query)
+
+      return base_url if pseudo_mod_ids.empty?
+
+      pseudo_mod_ids = pseudo_mod_ids.map { |pseudo| pseudo.prepend('pseudos[]=') }
+      "#{base_url}?#{pseudo_mod_ids.join('&')}"
+    end
+
+    def pseudo_mod_ids_from(query)
+      return [] unless query['mod'].present?
+      mod_ids = []
+      query['mod'].each do |mod_block|
+        mod_block['mods'].each do |mod_item|
+          mod_ids << mod_item['mod'] if mod_item['mod'].start_with?(PSEUDO_MOD_PREFIX)
+        end
+      end
+      mod_ids
     end
   end
 end
