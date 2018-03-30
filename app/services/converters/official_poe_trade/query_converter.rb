@@ -11,7 +11,7 @@ module OfficialPoeTrade
       poe_query = {}
 
       poe_query['name'] = @query['name']['name'] if @query['name'].present? && @query['name']['name'].present?
-      poe_query['type'] = @query['name']['type'] if @query['name'].present? && @query['name']['type'].present?
+      poe_query['type'] = @query['name']['base'] if @query['name'].present? && @query['name']['base'].present?
 
       poe_query['status'] = {option: @query['trade']['status']} if @query['trade']['status'].present?
 
