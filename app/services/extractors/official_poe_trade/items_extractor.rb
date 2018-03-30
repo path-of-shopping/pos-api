@@ -44,6 +44,7 @@ module OfficialPoeTrade
       item_hash['pseudoMods'] = item['pseudoMods'].map {|mod| {value: mod}} if item['pseudoMods'].present?
       item_hash['implicitMods'] = item['implicitMods'].map {|mod| {value: mod}} if item['implicitMods'].present?
       item_hash['explicitMods'] = item['explicitMods'].map {|mod| {value: mod}} if item['explicitMods'].present?
+      item_hash['craftedMods'] = item['craftedMods'].map {|mod| {value: mod}} if item['craftedMods'].present?
       item_hash['properties'] = item['properties'].map {|property| {name: property['name'], value: property['values'].any? ? property['values'].first.first : nil}} if item['properties'].present?
       item_hash['requirements'] = item['requirements'].map {|requirement| {name: requirement['name'], value: requirement['values'].any? ? requirement['values'].first.first : nil}} if item['requirements'].present?
       item_hash['sockets'] = item['sockets'].map {|socket| {group: socket['group'], color: socket['sColour']}} if item['sockets'].present?
