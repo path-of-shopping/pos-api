@@ -1,0 +1,5 @@
+remotes:
+  production: pos-api-production
+after_deploy:
+  - rake db:migrate
+console: rails console
