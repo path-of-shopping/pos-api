@@ -15,7 +15,7 @@ class ApplicationController < ActionController::Base
 
   def cors_preflight_check
     if request.method == 'OPTIONS'
-      headers['Access-Control-Allow-Origin'] = '*'
+      headers['Access-Control-Allow-Origin'] = Rails.application.secrets.cors_allow_origin || '*'
       headers['Access-Control-Allow-Methods'] = 'POST, GET, PUT, DELETE, OPTIONS'
       headers['Access-Control-Allow-Headers'] = 'Content-Type, X-Requested-With, X-Prototype-Version, Token'
       headers['Access-Control-Max-Age'] = '1728000'
