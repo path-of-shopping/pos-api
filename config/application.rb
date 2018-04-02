@@ -8,6 +8,8 @@ Bundler.require(*Rails.groups)
 
 module PathOfShoppingWebApi
   class Application < Rails::Application
+    config.assets.enabled = false
+
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.1
 
