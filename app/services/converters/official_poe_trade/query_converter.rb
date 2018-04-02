@@ -115,7 +115,7 @@ module OfficialPoeTrade
 
         if @query['trade']['price'].present?
           poe_query['filters']['trade_filters']['filters']['price'] = {}
-          poe_query['filters']['trade_filters']['filters']['price']['option'] = @query['trade']['price']['currency'].to_i if @query['trade']['price']['currency'].present?
+          poe_query['filters']['trade_filters']['filters']['price']['option'] = @query['trade']['price']['currency'] if @query['trade']['price']['currency'].present?
           poe_query['filters']['trade_filters']['filters']['price']['min'] = @query['trade']['price']['min'].to_i if @query['trade']['price']['min'].present?
           poe_query['filters']['trade_filters']['filters']['price']['max'] = @query['trade']['price']['max'].to_i if @query['trade']['price']['max'].present?
         end
